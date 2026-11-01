@@ -1,0 +1,227 @@
+[
+  {
+    "id": "eng-knowledge-of-language-001",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which sentence is written in the active voice?",
+    "options": [
+      "Repairs were made to the ligament.",
+      "The surgeon repaired the torn ligament.",
+      "The torn ligament was repaired by the surgeon.",
+      "The ligament had been repaired."
+    ],
+    "correctIndex": 1,
+    "explanation": "In active voice the subject (surgeon) performs the action."
+  },
+  {
+    "id": "eng-knowledge-of-language-002",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence is most appropriate for a formal research paper?",
+    "options": [
+      "Infections totally went down a ton.",
+      "The results indicate a significant decline in infection rates.",
+      "The results were, like, super good for infections.",
+      "You won't believe how much infections dropped!"
+    ],
+    "correctIndex": 1,
+    "explanation": "Formal academic writing avoids slang, exaggeration, and second-person address."
+  },
+  {
+    "id": "eng-knowledge-of-language-003",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which is a compound sentence?",
+    "options": [
+      "The clinic opened early.",
+      "Opening early, the clinic was busy.",
+      "When the clinic opened early, patients lined up.",
+      "The clinic opened early, and patients lined up outside."
+    ],
+    "correctIndex": 3,
+    "explanation": "A compound sentence has two independent clauses joined by a coordinating conjunction."
+  },
+  {
+    "id": "eng-knowledge-of-language-004",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which is a complex sentence?",
+    "options": [
+      "She was tired, but she finished her care plan.",
+      "Although she was tired, the student finished her care plan.",
+      "She was tired.",
+      "She was tired; she finished."
+    ],
+    "correctIndex": 1,
+    "explanation": "A complex sentence has one independent clause and at least one dependent clause ('Although she was tired')."
+  },
+  {
+    "id": "eng-knowledge-of-language-005",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which revision best combines the sentences? \"The patient was dizzy. The patient sat down.\"",
+    "options": [
+      "The patient, dizzy, the patient sat down.",
+      "The patient was dizzy the patient sat down.",
+      "The patient was dizzy, the patient sat down.",
+      "Because the patient was dizzy, she sat down."
+    ],
+    "correctIndex": 3,
+    "explanation": "Subordinating with 'because' shows the cause-effect relationship and avoids a comma splice."
+  },
+  {
+    "id": "eng-knowledge-of-language-006",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which sentence contains a misplaced modifier?",
+    "options": [
+      "My backpack got soaked as I walked to class.",
+      "Walking to class, I got my backpack soaked by the rain.",
+      "The rain soaked my backpack while I walked to class.",
+      "Walking to class, the rain soaked my backpack."
+    ],
+    "correctIndex": 3,
+    "explanation": "The rain was not walking to class; the modifier should describe 'I'."
+  },
+  {
+    "id": "eng-knowledge-of-language-007",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which transition word best shows contrast? \"The medication relieves pain; ___, it may cause drowsiness.\"",
+    "options": [
+      "for example",
+      "similarly",
+      "therefore",
+      "however"
+    ],
+    "correctIndex": 3,
+    "explanation": "'However' signals a contrast between the benefit and a side effect."
+  },
+  {
+    "id": "eng-knowledge-of-language-008",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which transition best shows a result? \"She studied every day; ___, she passed the exam.\"",
+    "options": [
+      "in contrast",
+      "meanwhile",
+      "on the other hand",
+      "as a result"
+    ],
+    "correctIndex": 3,
+    "explanation": "'As a result' links the cause (studying) to the effect (passing)."
+  },
+  {
+    "id": "eng-knowledge-of-language-009",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence is the most concise?",
+    "options": [
+      "The meeting, which is a meeting, starts at noon.",
+      "The meeting is going to be starting at the time of noon.",
+      "The meeting starts at noon.",
+      "At noon is when the meeting will begin to start."
+    ],
+    "correctIndex": 2,
+    "explanation": "Concise writing removes redundancy and unnecessary words."
+  },
+  {
+    "id": "eng-knowledge-of-language-010",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which sentence uses parallel structure?",
+    "options": [
+      "The program teaches students assessment, to plan, and evaluating.",
+      "The program teaches assessing, to plan, and evaluation.",
+      "The program teaches students to assess, planning, and evaluation of care.",
+      "The program teaches students to assess, plan, and evaluate care."
+    ],
+    "correctIndex": 3,
+    "explanation": "Parallel structure uses the same grammatical form for items in a series (assess, plan, evaluate)."
+  },
+  {
+    "id": "eng-knowledge-of-language-011",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence best introduces a paragraph about the benefits of exercise for the heart?",
+    "options": [
+      "Some people like soccer more than tennis.",
+      "Regular exercise strengthens the heart in several important ways.",
+      "Hearts are shaped like a fist.",
+      "My uncle bought new running shoes."
+    ],
+    "correctIndex": 1,
+    "explanation": "A topic sentence states the paragraph's main idea clearly."
+  },
+  {
+    "id": "eng-knowledge-of-language-012",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "What type of sentence is: \"Please hand me the stethoscope.\"",
+    "options": [
+      "Exclamatory",
+      "Interrogative",
+      "Imperative",
+      "Declarative"
+    ],
+    "correctIndex": 2,
+    "explanation": "Imperative sentences give commands or requests."
+  },
+  {
+    "id": "eng-knowledge-of-language-013",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "In which situation is the word choice most appropriate? A nurse explaining a procedure to a 7-year-old patient.",
+    "options": [
+      "\"We will perform venipuncture on the antecubital fossa.\"",
+      "\"We're going to take a tiny bit of blood from your arm.\"",
+      "\"Prepare for phlebotomy.\"",
+      "\"Your hematological profile requires sampling.\""
+    ],
+    "correctIndex": 1,
+    "explanation": "Audience-appropriate language uses simple, clear words for a child."
+  },
+  {
+    "id": "eng-knowledge-of-language-014",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which is a dialect example rather than standard English?",
+    "options": [
+      "\"Y'all need to fill out these forms.\"",
+      "\"Please complete these forms.\"",
+      "\"Everyone needs to complete these forms.\"",
+      "\"All of you need to fill out these forms.\""
+    ],
+    "correctIndex": 0,
+    "explanation": "'Y'all' is a regional dialect form; the others are standard English."
+  },
+  {
+    "id": "eng-knowledge-of-language-015",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which revision removes the redundancy? \"The final outcome was completely finished.\"",
+    "options": [
+      "The outcome was finished.",
+      "The final outcome was completely totally finished.",
+      "The final outcome was completely finished at the end.",
+      "The final end outcome was finished."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Final outcome' and 'completely finished' are redundant; the shortest version keeps the meaning."
+  }
+]

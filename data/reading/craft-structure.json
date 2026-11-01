@@ -1,0 +1,285 @@
+[
+  {
+    "id": "rea-craft-structure-001",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the author's primary purpose in the passage?",
+    "options": [
+      "To explain how a machine works",
+      "To describe the history of a town",
+      "To persuade readers to adopt a behavior",
+      "To entertain readers with a story"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage urges readers to 'make the switch today,' a persuasive call to action.",
+    "passage": "Every disposable water bottle you skip keeps plastic out of landfills and oceans. A refillable bottle costs less than a week of bottled water and lasts for years. Make the switch today—your wallet and the planet will thank you."
+  },
+  {
+    "id": "rea-craft-structure-002",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which word best describes the tone of the passage?",
+    "options": [
+      "Sarcastic",
+      "Nostalgic",
+      "Urgent",
+      "Indifferent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phrases like 'I still remember' and 'I would give anything to' show fond longing for the past.",
+    "passage": "I still remember Saturday mornings at my grandmother's kitchen table, flour dusting the air while she hummed old songs. I would give anything to sit there once more, waiting for the first warm biscuit."
+  },
+  {
+    "id": "rea-craft-structure-003",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which text structure does the passage use?",
+    "options": [
+      "Cause and effect",
+      "Problem and solution",
+      "Compare and contrast",
+      "Chronological order"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage explains that heavy rain (cause) led to flooding and closed roads (effects).",
+    "passage": "Three days of heavy rain saturated the soil along the river. As a result, the river rose above its banks, flooding low-lying streets and forcing the county to close two major roads."
+  },
+  {
+    "id": "rea-craft-structure-004",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which text structure does the passage use?",
+    "options": [
+      "Description only",
+      "Cause and effect",
+      "Compare and contrast",
+      "Sequence"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage points out how the two organisms are alike (both cause illness) and how they differ (size, structure, treatment).",
+    "passage": "Bacteria and viruses can both cause illness, but they differ greatly. Bacteria are living cells that can reproduce on their own and are often treated with antibiotics. Viruses are much smaller, cannot reproduce outside a host cell, and are not affected by antibiotics."
+  },
+  {
+    "id": "rea-craft-structure-005",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what does the word \"candid\" most nearly mean?",
+    "options": [
+      "Confused and uncertain",
+      "Rude and insulting",
+      "Quiet and shy",
+      "Honest and direct"
+    ],
+    "correctIndex": 3,
+    "explanation": "The reviewer gave a 'candid' assessment, including both strengths and weaknesses, without softening the criticism—context signals honesty.",
+    "passage": "The supervisor's candid feedback surprised the new hire. She said plainly that his charting was excellent but his punctuality needed immediate improvement."
+  },
+  {
+    "id": "rea-craft-structure-006",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which statement from the passage is an opinion rather than a fact?",
+    "options": [
+      "The new library is the most beautiful building in the city.",
+      "The library has three floors.",
+      "The library holds more than 80,000 books.",
+      "The new library opened in March."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Most beautiful' is a judgment that cannot be proven; the other statements can be verified.",
+    "passage": "The new library opened in March. It has three floors and holds more than 80,000 books. The new library is the most beautiful building in the city."
+  },
+  {
+    "id": "rea-craft-structure-007",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "From which point of view is the passage written?",
+    "options": [
+      "Third person omniscient",
+      "First person",
+      "Third person limited",
+      "Second person"
+    ],
+    "correctIndex": 1,
+    "explanation": "The narrator uses 'I' and 'my,' which indicates first-person point of view.",
+    "passage": "I tightened my laces, took a breath, and stepped onto the track. My legs felt heavy, but I told myself I had trained for this moment all year."
+  },
+  {
+    "id": "rea-craft-structure-008",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the most likely purpose of the bolded headings in a health textbook chapter?",
+    "options": [
+      "To show the author's opinion about each topic",
+      "To list the sources the author used",
+      "To define difficult vocabulary words",
+      "To help readers locate and organize information by topic"
+    ],
+    "correctIndex": 3,
+    "explanation": "Headings are text features that divide content into labeled sections so readers can scan and find topics."
+  },
+  {
+    "id": "rea-craft-structure-009",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "A reader wants to find the meaning of a technical term used throughout a textbook. Which text feature is the best place to look?",
+    "options": [
+      "The title page",
+      "The bibliography",
+      "The glossary",
+      "The table of contents"
+    ],
+    "correctIndex": 2,
+    "explanation": "A glossary lists specialized terms with their definitions, usually at the back of a book."
+  },
+  {
+    "id": "rea-craft-structure-010",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Why does the author most likely include the statistic in the second sentence?",
+    "options": [
+      "To show that the problem has been solved",
+      "To entertain readers with a surprising fact",
+      "To support the claim that the problem is widespread",
+      "To introduce a contrasting viewpoint"
+    ],
+    "correctIndex": 2,
+    "explanation": "The statistic follows the claim that medication errors are common and provides evidence of their scale.",
+    "passage": "Medication errors are a common and preventable problem in hospitals. In one fictional regional study, 1 in 20 patients experienced at least one dosing error during their stay. Barcode scanning systems can reduce these mistakes dramatically."
+  },
+  {
+    "id": "rea-craft-structure-011",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Which text structure best describes the passage?",
+    "options": [
+      "Compare and contrast",
+      "Cause and effect",
+      "Problem and solution",
+      "Chronological order"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage identifies a problem (medication errors) and proposes a remedy (barcode scanning).",
+    "passage": "Medication errors are a common and preventable problem in hospitals. In one fictional regional study, 1 in 20 patients experienced at least one dosing error during their stay. Barcode scanning systems can reduce these mistakes dramatically."
+  },
+  {
+    "id": "rea-craft-structure-012",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the sentence, what does \"mitigate\" mean?",
+    "options": [
+      "To measure accurately",
+      "To make less severe",
+      "To make worse",
+      "To ignore completely"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ice and elevation lessen swelling; context shows 'mitigate' means to reduce or ease.",
+    "passage": "The athletic trainer applied ice and elevated the ankle to mitigate the swelling."
+  },
+  {
+    "id": "rea-craft-structure-013",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which type of writing is the passage?",
+    "options": [
+      "Poetic",
+      "Narrative",
+      "Persuasive",
+      "Expository"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage explains facts about a process without telling a story or arguing a position—this is expository writing.",
+    "passage": "Photosynthesis takes place mainly in the leaves of plants. Chloroplasts capture light energy and use it to convert carbon dioxide and water into glucose and oxygen."
+  },
+  {
+    "id": "rea-craft-structure-014",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Which phrase reveals the author's bias in the passage?",
+    "options": [
+      "\"on Monday evening\"",
+      "\"the reckless proposal\"",
+      "\"the city council voted\"",
+      "\"to extend bus service\""
+    ],
+    "correctIndex": 1,
+    "explanation": "'Reckless' is a loaded word showing the author's negative attitude; the other phrases are neutral facts.",
+    "passage": "On Monday evening, the city council voted on the reckless proposal to extend bus service into the northern suburbs."
+  },
+  {
+    "id": "rea-craft-structure-015",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the most likely reason the author uses short, one-sentence paragraphs at the end of the passage?",
+    "options": [
+      "To compare two characters",
+      "To define unfamiliar words",
+      "To build suspense and emphasize key moments",
+      "To summarize scientific findings"
+    ],
+    "correctIndex": 2,
+    "explanation": "Short, separated sentences slow the reader and heighten tension at a dramatic moment.",
+    "passage": "The hallway lights flickered as Maya reached the last door.\n\nShe turned the handle.\n\nLocked."
+  },
+  {
+    "id": "rea-craft-structure-016",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which sentence uses figurative language?",
+    "options": [
+      "The emergency room was a beehive of activity.",
+      "The emergency room is on the first floor.",
+      "The emergency room treated 40 patients.",
+      "The emergency room closed for cleaning at noon."
+    ],
+    "correctIndex": 0,
+    "explanation": "Calling the room 'a beehive' is a metaphor comparing busy staff to bees."
+  },
+  {
+    "id": "rea-craft-structure-017",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "The author describes the clinic as \"a lifeline\" for the rural community. What does this phrase suggest?",
+    "options": [
+      "The clinic provides essential support people depend on.",
+      "The clinic offers mostly emergency rope rescues.",
+      "The clinic is located near a river.",
+      "The clinic is about to close permanently."
+    ],
+    "correctIndex": 0,
+    "explanation": "A lifeline is something a person relies on to survive; figuratively, the clinic is vital to residents."
+  },
+  {
+    "id": "rea-craft-structure-018",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which purpose best fits a brochure titled \"How to Prepare for Your Blood Test\"?",
+    "options": [
+      "To express the writer's feelings",
+      "To inform readers with instructions",
+      "To persuade readers to change doctors",
+      "To entertain readers with humor"
+    ],
+    "correctIndex": 1,
+    "explanation": "A 'how to' brochure gives instructions—its main purpose is to inform."
+  }
+]

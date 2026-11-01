@@ -1,0 +1,227 @@
+[
+  {
+    "id": "eng-vocabulary-001",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the prefix \"hyper-\" mean in the word \"hypertension\"?",
+    "options": [
+      "Around",
+      "Against",
+      "Below or deficient",
+      "Above or excessive"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Hyper-' means above or excessive; hypertension is high blood pressure. 'Hypo-' means below."
+  },
+  {
+    "id": "eng-vocabulary-002",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the suffix \"-itis\" mean, as in \"tonsillitis\"?",
+    "options": [
+      "Inflammation",
+      "Study of",
+      "Pain",
+      "Removal"
+    ],
+    "correctIndex": 0,
+    "explanation": "'-itis' means inflammation. '-ectomy' means removal and '-ology' means study of."
+  },
+  {
+    "id": "eng-vocabulary-003",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on the context, what does \"lethargic\" mean? \"After the long fever, the child was lethargic and slept most of the day.\"",
+    "options": [
+      "Excited and energetic",
+      "Angry",
+      "Hungry",
+      "Lacking energy; sluggish"
+    ],
+    "correctIndex": 3,
+    "explanation": "The clue 'slept most of the day' indicates a lack of energy."
+  },
+  {
+    "id": "eng-vocabulary-004",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is a synonym for \"benign\"?",
+    "options": [
+      "Dangerous",
+      "Contagious",
+      "Harmless",
+      "Painful"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benign means not harmful; a benign tumor is not cancerous."
+  },
+  {
+    "id": "eng-vocabulary-005",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is an antonym of \"scarce\"?",
+    "options": [
+      "Rare",
+      "Limited",
+      "Abundant",
+      "Sparse"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scarce means in short supply; abundant means plentiful."
+  },
+  {
+    "id": "eng-vocabulary-006",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "What does the root \"cardi\" mean in \"cardiology\"?",
+    "options": [
+      "Brain",
+      "Lung",
+      "Blood",
+      "Heart"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Cardi/o' refers to the heart; cardiology is the study of the heart."
+  },
+  {
+    "id": "eng-vocabulary-007",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the prefix \"bi-\" mean in \"bilateral\"?",
+    "options": [
+      "Many",
+      "Half",
+      "Two",
+      "One"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Bi-' means two; bilateral means on both sides."
+  },
+  {
+    "id": "eng-vocabulary-008",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Based on context, what does \"exacerbate\" mean? \"Smoking can exacerbate asthma symptoms.\"",
+    "options": [
+      "To hide",
+      "To cure",
+      "To measure",
+      "To make worse"
+    ],
+    "correctIndex": 3,
+    "explanation": "Smoking aggravates asthma; 'exacerbate' means to intensify or worsen."
+  },
+  {
+    "id": "eng-vocabulary-009",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the suffix \"-ectomy\" mean, as in \"appendectomy\"?",
+    "options": [
+      "Surgical repair",
+      "Visual examination",
+      "Surgical removal",
+      "Inflammation"
+    ],
+    "correctIndex": 2,
+    "explanation": "'-ectomy' means removal; an appendectomy removes the appendix."
+  },
+  {
+    "id": "eng-vocabulary-010",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does \"prognosis\" mean?",
+    "options": [
+      "The treatment of a disease",
+      "The cause of a disease",
+      "The identification of a disease",
+      "The predicted outcome of a disease"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Pro-' (before) + 'gnosis' (knowledge): a forecast of how a condition will progress."
+  },
+  {
+    "id": "eng-vocabulary-011",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word means \"to make longer\"?",
+    "options": [
+      "Condense",
+      "Abbreviate",
+      "Truncate",
+      "Prolong"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prolong means to extend in time; the others mean to shorten."
+  },
+  {
+    "id": "eng-vocabulary-012",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Based on context, what does \"ambiguous\" mean? \"The doctor's handwritten order was ambiguous, so the nurse called to clarify.\"",
+    "options": [
+      "Extremely urgent",
+      "Incorrect",
+      "Unclear; open to more than one meaning",
+      "Very neat"
+    ],
+    "correctIndex": 2,
+    "explanation": "The need to 'clarify' shows the order could be read more than one way."
+  },
+  {
+    "id": "eng-vocabulary-013",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the prefix \"post-\" mean in \"postoperative\"?",
+    "options": [
+      "After",
+      "Before",
+      "During",
+      "Without"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Post-' means after; postoperative means after surgery. 'Pre-' means before."
+  },
+  {
+    "id": "eng-vocabulary-014",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is a synonym for \"concise\"?",
+    "options": [
+      "Wordy",
+      "Confusing",
+      "Brief",
+      "Lengthy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Concise means expressing much in few words—brief."
+  },
+  {
+    "id": "eng-vocabulary-015",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "What does \"contraindicated\" mean in \"Aspirin is contraindicated for patients with bleeding disorders\"?",
+    "options": [
+      "Required by law",
+      "Strongly recommended",
+      "Not advisable because it may cause harm",
+      "Only available by prescription"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Contra-' means against; a contraindicated treatment should not be used in that situation."
+  }
+]

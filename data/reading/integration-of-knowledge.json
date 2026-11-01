@@ -1,0 +1,279 @@
+[
+  {
+    "id": "rea-integration-of-knowledge-001",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How do the two passages differ in their views of homework?",
+    "options": [
+      "Passage 1 opposes homework; Passage 2 supports it.",
+      "Passage 1 says homework builds skills; Passage 2 says too much harms well-being.",
+      "Both passages argue that homework should be banned.",
+      "Both passages agree that homework improves sleep."
+    ],
+    "correctIndex": 1,
+    "explanation": "Passage 1 emphasizes practice and responsibility; Passage 2 warns of stress and lost sleep from heavy loads.",
+    "passage": "Passage 1: Regular homework gives students practice that strengthens skills and teaches responsibility.\n\nPassage 2: When homework loads exceed two hours a night, students report more stress and less sleep, which can undermine learning."
+  },
+  {
+    "id": "rea-integration-of-knowledge-002",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "On which point would the authors of both passages most likely agree?",
+    "options": [
+      "Homework can affect learning outcomes.",
+      "Students should never receive homework.",
+      "Two hours of homework a night is ideal.",
+      "Homework has no effect on stress."
+    ],
+    "correctIndex": 0,
+    "explanation": "Passage 1 says homework strengthens skills; Passage 2 says excess homework can undermine learning—both link homework to learning.",
+    "passage": "Passage 1: Regular homework gives students practice that strengthens skills and teaches responsibility.\n\nPassage 2: When homework loads exceed two hours a night, students report more stress and less sleep, which can undermine learning."
+  },
+  {
+    "id": "rea-integration-of-knowledge-003",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which is an example of a primary source?",
+    "options": [
+      "A nurse's diary written during a 1918 influenza outbreak",
+      "A documentary narrated by a historian",
+      "An encyclopedia entry on influenza",
+      "A modern textbook chapter about the 1918 outbreak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Primary sources are firsthand accounts created at the time of an event; the diary qualifies."
+  },
+  {
+    "id": "rea-integration-of-knowledge-004",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which is an example of a secondary source?",
+    "options": [
+      "Photographs taken in the surgeon's operating room",
+      "An interview recorded with the surgeon",
+      "The surgeon's personal letters",
+      "A biography of a famous surgeon written by a historian"
+    ],
+    "correctIndex": 3,
+    "explanation": "A biography interprets and summarizes events secondhand, making it a secondary source."
+  },
+  {
+    "id": "rea-integration-of-knowledge-005",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Based on the table, which month had the greatest number of clinic visits?",
+    "options": [
+      "March",
+      "January",
+      "February",
+      "April"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comparing the values, March (412) is greater than January (365), February (390), and April (298).",
+    "passage": "Clinic Visits by Month (fictional data)\nJanuary: 365\nFebruary: 390\nMarch: 412\nApril: 298"
+  },
+  {
+    "id": "rea-integration-of-knowledge-006",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Based on the table, by how many visits did the clinic's count change from March to April?",
+    "options": [
+      "It decreased by 92.",
+      "It increased by 114.",
+      "It decreased by 114.",
+      "It increased by 47."
+    ],
+    "correctIndex": 2,
+    "explanation": "412 - 298 = 114, and April is lower, so visits decreased by 114.",
+    "passage": "Clinic Visits by Month (fictional data)\nJanuary: 365\nFebruary: 390\nMarch: 412\nApril: 298"
+  },
+  {
+    "id": "rea-integration-of-knowledge-007",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "A student is writing a report on current treatment guidelines for asthma. Which source is most reliable?",
+    "options": [
+      "An advertisement for an inhaler brand",
+      "A social media comment from an anonymous user",
+      "A personal blog post from 2009",
+      "A guideline published this year by a national medical association"
+    ],
+    "correctIndex": 3,
+    "explanation": "Recent, expert, peer-reviewed or professionally published sources are the most credible for current guidelines."
+  },
+  {
+    "id": "rea-integration-of-knowledge-008",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Which piece of evidence would best support the claim that a new walking program improved residents' health?",
+    "options": [
+      "A photo of residents walking in the park",
+      "The program director's statement that it was popular",
+      "Before-and-after blood pressure readings for program participants",
+      "The number of flyers printed to advertise the program"
+    ],
+    "correctIndex": 2,
+    "explanation": "Measured health data before and after the program directly tests the claim; the others do not measure health."
+  },
+  {
+    "id": "rea-integration-of-knowledge-009",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "A map's legend shows a red cross symbol. What is the purpose of the legend?",
+    "options": [
+      "To explain what the symbols on the map represent",
+      "To indicate north on the map",
+      "To show the distance between two points",
+      "To list the author of the map"
+    ],
+    "correctIndex": 0,
+    "explanation": "A legend (key) defines the symbols used on a map; a scale shows distance and a compass rose shows direction."
+  },
+  {
+    "id": "rea-integration-of-knowledge-010",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "On a map, the scale reads 1 inch = 5 miles. Two towns are 3.5 inches apart on the map. What is the actual distance?",
+    "options": [
+      "8.5 miles",
+      "15 miles",
+      "17.5 miles",
+      "35 miles"
+    ],
+    "correctIndex": 2,
+    "explanation": "3.5 x 5 = 17.5 miles."
+  },
+  {
+    "id": "rea-integration-of-knowledge-011",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Which statement identifies a weakness in the author's argument?",
+    "options": [
+      "The author uses too many statistics.",
+      "The author cites a peer-reviewed study.",
+      "The author generalizes from a single person's experience.",
+      "The author defines key terms clearly."
+    ],
+    "correctIndex": 2,
+    "explanation": "One cousin's experience is anecdotal and not enough to conclude that the supplement works for everyone—a hasty generalization.",
+    "passage": "My cousin started taking the supplement and felt more energetic within a week. Clearly, this supplement boosts energy for everyone who takes it."
+  },
+  {
+    "id": "rea-integration-of-knowledge-012",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "According to the bar graph description, which two sections had the same average score?",
+    "options": [
+      "Reading and English",
+      "Science and English",
+      "Reading and Math",
+      "Math and Science"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reading and English each averaged 78; Math was 71 and Science was 66.",
+    "passage": "A bar graph shows a fictional class's average practice scores: Reading 78, Math 71, Science 66, English 78."
+  },
+  {
+    "id": "rea-integration-of-knowledge-013",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Passage 1 states a hospital reduced infections by 30% after a new protocol. Passage 2 says the same hospital also renovated its ICU during that year. What should a reader conclude?",
+    "options": [
+      "The protocol may not be the only cause of the reduction.",
+      "The protocol had no effect at all.",
+      "The renovation definitely caused the reduction.",
+      "Passage 1 must contain false data."
+    ],
+    "correctIndex": 0,
+    "explanation": "Because two changes happened at once, the evidence does not isolate the protocol as the sole cause."
+  },
+  {
+    "id": "rea-integration-of-knowledge-014",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which source would be best for finding the pronunciation and part of speech of a word?",
+    "options": [
+      "A dictionary",
+      "An almanac",
+      "A thesaurus",
+      "An atlas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dictionaries provide pronunciation, part of speech, and definitions; a thesaurus lists synonyms."
+  },
+  {
+    "id": "rea-integration-of-knowledge-015",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which information would a reader most likely find in an index?",
+    "options": [
+      "The author's acknowledgments",
+      "A summary of each chapter",
+      "The page numbers where a specific topic is discussed",
+      "Definitions of key terms"
+    ],
+    "correctIndex": 2,
+    "explanation": "An index is an alphabetical list of topics with page numbers, usually at the back of a book."
+  },
+  {
+    "id": "rea-integration-of-knowledge-016",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Both passages discuss coffee. Which statement best describes how Passage 2 relates to Passage 1?",
+    "options": [
+      "Passage 2 completely contradicts Passage 1.",
+      "Passage 2 adds a limit that qualifies Passage 1's claim.",
+      "Passage 2 repeats Passage 1 word for word.",
+      "Passage 2 is unrelated to Passage 1."
+    ],
+    "correctIndex": 1,
+    "explanation": "Passage 2 accepts benefits but adds a condition (moderate intake), qualifying rather than rejecting Passage 1.",
+    "passage": "Passage 1: Coffee contains antioxidants and may improve alertness.\n\nPassage 2: The benefits of coffee appear mainly at moderate intake; large amounts can cause anxiety and disrupted sleep."
+  },
+  {
+    "id": "rea-integration-of-knowledge-017",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "A pie chart shows how a student spends a 24-hour day: sleep 33%, school 25%, homework 12%, other 30%. About how many hours does the student sleep?",
+    "options": [
+      "About 3 hours",
+      "About 6 hours",
+      "About 8 hours",
+      "About 10 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "33% of 24 hours = 0.33 x 24 = 7.92, which is about 8 hours."
+  },
+  {
+    "id": "rea-integration-of-knowledge-018",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "A student reads a news article and an opinion column about the same vaccine study. What is the best way to evaluate the study's findings?",
+    "options": [
+      "Count how many times each article was shared online.",
+      "Rely on the column because it explains the author's feelings.",
+      "Trust whichever article was published first.",
+      "Read the original study and check its methods and sample size."
+    ],
+    "correctIndex": 3,
+    "explanation": "Going to the primary source and checking methods lets the reader judge evidence directly."
+  }
+]

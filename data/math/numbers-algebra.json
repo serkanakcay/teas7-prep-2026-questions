@@ -1,0 +1,332 @@
+[
+  {
+    "id": "mat-numbers-algebra-001",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "What is 15% of 80?",
+    "options": [
+      "120",
+      "68",
+      "6",
+      "12"
+    ],
+    "correctIndex": 3,
+    "explanation": "Convert the percent to a decimal: 15% = 0.15. Then 0.15 x 80 = 12."
+  },
+  {
+    "id": "mat-numbers-algebra-002",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "What is 35% of 260?",
+    "options": [
+      "910",
+      "91",
+      "45.5",
+      "169"
+    ],
+    "correctIndex": 1,
+    "explanation": "Convert the percent to a decimal: 35% = 0.35. Then 0.35 x 260 = 91."
+  },
+  {
+    "id": "mat-numbers-algebra-003",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "What is 12.5% of 648?",
+    "options": [
+      "567",
+      "40.5",
+      "810",
+      "81"
+    ],
+    "correctIndex": 3,
+    "explanation": "Convert the percent to a decimal: 12.5% = 0.125. Then 0.125 x 648 = 81."
+  },
+  {
+    "id": "mat-numbers-algebra-004",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A pair of scrubs costs $64.00 and is on sale for 25% off. What is the sale price?",
+    "options": [
+      "$39.00",
+      "$54.40",
+      "$48.00",
+      "$16.00"
+    ],
+    "correctIndex": 2,
+    "explanation": "Discount = 25% of $64.00 = $16.00. Sale price = $64.00 - $16.00 = $48.00."
+  },
+  {
+    "id": "mat-numbers-algebra-005",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A patient's resting heart rate rose from 40 to 52 beats per minute during light exercise. What was the percent increase?",
+    "options": [
+      "12%",
+      "30%",
+      "130%",
+      "23.08%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Percent change = (new - old) / old x 100 = (52 - 40) / 40 x 100 = 30%."
+  },
+  {
+    "id": "mat-numbers-algebra-006",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "What is 2/3 + 3/4?",
+    "options": [
+      "17/12",
+      "6/12",
+      "5/12",
+      "5/7"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use the common denominator 12: 8/12 + 9/12 = 17/12 (or 1 5/12)."
+  },
+  {
+    "id": "mat-numbers-algebra-007",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "What is 5/6 ÷ 2/9?",
+    "options": [
+      "5/27",
+      "10/54",
+      "15/4",
+      "4/15"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiply by the reciprocal: 5/6 x 9/2 = 45/12 = 15/4 (3 3/4)."
+  },
+  {
+    "id": "mat-numbers-algebra-008",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "What is 2 1/2 x 1 1/3?",
+    "options": [
+      "3 5/6",
+      "3 1/3",
+      "2 2/3",
+      "2 1/6"
+    ],
+    "correctIndex": 1,
+    "explanation": "Convert to improper fractions: 5/2 x 4/3 = 20/6 = 10/3 = 3 1/3. (Check: 10/3 = 10/3.)"
+  },
+  {
+    "id": "mat-numbers-algebra-009",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Which fraction is equal to 0.375?",
+    "options": [
+      "3/7",
+      "3/8",
+      "5/8",
+      "37/100"
+    ],
+    "correctIndex": 1,
+    "explanation": "0.375 = 375/1000. Divide numerator and denominator by 125 to get 3/8."
+  },
+  {
+    "id": "mat-numbers-algebra-010",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Evaluate: 18 - 3 x (4 + 2)² ÷ 9 + 5",
+    "options": [
+      "11",
+      "41",
+      "25",
+      "-3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Parentheses: 4 + 2 = 6. Exponent: 6² = 36. Multiply/divide left to right: 3 x 36 = 108, 108 ÷ 9 = 12. Then 18 - 12 + 5 = 11."
+  },
+  {
+    "id": "mat-numbers-algebra-011",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Solve for x: 4x - 7 = 3x + 5",
+    "options": [
+      "12",
+      "-2",
+      "-12",
+      "2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subtract 3x from both sides: x - 7 = 5. Add 7: x = 12."
+  },
+  {
+    "id": "mat-numbers-algebra-012",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Solve for x: 3(x - 4) = 2x + 6",
+    "options": [
+      "18",
+      "2",
+      "6",
+      "10"
+    ],
+    "correctIndex": 0,
+    "explanation": "Distribute: 3x - 12 = 2x + 6. Subtract 2x: x - 12 = 6. Add 12: x = 18."
+  },
+  {
+    "id": "mat-numbers-algebra-013",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Solve for x: (2x / 5) + 3 = 11",
+    "options": [
+      "16",
+      "35",
+      "40",
+      "20"
+    ],
+    "correctIndex": 3,
+    "explanation": "Subtract 3: 2x/5 = 8. Multiply by 5: 2x = 40. Divide by 2: x = 20."
+  },
+  {
+    "id": "mat-numbers-algebra-014",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Solve the inequality: -2x + 5 > 13",
+    "options": [
+      "x < 4",
+      "x < -4",
+      "x > 9",
+      "x > -4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subtract 5: -2x > 8. Divide by -2 and REVERSE the inequality sign: x < -4."
+  },
+  {
+    "id": "mat-numbers-algebra-015",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "The ratio of nurses to aides on a unit is 4:5. If there are 45 nurses and aides in total, how many are nurses?",
+    "options": [
+      "21",
+      "20",
+      "25",
+      "11"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total parts = 4 + 5 = 9. Each part = 45 ÷ 9 = 5. Nurses = 4 x 5 = 20."
+  },
+  {
+    "id": "mat-numbers-algebra-016",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A liquid medication contains 250 mg in 5 mL. How many mL are needed for a 400 mg dose?",
+    "options": [
+      "6 mL",
+      "8 mL",
+      "10 mL",
+      "12.5 mL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Set up a proportion: 250/5 = 400/x. Cross-multiply: 250x = 2000, so x = 8 mL."
+  },
+  {
+    "id": "mat-numbers-algebra-017",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Which expression represents \"seven less than twice a number n\"?",
+    "options": [
+      "7 - 2n",
+      "2(n - 7)",
+      "2n - 7",
+      "7n - 2"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Twice a number' is 2n; 'seven less than' that means subtract 7 from it: 2n - 7."
+  },
+  {
+    "id": "mat-numbers-algebra-018",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Which list orders the numbers from least to greatest: 0.6, 5/8, 62%, 0.059?",
+    "options": [
+      "0.059, 0.6, 62%, 5/8",
+      "0.059, 5/8, 0.6, 62%",
+      "0.6, 0.059, 62%, 5/8",
+      "5/8, 62%, 0.6, 0.059"
+    ],
+    "correctIndex": 0,
+    "explanation": "Convert to decimals: 0.6, 0.625, 0.62, 0.059. From least to greatest: 0.059, 0.6, 0.62 (62%), 0.625 (5/8)."
+  },
+  {
+    "id": "mat-numbers-algebra-019",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "How much simple interest is earned on $1,200.00 at 4% per year for 3 years?",
+    "options": [
+      "$144.00",
+      "$288.00",
+      "$1,344.00",
+      "$48.00"
+    ],
+    "correctIndex": 0,
+    "explanation": "I = P x r x t = 1200 x 0.04 x 3 = $144.00."
+  },
+  {
+    "id": "mat-numbers-algebra-020",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Round 4,736.482 to the nearest hundredth.",
+    "options": [
+      "4,736.49",
+      "4,700",
+      "4,736.5",
+      "4,736.48"
+    ],
+    "correctIndex": 3,
+    "explanation": "The hundredths digit is 8; the next digit (2) is less than 5, so it stays 4,736.48."
+  },
+  {
+    "id": "mat-numbers-algebra-021",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "If x + y = 14 and x - y = 4, what is the value of x?",
+    "options": [
+      "9",
+      "10",
+      "5",
+      "7"
+    ],
+    "correctIndex": 0,
+    "explanation": "Add the equations: 2x = 18, so x = 9 (and y = 5)."
+  },
+  {
+    "id": "mat-numbers-algebra-022",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "What is -8 + 15 - (-6)?",
+    "options": [
+      "13",
+      "-29",
+      "-1",
+      "1"
+    ],
+    "correctIndex": 0,
+    "explanation": "-8 + 15 = 7. Subtracting -6 is adding 6: 7 + 6 = 13."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "sci-scientific-reasoning-001",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "In an experiment testing whether fertilizer amount affects plant height, what is the independent variable?",
+    "options": [
+      "The amount of fertilizer",
+      "The amount of sunlight",
+      "The type of pot",
+      "Plant height"
+    ],
+    "correctIndex": 0,
+    "explanation": "The independent variable is the factor the researcher deliberately changes."
+  },
+  {
+    "id": "sci-scientific-reasoning-002",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "In the same fertilizer experiment, what is the dependent variable?",
+    "options": [
+      "Plant height",
+      "The number of pots",
+      "The brand of soil",
+      "The amount of fertilizer"
+    ],
+    "correctIndex": 0,
+    "explanation": "The dependent variable is what is measured in response to changes in the independent variable."
+  },
+  {
+    "id": "sci-scientific-reasoning-003",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Why does a well-designed experiment include a control group?",
+    "options": [
+      "To replace the need for data",
+      "To increase the number of variables",
+      "To provide a baseline for comparison",
+      "To guarantee the hypothesis is correct"
+    ],
+    "correctIndex": 2,
+    "explanation": "The control group does not receive the treatment, allowing researchers to see the treatment's effect."
+  },
+  {
+    "id": "sci-scientific-reasoning-004",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which statement is a testable hypothesis?",
+    "options": [
+      "If students sleep 8 hours, then their test scores will increase.",
+      "Everyone dreams about school.",
+      "Students should sleep more.",
+      "Sleep is the most wonderful part of the day."
+    ],
+    "correctIndex": 0,
+    "explanation": "A testable hypothesis predicts a measurable relationship between variables, often in if-then form."
+  },
+  {
+    "id": "sci-scientific-reasoning-005",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A researcher finds that ice cream sales and sunburn cases both rise in summer. Which conclusion is most appropriate?",
+    "options": [
+      "Sunburn causes people to buy ice cream.",
+      "Eating ice cream causes sunburn.",
+      "There is no relationship at all.",
+      "The two are correlated, possibly due to a third factor such as sunny weather."
+    ],
+    "correctIndex": 3,
+    "explanation": "Correlation does not prove causation; a confounding variable (hot, sunny weather) likely drives both."
+  },
+  {
+    "id": "sci-scientific-reasoning-006",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which unit is most appropriate for measuring the mass of a paper clip?",
+    "options": [
+      "Liters",
+      "Kilograms",
+      "Grams",
+      "Meters"
+    ],
+    "correctIndex": 2,
+    "explanation": "A paper clip has a mass of about 1 gram; liters and meters measure volume and length."
+  },
+  {
+    "id": "sci-scientific-reasoning-007",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A scientist repeats an experiment several times and gets very similar results each time. These results are best described as what?",
+    "options": [
+      "Accurate, by definition",
+      "Biased",
+      "Precise (reproducible)",
+      "Invalid"
+    ],
+    "correctIndex": 2,
+    "explanation": "Consistency among repeated trials is precision. Accuracy is closeness to the true value."
+  },
+  {
+    "id": "sci-scientific-reasoning-008",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A thermometer always reads 2°C higher than the true temperature. What type of error is this?",
+    "options": [
+      "Human calculation error only",
+      "No error",
+      "Systematic error",
+      "Random error"
+    ],
+    "correctIndex": 2,
+    "explanation": "A consistent offset in the same direction is a systematic error, which affects accuracy."
+  },
+  {
+    "id": "sci-scientific-reasoning-009",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "What is the first step of the scientific method?",
+    "options": [
+      "Publishing results",
+      "Drawing a conclusion",
+      "Making an observation or asking a question",
+      "Analyzing data"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scientific inquiry begins with an observation that leads to a question."
+  },
+  {
+    "id": "sci-scientific-reasoning-010",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which tool would best measure 25 mL of liquid precisely?",
+    "options": [
+      "Thermometer",
+      "Beaker",
+      "Ruler",
+      "Graduated cylinder"
+    ],
+    "correctIndex": 3,
+    "explanation": "Graduated cylinders have finer markings and are more precise than beakers for volume."
+  },
+  {
+    "id": "sci-scientific-reasoning-011",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A study tests a new drug on 12 people with no control group. What is the biggest limitation?",
+    "options": [
+      "The small sample and lack of a control make the results unreliable.",
+      "The study had too many participants.",
+      "The drug was tested on humans.",
+      "The study used a hypothesis."
+    ],
+    "correctIndex": 0,
+    "explanation": "Small samples and no comparison group mean effects could be due to chance or placebo."
+  },
+  {
+    "id": "sci-scientific-reasoning-012",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which of the following is a qualitative observation?",
+    "options": [
+      "The solution turned bright blue.",
+      "The solution's volume was 50 mL.",
+      "The solution's mass was 12.3 g.",
+      "The solution's temperature was 24°C."
+    ],
+    "correctIndex": 0,
+    "explanation": "Qualitative observations describe qualities like color; quantitative observations use numbers."
+  },
+  {
+    "id": "sci-scientific-reasoning-013",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "Data show that as the temperature rises from 10°C to 40°C, an enzyme's activity rises, then falls sharply above 37°C. What is the best conclusion?",
+    "options": [
+      "Temperature has no effect on the enzyme.",
+      "The enzyme has an optimal temperature near 37°C.",
+      "The enzyme works faster at every higher temperature.",
+      "The enzyme works best at 10°C."
+    ],
+    "correctIndex": 1,
+    "explanation": "Activity peaking near 37°C and dropping above it indicates an optimum and likely denaturation at higher temperatures."
+  },
+  {
+    "id": "sci-scientific-reasoning-014",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which variable should be kept constant in an experiment?",
+    "options": [
+      "The dependent variable",
+      "The independent variable",
+      "The results",
+      "Controlled variables, such as amount of water given to each plant"
+    ],
+    "correctIndex": 3,
+    "explanation": "Controlled (constant) variables are held the same so only the independent variable changes."
+  },
+  {
+    "id": "sci-scientific-reasoning-015",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "A scientific theory differs from a hypothesis because a theory is what?",
+    "options": [
+      "A well-tested explanation supported by much evidence",
+      "A personal opinion",
+      "An untested guess",
+      "A single observation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Theories are broad explanations repeatedly supported by evidence; hypotheses are testable predictions."
+  }
+]

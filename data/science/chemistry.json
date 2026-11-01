@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sci-chemistry-001",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which subatomic particle has a negative charge?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Nucleus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Electrons are negative, protons are positive, and neutrons are neutral."
+  },
+  {
+    "id": "sci-chemistry-002",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "An atom has 11 protons, 12 neutrons, and 11 electrons. What is its mass number?",
+    "options": [
+      "34",
+      "12",
+      "23",
+      "11"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mass number = protons + neutrons = 11 + 12 = 23."
+  },
+  {
+    "id": "sci-chemistry-003",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Atoms of the same element with different numbers of neutrons are called what?",
+    "options": [
+      "Isotopes",
+      "Ions",
+      "Allotropes",
+      "Isomers"
+    ],
+    "correctIndex": 0,
+    "explanation": "Isotopes have the same atomic number but different mass numbers due to different neutron counts."
+  },
+  {
+    "id": "sci-chemistry-004",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What type of bond forms when electrons are shared between two atoms?",
+    "options": [
+      "Metallic bond",
+      "Ionic bond",
+      "Covalent bond",
+      "Hydrogen bond"
+    ],
+    "correctIndex": 2,
+    "explanation": "Covalent bonds involve shared electron pairs; ionic bonds involve electron transfer."
+  },
+  {
+    "id": "sci-chemistry-005",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "A solution has a pH of 3. How is it classified?",
+    "options": [
+      "Alkaline",
+      "Basic",
+      "Neutral",
+      "Acidic"
+    ],
+    "correctIndex": 3,
+    "explanation": "pH values below 7 are acidic; 7 is neutral; above 7 is basic."
+  },
+  {
+    "id": "sci-chemistry-006",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "A solution with pH 4 has how many times more hydrogen ions than a solution with pH 6?",
+    "options": [
+      "2 times",
+      "100 times",
+      "10 times",
+      "20 times"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each pH unit is a factor of 10. Two units: 10 x 10 = 100."
+  },
+  {
+    "id": "sci-chemistry-007",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Balance the equation: __H₂ + __O₂ → __H₂O. What are the coefficients?",
+    "options": [
+      "1, 2, 1",
+      "2, 1, 2",
+      "1, 1, 1",
+      "2, 2, 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "2H₂ + O₂ → 2H₂O gives 4 H and 2 O on each side."
+  },
+  {
+    "id": "sci-chemistry-008",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which state of matter has a definite volume but no definite shape?",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Plasma",
+      "Solid"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liquids keep a fixed volume but take the shape of their container."
+  },
+  {
+    "id": "sci-chemistry-009",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "The change of a solid directly into a gas is called what?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sublimation skips the liquid phase (e.g., dry ice). Deposition is the reverse."
+  },
+  {
+    "id": "sci-chemistry-010",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "In the reaction NaOH + HCl → NaCl + H₂O, what type of reaction is occurring?",
+    "options": [
+      "Combustion",
+      "Neutralization",
+      "Single replacement",
+      "Decomposition"
+    ],
+    "correctIndex": 1,
+    "explanation": "An acid and a base react to form a salt and water—a neutralization (double replacement) reaction."
+  },
+  {
+    "id": "sci-chemistry-011",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which group of the periodic table contains the noble gases?",
+    "options": [
+      "Group 17",
+      "Group 18",
+      "Group 1",
+      "Group 2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Noble gases (He, Ne, Ar, etc.) are in group 18 and have full valence shells."
+  },
+  {
+    "id": "sci-chemistry-012",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "What is the molar mass of water (H₂O)? (H = 1 g/mol, O = 16 g/mol)",
+    "options": [
+      "18 g/mol",
+      "34 g/mol",
+      "17 g/mol",
+      "16 g/mol"
+    ],
+    "correctIndex": 0,
+    "explanation": "2(1) + 16 = 18 g/mol."
+  },
+  {
+    "id": "sci-chemistry-013",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which factor generally increases the rate of a chemical reaction?",
+    "options": [
+      "Decreasing reactant concentration",
+      "Using larger reactant chunks",
+      "Removing a catalyst",
+      "Increasing the temperature"
+    ],
+    "correctIndex": 3,
+    "explanation": "Higher temperature increases particle speed and collision frequency, speeding the reaction."
+  },
+  {
+    "id": "sci-chemistry-014",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "What is the atomic number of an element equal to?",
+    "options": [
+      "The number of protons",
+      "The number of neutrons",
+      "The number of electron shells",
+      "Protons plus neutrons"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atomic number is the proton count, which defines the element."
+  },
+  {
+    "id": "sci-chemistry-015",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "Sodium (Na) loses one electron to form an ion. What is the ion's charge?",
+    "options": [
+      "0",
+      "+2",
+      "-1",
+      "+1"
+    ],
+    "correctIndex": 3,
+    "explanation": "Losing one negative electron leaves one extra proton, so the charge is +1 (Na⁺)."
+  },
+  {
+    "id": "sci-chemistry-016",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "In a solution of salt dissolved in water, water is called what?",
+    "options": [
+      "The catalyst",
+      "The solute",
+      "The precipitate",
+      "The solvent"
+    ],
+    "correctIndex": 3,
+    "explanation": "The solvent dissolves the solute; water is the solvent and salt is the solute."
+  }
+]

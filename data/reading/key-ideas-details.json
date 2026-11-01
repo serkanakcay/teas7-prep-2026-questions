@@ -1,0 +1,290 @@
+[
+  {
+    "id": "rea-key-ideas-details-001",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What is the main idea of the passage?",
+    "options": [
+      "The sun is the most important factor in a bee's life.",
+      "Researchers were surprised by how bees build combs.",
+      "Honeybees use a dance to tell other bees where to find food.",
+      "Honeybees have brains smaller than a grain of rice."
+    ],
+    "correctIndex": 2,
+    "explanation": "Most sentences explain how the waggle dance communicates direction and distance to food; the other choices are minor details or unsupported.",
+    "passage": "Honeybees that discover a rich patch of flowers return to the hive and perform a \"waggle dance\" on the vertical surface of the comb. The bee runs in a straight line while shaking its abdomen, then loops back and repeats the run. The angle of the straight run relative to vertical tells other bees the direction of the food relative to the sun, and the length of the run signals distance: the longer the waggle, the farther the flowers. Researchers who decoded the dance were surprised to find that a creature with a brain smaller than a grain of rice could communicate abstract map-like information."
+  },
+  {
+    "id": "rea-key-ideas-details-002",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, what does the length of the waggle run communicate?",
+    "options": [
+      "How many bees should leave the hive",
+      "How much nectar the flowers contain",
+      "How far away the food source is",
+      "The direction of the food relative to the sun"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage states that the length of the run signals distance: the longer the waggle, the farther the flowers.",
+    "passage": "Honeybees that discover a rich patch of flowers return to the hive and perform a \"waggle dance\" on the vertical surface of the comb. The bee runs in a straight line while shaking its abdomen, then loops back and repeats the run. The angle of the straight run relative to vertical tells other bees the direction of the food relative to the sun, and the length of the run signals distance: the longer the waggle, the farther the flowers. Researchers who decoded the dance were surprised to find that a creature with a brain smaller than a grain of rice could communicate abstract map-like information."
+  },
+  {
+    "id": "rea-key-ideas-details-003",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "Which inference is best supported by the final sentence of the passage?",
+    "options": [
+      "Scientists did not expect such complex communication from an insect.",
+      "Bees with larger brains dance more accurately.",
+      "Researchers have not yet fully decoded the dance.",
+      "Bees are more intelligent than most mammals."
+    ],
+    "correctIndex": 0,
+    "explanation": "The researchers 'were surprised' that a tiny brain could convey map-like information, implying they expected less complexity.",
+    "passage": "Honeybees that discover a rich patch of flowers return to the hive and perform a \"waggle dance\" on the vertical surface of the comb. The bee runs in a straight line while shaking its abdomen, then loops back and repeats the run. The angle of the straight run relative to vertical tells other bees the direction of the food relative to the sun, and the length of the run signals distance: the longer the waggle, the farther the flowers. Researchers who decoded the dance were surprised to find that a creature with a brain smaller than a grain of rice could communicate abstract map-like information."
+  },
+  {
+    "id": "rea-key-ideas-details-004",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the directions, what should a volunteer do first?",
+    "options": [
+      "Apply an alcohol-based hand rub.",
+      "Remove rings and push sleeves above the wrists.",
+      "Wet hands with warm running water.",
+      "Turn off the faucet with a paper towel."
+    ],
+    "correctIndex": 1,
+    "explanation": "Step 1 tells volunteers to remove rings and push up sleeves before washing.",
+    "passage": "Hand Hygiene Steps for Student Volunteers\n1. Remove rings and push sleeves above the wrists.\n2. Wet hands with warm running water and apply soap.\n3. Rub all surfaces, including between fingers and under nails, for at least 20 seconds.\n4. Rinse with fingertips pointing downward.\n5. Dry hands with a clean paper towel, then use the towel to turn off the faucet.\nIf hands are not visibly soiled, an alcohol-based rub may be used instead of steps 2-5."
+  },
+  {
+    "id": "rea-key-ideas-details-005",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "A volunteer's hands are not visibly dirty. Which action do the directions allow?",
+    "options": [
+      "Skipping step 1 and rinsing only",
+      "Rubbing hands with soap for 10 seconds",
+      "Drying hands without turning off the faucet",
+      "Using an alcohol-based rub instead of steps 2 through 5"
+    ],
+    "correctIndex": 3,
+    "explanation": "The final sentence says an alcohol-based rub may replace steps 2-5 when hands are not visibly soiled.",
+    "passage": "Hand Hygiene Steps for Student Volunteers\n1. Remove rings and push sleeves above the wrists.\n2. Wet hands with warm running water and apply soap.\n3. Rub all surfaces, including between fingers and under nails, for at least 20 seconds.\n4. Rinse with fingertips pointing downward.\n5. Dry hands with a clean paper towel, then use the towel to turn off the faucet.\nIf hands are not visibly soiled, an alcohol-based rub may be used instead of steps 2-5."
+  },
+  {
+    "id": "rea-key-ideas-details-006",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Why do the directions most likely say to turn off the faucet with the paper towel?",
+    "options": [
+      "To make the faucet easier to turn",
+      "To save water during the procedure",
+      "To avoid recontaminating clean hands",
+      "To keep the paper towel dry"
+    ],
+    "correctIndex": 2,
+    "explanation": "The faucet handle was touched with dirty hands; using the towel prevents germs from returning to clean hands.",
+    "passage": "Hand Hygiene Steps for Student Volunteers\n1. Remove rings and push sleeves above the wrists.\n2. Wet hands with warm running water and apply soap.\n3. Rub all surfaces, including between fingers and under nails, for at least 20 seconds.\n4. Rinse with fingertips pointing downward.\n5. Dry hands with a clean paper towel, then use the towel to turn off the faucet.\nIf hands are not visibly soiled, an alcohol-based rub may be used instead of steps 2-5."
+  },
+  {
+    "id": "rea-key-ideas-details-007",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Where can evening-shift staff receive a flu vaccine on a Tuesday at 5:00 p.m. during the first week of October?",
+    "options": [
+      "The Employee Health Office",
+      "The staff break room",
+      "Conference Room B",
+      "Any nursing station"
+    ],
+    "correctIndex": 2,
+    "explanation": "The memo lists Conference Room B on Tuesdays and Thursdays from 4:00 to 7:00 p.m. in early October.",
+    "passage": "To: All Evening-Shift Staff\nFrom: Employee Health Office\nFree seasonal flu vaccines will be offered in Conference Room B on Tuesday and Thursday from 4:00 p.m. to 7:00 p.m. during the first two weeks of October. Staff who cannot attend these sessions may visit the Employee Health Office on weekdays between 8:00 a.m. and 3:00 p.m. Bring your badge; no appointment is needed. Staff who decline the vaccine must sign a declination form by October 31."
+  },
+  {
+    "id": "rea-key-ideas-details-008",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which statement is supported by the memo?",
+    "options": [
+      "The vaccine is available only to day-shift staff.",
+      "Declination forms are due by October 1.",
+      "Staff do not need an appointment to receive the vaccine.",
+      "Staff must pay a small fee for the vaccine."
+    ],
+    "correctIndex": 2,
+    "explanation": "The memo says 'no appointment is needed.' It states the vaccine is free and forms are due October 31.",
+    "passage": "To: All Evening-Shift Staff\nFrom: Employee Health Office\nFree seasonal flu vaccines will be offered in Conference Room B on Tuesday and Thursday from 4:00 p.m. to 7:00 p.m. during the first two weeks of October. Staff who cannot attend these sessions may visit the Employee Health Office on weekdays between 8:00 a.m. and 3:00 p.m. Bring your badge; no appointment is needed. Staff who decline the vaccine must sign a declination form by October 31."
+  },
+  {
+    "id": "rea-key-ideas-details-009",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "A staff member works 8:00 a.m. to 4:30 p.m. on weekdays and is free only during work breaks. Which option fits the memo's information?",
+    "options": [
+      "Attending Conference Room B on a Saturday",
+      "Visiting the Employee Health Office at 3:30 p.m.",
+      "Visiting the Employee Health Office during a weekday break before 3:00 p.m.",
+      "Submitting a declination form after October 31"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Employee Health Office is open weekdays from 8:00 a.m. to 3:00 p.m., so a break before 3:00 p.m. works.",
+    "passage": "To: All Evening-Shift Staff\nFrom: Employee Health Office\nFree seasonal flu vaccines will be offered in Conference Room B on Tuesday and Thursday from 4:00 p.m. to 7:00 p.m. during the first two weeks of October. Staff who cannot attend these sessions may visit the Employee Health Office on weekdays between 8:00 a.m. and 3:00 p.m. Bring your badge; no appointment is needed. Staff who decline the vaccine must sign a declination form by October 31."
+  },
+  {
+    "id": "rea-key-ideas-details-010",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What is the passage mainly about?",
+    "options": [
+      "The design of nineteenth-century lighthouses",
+      "The history of weather logbooks",
+      "How fishing schooners navigated without maps",
+      "A lighthouse keeper's quiet dedication, including one stormy night"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage focuses on Ada Brennan's routine and her actions during the 1891 storm.",
+    "passage": "For nearly forty years, Ada Brennan kept the lighthouse on Gull Point. Each evening she climbed ninety-two steps to trim the wick and polish the great lens, and each morning she recorded the weather in a leather logbook. When a storm in 1891 drove a fishing schooner toward the rocks, Brennan kept the lamp burning through the night even after wind shattered two panes of glass. The crew later said the steady beam was the only thing that showed them where the channel lay. Brennan never described the night as heroic; her log entry reads simply, \"Wind high. Light kept.\""
+  },
+  {
+    "id": "rea-key-ideas-details-011",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which detail best shows that the storm made Brennan's work dangerous?",
+    "options": [
+      "Wind shattered two panes of glass.",
+      "She recorded the weather in a leather logbook.",
+      "She kept the lighthouse for nearly forty years.",
+      "She climbed ninety-two steps each evening."
+    ],
+    "correctIndex": 0,
+    "explanation": "Broken glass during the storm shows the physical danger; the other details describe routine work.",
+    "passage": "For nearly forty years, Ada Brennan kept the lighthouse on Gull Point. Each evening she climbed ninety-two steps to trim the wick and polish the great lens, and each morning she recorded the weather in a leather logbook. When a storm in 1891 drove a fishing schooner toward the rocks, Brennan kept the lamp burning through the night even after wind shattered two panes of glass. The crew later said the steady beam was the only thing that showed them where the channel lay. Brennan never described the night as heroic; her log entry reads simply, \"Wind high. Light kept.\""
+  },
+  {
+    "id": "rea-key-ideas-details-012",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "What does Brennan's log entry, \"Wind high. Light kept,\" suggest about her?",
+    "options": [
+      "She considered keeping the light simply part of her duty.",
+      "She wanted the crew to praise her publicly.",
+      "She did not believe the storm was serious.",
+      "She was too frightened to write more."
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage notes she never called the night heroic; the brief, factual entry suggests she saw it as her job.",
+    "passage": "For nearly forty years, Ada Brennan kept the lighthouse on Gull Point. Each evening she climbed ninety-two steps to trim the wick and polish the great lens, and each morning she recorded the weather in a leather logbook. When a storm in 1891 drove a fishing schooner toward the rocks, Brennan kept the lamp burning through the night even after wind shattered two panes of glass. The crew later said the steady beam was the only thing that showed them where the channel lay. Brennan never described the night as heroic; her log entry reads simply, \"Wind high. Light kept.\""
+  },
+  {
+    "id": "rea-key-ideas-details-013",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What is the author's central claim?",
+    "options": [
+      "Students should study only in the morning.",
+      "Deep sleep is the only stage of sleep that matters.",
+      "Word lists are the best way to test memory.",
+      "Giving up sleep to study can reduce how much a student remembers."
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage concludes that trading sleep for review 'may therefore remember less, not more.'",
+    "passage": "Many students sacrifice sleep to study, but research suggests the trade-off may backfire. During deep sleep, the brain replays and strengthens connections formed during the day, a process called memory consolidation. In several experiments, people who slept after learning a list of words recalled more of them the next day than people who stayed awake for the same number of hours. Sleep deprivation also reduces attention, which makes it harder to absorb new material in the first place. A student who trades two hours of sleep for two hours of review may therefore remember less, not more."
+  },
+  {
+    "id": "rea-key-ideas-details-014",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, what is memory consolidation?",
+    "options": [
+      "Grouping new words into categories",
+      "The brain strengthening connections formed during the day while sleeping",
+      "Staying awake to rehearse information",
+      "Reviewing notes several times before a test"
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage defines consolidation as the brain replaying and strengthening the day's connections during deep sleep.",
+    "passage": "Many students sacrifice sleep to study, but research suggests the trade-off may backfire. During deep sleep, the brain replays and strengthens connections formed during the day, a process called memory consolidation. In several experiments, people who slept after learning a list of words recalled more of them the next day than people who stayed awake for the same number of hours. Sleep deprivation also reduces attention, which makes it harder to absorb new material in the first place. A student who trades two hours of sleep for two hours of review may therefore remember less, not more."
+  },
+  {
+    "id": "rea-key-ideas-details-015",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "Which sentence from the passage provides experimental evidence for the author's claim?",
+    "options": [
+      "Many students sacrifice sleep to study.",
+      "Sleep deprivation also reduces attention.",
+      "A student who trades two hours of sleep may remember less.",
+      "People who slept after learning a list of words recalled more of them the next day."
+    ],
+    "correctIndex": 3,
+    "explanation": "Only the word-list result describes experiments; the others are general statements or the conclusion.",
+    "passage": "Many students sacrifice sleep to study, but research suggests the trade-off may backfire. During deep sleep, the brain replays and strengthens connections formed during the day, a process called memory consolidation. In several experiments, people who slept after learning a list of words recalled more of them the next day than people who stayed awake for the same number of hours. Sleep deprivation also reduces attention, which makes it harder to absorb new material in the first place. A student who trades two hours of sleep for two hours of review may therefore remember less, not more."
+  },
+  {
+    "id": "rea-key-ideas-details-016",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the label, how many tablets may a 9-year-old take in 24 hours at most?",
+    "options": [
+      "8",
+      "4",
+      "1",
+      "2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Children 6 to 11 years should not exceed 4 tablets in 24 hours.",
+    "passage": "Directions: Adults and children 12 years and older: take 2 tablets every 6 hours while symptoms last. Do not take more than 8 tablets in 24 hours. Children 6 to 11 years: take 1 tablet every 6 hours; do not exceed 4 tablets in 24 hours. Children under 6 years: ask a doctor. Stop use and ask a doctor if pain gets worse or lasts more than 10 days."
+  },
+  {
+    "id": "rea-key-ideas-details-017",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "An adult takes 2 tablets at 6:00 a.m. When is the earliest time the label allows the next dose?",
+    "options": [
+      "10:00 a.m.",
+      "12:00 p.m.",
+      "8:00 a.m.",
+      "6:00 p.m."
+    ],
+    "correctIndex": 1,
+    "explanation": "Doses are every 6 hours, so 6:00 a.m. + 6 hours = 12:00 p.m.",
+    "passage": "Directions: Adults and children 12 years and older: take 2 tablets every 6 hours while symptoms last. Do not take more than 8 tablets in 24 hours. Children 6 to 11 years: take 1 tablet every 6 hours; do not exceed 4 tablets in 24 hours. Children under 6 years: ask a doctor. Stop use and ask a doctor if pain gets worse or lasts more than 10 days."
+  },
+  {
+    "id": "rea-key-ideas-details-018",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the label, what should a parent of a 4-year-old do?",
+    "options": [
+      "Ask a doctor before giving the medicine.",
+      "Give 1 tablet every 6 hours.",
+      "Give half the adult dose.",
+      "Give 2 tablets only once a day."
+    ],
+    "correctIndex": 0,
+    "explanation": "The label says 'Children under 6 years: ask a doctor.'",
+    "passage": "Directions: Adults and children 12 years and older: take 2 tablets every 6 hours while symptoms last. Do not take more than 8 tablets in 24 hours. Children 6 to 11 years: take 1 tablet every 6 hours; do not exceed 4 tablets in 24 hours. Children under 6 years: ask a doctor. Stop use and ask a doctor if pain gets worse or lasts more than 10 days."
+  }
+]

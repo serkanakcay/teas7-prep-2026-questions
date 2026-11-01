@@ -1,0 +1,257 @@
+[
+  {
+    "id": "sci-anatomy-physiology-001",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "correctIndex": 2,
+    "explanation": "The left ventricle has the thickest wall and pumps oxygen-rich blood into the aorta for systemic circulation."
+  },
+  {
+    "id": "sci-anatomy-physiology-002",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Where does gas exchange occur in the lungs?",
+    "options": [
+      "Alveoli",
+      "Bronchi",
+      "Trachea",
+      "Pleura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alveoli are tiny air sacs surrounded by capillaries where oxygen and carbon dioxide diffuse."
+  },
+  {
+    "id": "sci-anatomy-physiology-003",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": [
+      "Venules",
+      "Lymphatic vessels",
+      "Arteries",
+      "Veins"
+    ],
+    "correctIndex": 2,
+    "explanation": "Arteries carry blood away from the heart; veins return blood to it. The pulmonary artery carries deoxygenated blood but still moves away from the heart."
+  },
+  {
+    "id": "sci-anatomy-physiology-004",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which hormone lowers blood glucose levels?",
+    "options": [
+      "Glucagon",
+      "Cortisol",
+      "Epinephrine",
+      "Insulin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Insulin, released by pancreatic beta cells, helps cells take up glucose. Glucagon, cortisol, and epinephrine raise blood glucose."
+  },
+  {
+    "id": "sci-anatomy-physiology-005",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which part of the nephron is the primary site of blood filtration?",
+    "options": [
+      "Loop of Henle",
+      "Collecting duct",
+      "Glomerulus",
+      "Distal convoluted tubule"
+    ],
+    "correctIndex": 2,
+    "explanation": "The glomerulus is a capillary tuft in Bowman's capsule where plasma is filtered under pressure."
+  },
+  {
+    "id": "sci-anatomy-physiology-006",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which organ produces bile?",
+    "options": [
+      "Stomach",
+      "Liver",
+      "Gallbladder",
+      "Pancreas"
+    ],
+    "correctIndex": 1,
+    "explanation": "The liver produces bile; the gallbladder stores and concentrates it."
+  },
+  {
+    "id": "sci-anatomy-physiology-007",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Most nutrient absorption occurs in which part of the digestive tract?",
+    "options": [
+      "Large intestine",
+      "Esophagus",
+      "Stomach",
+      "Small intestine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Villi and microvilli in the small intestine provide a huge surface area for absorption."
+  },
+  {
+    "id": "sci-anatomy-physiology-008",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Which part of the brain coordinates balance and fine motor movement?",
+    "options": [
+      "Occipital lobe",
+      "Hypothalamus",
+      "Medulla oblongata",
+      "Cerebellum"
+    ],
+    "correctIndex": 3,
+    "explanation": "The cerebellum coordinates voluntary movement, posture, and balance."
+  },
+  {
+    "id": "sci-anatomy-physiology-009",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which type of muscle tissue is found in the walls of the stomach and blood vessels?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Striated voluntary muscle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Smooth muscle is involuntary and non-striated and lines hollow organs and vessels."
+  },
+  {
+    "id": "sci-anatomy-physiology-010",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which bone is the longest in the human body?",
+    "options": [
+      "Humerus",
+      "Femur",
+      "Fibula",
+      "Tibia"
+    ],
+    "correctIndex": 1,
+    "explanation": "The femur (thigh bone) is the longest and strongest bone in the body."
+  },
+  {
+    "id": "sci-anatomy-physiology-011",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Which cells are primarily responsible for producing antibodies?",
+    "options": [
+      "Helper T cells",
+      "Plasma cells (derived from B lymphocytes)",
+      "Erythrocytes",
+      "Neutrophils"
+    ],
+    "correctIndex": 1,
+    "explanation": "Activated B lymphocytes differentiate into plasma cells, which secrete antibodies."
+  },
+  {
+    "id": "sci-anatomy-physiology-012",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which gland is often called the \"master gland\" because it regulates many other endocrine glands?",
+    "options": [
+      "Pineal gland",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Thyroid gland"
+    ],
+    "correctIndex": 2,
+    "explanation": "The anterior pituitary releases tropic hormones that control the thyroid, adrenal cortex, and gonads (under hypothalamic control)."
+  },
+  {
+    "id": "sci-anatomy-physiology-013",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "In which direction does blood flow through the heart after leaving the right ventricle?",
+    "options": [
+      "Left atrium → lungs → right atrium",
+      "Pulmonary veins → lungs → pulmonary artery → left ventricle",
+      "Pulmonary artery → lungs → pulmonary veins → left atrium",
+      "Aorta → body → vena cava → right atrium"
+    ],
+    "correctIndex": 2,
+    "explanation": "The right ventricle pumps blood through the pulmonary artery to the lungs; oxygenated blood returns via pulmonary veins to the left atrium."
+  },
+  {
+    "id": "sci-anatomy-physiology-014",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which anatomical term means \"toward the midline of the body\"?",
+    "options": [
+      "Medial",
+      "Lateral",
+      "Distal",
+      "Proximal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Medial means closer to the midline; lateral means farther from it."
+  },
+  {
+    "id": "sci-anatomy-physiology-015",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which structure connects muscle to bone?",
+    "options": [
+      "Cartilage",
+      "Ligament",
+      "Fascia only",
+      "Tendon"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tendons attach muscles to bones; ligaments connect bone to bone."
+  },
+  {
+    "id": "sci-anatomy-physiology-016",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "During inhalation, what happens to the diaphragm?",
+    "options": [
+      "It contracts and moves upward.",
+      "It does not move.",
+      "It relaxes and moves upward.",
+      "It contracts and moves downward."
+    ],
+    "correctIndex": 3,
+    "explanation": "Diaphragm contraction flattens it downward, enlarging the thoracic cavity and lowering pressure so air flows in."
+  },
+  {
+    "id": "sci-anatomy-physiology-017",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which part of a neuron receives incoming signals?",
+    "options": [
+      "Node of Ranvier",
+      "Myelin sheath",
+      "Dendrites",
+      "Axon terminal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dendrites receive signals and carry them toward the cell body; axons carry signals away."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "eng-conventions-001",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "After the shift ended the nurses, went home.",
+      "After the shift, ended, the nurses went home.",
+      "After, the shift ended the nurses went home.",
+      "After the shift ended, the nurses went home."
+    ],
+    "correctIndex": 3,
+    "explanation": "Use a comma after an introductory dependent clause: 'After the shift ended,'."
+  },
+  {
+    "id": "eng-conventions-002",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which word correctly completes the sentence? \"The students forgot ___ textbooks.\"",
+    "options": [
+      "thier",
+      "their",
+      "they're",
+      "there"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Their' is the possessive pronoun. 'There' is a place; 'they're' means 'they are.'"
+  },
+  {
+    "id": "eng-conventions-003",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence shows correct subject-verb agreement?",
+    "options": [
+      "Each of the patients have a wristband.",
+      "Each of the patients were given wristband.",
+      "Each of the patients has a wristband.",
+      "Each of the patients are having a wristband."
+    ],
+    "correctIndex": 2,
+    "explanation": "'Each' is singular, so it takes the singular verb 'has.'"
+  },
+  {
+    "id": "eng-conventions-004",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses a semicolon correctly?",
+    "options": [
+      "The lab was closed; and the samples were stored.",
+      "Because the lab was closed; the samples were stored.",
+      "The lab was closed; the samples were stored overnight.",
+      "The lab; was closed overnight."
+    ],
+    "correctIndex": 2,
+    "explanation": "A semicolon joins two independent clauses without a coordinating conjunction."
+  },
+  {
+    "id": "eng-conventions-005",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence is a run-on (fused) sentence?",
+    "options": [
+      "The alarm rang; everyone left.",
+      "The alarm rang everyone left the building.",
+      "When the alarm rang, everyone left.",
+      "The alarm rang, and everyone left the building."
+    ],
+    "correctIndex": 1,
+    "explanation": "Two independent clauses are joined with no punctuation or conjunction, creating a fused sentence."
+  },
+  {
+    "id": "eng-conventions-006",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which word should be capitalized? \"we visited the grand canyon in july.\"",
+    "options": [
+      "We, Grand, Canyon, and July",
+      "Canyon and July only",
+      "Only We",
+      "We and July only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Capitalize the first word, proper nouns (Grand Canyon), and months (July)."
+  },
+  {
+    "id": "eng-conventions-007",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which is the correct plural of \"diagnosis\"?",
+    "options": [
+      "diagnosises",
+      "diagnosis's",
+      "diagnoses",
+      "diagnosi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Words ending in -is often form plurals with -es: diagnosis → diagnoses."
+  },
+  {
+    "id": "eng-conventions-008",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence uses an apostrophe correctly?",
+    "options": [
+      "The childrens toys' were in the waiting room.",
+      "The childrens' toys were in the waiting room.",
+      "The children toy's were in the waiting room.",
+      "The children's toys were in the waiting room."
+    ],
+    "correctIndex": 3,
+    "explanation": "'Children' is already plural, so add 's to show possession: children's."
+  },
+  {
+    "id": "eng-conventions-009",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence contains a sentence fragment?",
+    "options": [
+      "The doctor changed the order.",
+      "Because the patient was allergic to penicillin.",
+      "The patient was allergic to penicillin.",
+      "Because the patient was allergic, the doctor changed the order."
+    ],
+    "correctIndex": 1,
+    "explanation": "A dependent clause beginning with 'because' cannot stand alone as a complete sentence."
+  },
+  {
+    "id": "eng-conventions-010",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which pronoun correctly completes the sentence? \"Between you and ___, the exam was easier than expected.\"",
+    "options": [
+      "myself",
+      "I",
+      "me",
+      "mine"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Between' is a preposition and requires the objective case: 'between you and me.'"
+  },
+  {
+    "id": "eng-conventions-011",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which is the correct spelling?",
+    "options": [
+      "necesary",
+      "necessary",
+      "neccesary",
+      "neccessary"
+    ],
+    "correctIndex": 1,
+    "explanation": "Necessary has one 'c' and two 's's."
+  },
+  {
+    "id": "eng-conventions-012",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses commas correctly in a series?",
+    "options": [
+      "We need, gauze, tape, and saline.",
+      "We need gauze tape, and, saline.",
+      "We need gauze, tape and, saline.",
+      "We need gauze, tape, and saline."
+    ],
+    "correctIndex": 3,
+    "explanation": "Commas separate items in a list; the serial (Oxford) comma before 'and' is acceptable."
+  },
+  {
+    "id": "eng-conventions-013",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence uses quotation marks and punctuation correctly (American style)?",
+    "options": [
+      "Please sit down, \"the nurse said.\"",
+      "\"Please sit down,\" the nurse said\".",
+      "\"Please sit down\", the nurse said.",
+      "\"Please sit down,\" the nurse said."
+    ],
+    "correctIndex": 3,
+    "explanation": "In American English, commas and periods go inside the closing quotation mark."
+  },
+  {
+    "id": "eng-conventions-014",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Choose the correct word: \"The new policy will ___ all staff members.\"",
+    "options": [
+      "affection",
+      "effected",
+      "affect",
+      "effect"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Affect' is usually a verb meaning to influence; 'effect' is usually a noun meaning a result."
+  },
+  {
+    "id": "eng-conventions-015",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence has correct verb tense consistency?",
+    "options": [
+      "She opened the chart and reviewed the orders.",
+      "She opened the chart and reviews the orders.",
+      "She opens the chart and reviewed the orders.",
+      "She will open the chart and reviewed the orders."
+    ],
+    "correctIndex": 0,
+    "explanation": "Both verbs are in the past tense, so the sentence is consistent."
+  }
+]

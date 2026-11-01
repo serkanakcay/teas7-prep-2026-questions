@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-01T14:15:36Z",
+  "sections": [
+    {
+      "id": "reading",
+      "name": "Reading",
+      "subcategories": [
+        {
+          "id": "key-ideas-details",
+          "name": "Key Ideas & Details",
+          "count": 18,
+          "file": "reading/key-ideas-details.json"
+        },
+        {
+          "id": "craft-structure",
+          "name": "Craft & Structure",
+          "count": 18,
+          "file": "reading/craft-structure.json"
+        },
+        {
+          "id": "integration-of-knowledge",
+          "name": "Integration of Knowledge",
+          "count": 18,
+          "file": "reading/integration-of-knowledge.json"
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Math",
+      "subcategories": [
+        {
+          "id": "numbers-algebra",
+          "name": "Numbers & Algebra",
+          "count": 22,
+          "file": "math/numbers-algebra.json"
+        },
+        {
+          "id": "measurement-data",
+          "name": "Measurement & Data",
+          "count": 21,
+          "file": "math/measurement-data.json"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "subcategories": [
+        {
+          "id": "anatomy-physiology",
+          "name": "Human Anatomy & Physiology",
+          "count": 17,
+          "file": "science/anatomy-physiology.json"
+        },
+        {
+          "id": "biology",
+          "name": "Biology",
+          "count": 16,
+          "file": "science/biology.json"
+        },
+        {
+          "id": "chemistry",
+          "name": "Chemistry",
+          "count": 16,
+          "file": "science/chemistry.json"
+        },
+        {
+          "id": "scientific-reasoning",
+          "name": "Scientific Reasoning",
+          "count": 15,
+          "file": "science/scientific-reasoning.json"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English & Language Usage",
+      "subcategories": [
+        {
+          "id": "conventions",
+          "name": "Conventions of Standard English",
+          "count": 15,
+          "file": "english/conventions.json"
+        },
+        {
+          "id": "knowledge-of-language",
+          "name": "Knowledge of Language",
+          "count": 15,
+          "file": "english/knowledge-of-language.json"
+        },
+        {
+          "id": "vocabulary",
+          "name": "Vocabulary",
+          "count": 15,
+          "file": "english/vocabulary.json"
+        }
+      ]
+    }
+  ]
+}

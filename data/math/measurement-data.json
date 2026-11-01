@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mat-measurement-data-001",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the mean of these quiz scores: 82, 90, 75, 88, 95?",
+    "options": [
+      "85",
+      "20",
+      "86",
+      "88"
+    ],
+    "correctIndex": 2,
+    "explanation": "Add the scores: 430. Divide by 5: 430 ÷ 5 = 86."
+  },
+  {
+    "id": "mat-measurement-data-002",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "What is the median of the data set: 12, 7, 19, 3, 15, 10?",
+    "options": [
+      "11",
+      "16",
+      "10",
+      "12"
+    ],
+    "correctIndex": 0,
+    "explanation": "Order the data: 3, 7, 10, 12, 15, 19. With an even count, average the two middle values: (10 + 12) ÷ 2 = 11."
+  },
+  {
+    "id": "mat-measurement-data-003",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the range of the data set: 4, 8, 6, 8, 3, 9, 8, 6?",
+    "options": [
+      "8",
+      "9",
+      "5",
+      "6"
+    ],
+    "correctIndex": 3,
+    "explanation": "Range = maximum - minimum = 9 - 3 = 6."
+  },
+  {
+    "id": "mat-measurement-data-004",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the mode of the data set: 4, 8, 6, 8, 3, 9, 8, 6?",
+    "options": [
+      "6.5",
+      "8",
+      "9",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "The mode is the value that appears most often; 8 appears three times."
+  },
+  {
+    "id": "mat-measurement-data-005",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A patient weighs 154 lb. Using 1 kg = 2.2 lb, what is the patient's weight in kilograms?",
+    "options": [
+      "77 kg",
+      "64 kg",
+      "70 kg",
+      "338.8 kg"
+    ],
+    "correctIndex": 2,
+    "explanation": "Divide pounds by 2.2: 154 ÷ 2.2 = 70 kg."
+  },
+  {
+    "id": "mat-measurement-data-006",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "How many milligrams are in 2.5 grams?",
+    "options": [
+      "2,500 mg",
+      "25 mg",
+      "25,000 mg",
+      "250 mg"
+    ],
+    "correctIndex": 0,
+    "explanation": "1 g = 1,000 mg, so 2.5 x 1,000 = 2,500 mg."
+  },
+  {
+    "id": "mat-measurement-data-007",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "How many centimeters are in 3 feet? (1 inch = 2.54 cm)",
+    "options": [
+      "30.48 cm",
+      "91.44 cm",
+      "7.62 cm",
+      "76.2 cm"
+    ],
+    "correctIndex": 1,
+    "explanation": "3 feet = 36 inches. 36 x 2.54 = 91.44 cm."
+  },
+  {
+    "id": "mat-measurement-data-008",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A patient drinks 3 cups of water. Using 1 cup = 8 fl oz and 1 fl oz ≈ 30 mL, about how many milliliters is this?",
+    "options": [
+      "90 mL",
+      "720 mL",
+      "1,440 mL",
+      "240 mL"
+    ],
+    "correctIndex": 1,
+    "explanation": "3 cups x 8 fl oz = 24 fl oz. 24 x 30 mL = 720 mL."
+  },
+  {
+    "id": "mat-measurement-data-009",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Convert 98.6°F to Celsius using C = (F - 32) x 5/9.",
+    "options": [
+      "41°C",
+      "34.2°C",
+      "66.6°C",
+      "37°C"
+    ],
+    "correctIndex": 3,
+    "explanation": "98.6 - 32 = 66.6. 66.6 x 5/9 = 37°C."
+  },
+  {
+    "id": "mat-measurement-data-010",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A rectangular room is 14 ft long and 9 ft wide. What is its area?",
+    "options": [
+      "46 sq ft",
+      "126 sq ft",
+      "23 sq ft",
+      "252 sq ft"
+    ],
+    "correctIndex": 1,
+    "explanation": "Area = length x width = 14 x 9 = 126 square feet."
+  },
+  {
+    "id": "mat-measurement-data-011",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the perimeter of a rectangle that is 14 ft long and 9 ft wide?",
+    "options": [
+      "46 ft",
+      "126 ft",
+      "37 ft",
+      "23 ft"
+    ],
+    "correctIndex": 0,
+    "explanation": "Perimeter = 2(l + w) = 2(14 + 9) = 46 ft."
+  },
+  {
+    "id": "mat-measurement-data-012",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "What is the area of a circle with a radius of 5 cm? (Use π ≈ 3.14)",
+    "options": [
+      "314 sq cm",
+      "15.7 sq cm",
+      "31.4 sq cm",
+      "78.5 sq cm"
+    ],
+    "correctIndex": 3,
+    "explanation": "A = πr² = 3.14 x 5² = 3.14 x 25 = 78.5 sq cm."
+  },
+  {
+    "id": "mat-measurement-data-013",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "What is the circumference of a circle with a diameter of 10 in? (Use π ≈ 3.14)",
+    "options": [
+      "31.4 in",
+      "15.7 in",
+      "62.8 in",
+      "78.5 in"
+    ],
+    "correctIndex": 0,
+    "explanation": "C = πd = 3.14 x 10 = 31.4 in."
+  },
+  {
+    "id": "mat-measurement-data-014",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A box measures 6 in by 4 in by 3 in. What is its volume?",
+    "options": [
+      "36 cubic in",
+      "13 cubic in",
+      "108 cubic in",
+      "72 cubic in"
+    ],
+    "correctIndex": 3,
+    "explanation": "V = l x w x h = 6 x 4 x 3 = 72 cubic inches."
+  },
+  {
+    "id": "mat-measurement-data-015",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "A right triangle has legs of 9 cm and 12 cm. What is the length of the hypotenuse?",
+    "options": [
+      "15 cm",
+      "10.5 cm",
+      "21 cm",
+      "225 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pythagorean theorem: 9² + 12² = 81 + 144 = 225; √225 = 15 cm."
+  },
+  {
+    "id": "mat-measurement-data-016",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "What is the area of a triangle with a base of 10 m and a height of 7 m?",
+    "options": [
+      "35 sq m",
+      "70 sq m",
+      "34 sq m",
+      "17 sq m"
+    ],
+    "correctIndex": 0,
+    "explanation": "A = ½ x b x h = ½ x 10 x 7 = 35 square meters."
+  },
+  {
+    "id": "mat-measurement-data-017",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A bag has 4 red, 6 blue, and 10 green marbles. What is the probability of randomly drawing a blue marble?",
+    "options": [
+      "1/3",
+      "3/10",
+      "1/6",
+      "6/14"
+    ],
+    "correctIndex": 1,
+    "explanation": "There are 4 + 6 + 10 = 20 marbles. P(blue) = 6/20 = 3/10."
+  },
+  {
+    "id": "mat-measurement-data-018",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "A fair coin is flipped twice. What is the probability of getting heads both times?",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1/3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Independent events multiply: ½ x ½ = 1/4."
+  },
+  {
+    "id": "mat-measurement-data-019",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "An IV is set to deliver 125 mL per hour. How long will it take to infuse 1,000 mL?",
+    "options": [
+      "6 hours",
+      "10 hours",
+      "8 hours",
+      "12.5 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Time = volume ÷ rate = 1,000 ÷ 125 = 8 hours."
+  },
+  {
+    "id": "mat-measurement-data-020",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "A student scored 80, 85, and 90 on three tests. What score is needed on the fourth test to average 87?",
+    "options": [
+      "95",
+      "87",
+      "91",
+      "93"
+    ],
+    "correctIndex": 3,
+    "explanation": "Needed total = 87 x 4 = 348. Current total = 255. Needed score = 348 - 255 = 93."
+  },
+  {
+    "id": "mat-measurement-data-021",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Which type of graph is best for showing how a patient's temperature changes over 24 hours?",
+    "options": [
+      "Pie chart",
+      "Venn diagram",
+      "Line graph",
+      "Pictograph"
+    ],
+    "correctIndex": 2,
+    "explanation": "Line graphs show change in a quantity over time."
+  }
+]

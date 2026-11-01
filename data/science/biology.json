@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sci-biology-001",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which organelle is known as the site of cellular respiration?",
+    "options": [
+      "Lysosome",
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondrion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mitochondria produce most of the cell's ATP through aerobic respiration."
+  },
+  {
+    "id": "sci-biology-002",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which organelle synthesizes proteins?",
+    "options": [
+      "Centriole",
+      "Nucleus",
+      "Ribosome",
+      "Vacuole"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ribosomes translate mRNA into polypeptide chains."
+  },
+  {
+    "id": "sci-biology-003",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which base pairs with adenine in DNA?",
+    "options": [
+      "Thymine",
+      "Cytosine",
+      "Uracil",
+      "Guanine"
+    ],
+    "correctIndex": 0,
+    "explanation": "In DNA, A pairs with T and G pairs with C. Uracil replaces thymine only in RNA."
+  },
+  {
+    "id": "sci-biology-004",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "In pea plants, tall (T) is dominant over short (t). What fraction of offspring from a Tt x Tt cross are expected to be short?",
+    "options": [
+      "0",
+      "1/4",
+      "3/4",
+      "1/2"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Punnett square gives TT, Tt, Tt, tt. Only tt (1 of 4) is short."
+  },
+  {
+    "id": "sci-biology-005",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "A cross between Tt and tt plants is performed. What is the expected phenotypic ratio of tall to short offspring?",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "1:1",
+      "All tall"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tt x tt gives Tt, Tt, tt, tt—half tall and half short, a 1:1 ratio."
+  },
+  {
+    "id": "sci-biology-006",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What is the end result of mitosis?",
+    "options": [
+      "One large cell with two nuclei",
+      "Four genetically different haploid cells",
+      "Two haploid gametes",
+      "Two genetically identical diploid daughter cells"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mitosis produces two daughter cells identical to the parent. Meiosis produces four genetically unique haploid cells."
+  },
+  {
+    "id": "sci-biology-007",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "During which phase of meiosis do homologous chromosomes separate?",
+    "options": [
+      "Metaphase II",
+      "Anaphase I",
+      "Prophase II",
+      "Anaphase II"
+    ],
+    "correctIndex": 1,
+    "explanation": "In anaphase I, homologous pairs separate; in anaphase II, sister chromatids separate."
+  },
+  {
+    "id": "sci-biology-008",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which process converts mRNA into a protein?",
+    "options": [
+      "Replication",
+      "Transformation",
+      "Transcription",
+      "Translation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Transcription makes mRNA from DNA; translation uses mRNA at ribosomes to build proteins."
+  },
+  {
+    "id": "sci-biology-009",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which molecule is the main energy currency of the cell?",
+    "options": [
+      "DNA",
+      "NADP only",
+      "ATP",
+      "Glucose-6-phosphate"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adenosine triphosphate (ATP) stores and transfers energy for cellular work."
+  },
+  {
+    "id": "sci-biology-010",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which macromolecule is made of amino acids?",
+    "options": [
+      "Carbohydrate",
+      "Lipid",
+      "Protein",
+      "Nucleic acid"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proteins are polymers of amino acids joined by peptide bonds."
+  },
+  {
+    "id": "sci-biology-011",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Enzymes speed up chemical reactions by doing what?",
+    "options": [
+      "Increasing the activation energy",
+      "Lowering the activation energy",
+      "Raising the temperature of the cell",
+      "Being consumed in the reaction"
+    ],
+    "correctIndex": 1,
+    "explanation": "Enzymes are catalysts that lower activation energy and are not used up."
+  },
+  {
+    "id": "sci-biology-012",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "What happens to most enzymes when exposed to very high temperatures?",
+    "options": [
+      "They denature and lose function.",
+      "They turn into carbohydrates.",
+      "They replicate themselves.",
+      "They work faster indefinitely."
+    ],
+    "correctIndex": 0,
+    "explanation": "High heat disrupts the enzyme's three-dimensional shape (denaturation), destroying its active site."
+  },
+  {
+    "id": "sci-biology-013",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which type of cell lacks a membrane-bound nucleus?",
+    "options": [
+      "Animal cell",
+      "Eukaryotic cell",
+      "Plant cell",
+      "Prokaryotic cell"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prokaryotes, such as bacteria, have DNA in a nucleoid region without a nuclear membrane."
+  },
+  {
+    "id": "sci-biology-014",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Water moving across a semipermeable membrane from low solute to high solute concentration is called what?",
+    "options": [
+      "Phagocytosis",
+      "Facilitated diffusion of glucose",
+      "Active transport",
+      "Osmosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Osmosis is the passive diffusion of water toward the side with higher solute concentration."
+  },
+  {
+    "id": "sci-biology-015",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "A red blood cell placed in a hypertonic solution will most likely do what?",
+    "options": [
+      "Shrink (crenate) as water leaves the cell",
+      "Swell and burst",
+      "Divide by mitosis",
+      "Stay exactly the same"
+    ],
+    "correctIndex": 0,
+    "explanation": "In a hypertonic solution the outside has more solute, so water leaves the cell and it shrinks."
+  },
+  {
+    "id": "sci-biology-016",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which level of biological organization is made up of similar cells working together?",
+    "options": [
+      "Organelle",
+      "Tissue",
+      "Organ system",
+      "Organ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cells form tissues, tissues form organs, and organs form organ systems."
+  }
+]
