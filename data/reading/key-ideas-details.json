@@ -286,5 +286,1157 @@
     "correctIndex": 0,
     "explanation": "The label says 'Children under 6 years: ask a doctor.'",
     "passage": "Directions: Adults and children 12 years and older: take 2 tablets every 6 hours while symptoms last. Do not take more than 8 tablets in 24 hours. Children 6 to 11 years: take 1 tablet every 6 hours; do not exceed 4 tablets in 24 hours. Children under 6 years: ask a doctor. Stop use and ask a doctor if pain gets worse or lasts more than 10 days."
+  },
+  {
+    "id": "rea-key-ideas-details-019",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What is the main idea of the passage?",
+    "options": [
+      "A neighborhood volunteer effort turned an empty lot into a thriving community garden.",
+      "The city government built a garden on Maple Street.",
+      "Lorna Diaz taught school for many years.",
+      "Raised beds are the best way to grow tomatoes."
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage traces how volunteers transformed the lot into a successful garden; the other choices are minor or inaccurate details.",
+    "passage": "When the Maple Street lot sat empty for six years, neighbors mostly complained about the weeds and broken glass. In the spring of 2021, a retired teacher named Lorna Diaz asked the city for permission to plant vegetables there. The city agreed on one condition: volunteers had to maintain the site themselves. Diaz posted flyers at the library and the bus stop, and twelve people came to the first meeting. They cleared the trash, built eight raised beds from donated lumber, and hauled in compost from a nearby farm. By August, the garden was producing tomatoes, beans, and squash, and volunteers were leaving extra produce on a table by the gate for anyone who wanted it. Today the garden has more than forty members and a waiting list for beds."
+  },
+  {
+    "id": "rea-key-ideas-details-020",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the passage, what condition did the city set for using the lot?",
+    "options": [
+      "The lot had to be fenced within a year.",
+      "The garden had to sell its produce.",
+      "Volunteers had to maintain the site themselves.",
+      "Only teachers could have beds."
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage states the city agreed \"on one condition: volunteers had to maintain the site themselves.\"",
+    "passage": "When the Maple Street lot sat empty for six years, neighbors mostly complained about the weeds and broken glass. In the spring of 2021, a retired teacher named Lorna Diaz asked the city for permission to plant vegetables there. The city agreed on one condition: volunteers had to maintain the site themselves. Diaz posted flyers at the library and the bus stop, and twelve people came to the first meeting. They cleared the trash, built eight raised beds from donated lumber, and hauled in compost from a nearby farm. By August, the garden was producing tomatoes, beans, and squash, and volunteers were leaving extra produce on a table by the gate for anyone who wanted it. Today the garden has more than forty members and a waiting list for beds."
+  },
+  {
+    "id": "rea-key-ideas-details-021",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which event happened first after the city gave permission?",
+    "options": [
+      "Diaz posted flyers at the library and the bus stop.",
+      "The garden produced tomatoes and squash.",
+      "Volunteers built eight raised beds.",
+      "A waiting list for beds formed."
+    ],
+    "correctIndex": 0,
+    "explanation": "Diaz advertised the first meeting before any clearing or building took place.",
+    "passage": "When the Maple Street lot sat empty for six years, neighbors mostly complained about the weeds and broken glass. In the spring of 2021, a retired teacher named Lorna Diaz asked the city for permission to plant vegetables there. The city agreed on one condition: volunteers had to maintain the site themselves. Diaz posted flyers at the library and the bus stop, and twelve people came to the first meeting. They cleared the trash, built eight raised beds from donated lumber, and hauled in compost from a nearby farm. By August, the garden was producing tomatoes, beans, and squash, and volunteers were leaving extra produce on a table by the gate for anyone who wanted it. Today the garden has more than forty members and a waiting list for beds."
+  },
+  {
+    "id": "rea-key-ideas-details-022",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What can be inferred from the fact that the garden now has a waiting list?",
+    "options": [
+      "The garden is closing soon.",
+      "Most members have quit.",
+      "Demand for garden beds is greater than the space available.",
+      "The city now runs the garden."
+    ],
+    "correctIndex": 2,
+    "explanation": "A waiting list means more people want beds than there are beds to give.",
+    "passage": "When the Maple Street lot sat empty for six years, neighbors mostly complained about the weeds and broken glass. In the spring of 2021, a retired teacher named Lorna Diaz asked the city for permission to plant vegetables there. The city agreed on one condition: volunteers had to maintain the site themselves. Diaz posted flyers at the library and the bus stop, and twelve people came to the first meeting. They cleared the trash, built eight raised beds from donated lumber, and hauled in compost from a nearby farm. By August, the garden was producing tomatoes, beans, and squash, and volunteers were leaving extra produce on a table by the gate for anyone who wanted it. Today the garden has more than forty members and a waiting list for beds."
+  },
+  {
+    "id": "rea-key-ideas-details-023",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What did volunteers do with extra produce?",
+    "options": [
+      "They composted it.",
+      "They sold it at a farmers' market.",
+      "They left it on a table by the gate for anyone to take.",
+      "They gave it to the city."
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage says extra produce was placed on a table by the gate for anyone who wanted it.",
+    "passage": "When the Maple Street lot sat empty for six years, neighbors mostly complained about the weeds and broken glass. In the spring of 2021, a retired teacher named Lorna Diaz asked the city for permission to plant vegetables there. The city agreed on one condition: volunteers had to maintain the site themselves. Diaz posted flyers at the library and the bus stop, and twelve people came to the first meeting. They cleared the trash, built eight raised beds from donated lumber, and hauled in compost from a nearby farm. By August, the garden was producing tomatoes, beans, and squash, and volunteers were leaving extra produce on a table by the gate for anyone who wanted it. Today the garden has more than forty members and a waiting list for beds."
+  },
+  {
+    "id": "rea-key-ideas-details-024",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "Which sentence best summarizes how the lot changed?",
+    "options": [
+      "A busy park was replaced with vegetable beds.",
+      "A neglected lot that drew complaints became a popular, productive shared space.",
+      "A farm moved its operations into the city.",
+      "The city cleaned the lot and then sold it."
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage contrasts the weedy, littered lot with a garden that has forty members and a waiting list.",
+    "passage": "When the Maple Street lot sat empty for six years, neighbors mostly complained about the weeds and broken glass. In the spring of 2021, a retired teacher named Lorna Diaz asked the city for permission to plant vegetables there. The city agreed on one condition: volunteers had to maintain the site themselves. Diaz posted flyers at the library and the bus stop, and twelve people came to the first meeting. They cleared the trash, built eight raised beds from donated lumber, and hauled in compost from a nearby farm. By August, the garden was producing tomatoes, beans, and squash, and volunteers were leaving extra produce on a table by the gate for anyone who wanted it. Today the garden has more than forty members and a waiting list for beds."
+  },
+  {
+    "id": "rea-key-ideas-details-025",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the passage, about how much of an adult's body weight is water?",
+    "options": [
+      "About 60 percent",
+      "About 90 percent",
+      "About 40 percent",
+      "About 16 percent"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first sentence states that water is roughly 60 percent of body weight.",
+    "passage": "Water makes up roughly 60 percent of an adult's body weight, and it is involved in nearly every bodily process. It carries nutrients to cells, cushions joints, and helps regulate temperature through sweat. Because the body constantly loses water through breathing, sweating, and urination, that water must be replaced each day. Thirst is a useful signal, but it is not always reliable; older adults in particular may not feel thirsty until they are already mildly dehydrated. Early signs of dehydration include dark yellow urine, headache, and fatigue. Severe dehydration can cause confusion, a rapid heartbeat, and dangerously low blood pressure. Most healthy people can stay hydrated by drinking fluids with meals and whenever they feel thirsty, while drinking more during hot weather or exercise."
+  },
+  {
+    "id": "rea-key-ideas-details-026",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which of the following is listed as an early sign of dehydration?",
+    "options": [
+      "A rapid heartbeat",
+      "Dark yellow urine",
+      "Dangerously low blood pressure",
+      "Confusion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dark yellow urine, headache, and fatigue are early signs; the others are signs of severe dehydration.",
+    "passage": "Water makes up roughly 60 percent of an adult's body weight, and it is involved in nearly every bodily process. It carries nutrients to cells, cushions joints, and helps regulate temperature through sweat. Because the body constantly loses water through breathing, sweating, and urination, that water must be replaced each day. Thirst is a useful signal, but it is not always reliable; older adults in particular may not feel thirsty until they are already mildly dehydrated. Early signs of dehydration include dark yellow urine, headache, and fatigue. Severe dehydration can cause confusion, a rapid heartbeat, and dangerously low blood pressure. Most healthy people can stay hydrated by drinking fluids with meals and whenever they feel thirsty, while drinking more during hot weather or exercise."
+  },
+  {
+    "id": "rea-key-ideas-details-027",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Why does the author say thirst is \"not always reliable\"?",
+    "options": [
+      "Some people, especially older adults, may not feel thirsty until they are already dehydrated.",
+      "Thirst always appears too early.",
+      "Thirst is caused only by exercise.",
+      "Drinking water makes thirst worse."
+    ],
+    "correctIndex": 0,
+    "explanation": "The author explains that older adults may not feel thirsty until mild dehydration has begun.",
+    "passage": "Water makes up roughly 60 percent of an adult's body weight, and it is involved in nearly every bodily process. It carries nutrients to cells, cushions joints, and helps regulate temperature through sweat. Because the body constantly loses water through breathing, sweating, and urination, that water must be replaced each day. Thirst is a useful signal, but it is not always reliable; older adults in particular may not feel thirsty until they are already mildly dehydrated. Early signs of dehydration include dark yellow urine, headache, and fatigue. Severe dehydration can cause confusion, a rapid heartbeat, and dangerously low blood pressure. Most healthy people can stay hydrated by drinking fluids with meals and whenever they feel thirsty, while drinking more during hot weather or exercise."
+  },
+  {
+    "id": "rea-key-ideas-details-028",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Which is NOT mentioned as a function of water in the body?",
+    "options": [
+      "Regulating temperature",
+      "Carrying nutrients to cells",
+      "Producing red blood cells",
+      "Cushioning joints"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage lists carrying nutrients, cushioning joints, and regulating temperature, but not producing blood cells.",
+    "passage": "Water makes up roughly 60 percent of an adult's body weight, and it is involved in nearly every bodily process. It carries nutrients to cells, cushions joints, and helps regulate temperature through sweat. Because the body constantly loses water through breathing, sweating, and urination, that water must be replaced each day. Thirst is a useful signal, but it is not always reliable; older adults in particular may not feel thirsty until they are already mildly dehydrated. Early signs of dehydration include dark yellow urine, headache, and fatigue. Severe dehydration can cause confusion, a rapid heartbeat, and dangerously low blood pressure. Most healthy people can stay hydrated by drinking fluids with meals and whenever they feel thirsty, while drinking more during hot weather or exercise."
+  },
+  {
+    "id": "rea-key-ideas-details-029",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, when should people drink more than usual?",
+    "options": [
+      "During hot weather or exercise",
+      "Only when they have a headache",
+      "Only before bedtime",
+      "Only with breakfast"
+    ],
+    "correctIndex": 0,
+    "explanation": "The last sentence advises drinking more during hot weather or exercise.",
+    "passage": "Water makes up roughly 60 percent of an adult's body weight, and it is involved in nearly every bodily process. It carries nutrients to cells, cushions joints, and helps regulate temperature through sweat. Because the body constantly loses water through breathing, sweating, and urination, that water must be replaced each day. Thirst is a useful signal, but it is not always reliable; older adults in particular may not feel thirsty until they are already mildly dehydrated. Early signs of dehydration include dark yellow urine, headache, and fatigue. Severe dehydration can cause confusion, a rapid heartbeat, and dangerously low blood pressure. Most healthy people can stay hydrated by drinking fluids with meals and whenever they feel thirsty, while drinking more during hot weather or exercise."
+  },
+  {
+    "id": "rea-key-ideas-details-030",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "What conclusion is best supported by the passage?",
+    "options": [
+      "Paying attention to warning signs can help prevent serious dehydration.",
+      "Most people drink too much water.",
+      "Thirst is the only sign of dehydration.",
+      "Dehydration affects only athletes."
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage describes early and severe signs, implying that noticing early signs helps prevent severe effects.",
+    "passage": "Water makes up roughly 60 percent of an adult's body weight, and it is involved in nearly every bodily process. It carries nutrients to cells, cushions joints, and helps regulate temperature through sweat. Because the body constantly loses water through breathing, sweating, and urination, that water must be replaced each day. Thirst is a useful signal, but it is not always reliable; older adults in particular may not feel thirsty until they are already mildly dehydrated. Early signs of dehydration include dark yellow urine, headache, and fatigue. Severe dehydration can cause confusion, a rapid heartbeat, and dangerously low blood pressure. Most healthy people can stay hydrated by drinking fluids with meals and whenever they feel thirsty, while drinking more during hot weather or exercise."
+  },
+  {
+    "id": "rea-key-ideas-details-031",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the notice, where should students who used Lot C now park during the day?",
+    "options": [
+      "Lot A, near the library",
+      "Lot F, behind the gymnasium",
+      "Lot C, after 6:00 p.m.",
+      "The Health Sciences building"
+    ],
+    "correctIndex": 1,
+    "explanation": "The notice directs former Lot C users to Lot F.",
+    "passage": "Notice to Students: Campus Parking Changes\nBeginning September 1, Lot C will close for construction until further notice. Students who previously parked in Lot C may park in Lot F, located behind the gymnasium. A free shuttle will run from Lot F to the Health Sciences building every 15 minutes from 7:00 a.m. to 6:00 p.m. on weekdays. Students with evening classes should use Lot A, which remains open until 11:00 p.m. All vehicles must display a current semester permit; permits can be purchased online or at the Student Services desk. Vehicles without permits will be ticketed. Questions may be directed to the Parking Office at extension 4410."
+  },
+  {
+    "id": "rea-key-ideas-details-032",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "How often does the shuttle run from Lot F?",
+    "options": [
+      "Every 5 minutes",
+      "Every 30 minutes",
+      "Once an hour",
+      "Every 15 minutes"
+    ],
+    "correctIndex": 3,
+    "explanation": "The notice says the shuttle runs every 15 minutes on weekdays.",
+    "passage": "Notice to Students: Campus Parking Changes\nBeginning September 1, Lot C will close for construction until further notice. Students who previously parked in Lot C may park in Lot F, located behind the gymnasium. A free shuttle will run from Lot F to the Health Sciences building every 15 minutes from 7:00 a.m. to 6:00 p.m. on weekdays. Students with evening classes should use Lot A, which remains open until 11:00 p.m. All vehicles must display a current semester permit; permits can be purchased online or at the Student Services desk. Vehicles without permits will be ticketed. Questions may be directed to the Parking Office at extension 4410."
+  },
+  {
+    "id": "rea-key-ideas-details-033",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "A student has a class that ends at 9:30 p.m. Where should the student park?",
+    "options": [
+      "Lot A",
+      "The gymnasium entrance",
+      "Lot F",
+      "Lot C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lot A stays open until 11:00 p.m. for evening classes, and the shuttle from Lot F stops at 6:00 p.m.",
+    "passage": "Notice to Students: Campus Parking Changes\nBeginning September 1, Lot C will close for construction until further notice. Students who previously parked in Lot C may park in Lot F, located behind the gymnasium. A free shuttle will run from Lot F to the Health Sciences building every 15 minutes from 7:00 a.m. to 6:00 p.m. on weekdays. Students with evening classes should use Lot A, which remains open until 11:00 p.m. All vehicles must display a current semester permit; permits can be purchased online or at the Student Services desk. Vehicles without permits will be ticketed. Questions may be directed to the Parking Office at extension 4410."
+  },
+  {
+    "id": "rea-key-ideas-details-034",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What will happen to a vehicle without a current permit?",
+    "options": [
+      "It will be towed immediately.",
+      "It will be moved to Lot F.",
+      "It will receive a warning only.",
+      "It will be ticketed."
+    ],
+    "correctIndex": 3,
+    "explanation": "The notice states that vehicles without permits will be ticketed.",
+    "passage": "Notice to Students: Campus Parking Changes\nBeginning September 1, Lot C will close for construction until further notice. Students who previously parked in Lot C may park in Lot F, located behind the gymnasium. A free shuttle will run from Lot F to the Health Sciences building every 15 minutes from 7:00 a.m. to 6:00 p.m. on weekdays. Students with evening classes should use Lot A, which remains open until 11:00 p.m. All vehicles must display a current semester permit; permits can be purchased online or at the Student Services desk. Vehicles without permits will be ticketed. Questions may be directed to the Parking Office at extension 4410."
+  },
+  {
+    "id": "rea-key-ideas-details-035",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which is one way to obtain a parking permit, according to the notice?",
+    "options": [
+      "Buy it online",
+      "Pick it up in Lot C",
+      "Request it from the shuttle driver",
+      "Call the gymnasium"
+    ],
+    "correctIndex": 0,
+    "explanation": "Permits can be purchased online or at the Student Services desk.",
+    "passage": "Notice to Students: Campus Parking Changes\nBeginning September 1, Lot C will close for construction until further notice. Students who previously parked in Lot C may park in Lot F, located behind the gymnasium. A free shuttle will run from Lot F to the Health Sciences building every 15 minutes from 7:00 a.m. to 6:00 p.m. on weekdays. Students with evening classes should use Lot A, which remains open until 11:00 p.m. All vehicles must display a current semester permit; permits can be purchased online or at the Student Services desk. Vehicles without permits will be ticketed. Questions may be directed to the Parking Office at extension 4410."
+  },
+  {
+    "id": "rea-key-ideas-details-036",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "What can be inferred about when Lot C will reopen?",
+    "options": [
+      "It will reopen on September 15.",
+      "It will reopen at the end of the semester.",
+      "It will never reopen.",
+      "No reopening date has been set."
+    ],
+    "correctIndex": 3,
+    "explanation": "The notice says Lot C will close \"until further notice,\" meaning no date has been announced.",
+    "passage": "Notice to Students: Campus Parking Changes\nBeginning September 1, Lot C will close for construction until further notice. Students who previously parked in Lot C may park in Lot F, located behind the gymnasium. A free shuttle will run from Lot F to the Health Sciences building every 15 minutes from 7:00 a.m. to 6:00 p.m. on weekdays. Students with evening classes should use Lot A, which remains open until 11:00 p.m. All vehicles must display a current semester permit; permits can be purchased online or at the Student Services desk. Vehicles without permits will be ticketed. Questions may be directed to the Parking Office at extension 4410."
+  },
+  {
+    "id": "rea-key-ideas-details-037",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What is the main idea of the passage?",
+    "options": [
+      "Mice make loud noises at night.",
+      "Barn owls rely on their specialized hearing to locate prey in darkness.",
+      "Owls are difficult to study in laboratories.",
+      "Barn owls have excellent night vision."
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage explains how the owl's face, ears, and brain allow it to hunt by sound.",
+    "passage": "Barn owls hunt mostly at night, yet they catch prey with remarkable accuracy, even in total darkness. Their secret lies largely in their hearing. A barn owl's face is shaped like a shallow dish, and its stiff facial feathers funnel sound toward the ears. The ears themselves are set at slightly different heights on the head, so a sound reaches one ear a fraction of a second before the other and is slightly louder in one ear. The owl's brain uses these tiny differences to pinpoint both the direction and the height of a rustling mouse. In laboratory tests, owls placed in completely dark rooms still struck their targets within a degree or two of the sound's source."
+  },
+  {
+    "id": "rea-key-ideas-details-038",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, what is the role of the owl's dish-shaped face?",
+    "options": [
+      "It funnels sound toward the ears.",
+      "It attracts mates.",
+      "It keeps the owl warm.",
+      "It helps the owl see in the dark."
+    ],
+    "correctIndex": 0,
+    "explanation": "The stiff facial feathers form a dish that directs sound toward the ears.",
+    "passage": "Barn owls hunt mostly at night, yet they catch prey with remarkable accuracy, even in total darkness. Their secret lies largely in their hearing. A barn owl's face is shaped like a shallow dish, and its stiff facial feathers funnel sound toward the ears. The ears themselves are set at slightly different heights on the head, so a sound reaches one ear a fraction of a second before the other and is slightly louder in one ear. The owl's brain uses these tiny differences to pinpoint both the direction and the height of a rustling mouse. In laboratory tests, owls placed in completely dark rooms still struck their targets within a degree or two of the sound's source."
+  },
+  {
+    "id": "rea-key-ideas-details-039",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Why are the owl's ears set at different heights?",
+    "options": [
+      "So one ear can rest while the other listens",
+      "So the owl can turn its head farther",
+      "So sounds reach each ear at slightly different times and volumes",
+      "So the owl can hear underwater"
+    ],
+    "correctIndex": 2,
+    "explanation": "The uneven placement creates timing and loudness differences the brain uses to locate sounds.",
+    "passage": "Barn owls hunt mostly at night, yet they catch prey with remarkable accuracy, even in total darkness. Their secret lies largely in their hearing. A barn owl's face is shaped like a shallow dish, and its stiff facial feathers funnel sound toward the ears. The ears themselves are set at slightly different heights on the head, so a sound reaches one ear a fraction of a second before the other and is slightly louder in one ear. The owl's brain uses these tiny differences to pinpoint both the direction and the height of a rustling mouse. In laboratory tests, owls placed in completely dark rooms still struck their targets within a degree or two of the sound's source."
+  },
+  {
+    "id": "rea-key-ideas-details-040",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which detail best supports the claim that owls hunt accurately in darkness?",
+    "options": [
+      "Barn owls hunt mostly at night.",
+      "In dark rooms, owls struck within a degree or two of the sound's source.",
+      "Mice rustle as they move.",
+      "The owl's feathers are stiff."
+    ],
+    "correctIndex": 1,
+    "explanation": "The laboratory result provides direct evidence of accuracy without light.",
+    "passage": "Barn owls hunt mostly at night, yet they catch prey with remarkable accuracy, even in total darkness. Their secret lies largely in their hearing. A barn owl's face is shaped like a shallow dish, and its stiff facial feathers funnel sound toward the ears. The ears themselves are set at slightly different heights on the head, so a sound reaches one ear a fraction of a second before the other and is slightly louder in one ear. The owl's brain uses these tiny differences to pinpoint both the direction and the height of a rustling mouse. In laboratory tests, owls placed in completely dark rooms still struck their targets within a degree or two of the sound's source."
+  },
+  {
+    "id": "rea-key-ideas-details-041",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "When do barn owls do most of their hunting?",
+    "options": [
+      "During rainstorms",
+      "At midday",
+      "At dawn only",
+      "At night"
+    ],
+    "correctIndex": 3,
+    "explanation": "The first sentence says barn owls hunt mostly at night.",
+    "passage": "Barn owls hunt mostly at night, yet they catch prey with remarkable accuracy, even in total darkness. Their secret lies largely in their hearing. A barn owl's face is shaped like a shallow dish, and its stiff facial feathers funnel sound toward the ears. The ears themselves are set at slightly different heights on the head, so a sound reaches one ear a fraction of a second before the other and is slightly louder in one ear. The owl's brain uses these tiny differences to pinpoint both the direction and the height of a rustling mouse. In laboratory tests, owls placed in completely dark rooms still struck their targets within a degree or two of the sound's source."
+  },
+  {
+    "id": "rea-key-ideas-details-042",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "Based on the passage, what information can an owl determine from sound alone?",
+    "options": [
+      "Only the size of its prey",
+      "Only the color of its prey",
+      "The age of its prey",
+      "Both the direction and the height of its prey"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage states the brain uses sound differences to pinpoint direction and height.",
+    "passage": "Barn owls hunt mostly at night, yet they catch prey with remarkable accuracy, even in total darkness. Their secret lies largely in their hearing. A barn owl's face is shaped like a shallow dish, and its stiff facial feathers funnel sound toward the ears. The ears themselves are set at slightly different heights on the head, so a sound reaches one ear a fraction of a second before the other and is slightly louder in one ear. The owl's brain uses these tiny differences to pinpoint both the direction and the height of a rustling mouse. In laboratory tests, owls placed in completely dark rooms still struck their targets within a degree or two of the sound's source."
+  },
+  {
+    "id": "rea-key-ideas-details-043",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the directions, what should you do immediately after washing and drying your hands?",
+    "options": [
+      "Prick the side of a fingertip.",
+      "Record the reading.",
+      "Insert a new test strip into the meter.",
+      "Squeeze the finger."
+    ],
+    "correctIndex": 2,
+    "explanation": "Step 2, inserting the test strip, follows handwashing in step 1.",
+    "passage": "How to Check Blood Glucose with a Home Meter\n1. Wash your hands with soap and warm water, then dry them completely.\n2. Insert a new test strip into the meter; the meter will turn on automatically.\n3. Use the lancing device to prick the side of a fingertip rather than the pad, which has more nerve endings.\n4. Gently squeeze the finger until a small drop of blood forms.\n5. Touch the edge of the test strip to the drop and wait for the meter to display the result.\n6. Record the reading, the time, and whether you had eaten recently.\nDispose of the used lancet in a hard plastic container. If your reading is below 70 mg/dL, eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes."
+  },
+  {
+    "id": "rea-key-ideas-details-044",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Why do the directions recommend pricking the side of the fingertip?",
+    "options": [
+      "The meter can read only side samples.",
+      "The side bleeds more slowly.",
+      "The pad is harder to clean.",
+      "The pad has more nerve endings, so the side is less painful."
+    ],
+    "correctIndex": 3,
+    "explanation": "Step 3 explains that the pad has more nerve endings.",
+    "passage": "How to Check Blood Glucose with a Home Meter\n1. Wash your hands with soap and warm water, then dry them completely.\n2. Insert a new test strip into the meter; the meter will turn on automatically.\n3. Use the lancing device to prick the side of a fingertip rather than the pad, which has more nerve endings.\n4. Gently squeeze the finger until a small drop of blood forms.\n5. Touch the edge of the test strip to the drop and wait for the meter to display the result.\n6. Record the reading, the time, and whether you had eaten recently.\nDispose of the used lancet in a hard plastic container. If your reading is below 70 mg/dL, eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes."
+  },
+  {
+    "id": "rea-key-ideas-details-045",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Where should the used lancet be disposed of?",
+    "options": [
+      "In a paper bag",
+      "In the meter case",
+      "In a hard plastic container",
+      "In a recycling bin"
+    ],
+    "correctIndex": 2,
+    "explanation": "The directions say to dispose of the lancet in a hard plastic container.",
+    "passage": "How to Check Blood Glucose with a Home Meter\n1. Wash your hands with soap and warm water, then dry them completely.\n2. Insert a new test strip into the meter; the meter will turn on automatically.\n3. Use the lancing device to prick the side of a fingertip rather than the pad, which has more nerve endings.\n4. Gently squeeze the finger until a small drop of blood forms.\n5. Touch the edge of the test strip to the drop and wait for the meter to display the result.\n6. Record the reading, the time, and whether you had eaten recently.\nDispose of the used lancet in a hard plastic container. If your reading is below 70 mg/dL, eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes."
+  },
+  {
+    "id": "rea-key-ideas-details-046",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "A person's reading is 62 mg/dL. What should the person do next?",
+    "options": [
+      "Eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes.",
+      "Discard the meter.",
+      "Do nothing because the reading is normal.",
+      "Wash hands and test again right away."
+    ],
+    "correctIndex": 0,
+    "explanation": "62 is below 70 mg/dL, which triggers the instruction to take fast-acting sugar and recheck.",
+    "passage": "How to Check Blood Glucose with a Home Meter\n1. Wash your hands with soap and warm water, then dry them completely.\n2. Insert a new test strip into the meter; the meter will turn on automatically.\n3. Use the lancing device to prick the side of a fingertip rather than the pad, which has more nerve endings.\n4. Gently squeeze the finger until a small drop of blood forms.\n5. Touch the edge of the test strip to the drop and wait for the meter to display the result.\n6. Record the reading, the time, and whether you had eaten recently.\nDispose of the used lancet in a hard plastic container. If your reading is below 70 mg/dL, eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes."
+  },
+  {
+    "id": "rea-key-ideas-details-047",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which information is the person told to record along with the reading?",
+    "options": [
+      "The color of the blood drop",
+      "The time and whether they had eaten recently",
+      "The room temperature",
+      "The strip's serial number"
+    ],
+    "correctIndex": 1,
+    "explanation": "Step 6 lists the reading, the time, and recent eating.",
+    "passage": "How to Check Blood Glucose with a Home Meter\n1. Wash your hands with soap and warm water, then dry them completely.\n2. Insert a new test strip into the meter; the meter will turn on automatically.\n3. Use the lancing device to prick the side of a fingertip rather than the pad, which has more nerve endings.\n4. Gently squeeze the finger until a small drop of blood forms.\n5. Touch the edge of the test strip to the drop and wait for the meter to display the result.\n6. Record the reading, the time, and whether you had eaten recently.\nDispose of the used lancet in a hard plastic container. If your reading is below 70 mg/dL, eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes."
+  },
+  {
+    "id": "rea-key-ideas-details-048",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "Which step would be skipped if a person forgot to insert the test strip first?",
+    "options": [
+      "The hands would not be clean.",
+      "The finger would not bleed.",
+      "The lancing device would not work.",
+      "The meter would not turn on to read the blood sample."
+    ],
+    "correctIndex": 3,
+    "explanation": "Step 2 says inserting the strip turns the meter on, so without it the result cannot be displayed.",
+    "passage": "How to Check Blood Glucose with a Home Meter\n1. Wash your hands with soap and warm water, then dry them completely.\n2. Insert a new test strip into the meter; the meter will turn on automatically.\n3. Use the lancing device to prick the side of a fingertip rather than the pad, which has more nerve endings.\n4. Gently squeeze the finger until a small drop of blood forms.\n5. Touch the edge of the test strip to the drop and wait for the meter to display the result.\n6. Record the reading, the time, and whether you had eaten recently.\nDispose of the used lancet in a hard plastic container. If your reading is below 70 mg/dL, eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes."
+  },
+  {
+    "id": "rea-key-ideas-details-049",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Where did the Harlow library begin?",
+    "options": [
+      "In a brick building on Main Street",
+      "In a school classroom",
+      "In a farmer's barn",
+      "On a shelf in the back of a general store"
+    ],
+    "correctIndex": 3,
+    "explanation": "The first sentence says it began as a shelf of donated books in a general store.",
+    "passage": "The public library in Harlow began as a single shelf of donated books in the back of a general store in 1889. Farmers who came to town for supplies could borrow a book and return it on their next visit. As the town grew, the collection outgrew the shelf, and in 1912 residents raised money to build a small brick library on Main Street. For decades it served as more than a place to read: it hosted citizenship classes for new immigrants, a weekly story hour for children, and, during the 1930s, a free lunch program. In 1998 a new building opened with computers and meeting rooms, and the old brick library became the town's history museum."
+  },
+  {
+    "id": "rea-key-ideas-details-050",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What is the main idea of the passage?",
+    "options": [
+      "The Harlow library grew from a small collection into an important community institution.",
+      "Museums are more useful than libraries.",
+      "Farmers in Harlow rarely read books.",
+      "The 1930s were hard for Harlow."
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage follows the library's growth and its many community roles.",
+    "passage": "The public library in Harlow began as a single shelf of donated books in the back of a general store in 1889. Farmers who came to town for supplies could borrow a book and return it on their next visit. As the town grew, the collection outgrew the shelf, and in 1912 residents raised money to build a small brick library on Main Street. For decades it served as more than a place to read: it hosted citizenship classes for new immigrants, a weekly story hour for children, and, during the 1930s, a free lunch program. In 1998 a new building opened with computers and meeting rooms, and the old brick library became the town's history museum."
+  },
+  {
+    "id": "rea-key-ideas-details-051",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which detail shows that the library served purposes beyond lending books?",
+    "options": [
+      "It was made of brick.",
+      "Farmers borrowed books on visits.",
+      "It opened on Main Street.",
+      "It hosted citizenship classes for new immigrants."
+    ],
+    "correctIndex": 3,
+    "explanation": "Citizenship classes, story hour, and a lunch program are services beyond reading.",
+    "passage": "The public library in Harlow began as a single shelf of donated books in the back of a general store in 1889. Farmers who came to town for supplies could borrow a book and return it on their next visit. As the town grew, the collection outgrew the shelf, and in 1912 residents raised money to build a small brick library on Main Street. For decades it served as more than a place to read: it hosted citizenship classes for new immigrants, a weekly story hour for children, and, during the 1930s, a free lunch program. In 1998 a new building opened with computers and meeting rooms, and the old brick library became the town's history museum."
+  },
+  {
+    "id": "rea-key-ideas-details-052",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "In what year did residents build the brick library?",
+    "options": [
+      "1930",
+      "1889",
+      "1998",
+      "1912"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage says residents raised money to build it in 1912.",
+    "passage": "The public library in Harlow began as a single shelf of donated books in the back of a general store in 1889. Farmers who came to town for supplies could borrow a book and return it on their next visit. As the town grew, the collection outgrew the shelf, and in 1912 residents raised money to build a small brick library on Main Street. For decades it served as more than a place to read: it hosted citizenship classes for new immigrants, a weekly story hour for children, and, during the 1930s, a free lunch program. In 1998 a new building opened with computers and meeting rooms, and the old brick library became the town's history museum."
+  },
+  {
+    "id": "rea-key-ideas-details-053",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What happened to the old brick building after 1998?",
+    "options": [
+      "It was torn down.",
+      "It became a school.",
+      "It became a general store.",
+      "It became the town's history museum."
+    ],
+    "correctIndex": 3,
+    "explanation": "The final sentence says the old library became the history museum.",
+    "passage": "The public library in Harlow began as a single shelf of donated books in the back of a general store in 1889. Farmers who came to town for supplies could borrow a book and return it on their next visit. As the town grew, the collection outgrew the shelf, and in 1912 residents raised money to build a small brick library on Main Street. For decades it served as more than a place to read: it hosted citizenship classes for new immigrants, a weekly story hour for children, and, during the 1930s, a free lunch program. In 1998 a new building opened with computers and meeting rooms, and the old brick library became the town's history museum."
+  },
+  {
+    "id": "rea-key-ideas-details-054",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "Why did farmers return borrowed books on their next visit to town?",
+    "options": [
+      "The library was open only once a year.",
+      "The store charged daily late fees.",
+      "They came to town periodically for supplies and borrowed when they visited.",
+      "They were required to by law."
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage links borrowing to supply trips, implying the visits set the lending schedule.",
+    "passage": "The public library in Harlow began as a single shelf of donated books in the back of a general store in 1889. Farmers who came to town for supplies could borrow a book and return it on their next visit. As the town grew, the collection outgrew the shelf, and in 1912 residents raised money to build a small brick library on Main Street. For decades it served as more than a place to read: it hosted citizenship classes for new immigrants, a weekly story hour for children, and, during the 1930s, a free lunch program. In 1998 a new building opened with computers and meeting rooms, and the old brick library became the town's history museum."
+  },
+  {
+    "id": "rea-key-ideas-details-055",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the passage, how small are microplastics?",
+    "options": [
+      "Exactly one centimeter",
+      "Smaller than five millimeters",
+      "Larger than a bottle cap",
+      "Smaller than one meter"
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage defines microplastics as fragments smaller than five millimeters.",
+    "passage": "Microplastics are plastic fragments smaller than five millimeters, roughly the size of a sesame seed or smaller. Some are manufactured at that size, such as the tiny beads once common in face scrubs. Most, however, form when larger items like bottles, bags, and synthetic clothing break down from sunlight, heat, and friction. Because they are so small, microplastics travel easily through wastewater treatment plants and into rivers and oceans. Scientists have found them in sea ice, deep-ocean sediments, drinking water, and even the air. Researchers are still studying how microplastics affect human health, but several countries have already banned plastic microbeads in personal care products as a precaution."
+  },
+  {
+    "id": "rea-key-ideas-details-056",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, how do most microplastics form?",
+    "options": [
+      "Larger plastic items break down from sunlight, heat, and friction.",
+      "They are manufactured for face scrubs.",
+      "They grow naturally in the ocean.",
+      "They form in drinking-water pipes."
+    ],
+    "correctIndex": 0,
+    "explanation": "Although some are made small, most come from larger items breaking down.",
+    "passage": "Microplastics are plastic fragments smaller than five millimeters, roughly the size of a sesame seed or smaller. Some are manufactured at that size, such as the tiny beads once common in face scrubs. Most, however, form when larger items like bottles, bags, and synthetic clothing break down from sunlight, heat, and friction. Because they are so small, microplastics travel easily through wastewater treatment plants and into rivers and oceans. Scientists have found them in sea ice, deep-ocean sediments, drinking water, and even the air. Researchers are still studying how microplastics affect human health, but several countries have already banned plastic microbeads in personal care products as a precaution."
+  },
+  {
+    "id": "rea-key-ideas-details-057",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Why do microplastics pass through wastewater treatment plants?",
+    "options": [
+      "They are too small to be easily filtered out.",
+      "The plants are designed to release them.",
+      "They dissolve in water.",
+      "They float above the plants."
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage connects their small size to their ability to travel through treatment plants.",
+    "passage": "Microplastics are plastic fragments smaller than five millimeters, roughly the size of a sesame seed or smaller. Some are manufactured at that size, such as the tiny beads once common in face scrubs. Most, however, form when larger items like bottles, bags, and synthetic clothing break down from sunlight, heat, and friction. Because they are so small, microplastics travel easily through wastewater treatment plants and into rivers and oceans. Scientists have found them in sea ice, deep-ocean sediments, drinking water, and even the air. Researchers are still studying how microplastics affect human health, but several countries have already banned plastic microbeads in personal care products as a precaution."
+  },
+  {
+    "id": "rea-key-ideas-details-058",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Which location is NOT named as a place where microplastics have been found?",
+    "options": [
+      "Drinking water",
+      "Inside volcanic rock",
+      "The air",
+      "Sea ice"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sea ice, ocean sediments, drinking water, and air are listed; volcanic rock is not.",
+    "passage": "Microplastics are plastic fragments smaller than five millimeters, roughly the size of a sesame seed or smaller. Some are manufactured at that size, such as the tiny beads once common in face scrubs. Most, however, form when larger items like bottles, bags, and synthetic clothing break down from sunlight, heat, and friction. Because they are so small, microplastics travel easily through wastewater treatment plants and into rivers and oceans. Scientists have found them in sea ice, deep-ocean sediments, drinking water, and even the air. Researchers are still studying how microplastics affect human health, but several countries have already banned plastic microbeads in personal care products as a precaution."
+  },
+  {
+    "id": "rea-key-ideas-details-059",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "What does the passage suggest about why some countries banned microbeads?",
+    "options": [
+      "Microbeads were too expensive to make.",
+      "They acted as a precaution before health effects were fully known.",
+      "Microbeads were proven to cause cancer.",
+      "Consumers stopped buying face scrubs."
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage notes research is ongoing and describes the bans as a precaution.",
+    "passage": "Microplastics are plastic fragments smaller than five millimeters, roughly the size of a sesame seed or smaller. Some are manufactured at that size, such as the tiny beads once common in face scrubs. Most, however, form when larger items like bottles, bags, and synthetic clothing break down from sunlight, heat, and friction. Because they are so small, microplastics travel easily through wastewater treatment plants and into rivers and oceans. Scientists have found them in sea ice, deep-ocean sediments, drinking water, and even the air. Researchers are still studying how microplastics affect human health, but several countries have already banned plastic microbeads in personal care products as a precaution."
+  },
+  {
+    "id": "rea-key-ideas-details-060",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which sentence best summarizes the passage?",
+    "options": [
+      "Face scrubs are the main cause of ocean pollution.",
+      "Tiny plastic fragments, mostly from breaking-down products, now appear throughout the environment.",
+      "Microplastics have been removed from oceans.",
+      "Plastic bags are the only source of pollution."
+    ],
+    "correctIndex": 1,
+    "explanation": "The summary captures what microplastics are, where they come from, and how widespread they are.",
+    "passage": "Microplastics are plastic fragments smaller than five millimeters, roughly the size of a sesame seed or smaller. Some are manufactured at that size, such as the tiny beads once common in face scrubs. Most, however, form when larger items like bottles, bags, and synthetic clothing break down from sunlight, heat, and friction. Because they are so small, microplastics travel easily through wastewater treatment plants and into rivers and oceans. Scientists have found them in sea ice, deep-ocean sediments, drinking water, and even the air. Researchers are still studying how microplastics affect human health, but several countries have already banned plastic microbeads in personal care products as a precaution."
+  },
+  {
+    "id": "rea-key-ideas-details-061",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "How many pieces of advice did Kenji's sister give him?",
+    "options": [
+      "Five",
+      "Two",
+      "Four",
+      "Three"
+    ],
+    "correctIndex": 3,
+    "explanation": "The first sentence states she gave him three pieces of advice.",
+    "passage": "Before Kenji's interview for the hospital volunteer program, his older sister gave him three pieces of advice. First, she told him to research the hospital so he could explain why he wanted to serve there in particular. Second, she suggested he prepare a short story about a time he helped someone, because interviewers remember examples better than general claims. Finally, she reminded him to arrive ten minutes early. Kenji followed all three suggestions. When the coordinator asked why he had chosen this hospital, he mentioned its new pediatric wing and described tutoring his younger cousin through a long illness. Two days later, he received an email welcoming him to the program."
+  },
+  {
+    "id": "rea-key-ideas-details-062",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, why did the sister suggest preparing a story?",
+    "options": [
+      "Stories make interviews shorter.",
+      "The coordinator required a written essay.",
+      "Stories are easier to memorize than facts.",
+      "Interviewers remember examples better than general claims."
+    ],
+    "correctIndex": 3,
+    "explanation": "She explains that examples are more memorable than general claims.",
+    "passage": "Before Kenji's interview for the hospital volunteer program, his older sister gave him three pieces of advice. First, she told him to research the hospital so he could explain why he wanted to serve there in particular. Second, she suggested he prepare a short story about a time he helped someone, because interviewers remember examples better than general claims. Finally, she reminded him to arrive ten minutes early. Kenji followed all three suggestions. When the coordinator asked why he had chosen this hospital, he mentioned its new pediatric wing and described tutoring his younger cousin through a long illness. Two days later, he received an email welcoming him to the program."
+  },
+  {
+    "id": "rea-key-ideas-details-063",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which detail shows that Kenji researched the hospital?",
+    "options": [
+      "He mentioned its new pediatric wing.",
+      "He tutored his cousin.",
+      "He arrived ten minutes early.",
+      "He received an email two days later."
+    ],
+    "correctIndex": 0,
+    "explanation": "Knowing about the pediatric wing reflects research on the specific hospital.",
+    "passage": "Before Kenji's interview for the hospital volunteer program, his older sister gave him three pieces of advice. First, she told him to research the hospital so he could explain why he wanted to serve there in particular. Second, she suggested he prepare a short story about a time he helped someone, because interviewers remember examples better than general claims. Finally, she reminded him to arrive ten minutes early. Kenji followed all three suggestions. When the coordinator asked why he had chosen this hospital, he mentioned its new pediatric wing and described tutoring his younger cousin through a long illness. Two days later, he received an email welcoming him to the program."
+  },
+  {
+    "id": "rea-key-ideas-details-064",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What was the result of Kenji's interview?",
+    "options": [
+      "He was welcomed into the volunteer program.",
+      "He was asked to interview again.",
+      "He decided not to volunteer.",
+      "He was placed on a waiting list."
+    ],
+    "correctIndex": 0,
+    "explanation": "Two days later, he received an email welcoming him to the program.",
+    "passage": "Before Kenji's interview for the hospital volunteer program, his older sister gave him three pieces of advice. First, she told him to research the hospital so he could explain why he wanted to serve there in particular. Second, she suggested he prepare a short story about a time he helped someone, because interviewers remember examples better than general claims. Finally, she reminded him to arrive ten minutes early. Kenji followed all three suggestions. When the coordinator asked why he had chosen this hospital, he mentioned its new pediatric wing and described tutoring his younger cousin through a long illness. Two days later, he received an email welcoming him to the program."
+  },
+  {
+    "id": "rea-key-ideas-details-065",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "What can be inferred about the sister's advice?",
+    "options": [
+      "It made Kenji late.",
+      "It was ignored by Kenji.",
+      "It likely helped Kenji succeed in the interview.",
+      "It was unrelated to the interview questions."
+    ],
+    "correctIndex": 2,
+    "explanation": "Kenji followed each suggestion, used them in his answers, and was accepted.",
+    "passage": "Before Kenji's interview for the hospital volunteer program, his older sister gave him three pieces of advice. First, she told him to research the hospital so he could explain why he wanted to serve there in particular. Second, she suggested he prepare a short story about a time he helped someone, because interviewers remember examples better than general claims. Finally, she reminded him to arrive ten minutes early. Kenji followed all three suggestions. When the coordinator asked why he had chosen this hospital, he mentioned its new pediatric wing and described tutoring his younger cousin through a long illness. Two days later, he received an email welcoming him to the program."
+  },
+  {
+    "id": "rea-key-ideas-details-066",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Which story did Kenji tell the coordinator?",
+    "options": [
+      "Volunteering at a food bank",
+      "Tutoring his younger cousin through a long illness",
+      "Coaching a soccer team",
+      "Caring for a neighbor's pet"
+    ],
+    "correctIndex": 1,
+    "explanation": "He described tutoring his younger cousin during a long illness.",
+    "passage": "Before Kenji's interview for the hospital volunteer program, his older sister gave him three pieces of advice. First, she told him to research the hospital so he could explain why he wanted to serve there in particular. Second, she suggested he prepare a short story about a time he helped someone, because interviewers remember examples better than general claims. Finally, she reminded him to arrive ten minutes early. Kenji followed all three suggestions. When the coordinator asked why he had chosen this hospital, he mentioned its new pediatric wing and described tutoring his younger cousin through a long illness. Two days later, he received an email welcoming him to the program."
+  },
+  {
+    "id": "rea-key-ideas-details-067",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What is the main idea of the passage?",
+    "options": [
+      "Refrigeration was invented to replace salt.",
+      "Bacteria need salt to grow.",
+      "Salt is mined only in the Sahara.",
+      "Salt was once extremely valuable, though today it is cheap and often overused."
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage contrasts salt's historical value with its low cost and health concerns today.",
+    "passage": "For centuries, salt was so valuable that it shaped trade routes and even wars. Before refrigeration, salting was one of the few reliable ways to preserve meat and fish through the winter. Salt draws water out of food, and without water, most bacteria cannot grow. Cities near salt deposits grew wealthy, and governments often taxed salt heavily because everyone needed it. Caravans carried blocks of salt across the Sahara Desert, where it was sometimes traded for gold of equal weight. Today salt is cheap and plentiful, and health experts more often worry that people eat too much of it, since high sodium intake is linked to high blood pressure."
+  },
+  {
+    "id": "rea-key-ideas-details-068",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, how does salt preserve food?",
+    "options": [
+      "It freezes the food.",
+      "It adds vitamins to the food.",
+      "It kills all bacteria instantly by heat.",
+      "It draws water out of the food so bacteria cannot grow."
+    ],
+    "correctIndex": 3,
+    "explanation": "Salt removes water, and without water most bacteria cannot grow.",
+    "passage": "For centuries, salt was so valuable that it shaped trade routes and even wars. Before refrigeration, salting was one of the few reliable ways to preserve meat and fish through the winter. Salt draws water out of food, and without water, most bacteria cannot grow. Cities near salt deposits grew wealthy, and governments often taxed salt heavily because everyone needed it. Caravans carried blocks of salt across the Sahara Desert, where it was sometimes traded for gold of equal weight. Today salt is cheap and plentiful, and health experts more often worry that people eat too much of it, since high sodium intake is linked to high blood pressure."
+  },
+  {
+    "id": "rea-key-ideas-details-069",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Why did governments often tax salt heavily?",
+    "options": [
+      "It was found only in cities.",
+      "It was dangerous.",
+      "It was made from gold.",
+      "Everyone needed it."
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage says governments taxed salt because everyone needed it.",
+    "passage": "For centuries, salt was so valuable that it shaped trade routes and even wars. Before refrigeration, salting was one of the few reliable ways to preserve meat and fish through the winter. Salt draws water out of food, and without water, most bacteria cannot grow. Cities near salt deposits grew wealthy, and governments often taxed salt heavily because everyone needed it. Caravans carried blocks of salt across the Sahara Desert, where it was sometimes traded for gold of equal weight. Today salt is cheap and plentiful, and health experts more often worry that people eat too much of it, since high sodium intake is linked to high blood pressure."
+  },
+  {
+    "id": "rea-key-ideas-details-070",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What was salt sometimes traded for in the Sahara?",
+    "options": [
+      "Fresh water",
+      "Gold of equal weight",
+      "Camels",
+      "Silk cloth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Caravans sometimes traded salt for gold of equal weight.",
+    "passage": "For centuries, salt was so valuable that it shaped trade routes and even wars. Before refrigeration, salting was one of the few reliable ways to preserve meat and fish through the winter. Salt draws water out of food, and without water, most bacteria cannot grow. Cities near salt deposits grew wealthy, and governments often taxed salt heavily because everyone needed it. Caravans carried blocks of salt across the Sahara Desert, where it was sometimes traded for gold of equal weight. Today salt is cheap and plentiful, and health experts more often worry that people eat too much of it, since high sodium intake is linked to high blood pressure."
+  },
+  {
+    "id": "rea-key-ideas-details-071",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What health concern about salt is mentioned?",
+    "options": [
+      "Salt causes tooth decay.",
+      "High sodium intake is linked to high blood pressure.",
+      "Salt prevents vitamin absorption.",
+      "Salt causes food allergies."
+    ],
+    "correctIndex": 1,
+    "explanation": "The last sentence connects high sodium intake with high blood pressure.",
+    "passage": "For centuries, salt was so valuable that it shaped trade routes and even wars. Before refrigeration, salting was one of the few reliable ways to preserve meat and fish through the winter. Salt draws water out of food, and without water, most bacteria cannot grow. Cities near salt deposits grew wealthy, and governments often taxed salt heavily because everyone needed it. Caravans carried blocks of salt across the Sahara Desert, where it was sometimes traded for gold of equal weight. Today salt is cheap and plentiful, and health experts more often worry that people eat too much of it, since high sodium intake is linked to high blood pressure."
+  },
+  {
+    "id": "rea-key-ideas-details-072",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "What can be inferred about why salt became cheap?",
+    "options": [
+      "Salt deposits disappeared.",
+      "Modern methods such as refrigeration reduced its importance and it became plentiful.",
+      "Governments banned salt.",
+      "People stopped cooking with salt."
+    ],
+    "correctIndex": 1,
+    "explanation": "Refrigeration replaced salting for preservation, and the passage describes salt as plentiful today.",
+    "passage": "For centuries, salt was so valuable that it shaped trade routes and even wars. Before refrigeration, salting was one of the few reliable ways to preserve meat and fish through the winter. Salt draws water out of food, and without water, most bacteria cannot grow. Cities near salt deposits grew wealthy, and governments often taxed salt heavily because everyone needed it. Caravans carried blocks of salt across the Sahara Desert, where it was sometimes traded for gold of equal weight. Today salt is cheap and plentiful, and health experts more often worry that people eat too much of it, since high sodium intake is linked to high blood pressure."
+  },
+  {
+    "id": "rea-key-ideas-details-073",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "According to the procedure, which patients should staff assist first?",
+    "options": [
+      "Those nearest who cannot walk on their own",
+      "Those farthest from the exit",
+      "Only patients in the waiting room",
+      "Patients who are walking"
+    ],
+    "correctIndex": 0,
+    "explanation": "Staff should begin with nearby patients who cannot walk.",
+    "passage": "Fire Evacuation Procedure for Clinic Staff\nWhen the alarm sounds, stop all non-emergency tasks. Assist patients nearest to you first, beginning with those who cannot walk on their own. Close every door you pass to slow the spread of smoke, but do not lock them. Do not use the elevators; use the marked stairwells instead. Once outside, report to the assembly point in the north parking lot and check in with your supervisor so everyone can be accounted for. Do not reenter the building until the fire department gives the all-clear, even if the alarm stops. Review the floor map posted by each exit at the start of every shift."
+  },
+  {
+    "id": "rea-key-ideas-details-074",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Why should staff close doors as they leave?",
+    "options": [
+      "To keep patients from leaving",
+      "To protect equipment from theft",
+      "To make the alarm louder",
+      "To slow the spread of smoke"
+    ],
+    "correctIndex": 3,
+    "explanation": "The procedure says closing doors slows the spread of smoke.",
+    "passage": "Fire Evacuation Procedure for Clinic Staff\nWhen the alarm sounds, stop all non-emergency tasks. Assist patients nearest to you first, beginning with those who cannot walk on their own. Close every door you pass to slow the spread of smoke, but do not lock them. Do not use the elevators; use the marked stairwells instead. Once outside, report to the assembly point in the north parking lot and check in with your supervisor so everyone can be accounted for. Do not reenter the building until the fire department gives the all-clear, even if the alarm stops. Review the floor map posted by each exit at the start of every shift."
+  },
+  {
+    "id": "rea-key-ideas-details-075",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Which route should staff use to leave the building?",
+    "options": [
+      "Any window",
+      "The loading dock ramp only",
+      "The marked stairwells",
+      "The elevators"
+    ],
+    "correctIndex": 2,
+    "explanation": "The procedure says not to use elevators but to use marked stairwells.",
+    "passage": "Fire Evacuation Procedure for Clinic Staff\nWhen the alarm sounds, stop all non-emergency tasks. Assist patients nearest to you first, beginning with those who cannot walk on their own. Close every door you pass to slow the spread of smoke, but do not lock them. Do not use the elevators; use the marked stairwells instead. Once outside, report to the assembly point in the north parking lot and check in with your supervisor so everyone can be accounted for. Do not reenter the building until the fire department gives the all-clear, even if the alarm stops. Review the floor map posted by each exit at the start of every shift."
+  },
+  {
+    "id": "rea-key-ideas-details-076",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What should a staff member do after reaching the north parking lot?",
+    "options": [
+      "Return for personal items.",
+      "Call each patient's family.",
+      "Check in with a supervisor.",
+      "Go home immediately."
+    ],
+    "correctIndex": 2,
+    "explanation": "Checking in allows everyone to be accounted for.",
+    "passage": "Fire Evacuation Procedure for Clinic Staff\nWhen the alarm sounds, stop all non-emergency tasks. Assist patients nearest to you first, beginning with those who cannot walk on their own. Close every door you pass to slow the spread of smoke, but do not lock them. Do not use the elevators; use the marked stairwells instead. Once outside, report to the assembly point in the north parking lot and check in with your supervisor so everyone can be accounted for. Do not reenter the building until the fire department gives the all-clear, even if the alarm stops. Review the floor map posted by each exit at the start of every shift."
+  },
+  {
+    "id": "rea-key-ideas-details-077",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "The alarm stops ringing while staff are outside. What should they do?",
+    "options": [
+      "Ask a patient whether it is safe.",
+      "Reenter through the stairwells only.",
+      "Wait for the fire department's all-clear before reentering.",
+      "Reenter right away."
+    ],
+    "correctIndex": 2,
+    "explanation": "The procedure says not to reenter until the fire department gives the all-clear, even if the alarm stops.",
+    "passage": "Fire Evacuation Procedure for Clinic Staff\nWhen the alarm sounds, stop all non-emergency tasks. Assist patients nearest to you first, beginning with those who cannot walk on their own. Close every door you pass to slow the spread of smoke, but do not lock them. Do not use the elevators; use the marked stairwells instead. Once outside, report to the assembly point in the north parking lot and check in with your supervisor so everyone can be accounted for. Do not reenter the building until the fire department gives the all-clear, even if the alarm stops. Review the floor map posted by each exit at the start of every shift."
+  },
+  {
+    "id": "rea-key-ideas-details-078",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "Why are doors closed but not locked?",
+    "options": [
+      "So no one can return to the building",
+      "So patients stay in their rooms",
+      "So the alarm will reset",
+      "So smoke is slowed while people and firefighters can still pass through"
+    ],
+    "correctIndex": 3,
+    "explanation": "Closing slows smoke, but locking could trap people or block responders.",
+    "passage": "Fire Evacuation Procedure for Clinic Staff\nWhen the alarm sounds, stop all non-emergency tasks. Assist patients nearest to you first, beginning with those who cannot walk on their own. Close every door you pass to slow the spread of smoke, but do not lock them. Do not use the elevators; use the marked stairwells instead. Once outside, report to the assembly point in the north parking lot and check in with your supervisor so everyone can be accounted for. Do not reenter the building until the fire department gives the all-clear, even if the alarm stops. Review the floor map posted by each exit at the start of every shift."
+  },
+  {
+    "id": "rea-key-ideas-details-079",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Why are beavers called ecosystem engineers?",
+    "options": [
+      "They design human bridges.",
+      "They live only in engineered canals.",
+      "They remove all trees from forests.",
+      "They change their surroundings dramatically by building dams."
+    ],
+    "correctIndex": 3,
+    "explanation": "The first sentences explain that their dams reshape their environment.",
+    "passage": "Beavers are sometimes called ecosystem engineers because few animals change their surroundings as dramatically. By felling trees and piling branches and mud across streams, beavers build dams that create ponds. These ponds give the beavers deep water in which to build lodges safe from predators. The ponds also help many other species. Slower water allows sediment to settle, which can make the water downstream clearer. Wetlands form around the edges, providing habitat for frogs, ducks, and insects. During droughts, beaver ponds hold water that would otherwise drain away. However, beaver dams can also flood roads and farmland, so some communities install pipes that keep pond levels low without removing the beavers."
+  },
+  {
+    "id": "rea-key-ideas-details-080",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "According to the passage, what is one benefit of beaver ponds for the beavers themselves?",
+    "options": [
+      "Warmer water for swimming",
+      "Easier access to roads",
+      "Deep water for lodges safe from predators",
+      "More sunlight for sleeping"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ponds give beavers deep water for safe lodges.",
+    "passage": "Beavers are sometimes called ecosystem engineers because few animals change their surroundings as dramatically. By felling trees and piling branches and mud across streams, beavers build dams that create ponds. These ponds give the beavers deep water in which to build lodges safe from predators. The ponds also help many other species. Slower water allows sediment to settle, which can make the water downstream clearer. Wetlands form around the edges, providing habitat for frogs, ducks, and insects. During droughts, beaver ponds hold water that would otherwise drain away. However, beaver dams can also flood roads and farmland, so some communities install pipes that keep pond levels low without removing the beavers."
+  },
+  {
+    "id": "rea-key-ideas-details-081",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "How can beaver ponds make downstream water clearer?",
+    "options": [
+      "Slower water lets sediment settle.",
+      "Fish eat the sediment.",
+      "The dams add chemicals.",
+      "Beavers filter the water."
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage states slower water allows sediment to settle.",
+    "passage": "Beavers are sometimes called ecosystem engineers because few animals change their surroundings as dramatically. By felling trees and piling branches and mud across streams, beavers build dams that create ponds. These ponds give the beavers deep water in which to build lodges safe from predators. The ponds also help many other species. Slower water allows sediment to settle, which can make the water downstream clearer. Wetlands form around the edges, providing habitat for frogs, ducks, and insects. During droughts, beaver ponds hold water that would otherwise drain away. However, beaver dams can also flood roads and farmland, so some communities install pipes that keep pond levels low without removing the beavers."
+  },
+  {
+    "id": "rea-key-ideas-details-082",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "Which animals are named as using wetlands around beaver ponds?",
+    "options": [
+      "Sharks, crabs, and whales",
+      "Hawks, owls, and bats",
+      "Frogs, ducks, and insects",
+      "Bears, wolves, and deer"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage lists frogs, ducks, and insects.",
+    "passage": "Beavers are sometimes called ecosystem engineers because few animals change their surroundings as dramatically. By felling trees and piling branches and mud across streams, beavers build dams that create ponds. These ponds give the beavers deep water in which to build lodges safe from predators. The ponds also help many other species. Slower water allows sediment to settle, which can make the water downstream clearer. Wetlands form around the edges, providing habitat for frogs, ducks, and insects. During droughts, beaver ponds hold water that would otherwise drain away. However, beaver dams can also flood roads and farmland, so some communities install pipes that keep pond levels low without removing the beavers."
+  },
+  {
+    "id": "rea-key-ideas-details-083",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "How do some communities address flooding from beaver dams?",
+    "options": [
+      "They relocate every beaver.",
+      "They pave over the wetlands.",
+      "They install pipes that lower pond levels while the beavers stay.",
+      "They destroy all dams each year."
+    ],
+    "correctIndex": 2,
+    "explanation": "The last sentence describes pipes that keep pond levels low without removing beavers.",
+    "passage": "Beavers are sometimes called ecosystem engineers because few animals change their surroundings as dramatically. By felling trees and piling branches and mud across streams, beavers build dams that create ponds. These ponds give the beavers deep water in which to build lodges safe from predators. The ponds also help many other species. Slower water allows sediment to settle, which can make the water downstream clearer. Wetlands form around the edges, providing habitat for frogs, ducks, and insects. During droughts, beaver ponds hold water that would otherwise drain away. However, beaver dams can also flood roads and farmland, so some communities install pipes that keep pond levels low without removing the beavers."
+  },
+  {
+    "id": "rea-key-ideas-details-084",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "What do beaver ponds do during droughts?",
+    "options": [
+      "Dry up faster than streams",
+      "Hold water that would otherwise drain away",
+      "Become saltwater",
+      "Cause floods"
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage says ponds hold water during droughts.",
+    "passage": "Beavers are sometimes called ecosystem engineers because few animals change their surroundings as dramatically. By felling trees and piling branches and mud across streams, beavers build dams that create ponds. These ponds give the beavers deep water in which to build lodges safe from predators. The ponds also help many other species. Slower water allows sediment to settle, which can make the water downstream clearer. Wetlands form around the edges, providing habitat for frogs, ducks, and insects. During droughts, beaver ponds hold water that would otherwise drain away. However, beaver dams can also flood roads and farmland, so some communities install pipes that keep pond levels low without removing the beavers."
+  },
+  {
+    "id": "rea-key-ideas-details-085",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "How many weeks will each student spend at Oak Ridge Care Center?",
+    "options": [
+      "Eight weeks",
+      "Four weeks",
+      "Six weeks",
+      "Two weeks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Students spend four weeks at each site.",
+    "passage": "Starting next month, the nursing assistant program will use a new clinical rotation schedule. Instead of spending all eight weeks at one site, each student will spend four weeks at Valley Hospital and four weeks at Oak Ridge Care Center. Students in Group A will begin at Valley Hospital; students in Group B will begin at Oak Ridge. Group lists will be posted on the program website by Friday. Shifts at both sites run from 6:45 a.m. to 3:15 p.m. Students must complete a site orientation before their first shift at each location. Orientation sessions are offered every Monday at 1:00 p.m. Any student who misses orientation will not be allowed to begin clinical hours until it is completed."
+  },
+  {
+    "id": "rea-key-ideas-details-086",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "easy",
+    "question": "Where will students in Group B begin their rotation?",
+    "options": [
+      "Valley Hospital",
+      "Oak Ridge Care Center",
+      "The program website",
+      "Either site they choose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Group B begins at Oak Ridge.",
+    "passage": "Starting next month, the nursing assistant program will use a new clinical rotation schedule. Instead of spending all eight weeks at one site, each student will spend four weeks at Valley Hospital and four weeks at Oak Ridge Care Center. Students in Group A will begin at Valley Hospital; students in Group B will begin at Oak Ridge. Group lists will be posted on the program website by Friday. Shifts at both sites run from 6:45 a.m. to 3:15 p.m. Students must complete a site orientation before their first shift at each location. Orientation sessions are offered every Monday at 1:00 p.m. Any student who misses orientation will not be allowed to begin clinical hours until it is completed."
+  },
+  {
+    "id": "rea-key-ideas-details-087",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "When are orientation sessions offered?",
+    "options": [
+      "Every day at 3:15 p.m.",
+      "Every Friday at 6:45 a.m.",
+      "Every Monday at 1:00 p.m.",
+      "Only on the first day of the program"
+    ],
+    "correctIndex": 2,
+    "explanation": "The announcement says orientation is offered every Monday at 1:00 p.m.",
+    "passage": "Starting next month, the nursing assistant program will use a new clinical rotation schedule. Instead of spending all eight weeks at one site, each student will spend four weeks at Valley Hospital and four weeks at Oak Ridge Care Center. Students in Group A will begin at Valley Hospital; students in Group B will begin at Oak Ridge. Group lists will be posted on the program website by Friday. Shifts at both sites run from 6:45 a.m. to 3:15 p.m. Students must complete a site orientation before their first shift at each location. Orientation sessions are offered every Monday at 1:00 p.m. Any student who misses orientation will not be allowed to begin clinical hours until it is completed."
+  },
+  {
+    "id": "rea-key-ideas-details-088",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "What happens to a student who misses orientation?",
+    "options": [
+      "The student is removed from the program.",
+      "The student switches groups.",
+      "The student cannot begin clinical hours until orientation is completed.",
+      "Nothing; orientation is optional."
+    ],
+    "correctIndex": 2,
+    "explanation": "The final sentence explains the consequence.",
+    "passage": "Starting next month, the nursing assistant program will use a new clinical rotation schedule. Instead of spending all eight weeks at one site, each student will spend four weeks at Valley Hospital and four weeks at Oak Ridge Care Center. Students in Group A will begin at Valley Hospital; students in Group B will begin at Oak Ridge. Group lists will be posted on the program website by Friday. Shifts at both sites run from 6:45 a.m. to 3:15 p.m. Students must complete a site orientation before their first shift at each location. Orientation sessions are offered every Monday at 1:00 p.m. Any student who misses orientation will not be allowed to begin clinical hours until it is completed."
+  },
+  {
+    "id": "rea-key-ideas-details-089",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "medium",
+    "question": "How will students learn which group they are in?",
+    "options": [
+      "Students choose their own group.",
+      "Group lists will be posted on the program website by Friday.",
+      "Supervisors will call each student.",
+      "Lists will be mailed to homes."
+    ],
+    "correctIndex": 1,
+    "explanation": "Group lists are posted online by Friday.",
+    "passage": "Starting next month, the nursing assistant program will use a new clinical rotation schedule. Instead of spending all eight weeks at one site, each student will spend four weeks at Valley Hospital and four weeks at Oak Ridge Care Center. Students in Group A will begin at Valley Hospital; students in Group B will begin at Oak Ridge. Group lists will be posted on the program website by Friday. Shifts at both sites run from 6:45 a.m. to 3:15 p.m. Students must complete a site orientation before their first shift at each location. Orientation sessions are offered every Monday at 1:00 p.m. Any student who misses orientation will not be allowed to begin clinical hours until it is completed."
+  },
+  {
+    "id": "rea-key-ideas-details-090",
+    "section": "reading",
+    "subcategory": "key-ideas-details",
+    "difficulty": "hard",
+    "question": "How many orientation sessions must each student complete during the eight weeks?",
+    "options": [
+      "Two, one for each site",
+      "One, at Valley Hospital only",
+      "None",
+      "Eight, one each week"
+    ],
+    "correctIndex": 0,
+    "explanation": "Students must complete orientation before their first shift at each location, and there are two locations.",
+    "passage": "Starting next month, the nursing assistant program will use a new clinical rotation schedule. Instead of spending all eight weeks at one site, each student will spend four weeks at Valley Hospital and four weeks at Oak Ridge Care Center. Students in Group A will begin at Valley Hospital; students in Group B will begin at Oak Ridge. Group lists will be posted on the program website by Friday. Shifts at both sites run from 6:45 a.m. to 3:15 p.m. Students must complete a site orientation before their first shift at each location. Orientation sessions are offered every Monday at 1:00 p.m. Any student who misses orientation will not be allowed to begin clinical hours until it is completed."
   }
 ]

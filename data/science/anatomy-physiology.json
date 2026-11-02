@@ -253,5 +253,875 @@
     ],
     "correctIndex": 2,
     "explanation": "Dendrites receive signals and carry them toward the cell body; axons carry signals away."
+  },
+  {
+    "id": "sci-anatomy-physiology-018",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which valve prevents backflow of blood from the left ventricle into the left atrium?",
+    "options": [
+      "Pulmonary valve",
+      "Mitral (bicuspid) valve",
+      "Tricuspid valve",
+      "Aortic valve"
+    ],
+    "correctIndex": 1,
+    "explanation": "The mitral valve sits between the left atrium and left ventricle; the tricuspid valve is its counterpart on the right side."
+  },
+  {
+    "id": "sci-anatomy-physiology-019",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Where is the heart's natural pacemaker, the sinoatrial (SA) node, located?",
+    "options": [
+      "In the wall of the right atrium",
+      "At the base of the aorta",
+      "In the wall of the left ventricle",
+      "In the interventricular septum"
+    ],
+    "correctIndex": 0,
+    "explanation": "The SA node lies in the upper wall of the right atrium and starts each heartbeat."
+  },
+  {
+    "id": "sci-anatomy-physiology-020",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which blood vessels have walls only one cell thick, allowing exchange of gases and nutrients with tissues?",
+    "options": [
+      "Arteries",
+      "Capillaries",
+      "Arterioles",
+      "Veins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capillary walls are a single layer of endothelial cells, which lets substances diffuse between blood and tissue fluid."
+  },
+  {
+    "id": "sci-anatomy-physiology-021",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which blood cells are mainly responsible for transporting oxygen?",
+    "options": [
+      "White blood cells (leukocytes)",
+      "Plasma cells",
+      "Red blood cells (erythrocytes)",
+      "Platelets (thrombocytes)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Erythrocytes contain hemoglobin, which binds oxygen in the lungs and releases it in the tissues."
+  },
+  {
+    "id": "sci-anatomy-physiology-022",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which component of blood helps form clots to stop bleeding?",
+    "options": [
+      "Neutrophils",
+      "Platelets",
+      "Albumin",
+      "Erythrocytes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Platelets clump at an injury site and release factors that help form a fibrin clot."
+  },
+  {
+    "id": "sci-anatomy-physiology-023",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Why do veins in the legs contain valves?",
+    "options": [
+      "To prevent blood from flowing backward under low pressure",
+      "To add oxygen to returning blood",
+      "To filter waste from the blood",
+      "To raise blood pressure in the capillaries"
+    ],
+    "correctIndex": 0,
+    "explanation": "Venous blood is under low pressure, so one-way valves, aided by skeletal muscle contraction, keep it moving toward the heart."
+  },
+  {
+    "id": "sci-anatomy-physiology-024",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "What does the systolic number in a blood pressure reading represent?",
+    "options": [
+      "Pressure inside the veins",
+      "Pressure in the arteries when the heart relaxes",
+      "The number of heartbeats per minute",
+      "Pressure in the arteries when the ventricles contract"
+    ],
+    "correctIndex": 3,
+    "explanation": "Systolic pressure is the peak arterial pressure during ventricular contraction; diastolic pressure is measured during relaxation."
+  },
+  {
+    "id": "sci-anatomy-physiology-025",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which structure is commonly called the windpipe?",
+    "options": [
+      "Esophagus",
+      "Trachea",
+      "Bronchiole",
+      "Larynx"
+    ],
+    "correctIndex": 1,
+    "explanation": "The trachea carries air from the larynx to the bronchi and is held open by C-shaped rings of cartilage."
+  },
+  {
+    "id": "sci-anatomy-physiology-026",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "What is the function of the epiglottis?",
+    "options": [
+      "It moves mucus out of the lungs.",
+      "It exchanges gases with the blood.",
+      "It produces sound when air passes over it.",
+      "It covers the opening of the larynx during swallowing."
+    ],
+    "correctIndex": 3,
+    "explanation": "The epiglottis folds over the larynx when food is swallowed so that food enters the esophagus instead of the airway."
+  },
+  {
+    "id": "sci-anatomy-physiology-027",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which chemical change in the blood is the strongest stimulus to increase the breathing rate?",
+    "options": [
+      "A rise in oxygen level",
+      "A rise in glucose level",
+      "A rise in carbon dioxide level",
+      "A drop in carbon dioxide level"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chemoreceptors respond mainly to rising CO₂ (and falling pH) by signaling the brainstem to increase ventilation."
+  },
+  {
+    "id": "sci-anatomy-physiology-028",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "What substance lowers surface tension in the alveoli and keeps them from collapsing?",
+    "options": [
+      "Hemoglobin",
+      "Pleural fluid",
+      "Mucus",
+      "Surfactant"
+    ],
+    "correctIndex": 3,
+    "explanation": "Type II alveolar cells secrete surfactant, which reduces surface tension so alveoli stay open during exhalation."
+  },
+  {
+    "id": "sci-anatomy-physiology-029",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Where does the chemical digestion of starch begin?",
+    "options": [
+      "In the mouth",
+      "In the stomach",
+      "In the large intestine",
+      "In the esophagus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salivary amylase begins breaking starch into sugars while food is still being chewed."
+  },
+  {
+    "id": "sci-anatomy-physiology-030",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which enzyme in the stomach begins the digestion of proteins?",
+    "options": [
+      "Pepsin",
+      "Lipase",
+      "Amylase",
+      "Lactase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pepsin is activated by stomach acid and breaks proteins into smaller peptides."
+  },
+  {
+    "id": "sci-anatomy-physiology-031",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "What is the main role of bile in digestion?",
+    "options": [
+      "It neutralizes bases in the stomach.",
+      "It emulsifies fats into smaller droplets.",
+      "It breaks proteins into amino acids.",
+      "It absorbs water from waste."
+    ],
+    "correctIndex": 1,
+    "explanation": "Bile salts break large fat globules into small droplets, giving lipase more surface area to work on."
+  },
+  {
+    "id": "sci-anatomy-physiology-032",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "What is the primary function of the large intestine?",
+    "options": [
+      "Producing bile",
+      "Absorbing water and forming feces",
+      "Digesting proteins",
+      "Secreting insulin"
+    ],
+    "correctIndex": 1,
+    "explanation": "The large intestine absorbs water and electrolytes from undigested material and stores feces until elimination."
+  },
+  {
+    "id": "sci-anatomy-physiology-033",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "What wave-like muscle contractions move food through the digestive tract?",
+    "options": [
+      "Emulsification",
+      "Segmentation of bile",
+      "Osmosis",
+      "Peristalsis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Peristalsis is the coordinated contraction of smooth muscle that pushes food along the esophagus and intestines."
+  },
+  {
+    "id": "sci-anatomy-physiology-034",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Which organ secretes both digestive enzymes and the hormones insulin and glucagon?",
+    "options": [
+      "Pancreas",
+      "Spleen",
+      "Gallbladder",
+      "Liver"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pancreas has exocrine cells that release digestive enzymes and endocrine islet cells that release insulin and glucagon."
+  },
+  {
+    "id": "sci-anatomy-physiology-035",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which organs filter blood to produce urine?",
+    "options": [
+      "Ureters",
+      "Bladder",
+      "Urethra",
+      "Kidneys"
+    ],
+    "correctIndex": 3,
+    "explanation": "The kidneys filter blood; ureters carry urine to the bladder, which stores it until it leaves through the urethra."
+  },
+  {
+    "id": "sci-anatomy-physiology-036",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which tubes carry urine from the kidneys to the urinary bladder?",
+    "options": [
+      "Urethra",
+      "Ureters",
+      "Collecting ducts",
+      "Renal veins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each kidney drains urine into a ureter, which carries it to the bladder."
+  },
+  {
+    "id": "sci-anatomy-physiology-037",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Antidiuretic hormone (ADH) affects urine by causing the kidneys to do what?",
+    "options": [
+      "Filter more glucose",
+      "Release more sodium",
+      "Excrete more water, producing dilute urine",
+      "Reabsorb more water, producing concentrated urine"
+    ],
+    "correctIndex": 3,
+    "explanation": "ADH makes the collecting ducts more permeable to water, so more water returns to the blood."
+  },
+  {
+    "id": "sci-anatomy-physiology-038",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "In a healthy person, which substance is normally filtered by the glomerulus but almost completely reabsorbed, so it does not appear in urine?",
+    "options": [
+      "Glucose",
+      "Urea",
+      "Creatinine",
+      "Excess water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Glucose is filtered and then reabsorbed in the proximal tubule; glucose in urine can signal high blood sugar."
+  },
+  {
+    "id": "sci-anatomy-physiology-039",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which blood vessel carries oxygen-rich blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary vein",
+      "Aorta",
+      "Superior vena cava",
+      "Pulmonary artery"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pulmonary veins return oxygenated blood from the lungs to the left atrium."
+  },
+  {
+    "id": "sci-anatomy-physiology-040",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which statement describes the function of the lymphatic system?",
+    "options": [
+      "It returns excess tissue fluid to the blood and helps fight infection.",
+      "It carries nerve impulses to muscles.",
+      "It pumps blood through the arteries.",
+      "It produces bile for fat digestion."
+    ],
+    "correctIndex": 0,
+    "explanation": "Lymph vessels collect fluid from tissues and return it to the veins, passing it through lymph nodes that filter pathogens."
+  },
+  {
+    "id": "sci-anatomy-physiology-041",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which part of the nervous system consists of the brain and spinal cord?",
+    "options": [
+      "Central nervous system",
+      "Autonomic nervous system",
+      "Somatic nervous system",
+      "Peripheral nervous system"
+    ],
+    "correctIndex": 0,
+    "explanation": "The central nervous system is the brain and spinal cord; all nerves outside them form the peripheral nervous system."
+  },
+  {
+    "id": "sci-anatomy-physiology-042",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which division of the autonomic nervous system triggers the \"fight-or-flight\" response?",
+    "options": [
+      "Enteric division",
+      "Sympathetic division",
+      "Somatic division",
+      "Parasympathetic division"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sympathetic activation raises heart rate, dilates pupils, and redirects blood to skeletal muscles."
+  },
+  {
+    "id": "sci-anatomy-physiology-043",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "What effect does the parasympathetic nervous system have on heart rate?",
+    "options": [
+      "It slows the heart rate.",
+      "It stops the heart.",
+      "It speeds up the heart rate.",
+      "It has no effect on the heart."
+    ],
+    "correctIndex": 0,
+    "explanation": "The parasympathetic (\"rest-and-digest\") division, mainly through the vagus nerve, lowers heart rate."
+  },
+  {
+    "id": "sci-anatomy-physiology-044",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "What is the function of the myelin sheath on an axon?",
+    "options": [
+      "It produces new neurons.",
+      "It stores neurotransmitters.",
+      "It insulates the axon and speeds up nerve impulses.",
+      "It receives signals from other neurons."
+    ],
+    "correctIndex": 2,
+    "explanation": "Myelin insulates axons so impulses jump between gaps (nodes of Ranvier), greatly increasing conduction speed."
+  },
+  {
+    "id": "sci-anatomy-physiology-045",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "What happens at a synapse when a nerve impulse reaches the end of an axon?",
+    "options": [
+      "Myelin is released into the gap.",
+      "The impulse jumps directly through the gap as electricity.",
+      "Neurotransmitters are released and bind to receptors on the next cell.",
+      "The axon fuses with the next neuron."
+    ],
+    "correctIndex": 2,
+    "explanation": "At a chemical synapse, the impulse triggers release of neurotransmitters that cross the cleft and bind receptors on the next cell."
+  },
+  {
+    "id": "sci-anatomy-physiology-046",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which lobe of the cerebrum is chiefly responsible for processing vision?",
+    "options": [
+      "Temporal lobe",
+      "Frontal lobe",
+      "Parietal lobe",
+      "Occipital lobe"
+    ],
+    "correctIndex": 3,
+    "explanation": "The occipital lobe at the back of the brain contains the primary visual cortex."
+  },
+  {
+    "id": "sci-anatomy-physiology-047",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which part of the brainstem controls breathing and heart rate?",
+    "options": [
+      "Cerebellum",
+      "Thalamus",
+      "Corpus callosum",
+      "Medulla oblongata"
+    ],
+    "correctIndex": 3,
+    "explanation": "The medulla oblongata contains centers that regulate breathing, heart rate, and blood pressure."
+  },
+  {
+    "id": "sci-anatomy-physiology-048",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Which brain structure links the nervous and endocrine systems and helps regulate body temperature, hunger, and thirst?",
+    "options": [
+      "Pineal gland",
+      "Pons",
+      "Hypothalamus",
+      "Cerebellum"
+    ],
+    "correctIndex": 2,
+    "explanation": "The hypothalamus monitors internal conditions and controls the pituitary gland through releasing hormones."
+  },
+  {
+    "id": "sci-anatomy-physiology-049",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which gland in the neck produces hormones that regulate metabolic rate?",
+    "options": [
+      "Pancreas",
+      "Adrenal gland",
+      "Thymus",
+      "Thyroid gland"
+    ],
+    "correctIndex": 3,
+    "explanation": "The thyroid releases T3 and T4, which set the body's metabolic rate."
+  },
+  {
+    "id": "sci-anatomy-physiology-050",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which hormone raises blood calcium levels by releasing calcium from bone?",
+    "options": [
+      "Parathyroid hormone",
+      "Insulin",
+      "Melatonin",
+      "Calcitonin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Parathyroid hormone raises blood calcium; calcitonin from the thyroid has the opposite effect."
+  },
+  {
+    "id": "sci-anatomy-physiology-051",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which glands sit on top of the kidneys and release epinephrine and cortisol?",
+    "options": [
+      "Adrenal glands",
+      "Pituitary gland",
+      "Thymus",
+      "Parathyroid glands"
+    ],
+    "correctIndex": 0,
+    "explanation": "The adrenal medulla releases epinephrine and the adrenal cortex releases cortisol and aldosterone."
+  },
+  {
+    "id": "sci-anatomy-physiology-052",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "A hormone level rises, and the gland that secretes it is then signaled to release less. What is this type of control called?",
+    "options": [
+      "Allosteric activation",
+      "Positive feedback",
+      "Homeostatic failure",
+      "Negative feedback"
+    ],
+    "correctIndex": 3,
+    "explanation": "Negative feedback reverses a change to keep a variable near its set point and is the most common hormone control mechanism."
+  },
+  {
+    "id": "sci-anatomy-physiology-053",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "How many bones are in the typical adult human skeleton?",
+    "options": [
+      "300",
+      "106",
+      "206",
+      "212"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adults have about 206 bones; infants have more, and some fuse during growth."
+  },
+  {
+    "id": "sci-anatomy-physiology-054",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which bones make up the axial skeleton?",
+    "options": [
+      "Hands and feet",
+      "Skull, vertebral column, ribs, and sternum",
+      "Shoulder girdle and arms only",
+      "Arms, legs, and pelvis"
+    ],
+    "correctIndex": 1,
+    "explanation": "The axial skeleton forms the body's central axis; the limbs and girdles make up the appendicular skeleton."
+  },
+  {
+    "id": "sci-anatomy-physiology-055",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which cells break down bone tissue, releasing minerals into the blood?",
+    "options": [
+      "Osteoclasts",
+      "Chondrocytes",
+      "Osteocytes",
+      "Osteoblasts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Osteoclasts resorb bone, while osteoblasts build new bone matrix."
+  },
+  {
+    "id": "sci-anatomy-physiology-056",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "What type of joint is the shoulder?",
+    "options": [
+      "Ball-and-socket joint",
+      "Pivot joint",
+      "Gliding joint",
+      "Hinge joint"
+    ],
+    "correctIndex": 0,
+    "explanation": "The rounded head of the humerus fits into the shoulder socket, allowing movement in many directions."
+  },
+  {
+    "id": "sci-anatomy-physiology-057",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which structure connects one bone to another bone at a joint?",
+    "options": [
+      "Fascia",
+      "Tendon",
+      "Ligament",
+      "Cartilage plate"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ligaments are bands of dense connective tissue that hold bones together at joints."
+  },
+  {
+    "id": "sci-anatomy-physiology-058",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Which ion must bind to troponin for skeletal muscle contraction to occur?",
+    "options": [
+      "Sodium",
+      "Chloride",
+      "Calcium",
+      "Potassium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Calcium released from the sarcoplasmic reticulum binds troponin, moving tropomyosin so myosin can bind actin."
+  },
+  {
+    "id": "sci-anatomy-physiology-059",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "During muscle contraction, which protein filaments slide past each other?",
+    "options": [
+      "Actin and myosin",
+      "Collagen and elastin",
+      "Fibrin and fibrinogen",
+      "Keratin and melanin"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the sliding filament model, myosin heads pull thin actin filaments toward the center of the sarcomere."
+  },
+  {
+    "id": "sci-anatomy-physiology-060",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "What is the outermost layer of the skin called?",
+    "options": [
+      "Dermis",
+      "Epidermis",
+      "Hypodermis",
+      "Periosteum"
+    ],
+    "correctIndex": 1,
+    "explanation": "The epidermis is the outer layer; beneath it lie the dermis and the subcutaneous hypodermis."
+  },
+  {
+    "id": "sci-anatomy-physiology-061",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which pigment produced in the skin helps protect against ultraviolet radiation?",
+    "options": [
+      "Hemoglobin",
+      "Keratin",
+      "Melanin",
+      "Carotene"
+    ],
+    "correctIndex": 2,
+    "explanation": "Melanocytes produce melanin, which absorbs UV light and helps protect cells from DNA damage."
+  },
+  {
+    "id": "sci-anatomy-physiology-062",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "How does sweating help regulate body temperature?",
+    "options": [
+      "Evaporation of sweat removes heat from the skin.",
+      "Sweat stops the skin from losing heat.",
+      "Sweat traps heat inside the body.",
+      "Sweat increases blood flow to the core."
+    ],
+    "correctIndex": 0,
+    "explanation": "When sweat evaporates it absorbs heat energy, cooling the skin surface."
+  },
+  {
+    "id": "sci-anatomy-physiology-063",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which white blood cells are the most numerous and are usually first to arrive at a site of bacterial infection?",
+    "options": [
+      "Basophils",
+      "Monocytes",
+      "Neutrophils",
+      "Eosinophils"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neutrophils make up the largest share of white blood cells and quickly engulf bacteria."
+  },
+  {
+    "id": "sci-anatomy-physiology-064",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "A vaccine protects against disease mainly by doing what?",
+    "options": [
+      "Providing ready-made antibiotics",
+      "Replacing white blood cells",
+      "Stimulating the immune system to form memory cells",
+      "Killing all bacteria in the body"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vaccines expose the immune system to a harmless antigen so memory B and T cells can respond quickly to a later infection."
+  },
+  {
+    "id": "sci-anatomy-physiology-065",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Which type of immunity results when a newborn receives antibodies from the mother through breast milk?",
+    "options": [
+      "Artificial passive immunity",
+      "Natural active immunity",
+      "Natural passive immunity",
+      "Artificial active immunity"
+    ],
+    "correctIndex": 2,
+    "explanation": "The baby receives ready-made antibodies (passive) through a natural route, so protection is temporary."
+  },
+  {
+    "id": "sci-anatomy-physiology-066",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which cells are directly destroyed by HIV, weakening the immune response?",
+    "options": [
+      "Red blood cells",
+      "Helper T cells (CD4 cells)",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "correctIndex": 1,
+    "explanation": "HIV infects and destroys CD4 helper T cells, which coordinate both B cell and cytotoxic T cell responses."
+  },
+  {
+    "id": "sci-anatomy-physiology-067",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Where does fertilization of an egg usually occur in humans?",
+    "options": [
+      "In the cervix",
+      "In the uterus",
+      "In the ovary",
+      "In the fallopian (uterine) tube"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sperm usually meet the egg in the fallopian tube, and the zygote then travels to the uterus to implant."
+  },
+  {
+    "id": "sci-anatomy-physiology-068",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which hormone, produced mainly in the testes, drives the development of male secondary sex characteristics?",
+    "options": [
+      "Estrogen",
+      "Prolactin",
+      "Testosterone",
+      "Progesterone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Testosterone produced by Leydig cells promotes sperm production, muscle growth, and deepening of the voice."
+  },
+  {
+    "id": "sci-anatomy-physiology-069",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "Which term describes a position closer to the point where a limb attaches to the trunk?",
+    "options": [
+      "Distal",
+      "Proximal",
+      "Lateral",
+      "Superficial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proximal means nearer the limb's attachment; the elbow is proximal to the wrist."
+  },
+  {
+    "id": "sci-anatomy-physiology-070",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "easy",
+    "question": "The heart is described as superior to the stomach. What does superior mean?",
+    "options": [
+      "Toward the back",
+      "Above or toward the head",
+      "Below",
+      "Toward the side"
+    ],
+    "correctIndex": 1,
+    "explanation": "Superior means toward the head or upper part of the body; inferior means below."
+  },
+  {
+    "id": "sci-anatomy-physiology-071",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which plane divides the body into front (anterior) and back (posterior) portions?",
+    "options": [
+      "Frontal (coronal) plane",
+      "Transverse plane",
+      "Sagittal plane",
+      "Midsagittal plane"
+    ],
+    "correctIndex": 0,
+    "explanation": "The frontal plane runs side to side, separating anterior from posterior; a sagittal plane separates left and right."
+  },
+  {
+    "id": "sci-anatomy-physiology-072",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which body cavity contains the heart and lungs?",
+    "options": [
+      "Cranial cavity",
+      "Pelvic cavity",
+      "Abdominal cavity",
+      "Thoracic cavity"
+    ],
+    "correctIndex": 3,
+    "explanation": "The thoracic cavity lies above the diaphragm and holds the heart, lungs, and major vessels."
+  },
+  {
+    "id": "sci-anatomy-physiology-073",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "hard",
+    "question": "Which statement best describes homeostasis?",
+    "options": [
+      "Rapid growth of tissues after injury",
+      "Maintenance of a stable internal environment despite external changes",
+      "The breakdown of food for energy",
+      "Constant change in body temperature"
+    ],
+    "correctIndex": 1,
+    "explanation": "Homeostasis keeps variables such as temperature, pH, and blood glucose within narrow ranges."
+  },
+  {
+    "id": "sci-anatomy-physiology-074",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which sense organ structure converts sound vibrations into nerve impulses?",
+    "options": [
+      "Semicircular canals",
+      "Tympanic membrane",
+      "Eustachian tube",
+      "Cochlea"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hair cells in the cochlea of the inner ear convert vibrations into signals sent along the auditory nerve."
+  },
+  {
+    "id": "sci-anatomy-physiology-075",
+    "section": "science",
+    "subcategory": "anatomy-physiology",
+    "difficulty": "medium",
+    "question": "Which part of the eye controls how much light enters by changing the size of the pupil?",
+    "options": [
+      "Lens",
+      "Retina",
+      "Cornea",
+      "Iris"
+    ],
+    "correctIndex": 3,
+    "explanation": "The muscular iris widens or narrows the pupil in response to light levels."
   }
 ]

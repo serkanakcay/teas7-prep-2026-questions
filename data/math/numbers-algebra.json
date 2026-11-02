@@ -19,30 +19,30 @@
     "section": "math",
     "subcategory": "numbers-algebra",
     "difficulty": "medium",
-    "question": "What is 35% of 260?",
+    "question": "91 is what percent of 260?",
     "options": [
-      "910",
-      "91",
-      "45.5",
-      "169"
+      "285.71%",
+      "35%",
+      "169%",
+      "0.35%"
     ],
     "correctIndex": 1,
-    "explanation": "Convert the percent to a decimal: 35% = 0.35. Then 0.35 x 260 = 91."
+    "explanation": "Percent = part / whole x 100 = 91 / 260 x 100 = 35%."
   },
   {
     "id": "mat-numbers-algebra-003",
     "section": "math",
     "subcategory": "numbers-algebra",
     "difficulty": "hard",
-    "question": "What is 12.5% of 648?",
+    "question": "81 is 12.5% of what number?",
     "options": [
-      "567",
-      "40.5",
-      "810",
-      "81"
+      "91.12",
+      "1012.5",
+      "10.12",
+      "648"
     ],
     "correctIndex": 3,
-    "explanation": "Convert the percent to a decimal: 12.5% = 0.125. Then 0.125 x 648 = 81."
+    "explanation": "Write 81 = 0.125 x n, then divide: n = 81 / 0.125 = 648."
   },
   {
     "id": "mat-numbers-algebra-004",
@@ -328,5 +328,1400 @@
     ],
     "correctIndex": 0,
     "explanation": "-8 + 15 = 7. Subtracting -6 is adding 6: 7 + 6 = 13."
+  },
+  {
+    "id": "mat-numbers-algebra-023",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "At 6 a.m. the temperature was -7°F. By noon it had risen 18 degrees. What was the temperature at noon?",
+    "options": [
+      "-25°F",
+      "11°F",
+      "-11°F",
+      "25°F"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rising means adding: -7 + 18 = 11°F."
+  },
+  {
+    "id": "mat-numbers-algebra-024",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Evaluate: (-6)(-9) - 4(-3)",
+    "options": [
+      "47",
+      "66",
+      "-66",
+      "42"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiply first: (-6)(-9) = 54 and 4(-3) = -12. Then 54 - (-12) = 66."
+  },
+  {
+    "id": "mat-numbers-algebra-025",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Evaluate: |3 - 11| - |-5|",
+    "options": [
+      "13",
+      "3",
+      "-13",
+      "-3"
+    ],
+    "correctIndex": 1,
+    "explanation": "Absolute values are distances from zero: |3 - 11| = |-8| = 8 and |-5| = 5. So 8 - 5 = 3."
+  },
+  {
+    "id": "mat-numbers-algebra-026",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A diver is 42 feet below sea level. She rises 15 feet and then descends 27 feet. Where is she now?",
+    "options": [
+      "84 feet below sea level",
+      "30 feet below sea level",
+      "At sea level",
+      "54 feet below sea level"
+    ],
+    "correctIndex": 3,
+    "explanation": "Write below sea level as negative: -42 + 15 - 27 = -54, which is 54 feet below sea level."
+  },
+  {
+    "id": "mat-numbers-algebra-027",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Evaluate: 48 ÷ 4 x 2 + 3² - 7",
+    "options": [
+      "8",
+      "26",
+      "23",
+      "40"
+    ],
+    "correctIndex": 1,
+    "explanation": "Exponent first: 3² = 9. Then multiply and divide from left to right: 48 ÷ 4 = 12, 12 x 2 = 24. Finally 24 + 9 - 7 = 26."
+  },
+  {
+    "id": "mat-numbers-algebra-028",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Evaluate: 5 + 2(8 - 3)² ÷ 10",
+    "options": [
+      "17.5",
+      "15",
+      "7",
+      "10"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parentheses: 8 - 3 = 5. Exponent: 5² = 25. Then 2 x 25 ÷ 10 = 5, and 5 + 5 = 10."
+  },
+  {
+    "id": "mat-numbers-algebra-029",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Evaluate: -3² + (-3)² - 2³",
+    "options": [
+      "-26",
+      "8",
+      "10",
+      "-8"
+    ],
+    "correctIndex": 3,
+    "explanation": "-3² means -(3²) = -9, while (-3)² = 9. So -9 + 9 - 8 = -8."
+  },
+  {
+    "id": "mat-numbers-algebra-030",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A nurse records oral intakes of 240.5 mL, 118.75 mL, and 90 mL. What is the total intake?",
+    "options": [
+      "439.25 mL",
+      "449.25 mL",
+      "449.75 mL",
+      "368.25 mL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Line up the decimal points and add: 240.50 + 118.75 + 90.00 = 449.25 mL."
+  },
+  {
+    "id": "mat-numbers-algebra-031",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "What is 3.6 x 0.25?",
+    "options": [
+      "9",
+      "0.9",
+      "3.85",
+      "0.09"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiply 36 x 25 = 900, then count three decimal places in the factors: 0.9."
+  },
+  {
+    "id": "mat-numbers-algebra-032",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A 4.5 m roll of tubing is cut into pieces that are each 0.18 m long. How many pieces can be cut?",
+    "options": [
+      "250",
+      "25",
+      "0.81",
+      "2.5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Divide: 4.5 ÷ 0.18 = 450 ÷ 18 = 25 pieces."
+  },
+  {
+    "id": "mat-numbers-algebra-033",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A patient drank 7/8 cup of juice at breakfast and 1/3 cup at lunch. How much more did the patient drink at breakfast?",
+    "options": [
+      "7/24 cup",
+      "6/5 cup",
+      "13/24 cup",
+      "29/24 cup"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use the common denominator 24: 21/24 - 8/24 = 13/24 cup."
+  },
+  {
+    "id": "mat-numbers-algebra-034",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Of 36 students in a class, 3/4 passed an exam. Of the students who passed, 2/3 scored above 90. How many students scored above 90?",
+    "options": [
+      "9",
+      "18",
+      "24",
+      "27"
+    ],
+    "correctIndex": 1,
+    "explanation": "Passed: 3/4 x 36 = 27. Above 90: 2/3 x 27 = 18."
+  },
+  {
+    "id": "mat-numbers-algebra-035",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A shelf needs two boards: one 2 3/4 ft long and one 1 5/6 ft long. What is their combined length?",
+    "options": [
+      "4 5/12 ft",
+      "4 7/12 ft",
+      "3 7/12 ft",
+      "3 4/5 ft"
+    ],
+    "correctIndex": 1,
+    "explanation": "Convert to twelfths: 2 9/12 + 1 10/12 = 3 19/12 = 4 7/12 ft."
+  },
+  {
+    "id": "mat-numbers-algebra-036",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "How many 3/8-cup servings are in 6 3/4 cups of rice?",
+    "options": [
+      "20",
+      "18",
+      "2 17/32",
+      "16"
+    ],
+    "correctIndex": 1,
+    "explanation": "Divide by multiplying by the reciprocal: 27/4 x 8/3 = 216/12 = 18 servings."
+  },
+  {
+    "id": "mat-numbers-algebra-037",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Which fraction is the greatest: 5/9, 4/7, 7/12, or 3/5?",
+    "options": [
+      "3/5",
+      "7/12",
+      "4/7",
+      "5/9"
+    ],
+    "correctIndex": 0,
+    "explanation": "As decimals: 5/9 ≈ 0.556, 4/7 ≈ 0.571, 7/12 ≈ 0.583, and 3/5 = 0.6, so 3/5 is the greatest."
+  },
+  {
+    "id": "mat-numbers-algebra-038",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Write 2 3/8 as a decimal.",
+    "options": [
+      "2.375",
+      "2.0375",
+      "2.83",
+      "2.3"
+    ],
+    "correctIndex": 0,
+    "explanation": "3 ÷ 8 = 0.375, so 2 3/8 = 2.375."
+  },
+  {
+    "id": "mat-numbers-algebra-039",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Write 0.45% as a decimal.",
+    "options": [
+      "0.0045",
+      "0.45",
+      "0.045",
+      "45"
+    ],
+    "correctIndex": 0,
+    "explanation": "Divide the percent by 100 (move the decimal point two places left): 0.45% = 0.0045."
+  },
+  {
+    "id": "mat-numbers-algebra-040",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Write 7/20 as a percent.",
+    "options": [
+      "35%",
+      "0.35%",
+      "3.5%",
+      "72%"
+    ],
+    "correctIndex": 0,
+    "explanation": "7/20 = 35/100 = 35%."
+  },
+  {
+    "id": "mat-numbers-algebra-041",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Which fraction is equal to the repeating decimal 0.272727... ?",
+    "options": [
+      "2/7",
+      "27/100",
+      "3/10",
+      "3/11"
+    ],
+    "correctIndex": 3,
+    "explanation": "A two-digit repeating block over 99 gives 27/99, which reduces to 3/11. Check: 3 ÷ 11 = 0.2727..."
+  },
+  {
+    "id": "mat-numbers-algebra-042",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Round 0.04967 to the nearest thousandth.",
+    "options": [
+      "0.049",
+      "0.0497",
+      "0.050",
+      "0.500"
+    ],
+    "correctIndex": 2,
+    "explanation": "The thousandths digit is 9 and the next digit is 6, so round up: 0.049 becomes 0.050."
+  },
+  {
+    "id": "mat-numbers-algebra-043",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Estimate 398 x 51 by rounding each factor to the nearest ten. Which is the estimate?",
+    "options": [
+      "200,000",
+      "16,000",
+      "2,000",
+      "20,000"
+    ],
+    "correctIndex": 3,
+    "explanation": "398 rounds to 400 and 51 rounds to 50, so 400 x 50 = 20,000. (The exact product is 20,298.)"
+  },
+  {
+    "id": "mat-numbers-algebra-044",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Write 0.00062 in scientific notation.",
+    "options": [
+      "0.62 × 10⁻⁵",
+      "6.2 × 10⁻³",
+      "6.2 × 10⁴",
+      "6.2 × 10⁻⁴"
+    ],
+    "correctIndex": 3,
+    "explanation": "Move the decimal point 4 places right to get 6.2, a number between 1 and 10, so the exponent is -4."
+  },
+  {
+    "id": "mat-numbers-algebra-045",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Simplify: (3 × 10⁵)(4 × 10⁻²)",
+    "options": [
+      "7 × 10³",
+      "1.2 × 10⁴",
+      "12 × 10⁻¹⁰",
+      "1.2 × 10³"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiply the coefficients (3 x 4 = 12) and add the exponents (5 + (-2) = 3): 12 × 10³ = 1.2 × 10⁴."
+  },
+  {
+    "id": "mat-numbers-algebra-046",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Simplify: x⁵ · x³ ÷ x²",
+    "options": [
+      "x¹³",
+      "x¹⁰",
+      "x⁷",
+      "x⁶"
+    ],
+    "correctIndex": 3,
+    "explanation": "When multiplying powers with the same base add exponents, and when dividing subtract them: 5 + 3 - 2 = 6."
+  },
+  {
+    "id": "mat-numbers-algebra-047",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A child is prescribed 15 mg of a medication per kilogram of body weight. The child weighs 22 kg. What dose is ordered?",
+    "options": [
+      "3300 mg",
+      "330 mg",
+      "1.47 mg",
+      "37 mg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiply the dose per kilogram by the weight: 15 x 22 = 330 mg."
+  },
+  {
+    "id": "mat-numbers-algebra-048",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "An oral suspension contains 125 mg per 5 mL. How many milliliters deliver 300 mg?",
+    "options": [
+      "2.08 mL",
+      "60 mL",
+      "12 mL",
+      "2.4 mL"
+    ],
+    "correctIndex": 2,
+    "explanation": "Desired ÷ have x volume: 300 ÷ 125 x 5 = 12 mL."
+  },
+  {
+    "id": "mat-numbers-algebra-049",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A car travels 162 miles in 3 hours. At the same speed, how far will it travel in 5 hours?",
+    "options": [
+      "270 miles",
+      "54 miles",
+      "324 miles",
+      "810 miles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unit rate: 162 ÷ 3 = 54 miles per hour. Then 54 x 5 = 270 miles."
+  },
+  {
+    "id": "mat-numbers-algebra-050",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A 12-ounce jar of peanut butter costs $4.29 and an 18-ounce jar costs $6.12. Which is the better buy per ounce?",
+    "options": [
+      "The 18-ounce jar, at about $0.34 per ounce",
+      "The 12-ounce jar, at about $0.36 per ounce",
+      "They cost the same per ounce",
+      "The 18-ounce jar, at about $0.51 per ounce"
+    ],
+    "correctIndex": 0,
+    "explanation": "Divide price by ounces: $4.29 ÷ 12 ≈ $0.36 and $6.12 ÷ 18 ≈ $0.34 per ounce."
+  },
+  {
+    "id": "mat-numbers-algebra-051",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Saline and water are mixed in a ratio of 3:8. How many milliliters of saline are in 132 mL of the mixture?",
+    "options": [
+      "49.5 mL",
+      "96 mL",
+      "36 mL",
+      "44 mL"
+    ],
+    "correctIndex": 2,
+    "explanation": "There are 3 + 8 = 11 parts, so each part is 132 ÷ 11 = 12 mL. Saline = 3 x 12 = 36 mL."
+  },
+  {
+    "id": "mat-numbers-algebra-052",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Solve the proportion: 6/9 = x/15",
+    "options": [
+      "12",
+      "45/2",
+      "10",
+      "18/5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cross-multiply: 9x = 6 x 15 = 90, so x = 10."
+  },
+  {
+    "id": "mat-numbers-algebra-053",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "On a map, 1 inch represents 25 miles. Two towns are 3.5 inches apart on the map. What is the actual distance?",
+    "options": [
+      "7.14 miles",
+      "87.5 miles",
+      "75 miles",
+      "28.5 miles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiply the map distance by the scale: 3.5 x 25 = 87.5 miles."
+  },
+  {
+    "id": "mat-numbers-algebra-054",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Six volunteers can paint a community center in 10 days. Working at the same rate, how many days would 4 volunteers need?",
+    "options": [
+      "8 days",
+      "20/3 days",
+      "15 days",
+      "12 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "This is an inverse proportion: total work = 6 x 10 = 60 volunteer-days. 60 ÷ 4 = 15 days."
+  },
+  {
+    "id": "mat-numbers-algebra-055",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A restaurant bill is $46.80. How much is an 18% tip?",
+    "options": [
+      "$0.84",
+      "$2.60",
+      "$55.22",
+      "$8.42"
+    ],
+    "correctIndex": 3,
+    "explanation": "18% = 0.18, and 0.18 x $46.80 = $8.42."
+  },
+  {
+    "id": "mat-numbers-algebra-056",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A textbook costs $38.50 before a 7.5% sales tax. What is the total cost?",
+    "options": [
+      "$41.39",
+      "$2.89",
+      "$67.38",
+      "$46.00"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tax = 0.075 x $38.50 = $2.89. Total = $38.50 + $2.89 = $41.39."
+  },
+  {
+    "id": "mat-numbers-algebra-057",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A stethoscope's price drops from $80.00 to $62.00. What is the percent decrease?",
+    "options": [
+      "29%",
+      "18%",
+      "77.5%",
+      "22.5%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Percent decrease = (old - new) ÷ old x 100 = 18 ÷ 80 x 100 = 22.5%."
+  },
+  {
+    "id": "mat-numbers-algebra-058",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A store buys a pair of shoes for $24.00 and marks the price up 35%. What is the selling price?",
+    "options": [
+      "$36.92",
+      "$8.40",
+      "$59.00",
+      "$32.40"
+    ],
+    "correctIndex": 3,
+    "explanation": "Markup = 0.35 x $24.00 = $8.40, so the price is $24.00 + $8.40 = $32.40."
+  },
+  {
+    "id": "mat-numbers-algebra-059",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "After a 15% discount, a blood pressure cuff costs $51.00. What was the original price?",
+    "options": [
+      "$60.00",
+      "$58.65",
+      "$66.00",
+      "$340.00"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sale price is 85% of the original, so original = $51.00 ÷ 0.85 = $60.00."
+  },
+  {
+    "id": "mat-numbers-algebra-060",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "A price of $200.00 is raised 10% and then the new price is lowered 10%. What is the final price?",
+    "options": [
+      "$200.00",
+      "$180.00",
+      "$198.00",
+      "$220.00"
+    ],
+    "correctIndex": 2,
+    "explanation": "After the increase: $200.00 x 1.10 = $220.00. After the decrease: $220.00 x 0.90 = $198.00."
+  },
+  {
+    "id": "mat-numbers-algebra-061",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Enrollment in a nursing program grew from 240 to 300 students. By what percent did it grow?",
+    "options": [
+      "20%",
+      "125%",
+      "25%",
+      "60%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Increase = 60. 60 ÷ 240 x 100 = 25%."
+  },
+  {
+    "id": "mat-numbers-algebra-062",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A student answered 18 of 24 questions correctly. Which fraction in lowest terms shows the portion answered correctly?",
+    "options": [
+      "2/3",
+      "6/8",
+      "3/4",
+      "4/5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Divide 18 and 24 by their greatest common factor, 6: 18/24 = 3/4."
+  },
+  {
+    "id": "mat-numbers-algebra-063",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "A technician earns $21.50 per hour for the first 40 hours and 1.5 times that rate for overtime. What is the pay for a week with 46 hours?",
+    "options": [
+      "$869.00",
+      "$1,483.50",
+      "$1,053.50",
+      "$989.00"
+    ],
+    "correctIndex": 2,
+    "explanation": "Regular pay: 40 x $21.50 = $860.00. Overtime: 6 x $32.25 = $193.50, for a total of $1,053.50."
+  },
+  {
+    "id": "mat-numbers-algebra-064",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "An IV drips 90 drops every 3 minutes. At this rate, how many drops fall in one hour?",
+    "options": [
+      "270 drops",
+      "600 drops",
+      "1,800 drops",
+      "5,400 drops"
+    ],
+    "correctIndex": 2,
+    "explanation": "90 ÷ 3 = 30 drops per minute, and 30 x 60 = 1,800 drops per hour."
+  },
+  {
+    "id": "mat-numbers-algebra-065",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A shelter has 12 dogs and 20 cats. What is the ratio of dogs to all animals, in lowest terms?",
+    "options": [
+      "3:8",
+      "5:8",
+      "12:20",
+      "3:5"
+    ],
+    "correctIndex": 0,
+    "explanation": "There are 12 + 20 = 32 animals. 12:32 reduces (divide by 4) to 3:8."
+  },
+  {
+    "id": "mat-numbers-algebra-066",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Evaluate 3x² - 2x + 5 when x = 4.",
+    "options": [
+      "141",
+      "61",
+      "21",
+      "45"
+    ],
+    "correctIndex": 3,
+    "explanation": "Substitute 4: 3(16) - 2(4) + 5 = 48 - 8 + 5 = 45."
+  },
+  {
+    "id": "mat-numbers-algebra-067",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Evaluate a² - 4ab + b² when a = -2 and b = 3.",
+    "options": [
+      "29",
+      "-11",
+      "37",
+      "19"
+    ],
+    "correctIndex": 2,
+    "explanation": "(-2)² = 4, -4(-2)(3) = 24, and 3² = 9, so 4 + 24 + 9 = 37."
+  },
+  {
+    "id": "mat-numbers-algebra-068",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Simplify: 7y + 3 - 2y + 9",
+    "options": [
+      "5y + 12",
+      "17y",
+      "5y - 6",
+      "9y + 12"
+    ],
+    "correctIndex": 0,
+    "explanation": "Combine like terms: 7y - 2y = 5y and 3 + 9 = 12."
+  },
+  {
+    "id": "mat-numbers-algebra-069",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Simplify: 4(2m - 3) - 3(m + 5)",
+    "options": [
+      "5m + 3",
+      "11m - 27",
+      "5m - 27",
+      "5m - 3"
+    ],
+    "correctIndex": 2,
+    "explanation": "Distribute: 8m - 12 - 3m - 15. Combine like terms: 5m - 27."
+  },
+  {
+    "id": "mat-numbers-algebra-070",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Which expression is equivalent to 6x² + 9x?",
+    "options": [
+      "x(6x + 3)",
+      "9x(x + 1)",
+      "3x(2x + 3)",
+      "3(2x² + 9x)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The greatest common factor of 6x² and 9x is 3x; 3x times 2x is 6x², and 3x times 3 is 9x."
+  },
+  {
+    "id": "mat-numbers-algebra-071",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Factor completely: x² - 5x - 14",
+    "options": [
+      "(x - 5)(x + 14)",
+      "(x - 14)(x + 1)",
+      "(x - 7)(x + 2)",
+      "(x + 7)(x - 2)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Find two numbers that multiply to -14 and add to -5: -7 and 2. So x² - 5x - 14 = (x - 7)(x + 2)."
+  },
+  {
+    "id": "mat-numbers-algebra-072",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Expand: (x + 4)(x - 3)",
+    "options": [
+      "x² - 12",
+      "x² - x + 12",
+      "x² + x - 12",
+      "x² + 7x - 12"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use FOIL: x² - 3x + 4x - 12 = x² + x - 12."
+  },
+  {
+    "id": "mat-numbers-algebra-073",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Solve for x: 7x - 5 = 23",
+    "options": [
+      "28",
+      "-12/7",
+      "4",
+      "18/7"
+    ],
+    "correctIndex": 2,
+    "explanation": "Add 5 to both sides: 7x = 28. Divide by 7: x = 4."
+  },
+  {
+    "id": "mat-numbers-algebra-074",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Solve for n: 5(n + 2) - 3n = 24",
+    "options": [
+      "11",
+      "7",
+      "17",
+      "7/4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Distribute: 5n + 10 - 3n = 24, so 2n + 10 = 24. Then 2n = 14 and n = 7."
+  },
+  {
+    "id": "mat-numbers-algebra-075",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Solve for x: x/4 - 3 = x/6 + 1",
+    "options": [
+      "24",
+      "12",
+      "48",
+      "-48"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiply every term by 12 to clear fractions: 3x - 36 = 2x + 12. Subtract 2x and add 36: x = 48."
+  },
+  {
+    "id": "mat-numbers-algebra-076",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Solve for x: 0.3x + 1.2 = 0.5x - 0.8",
+    "options": [
+      "10",
+      "1/2",
+      "2",
+      "-10"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subtract 0.3x and add 0.8 to both sides: 2.0 = 0.2x. Divide by 0.2: x = 10."
+  },
+  {
+    "id": "mat-numbers-algebra-077",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Solve the inequality: 3 - 4x ≤ 19",
+    "options": [
+      "x ≥ -4",
+      "x ≥ 4",
+      "x ≤ -4",
+      "x ≤ 5.5"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subtract 3: -4x ≤ 16. Dividing by a negative number reverses the sign: x ≥ -4."
+  },
+  {
+    "id": "mat-numbers-algebra-078",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Which values of x satisfy -5 < 2x + 3 ≤ 11?",
+    "options": [
+      "-1 < x ≤ 7",
+      "-4 ≤ x < 4",
+      "-4 < x ≤ 4",
+      "x ≤ 4 only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Subtract 3 from all three parts: -8 < 2x ≤ 8. Divide by 2: -4 < x ≤ 4."
+  },
+  {
+    "id": "mat-numbers-algebra-079",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Which inequality describes \"a patient must drink at least 2,000 mL per day\" if d is the amount in mL?",
+    "options": [
+      "d ≥ 2,000",
+      "d > 2,000",
+      "d < 2,000",
+      "d ≤ 2,000"
+    ],
+    "correctIndex": 0,
+    "explanation": "\"At least\" means the amount can equal 2,000 or be greater, so use ≥."
+  },
+  {
+    "id": "mat-numbers-algebra-080",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Which expression means \"the product of 5 and a number, decreased by 8\"?",
+    "options": [
+      "8 - 5n",
+      "5 + n - 8",
+      "5n - 8",
+      "5(n - 8)"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"The product of 5 and a number\" is 5n; \"decreased by 8\" subtracts 8 from that product."
+  },
+  {
+    "id": "mat-numbers-algebra-081",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A gym charges a $35 sign-up fee plus $22 per month. Which expression gives the total cost for m months?",
+    "options": [
+      "22 + 35m",
+      "35 + 22m",
+      "57m",
+      "35m + 22m"
+    ],
+    "correctIndex": 1,
+    "explanation": "The $35 fee is paid once and $22 is paid each month, so the total is 35 + 22m."
+  },
+  {
+    "id": "mat-numbers-algebra-082",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Using the same plan ($35 sign-up fee plus $22 per month), how many full months can a member pay for with $255?",
+    "options": [
+      "13 months",
+      "11 months",
+      "4 months",
+      "10 months"
+    ],
+    "correctIndex": 3,
+    "explanation": "Solve 35 + 22m ≤ 255: 22m ≤ 220, so m ≤ 10. That is 10 full months."
+  },
+  {
+    "id": "mat-numbers-algebra-083",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "The sum of three consecutive integers is 87. What is the largest of the three?",
+    "options": [
+      "29",
+      "28",
+      "32",
+      "30"
+    ],
+    "correctIndex": 3,
+    "explanation": "Let the integers be n, n + 1, n + 2. Then 3n + 3 = 87, so n = 28, and the largest is 30."
+  },
+  {
+    "id": "mat-numbers-algebra-084",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "A mother is 3 times as old as her son. In 12 years, she will be twice as old as he will be. How old is the mother now?",
+    "options": [
+      "12",
+      "36",
+      "24",
+      "48"
+    ],
+    "correctIndex": 1,
+    "explanation": "Let the son's age be s: 3s + 12 = 2(s + 12), so 3s + 12 = 2s + 24 and s = 12. The mother is 3 x 12 = 36."
+  },
+  {
+    "id": "mat-numbers-algebra-085",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Solve P = 2l + 2w for w.",
+    "options": [
+      "w = (P - 2l) / 2",
+      "w = P - 2l",
+      "w = 2(P - 2l)",
+      "w = (P - l) / 2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subtract 2l from both sides (P - 2l = 2w), then divide both sides by 2."
+  },
+  {
+    "id": "mat-numbers-algebra-086",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "The formula for Celsius is C = 5/9(F - 32). Which formula gives F in terms of C?",
+    "options": [
+      "F = 9/5 C - 32",
+      "F = 9/5(C + 32)",
+      "F = 9/5 C + 32",
+      "F = 5/9 C + 32"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiply both sides by 9/5 to get 9/5 C = F - 32, then add 32 to both sides."
+  },
+  {
+    "id": "mat-numbers-algebra-087",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Solve the system: y = 2x - 1 and 3x + y = 19. What is y?",
+    "options": [
+      "4",
+      "19",
+      "9",
+      "7"
+    ],
+    "correctIndex": 3,
+    "explanation": "Substitute 2x - 1 for y: 3x + 2x - 1 = 19, so 5x = 20 and x = 4. Then y = 2(4) - 1 = 7."
+  },
+  {
+    "id": "mat-numbers-algebra-088",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "A school sold 40 tickets to a health fair. Adult tickets cost $12 and child tickets cost $7. Sales totaled $395. How many adult tickets were sold?",
+    "options": [
+      "23",
+      "17",
+      "20",
+      "32"
+    ],
+    "correctIndex": 0,
+    "explanation": "Let a = adult tickets: 12a + 7(40 - a) = 395, so 5a + 280 = 395 and a = 23."
+  },
+  {
+    "id": "mat-numbers-algebra-089",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "What is the value of 2⁴ + 4²?",
+    "options": [
+      "256",
+      "16",
+      "36",
+      "32"
+    ],
+    "correctIndex": 3,
+    "explanation": "2⁴ = 16 and 4² = 16, so 16 + 16 = 32."
+  },
+  {
+    "id": "mat-numbers-algebra-090",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Which value equals √144 + √81 - √25?",
+    "options": [
+      "14",
+      "200",
+      "10",
+      "16"
+    ],
+    "correctIndex": 3,
+    "explanation": "√144 = 12, √81 = 9, and √25 = 5, so 12 + 9 - 5 = 16."
+  },
+  {
+    "id": "mat-numbers-algebra-091",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Between which two consecutive whole numbers does √58 lie?",
+    "options": [
+      "6 and 7",
+      "8 and 9",
+      "28 and 29",
+      "7 and 8"
+    ],
+    "correctIndex": 3,
+    "explanation": "7² = 49 and 8² = 64. Since 49 < 58 < 64, √58 is between 7 and 8."
+  },
+  {
+    "id": "mat-numbers-algebra-092",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "What is the greatest common factor of 36 and 60?",
+    "options": [
+      "6",
+      "180",
+      "4",
+      "12"
+    ],
+    "correctIndex": 3,
+    "explanation": "36 = 2² x 3² and 60 = 2² x 3 x 5. The shared factors are 2² x 3 = 12."
+  },
+  {
+    "id": "mat-numbers-algebra-093",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "One medication is given every 8 hours and another every 12 hours. Both are given at 6:00 a.m. After how many hours will they next be given at the same time?",
+    "options": [
+      "4 hours",
+      "96 hours",
+      "20 hours",
+      "24 hours"
+    ],
+    "correctIndex": 3,
+    "explanation": "Find the least common multiple of 8 and 12: multiples of 12 are 12, 24, ...; 24 is the first that 8 also divides. So 24 hours."
+  },
+  {
+    "id": "mat-numbers-algebra-094",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Which of the following numbers is prime?",
+    "options": [
+      "47",
+      "51",
+      "57",
+      "91"
+    ],
+    "correctIndex": 0,
+    "explanation": "47 has no factors other than 1 and itself. 51 = 3 x 17, 57 = 3 x 19, and 91 = 7 x 13."
+  },
+  {
+    "id": "mat-numbers-algebra-095",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "What is the prime factorization of 180?",
+    "options": [
+      "2² x 3² x 5",
+      "2³ x 3 x 5",
+      "4 x 9 x 5",
+      "2 x 3 x 30"
+    ],
+    "correctIndex": 0,
+    "explanation": "180 = 2 x 90 = 2 x 2 x 45 = 2 x 2 x 3 x 3 x 5, which is 2² x 3² x 5."
+  },
+  {
+    "id": "mat-numbers-algebra-096",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "In the number 58,347.926, which digit is in the tenths place?",
+    "options": [
+      "7",
+      "9",
+      "2",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "The first digit to the right of the decimal point is the tenths place, which is 9."
+  },
+  {
+    "id": "mat-numbers-algebra-097",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "What is the reciprocal of 2 2/5?",
+    "options": [
+      "5/2",
+      "12/5",
+      "5/12",
+      "-12/5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Write 2 2/5 as 12/5, then flip it: the reciprocal is 5/12."
+  },
+  {
+    "id": "mat-numbers-algebra-098",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Which number is equal to 4⁻²?",
+    "options": [
+      "-16",
+      "1/16",
+      "1/8",
+      "-8"
+    ],
+    "correctIndex": 1,
+    "explanation": "A negative exponent means a reciprocal: 4⁻² = 1/4² = 1/16."
+  },
+  {
+    "id": "mat-numbers-algebra-099",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "Order from least to greatest: -0.8, -3/4, -5/6, -0.7",
+    "options": [
+      "-0.7, -0.8, -3/4, -5/6",
+      "-5/6, -0.8, -3/4, -0.7",
+      "-0.7, -3/4, -0.8, -5/6",
+      "-0.8, -5/6, -3/4, -0.7"
+    ],
+    "correctIndex": 1,
+    "explanation": "As decimals: -0.8, -0.75, -0.833, and -0.7. The most negative is least, so -5/6 comes first and -0.7 last."
+  },
+  {
+    "id": "mat-numbers-algebra-100",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "Which point on a number line is farthest from 0?",
+    "options": [
+      "8",
+      "-7",
+      "9",
+      "-9.5"
+    ],
+    "correctIndex": 3,
+    "explanation": "Distance from 0 is the absolute value: |-9.5| = 9.5 is larger than 8, 7, or 9."
+  },
+  {
+    "id": "mat-numbers-algebra-101",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A thermometer reads 3.2°C at midnight and -4.7°C at 5 a.m. By how many degrees did the temperature fall?",
+    "options": [
+      "7.9°C",
+      "8.9°C",
+      "-7.9°C",
+      "1.5°C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Change = 3.2 - (-4.7) = 3.2 + 4.7 = 7.9 degrees."
+  },
+  {
+    "id": "mat-numbers-algebra-102",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A provider orders 750 mg of a drug. Tablets contain 250 mg each. How many tablets should be given?",
+    "options": [
+      "5",
+      "2",
+      "1/3",
+      "3"
+    ],
+    "correctIndex": 3,
+    "explanation": "Divide the ordered dose by the tablet strength: 750 ÷ 250 = 3 tablets."
+  },
+  {
+    "id": "mat-numbers-algebra-103",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A recipe uses 3/4 cup of oats for 4 servings. How many cups are needed for 10 servings?",
+    "options": [
+      "3/10 cups",
+      "7 1/2 cups",
+      "2 1/4 cups",
+      "1 7/8 cups"
+    ],
+    "correctIndex": 3,
+    "explanation": "Oats per serving: 3/4 ÷ 4 = 3/16 cup. For 10 servings: 3/16 x 10 = 30/16 = 1 7/8 cups."
+  },
+  {
+    "id": "mat-numbers-algebra-104",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "A driver goes 120 miles to a clinic at 40 mph and returns the same way at 60 mph. What is the average speed for the whole trip?",
+    "options": [
+      "50 mph",
+      "100 mph",
+      "48 mph",
+      "24 mph"
+    ],
+    "correctIndex": 2,
+    "explanation": "Time = 120/40 + 120/60 = 3 + 2 = 5 hours for 240 miles. Average speed = 240 ÷ 5 = 48 mph."
+  },
+  {
+    "id": "mat-numbers-algebra-105",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "One pump can fill a tank in 6 hours and a second pump can fill it in 3 hours. Working together, how long will they take?",
+    "options": [
+      "2 hours",
+      "3 hours",
+      "4.5 hours",
+      "9 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Together they fill 1/6 + 1/3 = 1/2 of the tank per hour, so the job takes 1 ÷ 1/2 = 2 hours."
+  },
+  {
+    "id": "mat-numbers-algebra-106",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "A pharmacist mixes a 10% solution with a 25% solution to make 300 mL of a 20% solution. How many mL of the 10% solution are needed?",
+    "options": [
+      "200 mL",
+      "60 mL",
+      "100 mL",
+      "150 mL"
+    ],
+    "correctIndex": 2,
+    "explanation": "Let x be mL of 10%: 0.10x + 0.25(300 - x) = 0.20(300). Then 75 - 0.15x = 60, so x = 100 mL."
+  },
+  {
+    "id": "mat-numbers-algebra-107",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A student volunteer worked 7.5, 8.25, 6.75, and 9 hours over four days. How many hours did the student work in all?",
+    "options": [
+      "30.5 hours",
+      "31.5 hours",
+      "32 hours",
+      "7.88 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Add the hours: 7.5 + 8.25 + 6.75 + 9 = 31.5 hours."
+  },
+  {
+    "id": "mat-numbers-algebra-108",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "From a monthly income of $1,800, a student spends 2/5 on rent and 1/4 of what remains on food. How much is left?",
+    "options": [
+      "$810",
+      "$630",
+      "$1,080",
+      "$720"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rent = 2/5 x 1,800 = $720, leaving $1,080. Food = 1/4 x 1,080 = $270, so $810 is left."
+  },
+  {
+    "id": "mat-numbers-algebra-109",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "hard",
+    "question": "A town of 4,000 people grows 5% each year. What is the population after 2 years?",
+    "options": [
+      "400",
+      "4,200",
+      "4,400",
+      "4,410"
+    ],
+    "correctIndex": 3,
+    "explanation": "Each year multiply by 1.05: 4,000 x 1.05 = 4,200, then 4,200 x 1.05 = 4,410."
+  },
+  {
+    "id": "mat-numbers-algebra-110",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Which expression represents the total cost of 3 notebooks at n dollars each and 2 pens at p dollars each?",
+    "options": [
+      "3p + 2n",
+      "5np",
+      "3n + 2p",
+      "(3 + 2)(n + p)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiply each quantity by its price and add: 3 notebooks cost 3n and 2 pens cost 2p."
+  },
+  {
+    "id": "mat-numbers-algebra-111",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "If 3x + 2 = 17, what is the value of 6x - 1?",
+    "options": [
+      "29",
+      "4",
+      "33",
+      "9"
+    ],
+    "correctIndex": 0,
+    "explanation": "Solve 3x + 2 = 17 to get x = 5. Then 6(5) - 1 = 29."
+  },
+  {
+    "id": "mat-numbers-algebra-112",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "A patient receives 1.2 g of an antibiotic per day, split into 4 equal doses. How many milligrams are in each dose?",
+    "options": [
+      "4,800 mg",
+      "300 mg",
+      "30 mg",
+      "0.3 mg"
+    ],
+    "correctIndex": 1,
+    "explanation": "1.2 g = 1,200 mg, and 1,200 ÷ 4 = 300 mg per dose."
+  },
+  {
+    "id": "mat-numbers-algebra-113",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "What is 1,000 - 386?",
+    "options": [
+      "714",
+      "624",
+      "-614",
+      "614"
+    ],
+    "correctIndex": 3,
+    "explanation": "Regroup across the zeros: 1,000 - 386 = 614. Check: 614 + 386 = 1,000."
+  },
+  {
+    "id": "mat-numbers-algebra-114",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "easy",
+    "question": "A practice test has 40 questions. A student needs a score of at least 85% to pass. What is the fewest number of questions the student must answer correctly?",
+    "options": [
+      "35",
+      "34",
+      "33",
+      "32"
+    ],
+    "correctIndex": 1,
+    "explanation": "85% of 40 = 0.85 x 40 = 34."
+  },
+  {
+    "id": "mat-numbers-algebra-115",
+    "section": "math",
+    "subcategory": "numbers-algebra",
+    "difficulty": "medium",
+    "question": "Which equation shows the distributive property?",
+    "options": [
+      "4 + (x + 6) = (4 + x) + 6",
+      "4(x · 6) = (4x) · 6",
+      "4x + 24 = 24 + 4x",
+      "4(x + 6) = 4x + 24"
+    ],
+    "correctIndex": 3,
+    "explanation": "The distributive property multiplies a factor across each term in parentheses: a(b + c) = ab + ac."
   }
 ]

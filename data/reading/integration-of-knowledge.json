@@ -275,5 +275,1157 @@
     ],
     "correctIndex": 3,
     "explanation": "Going to the primary source and checking methods lets the reader judge evidence directly."
+  },
+  {
+    "id": "rea-integration-of-knowledge-019",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which idea do both passages share?",
+    "options": [
+      "Resistance training harms the heart.",
+      "Walking alone is enough for everyone.",
+      "Gym memberships are required.",
+      "Walking is beneficial exercise."
+    ],
+    "correctIndex": 3,
+    "explanation": "Both passages acknowledge walking is good for health.",
+    "passage": "Passage 1: A brisk 30-minute walk each day is one of the simplest ways to improve health. Walking strengthens the heart, helps control weight, and requires no special equipment or gym membership. Large studies have found that regular walkers have lower rates of heart disease than people who are inactive.\nPassage 2: Walking is good exercise, but it may not be enough for everyone. People who want to build muscle or improve bone density also need resistance training, such as lifting weights or using bands, at least twice a week. Combining walking with strength exercises offers broader benefits than walking alone."
+  },
+  {
+    "id": "rea-integration-of-knowledge-020",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How does Passage 2 relate to Passage 1?",
+    "options": [
+      "It adds a qualification, suggesting walking should be combined with strength training.",
+      "It repeats Passage 1 word for word.",
+      "It completely rejects walking as exercise.",
+      "It tells a story about a walker."
+    ],
+    "correctIndex": 0,
+    "explanation": "Passage 2 agrees walking is good but argues it may not be enough by itself.",
+    "passage": "Passage 1: A brisk 30-minute walk each day is one of the simplest ways to improve health. Walking strengthens the heart, helps control weight, and requires no special equipment or gym membership. Large studies have found that regular walkers have lower rates of heart disease than people who are inactive.\nPassage 2: Walking is good exercise, but it may not be enough for everyone. People who want to build muscle or improve bone density also need resistance training, such as lifting weights or using bands, at least twice a week. Combining walking with strength exercises offers broader benefits than walking alone."
+  },
+  {
+    "id": "rea-integration-of-knowledge-021",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which evidence does Passage 1 use to support its claim?",
+    "options": [
+      "The cost of weights",
+      "Recommendations about bone density",
+      "Advice from a personal trainer",
+      "Large studies showing regular walkers have less heart disease"
+    ],
+    "correctIndex": 3,
+    "explanation": "Passage 1 cites large studies of walkers.",
+    "passage": "Passage 1: A brisk 30-minute walk each day is one of the simplest ways to improve health. Walking strengthens the heart, helps control weight, and requires no special equipment or gym membership. Large studies have found that regular walkers have lower rates of heart disease than people who are inactive.\nPassage 2: Walking is good exercise, but it may not be enough for everyone. People who want to build muscle or improve bone density also need resistance training, such as lifting weights or using bands, at least twice a week. Combining walking with strength exercises offers broader benefits than walking alone."
+  },
+  {
+    "id": "rea-integration-of-knowledge-022",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "A reader who wants to improve bone density would find which passage more useful?",
+    "options": [
+      "Passage 2",
+      "Both equally",
+      "Neither passage",
+      "Passage 1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Only Passage 2 discusses bone density and resistance training.",
+    "passage": "Passage 1: A brisk 30-minute walk each day is one of the simplest ways to improve health. Walking strengthens the heart, helps control weight, and requires no special equipment or gym membership. Large studies have found that regular walkers have lower rates of heart disease than people who are inactive.\nPassage 2: Walking is good exercise, but it may not be enough for everyone. People who want to build muscle or improve bone density also need resistance training, such as lifting weights or using bands, at least twice a week. Combining walking with strength exercises offers broader benefits than walking alone."
+  },
+  {
+    "id": "rea-integration-of-knowledge-023",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Which conclusion is best supported by both passages together?",
+    "options": [
+      "A fitness plan that includes walking and strength training offers the broadest benefits.",
+      "Only weightlifting improves health.",
+      "Walking should be avoided.",
+      "Exercise has no effect on heart disease."
+    ],
+    "correctIndex": 0,
+    "explanation": "Passage 1 shows walking's benefits and Passage 2 adds the value of strength work.",
+    "passage": "Passage 1: A brisk 30-minute walk each day is one of the simplest ways to improve health. Walking strengthens the heart, helps control weight, and requires no special equipment or gym membership. Large studies have found that regular walkers have lower rates of heart disease than people who are inactive.\nPassage 2: Walking is good exercise, but it may not be enough for everyone. People who want to build muscle or improve bone density also need resistance training, such as lifting weights or using bands, at least twice a week. Combining walking with strength exercises offers broader benefits than walking alone."
+  },
+  {
+    "id": "rea-integration-of-knowledge-024",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What does Passage 2 recommend doing at least twice a week?",
+    "options": [
+      "Walking for 30 minutes",
+      "Joining a gym",
+      "Resting completely",
+      "Resistance training"
+    ],
+    "correctIndex": 3,
+    "explanation": "Passage 2 recommends resistance training at least twice a week.",
+    "passage": "Passage 1: A brisk 30-minute walk each day is one of the simplest ways to improve health. Walking strengthens the heart, helps control weight, and requires no special equipment or gym membership. Large studies have found that regular walkers have lower rates of heart disease than people who are inactive.\nPassage 2: Walking is good exercise, but it may not be enough for everyone. People who want to build muscle or improve bone density also need resistance training, such as lifting weights or using bands, at least twice a week. Combining walking with strength exercises offers broader benefits than walking alone."
+  },
+  {
+    "id": "rea-integration-of-knowledge-025",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "According to the table, how many students reported sleeping 7 to 8 hours?",
+    "options": [
+      "22",
+      "48",
+      "74",
+      "56"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 7 to 8 hour row shows 56 students.",
+    "passage": "A school nurse surveyed 200 high school students about their sleep and grades. The results are summarized below.\nHours of sleep per night | Number of students | Average GPA\nLess than 6 | 48 | 2.6\n6 to 7 | 74 | 2.9\n7 to 8 | 56 | 3.2\nMore than 8 | 22 | 3.3\nThe nurse noted that the survey relied on students' own reports of their sleep and did not account for other factors, such as part-time jobs or study habits."
+  },
+  {
+    "id": "rea-integration-of-knowledge-026",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which group had the highest average GPA?",
+    "options": [
+      "Students who slept more than 8 hours",
+      "Students who slept 6 to 7 hours",
+      "Students who slept less than 6 hours",
+      "Students who slept 7 to 8 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "The more-than-8-hours group averaged 3.3, the highest value.",
+    "passage": "A school nurse surveyed 200 high school students about their sleep and grades. The results are summarized below.\nHours of sleep per night | Number of students | Average GPA\nLess than 6 | 48 | 2.6\n6 to 7 | 74 | 2.9\n7 to 8 | 56 | 3.2\nMore than 8 | 22 | 3.3\nThe nurse noted that the survey relied on students' own reports of their sleep and did not account for other factors, such as part-time jobs or study habits."
+  },
+  {
+    "id": "rea-integration-of-knowledge-027",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "What trend does the table show?",
+    "options": [
+      "Most students sleep more than 8 hours.",
+      "Sleep has no relationship to GPA.",
+      "Average GPA falls as sleep increases.",
+      "Average GPA tends to rise as reported sleep increases."
+    ],
+    "correctIndex": 3,
+    "explanation": "GPA increases from 2.6 to 3.3 across the sleep categories.",
+    "passage": "A school nurse surveyed 200 high school students about their sleep and grades. The results are summarized below.\nHours of sleep per night | Number of students | Average GPA\nLess than 6 | 48 | 2.6\n6 to 7 | 74 | 2.9\n7 to 8 | 56 | 3.2\nMore than 8 | 22 | 3.3\nThe nurse noted that the survey relied on students' own reports of their sleep and did not account for other factors, such as part-time jobs or study habits."
+  },
+  {
+    "id": "rea-integration-of-knowledge-028",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which sleep category included the most students?",
+    "options": [
+      "7 to 8 hours",
+      "6 to 7 hours",
+      "More than 8 hours",
+      "Less than 6 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "74 students, the largest number, reported 6 to 7 hours.",
+    "passage": "A school nurse surveyed 200 high school students about their sleep and grades. The results are summarized below.\nHours of sleep per night | Number of students | Average GPA\nLess than 6 | 48 | 2.6\n6 to 7 | 74 | 2.9\n7 to 8 | 56 | 3.2\nMore than 8 | 22 | 3.3\nThe nurse noted that the survey relied on students' own reports of their sleep and did not account for other factors, such as part-time jobs or study habits."
+  },
+  {
+    "id": "rea-integration-of-knowledge-029",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Why should readers be cautious about concluding that more sleep causes higher grades?",
+    "options": [
+      "GPA cannot be measured.",
+      "The data are self-reported and other factors were not controlled.",
+      "The survey included too many students.",
+      "The table shows that sleep lowers grades."
+    ],
+    "correctIndex": 1,
+    "explanation": "The nurse notes reliance on self-reports and unmeasured factors such as jobs and study habits.",
+    "passage": "A school nurse surveyed 200 high school students about their sleep and grades. The results are summarized below.\nHours of sleep per night | Number of students | Average GPA\nLess than 6 | 48 | 2.6\n6 to 7 | 74 | 2.9\n7 to 8 | 56 | 3.2\nMore than 8 | 22 | 3.3\nThe nurse noted that the survey relied on students' own reports of their sleep and did not account for other factors, such as part-time jobs or study habits."
+  },
+  {
+    "id": "rea-integration-of-knowledge-030",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How many students reported sleeping 7 hours or more?",
+    "options": [
+      "200",
+      "122",
+      "78",
+      "56"
+    ],
+    "correctIndex": 2,
+    "explanation": "Add the two categories: 56 + 22 = 78 students.",
+    "passage": "A school nurse surveyed 200 high school students about their sleep and grades. The results are summarized below.\nHours of sleep per night | Number of students | Average GPA\nLess than 6 | 48 | 2.6\n6 to 7 | 74 | 2.9\n7 to 8 | 56 | 3.2\nMore than 8 | 22 | 3.3\nThe nurse noted that the survey relied on students' own reports of their sleep and did not account for other factors, such as part-time jobs or study habits."
+  },
+  {
+    "id": "rea-integration-of-knowledge-031",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which source is a primary source?",
+    "options": [
+      "The 2019 history book",
+      "The 1918 letter from an army nurse",
+      "The website of unknown authorship",
+      "A 2020 encyclopedia article"
+    ],
+    "correctIndex": 1,
+    "explanation": "A primary source is a firsthand account created at the time of the event.",
+    "passage": "A student is writing a research paper on the 1918 influenza pandemic. She has found four sources: a letter written in 1918 by an army nurse describing crowded hospital wards; a 2019 history book by a university professor that analyzes how the virus spread; a website of unknown authorship claiming the pandemic was caused by radio waves; and a 1919 public health report listing the number of deaths in major cities. Her instructor has asked that the paper include at least one primary source and rely only on credible information."
+  },
+  {
+    "id": "rea-integration-of-knowledge-032",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which source should the student avoid using?",
+    "options": [
+      "The 2019 history book",
+      "The 1919 public health report",
+      "The army nurse's letter",
+      "The website claiming radio waves caused the pandemic"
+    ],
+    "correctIndex": 3,
+    "explanation": "The website has no known author and makes an unsupported claim, so it is not credible.",
+    "passage": "A student is writing a research paper on the 1918 influenza pandemic. She has found four sources: a letter written in 1918 by an army nurse describing crowded hospital wards; a 2019 history book by a university professor that analyzes how the virus spread; a website of unknown authorship claiming the pandemic was caused by radio waves; and a 1919 public health report listing the number of deaths in major cities. Her instructor has asked that the paper include at least one primary source and rely only on credible information."
+  },
+  {
+    "id": "rea-integration-of-knowledge-033",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "What type of source is the 2019 history book?",
+    "options": [
+      "An unreliable source",
+      "A fictional source",
+      "A primary source",
+      "A secondary source"
+    ],
+    "correctIndex": 3,
+    "explanation": "The book analyzes events after the fact, making it a secondary source.",
+    "passage": "A student is writing a research paper on the 1918 influenza pandemic. She has found four sources: a letter written in 1918 by an army nurse describing crowded hospital wards; a 2019 history book by a university professor that analyzes how the virus spread; a website of unknown authorship claiming the pandemic was caused by radio waves; and a 1919 public health report listing the number of deaths in major cities. Her instructor has asked that the paper include at least one primary source and rely only on credible information."
+  },
+  {
+    "id": "rea-integration-of-knowledge-034",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which source would best provide numerical data on deaths?",
+    "options": [
+      "The website",
+      "The army nurse's letter",
+      "A novel set in 1918",
+      "The 1919 public health report"
+    ],
+    "correctIndex": 3,
+    "explanation": "The report lists numbers of deaths in major cities.",
+    "passage": "A student is writing a research paper on the 1918 influenza pandemic. She has found four sources: a letter written in 1918 by an army nurse describing crowded hospital wards; a 2019 history book by a university professor that analyzes how the virus spread; a website of unknown authorship claiming the pandemic was caused by radio waves; and a 1919 public health report listing the number of deaths in major cities. Her instructor has asked that the paper include at least one primary source and rely only on credible information."
+  },
+  {
+    "id": "rea-integration-of-knowledge-035",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Which pair of sources best meets the instructor's requirements?",
+    "options": [
+      "Only the website",
+      "The army nurse's letter and the professor's history book",
+      "The website and the nurse's letter",
+      "The website and the history book"
+    ],
+    "correctIndex": 1,
+    "explanation": "This pair includes a primary source and only credible information.",
+    "passage": "A student is writing a research paper on the 1918 influenza pandemic. She has found four sources: a letter written in 1918 by an army nurse describing crowded hospital wards; a 2019 history book by a university professor that analyzes how the virus spread; a website of unknown authorship claiming the pandemic was caused by radio waves; and a 1919 public health report listing the number of deaths in major cities. Her instructor has asked that the paper include at least one primary source and rely only on credible information."
+  },
+  {
+    "id": "rea-integration-of-knowledge-036",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Why is the 1919 public health report also considered a primary source?",
+    "options": [
+      "It is an opinion piece.",
+      "It summarizes other books.",
+      "It was written by a modern professor.",
+      "It was created at the time by officials recording the events."
+    ],
+    "correctIndex": 3,
+    "explanation": "Documents produced during or right after an event are primary sources.",
+    "passage": "A student is writing a research paper on the 1918 influenza pandemic. She has found four sources: a letter written in 1918 by an army nurse describing crowded hospital wards; a 2019 history book by a university professor that analyzes how the virus spread; a website of unknown authorship claiming the pandemic was caused by radio waves; and a 1919 public health report listing the number of deaths in major cities. Her instructor has asked that the paper include at least one primary source and rely only on credible information."
+  },
+  {
+    "id": "rea-integration-of-knowledge-037",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What is the main claim of the blog post?",
+    "options": [
+      "Drinking four cups of coffee a day will add years to your life.",
+      "Coffee beans should be stored cold.",
+      "Coffee causes heart disease.",
+      "Exercise is unnecessary."
+    ],
+    "correctIndex": 0,
+    "explanation": "The title and opening state that coffee lengthens life.",
+    "passage": "A blog post titled \"Coffee: The Secret to a Longer Life\" claims that drinking four cups of coffee a day will add years to your life. The author, who sells coffee beans online, cites a single study in which coffee drinkers lived slightly longer on average than non-drinkers. The post does not mention that the study was observational, meaning researchers did not assign people to drink coffee, or that the coffee drinkers in the study also exercised more. The post ends with a discount code for the author's store."
+  },
+  {
+    "id": "rea-integration-of-knowledge-038",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Why might the author be biased?",
+    "options": [
+      "The author lives in a cold climate.",
+      "The author is a medical doctor.",
+      "The author sells coffee beans and profits from the claim.",
+      "The author does not drink coffee."
+    ],
+    "correctIndex": 2,
+    "explanation": "A financial interest in coffee sales gives the author a reason to exaggerate benefits.",
+    "passage": "A blog post titled \"Coffee: The Secret to a Longer Life\" claims that drinking four cups of coffee a day will add years to your life. The author, who sells coffee beans online, cites a single study in which coffee drinkers lived slightly longer on average than non-drinkers. The post does not mention that the study was observational, meaning researchers did not assign people to drink coffee, or that the coffee drinkers in the study also exercised more. The post ends with a discount code for the author's store."
+  },
+  {
+    "id": "rea-integration-of-knowledge-039",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "What important information does the post leave out?",
+    "options": [
+      "The coffee drinkers in the study also exercised more.",
+      "The blog has a title.",
+      "The study included coffee drinkers.",
+      "Coffee contains caffeine."
+    ],
+    "correctIndex": 0,
+    "explanation": "Omitting the exercise difference hides another possible cause of longer life.",
+    "passage": "A blog post titled \"Coffee: The Secret to a Longer Life\" claims that drinking four cups of coffee a day will add years to your life. The author, who sells coffee beans online, cites a single study in which coffee drinkers lived slightly longer on average than non-drinkers. The post does not mention that the study was observational, meaning researchers did not assign people to drink coffee, or that the coffee drinkers in the study also exercised more. The post ends with a discount code for the author's store."
+  },
+  {
+    "id": "rea-integration-of-knowledge-040",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Why does the observational design weaken the blog's conclusion?",
+    "options": [
+      "Observational studies are always faked.",
+      "It means the study had no participants.",
+      "Without assigning people to drink coffee, researchers cannot show that coffee caused longer life.",
+      "It proves coffee shortens life."
+    ],
+    "correctIndex": 2,
+    "explanation": "Observational studies show associations, not cause and effect.",
+    "passage": "A blog post titled \"Coffee: The Secret to a Longer Life\" claims that drinking four cups of coffee a day will add years to your life. The author, who sells coffee beans online, cites a single study in which coffee drinkers lived slightly longer on average than non-drinkers. The post does not mention that the study was observational, meaning researchers did not assign people to drink coffee, or that the coffee drinkers in the study also exercised more. The post ends with a discount code for the author's store."
+  },
+  {
+    "id": "rea-integration-of-knowledge-041",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How many studies does the author cite?",
+    "options": [
+      "Several dozen",
+      "None",
+      "One",
+      "Four"
+    ],
+    "correctIndex": 2,
+    "explanation": "The post cites a single study.",
+    "passage": "A blog post titled \"Coffee: The Secret to a Longer Life\" claims that drinking four cups of coffee a day will add years to your life. The author, who sells coffee beans online, cites a single study in which coffee drinkers lived slightly longer on average than non-drinkers. The post does not mention that the study was observational, meaning researchers did not assign people to drink coffee, or that the coffee drinkers in the study also exercised more. The post ends with a discount code for the author's store."
+  },
+  {
+    "id": "rea-integration-of-knowledge-042",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which change would make the post's argument more credible?",
+    "options": [
+      "Using a more exciting title",
+      "Citing several controlled studies from independent researchers",
+      "Adding a larger discount code",
+      "Removing the study entirely"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiple controlled, independent studies provide stronger evidence than one observational study.",
+    "passage": "A blog post titled \"Coffee: The Secret to a Longer Life\" claims that drinking four cups of coffee a day will add years to your life. The author, who sells coffee beans online, cites a single study in which coffee drinkers lived slightly longer on average than non-drinkers. The post does not mention that the study was observational, meaning researchers did not assign people to drink coffee, or that the coffee drinkers in the study also exercised more. The post ends with a discount code for the author's store."
+  },
+  {
+    "id": "rea-integration-of-knowledge-043",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What is the main point of Passage 2?",
+    "options": [
+      "Homework improves sleep.",
+      "Homework should be eliminated entirely.",
+      "Schools should limit homework so it does not cause excess stress.",
+      "Students should study more than three hours a night."
+    ],
+    "correctIndex": 2,
+    "explanation": "Passage 2 argues for limits because too much homework causes harm.",
+    "passage": "Passage 1: Homework gives students a chance to practice skills on their own, which helps them remember what they learned in class. It also teaches responsibility and time management, habits that matter in college and at work.\nPassage 2: Too much homework can do more harm than good. In one survey of high school students, those who reported more than three hours of homework a night also reported more stress, less sleep, and less time for exercise. Schools should set limits so that homework supports learning without crowding out rest and family time."
+  },
+  {
+    "id": "rea-integration-of-knowledge-044",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How do the passages differ?",
+    "options": [
+      "Passage 1 cites a survey and Passage 2 does not.",
+      "Both argue homework should be banned.",
+      "Passage 1 focuses on homework's benefits, while Passage 2 focuses on the harms of too much.",
+      "Passage 2 praises long homework hours."
+    ],
+    "correctIndex": 2,
+    "explanation": "The passages emphasize different effects of homework.",
+    "passage": "Passage 1: Homework gives students a chance to practice skills on their own, which helps them remember what they learned in class. It also teaches responsibility and time management, habits that matter in college and at work.\nPassage 2: Too much homework can do more harm than good. In one survey of high school students, those who reported more than three hours of homework a night also reported more stress, less sleep, and less time for exercise. Schools should set limits so that homework supports learning without crowding out rest and family time."
+  },
+  {
+    "id": "rea-integration-of-knowledge-045",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which type of evidence appears only in Passage 2?",
+    "options": [
+      "Survey results",
+      "Claims about responsibility",
+      "Personal opinion",
+      "Statements about memory"
+    ],
+    "correctIndex": 0,
+    "explanation": "Passage 2 cites a survey of high school students.",
+    "passage": "Passage 1: Homework gives students a chance to practice skills on their own, which helps them remember what they learned in class. It also teaches responsibility and time management, habits that matter in college and at work.\nPassage 2: Too much homework can do more harm than good. In one survey of high school students, those who reported more than three hours of homework a night also reported more stress, less sleep, and less time for exercise. Schools should set limits so that homework supports learning without crowding out rest and family time."
+  },
+  {
+    "id": "rea-integration-of-knowledge-046",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Which statement would the authors of both passages most likely accept?",
+    "options": [
+      "More homework is always better.",
+      "Homework should never be graded.",
+      "Homework has no effect on students.",
+      "A reasonable amount of homework can support learning."
+    ],
+    "correctIndex": 3,
+    "explanation": "Passage 1 values homework, and Passage 2 says it should support learning within limits.",
+    "passage": "Passage 1: Homework gives students a chance to practice skills on their own, which helps them remember what they learned in class. It also teaches responsibility and time management, habits that matter in college and at work.\nPassage 2: Too much homework can do more harm than good. In one survey of high school students, those who reported more than three hours of homework a night also reported more stress, less sleep, and less time for exercise. Schools should set limits so that homework supports learning without crowding out rest and family time."
+  },
+  {
+    "id": "rea-integration-of-knowledge-047",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Why might the survey in Passage 2 not prove that homework causes stress?",
+    "options": [
+      "Surveys cannot ask about homework.",
+      "Only teachers took the survey.",
+      "The survey shows a connection, but other factors could cause both.",
+      "The survey proves homework reduces stress."
+    ],
+    "correctIndex": 2,
+    "explanation": "A link between homework and stress in a survey does not establish cause.",
+    "passage": "Passage 1: Homework gives students a chance to practice skills on their own, which helps them remember what they learned in class. It also teaches responsibility and time management, habits that matter in college and at work.\nPassage 2: Too much homework can do more harm than good. In one survey of high school students, those who reported more than three hours of homework a night also reported more stress, less sleep, and less time for exercise. Schools should set limits so that homework supports learning without crowding out rest and family time."
+  },
+  {
+    "id": "rea-integration-of-knowledge-048",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "According to Passage 1, what habits does homework teach?",
+    "options": [
+      "Public speaking and debate",
+      "Cooking and cleaning",
+      "Responsibility and time management",
+      "Teamwork and leadership"
+    ],
+    "correctIndex": 2,
+    "explanation": "Passage 1 says homework teaches responsibility and time management.",
+    "passage": "Passage 1: Homework gives students a chance to practice skills on their own, which helps them remember what they learned in class. It also teaches responsibility and time management, habits that matter in college and at work.\nPassage 2: Too much homework can do more harm than good. In one survey of high school students, those who reported more than three hours of homework a night also reported more stress, less sleep, and less time for exercise. Schools should set limits so that homework supports learning without crowding out rest and family time."
+  },
+  {
+    "id": "rea-integration-of-knowledge-049",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "In which school year was the vaccination rate lowest?",
+    "options": [
+      "2021-22",
+      "2020-21",
+      "2023-24",
+      "2019-20"
+    ],
+    "correctIndex": 0,
+    "explanation": "The lowest value, 89%, was in 2021-22.",
+    "passage": "A county health department reported the percentage of kindergarteners who had received all required vaccines over five school years.\n2019-20: 94%\n2020-21: 91%\n2021-22: 89%\n2022-23: 90%\n2023-24: 92%\nThe department noted that many routine medical visits were postponed during 2020 and 2021. In 2022, it began offering free vaccination clinics at elementary schools before the start of each school year. Families could bring children to these clinics without an appointment, and staff also helped parents locate missing immunization records from previous providers."
+  },
+  {
+    "id": "rea-integration-of-knowledge-050",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "By how many percentage points did the rate drop from 2019-20 to 2021-22?",
+    "options": [
+      "5 percentage points",
+      "89 percentage points",
+      "3 percentage points",
+      "2 percentage points"
+    ],
+    "correctIndex": 0,
+    "explanation": "94% - 89% = 5 percentage points.",
+    "passage": "A county health department reported the percentage of kindergarteners who had received all required vaccines over five school years.\n2019-20: 94%\n2020-21: 91%\n2021-22: 89%\n2022-23: 90%\n2023-24: 92%\nThe department noted that many routine medical visits were postponed during 2020 and 2021. In 2022, it began offering free vaccination clinics at elementary schools before the start of each school year. Families could bring children to these clinics without an appointment, and staff also helped parents locate missing immunization records from previous providers."
+  },
+  {
+    "id": "rea-integration-of-knowledge-051",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which explanation for the decline is suggested by the passage?",
+    "options": [
+      "Schools stopped requiring vaccines.",
+      "The clinics closed in 2022.",
+      "Fewer children enrolled in kindergarten.",
+      "Routine medical visits were postponed in 2020 and 2021."
+    ],
+    "correctIndex": 3,
+    "explanation": "The department notes postponed visits during those years.",
+    "passage": "A county health department reported the percentage of kindergarteners who had received all required vaccines over five school years.\n2019-20: 94%\n2020-21: 91%\n2021-22: 89%\n2022-23: 90%\n2023-24: 92%\nThe department noted that many routine medical visits were postponed during 2020 and 2021. In 2022, it began offering free vaccination clinics at elementary schools before the start of each school year. Families could bring children to these clinics without an appointment, and staff also helped parents locate missing immunization records from previous providers."
+  },
+  {
+    "id": "rea-integration-of-knowledge-052",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "What trend began after 2021-22?",
+    "options": [
+      "The rate stayed exactly the same.",
+      "The rate continued to fall.",
+      "The vaccination rate began to rise again.",
+      "The rate dropped to zero."
+    ],
+    "correctIndex": 2,
+    "explanation": "The rate rose from 89% to 90% and then to 92%.",
+    "passage": "A county health department reported the percentage of kindergarteners who had received all required vaccines over five school years.\n2019-20: 94%\n2020-21: 91%\n2021-22: 89%\n2022-23: 90%\n2023-24: 92%\nThe department noted that many routine medical visits were postponed during 2020 and 2021. In 2022, it began offering free vaccination clinics at elementary schools before the start of each school year. Families could bring children to these clinics without an appointment, and staff also helped parents locate missing immunization records from previous providers."
+  },
+  {
+    "id": "rea-integration-of-knowledge-053",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Which conclusion is best supported by the data and the department's note?",
+    "options": [
+      "The rate returned to 94% in 2023-24.",
+      "The school clinics may have helped the vaccination rate recover.",
+      "The clinics caused the 2021 decline.",
+      "Vaccination rates are unrelated to clinics."
+    ],
+    "correctIndex": 1,
+    "explanation": "The rise began after clinics started in 2022, though the data alone cannot prove cause.",
+    "passage": "A county health department reported the percentage of kindergarteners who had received all required vaccines over five school years.\n2019-20: 94%\n2020-21: 91%\n2021-22: 89%\n2022-23: 90%\n2023-24: 92%\nThe department noted that many routine medical visits were postponed during 2020 and 2021. In 2022, it began offering free vaccination clinics at elementary schools before the start of each school year. Families could bring children to these clinics without an appointment, and staff also helped parents locate missing immunization records from previous providers."
+  },
+  {
+    "id": "rea-integration-of-knowledge-054",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What was the vaccination rate in 2023-24?",
+    "options": [
+      "94%",
+      "92%",
+      "89%",
+      "90%"
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage lists 92% for 2023-24.",
+    "passage": "A county health department reported the percentage of kindergarteners who had received all required vaccines over five school years.\n2019-20: 94%\n2020-21: 91%\n2021-22: 89%\n2022-23: 90%\n2023-24: 92%\nThe department noted that many routine medical visits were postponed during 2020 and 2021. In 2022, it began offering free vaccination clinics at elementary schools before the start of each school year. Families could bring children to these clinics without an appointment, and staff also helped parents locate missing immunization records from previous providers."
+  },
+  {
+    "id": "rea-integration-of-knowledge-055",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What question was the student trying to answer?",
+    "options": [
+      "How tall do bean plants grow?",
+      "Does music help plants grow?",
+      "Do plants need water?",
+      "Which room is warmest?"
+    ],
+    "correctIndex": 1,
+    "explanation": "The first sentence states her question.",
+    "passage": "A student wanted to know whether music helps plants grow. She placed one bean plant in her bedroom with a radio playing classical music and another plant in the garage with no music. After three weeks, the plant in the bedroom was 12 centimeters taller. The student concluded that classical music makes plants grow faster. Her teacher pointed out that the bedroom had a sunny window, while the garage was dim and cooler, and suggested she repeat the experiment with several plants in the same room, changing only the music."
+  },
+  {
+    "id": "rea-integration-of-knowledge-056",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "What is the main flaw in the student's experiment?",
+    "options": [
+      "She waited three weeks.",
+      "The plants differed in light and temperature as well as music.",
+      "She used bean plants.",
+      "She measured height in centimeters."
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiple variables changed, so the cause of the difference is unclear.",
+    "passage": "A student wanted to know whether music helps plants grow. She placed one bean plant in her bedroom with a radio playing classical music and another plant in the garage with no music. After three weeks, the plant in the bedroom was 12 centimeters taller. The student concluded that classical music makes plants grow faster. Her teacher pointed out that the bedroom had a sunny window, while the garage was dim and cooler, and suggested she repeat the experiment with several plants in the same room, changing only the music."
+  },
+  {
+    "id": "rea-integration-of-knowledge-057",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Why is the student's conclusion not well supported?",
+    "options": [
+      "Sunlight or warmth, not music, may explain the extra growth.",
+      "Classical music cannot be played on the radio.",
+      "The plant in the garage grew taller.",
+      "She did not measure the plants."
+    ],
+    "correctIndex": 0,
+    "explanation": "Other differences between the rooms could account for the result.",
+    "passage": "A student wanted to know whether music helps plants grow. She placed one bean plant in her bedroom with a radio playing classical music and another plant in the garage with no music. After three weeks, the plant in the bedroom was 12 centimeters taller. The student concluded that classical music makes plants grow faster. Her teacher pointed out that the bedroom had a sunny window, while the garage was dim and cooler, and suggested she repeat the experiment with several plants in the same room, changing only the music."
+  },
+  {
+    "id": "rea-integration-of-knowledge-058",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "Which revised design would best test the student's question?",
+    "options": [
+      "Two plants in the garage with different soil",
+      "One plant in a sunnier room with music",
+      "Several plants in the same room, half with music and half without",
+      "One plant with music for a longer time"
+    ],
+    "correctIndex": 2,
+    "explanation": "Keeping all conditions the same except music isolates the variable being tested.",
+    "passage": "A student wanted to know whether music helps plants grow. She placed one bean plant in her bedroom with a radio playing classical music and another plant in the garage with no music. After three weeks, the plant in the bedroom was 12 centimeters taller. The student concluded that classical music makes plants grow faster. Her teacher pointed out that the bedroom had a sunny window, while the garage was dim and cooler, and suggested she repeat the experiment with several plants in the same room, changing only the music."
+  },
+  {
+    "id": "rea-integration-of-knowledge-059",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How much taller was the bedroom plant after three weeks?",
+    "options": [
+      "1.2 centimeters",
+      "12 centimeters",
+      "21 centimeters",
+      "3 centimeters"
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage says it was 12 centimeters taller.",
+    "passage": "A student wanted to know whether music helps plants grow. She placed one bean plant in her bedroom with a radio playing classical music and another plant in the garage with no music. After three weeks, the plant in the bedroom was 12 centimeters taller. The student concluded that classical music makes plants grow faster. Her teacher pointed out that the bedroom had a sunny window, while the garage was dim and cooler, and suggested she repeat the experiment with several plants in the same room, changing only the music."
+  },
+  {
+    "id": "rea-integration-of-knowledge-060",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What did the teacher suggest?",
+    "options": [
+      "Move both plants to the garage without changes.",
+      "Repeat the experiment with several plants, changing only the music.",
+      "Use only one plant.",
+      "Stop the experiment."
+    ],
+    "correctIndex": 1,
+    "explanation": "The teacher recommended a controlled repeat with multiple plants.",
+    "passage": "A student wanted to know whether music helps plants grow. She placed one bean plant in her bedroom with a radio playing classical music and another plant in the garage with no music. After three weeks, the plant in the bedroom was 12 centimeters taller. The student concluded that classical music makes plants grow faster. Her teacher pointed out that the bedroom had a sunny window, while the garage was dim and cooler, and suggested she repeat the experiment with several plants in the same room, changing only the music."
+  },
+  {
+    "id": "rea-integration-of-knowledge-061",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which street should a driver use to reach the Emergency Department entrance?",
+    "options": [
+      "The garage ramp",
+      "Birch Street",
+      "Maple Drive",
+      "Cedar Avenue"
+    ],
+    "correctIndex": 1,
+    "explanation": "The guide says the Emergency entrance is off Birch Street.",
+    "passage": "A visitor guide for Lakeview Regional Hospital describes the campus. The main entrance faces Cedar Avenue. The Emergency Department has its own entrance on the east side, off Birch Street, with short-term parking for drop-offs. The outpatient clinics are in the West Tower, which connects to the main lobby by a second-floor skywalk. Visitor parking is in the garage north of the main building; the first two hours are free. The cafeteria is on the ground floor of the main building and is open from 6:30 a.m. to 8:00 p.m. A shuttle runs between the garage and the West Tower every ten minutes."
+  },
+  {
+    "id": "rea-integration-of-knowledge-062",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "A visitor parks in the garage and has an appointment in an outpatient clinic. What is the most direct way to get there?",
+    "options": [
+      "Walk to the Emergency entrance.",
+      "Take the shuttle from the garage to the West Tower.",
+      "Go to the cafeteria first.",
+      "Drive to Birch Street."
+    ],
+    "correctIndex": 1,
+    "explanation": "A shuttle runs between the garage and the West Tower every ten minutes.",
+    "passage": "A visitor guide for Lakeview Regional Hospital describes the campus. The main entrance faces Cedar Avenue. The Emergency Department has its own entrance on the east side, off Birch Street, with short-term parking for drop-offs. The outpatient clinics are in the West Tower, which connects to the main lobby by a second-floor skywalk. Visitor parking is in the garage north of the main building; the first two hours are free. The cafeteria is on the ground floor of the main building and is open from 6:30 a.m. to 8:00 p.m. A shuttle runs between the garage and the West Tower every ten minutes."
+  },
+  {
+    "id": "rea-integration-of-knowledge-063",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How is the West Tower connected to the main lobby?",
+    "options": [
+      "By an underground tunnel",
+      "By a second-floor skywalk",
+      "It is not connected",
+      "By a ground-floor hallway only"
+    ],
+    "correctIndex": 1,
+    "explanation": "The guide describes a second-floor skywalk.",
+    "passage": "A visitor guide for Lakeview Regional Hospital describes the campus. The main entrance faces Cedar Avenue. The Emergency Department has its own entrance on the east side, off Birch Street, with short-term parking for drop-offs. The outpatient clinics are in the West Tower, which connects to the main lobby by a second-floor skywalk. Visitor parking is in the garage north of the main building; the first two hours are free. The cafeteria is on the ground floor of the main building and is open from 6:30 a.m. to 8:00 p.m. A shuttle runs between the garage and the West Tower every ten minutes."
+  },
+  {
+    "id": "rea-integration-of-knowledge-064",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Where is visitor parking located?",
+    "options": [
+      "Behind the West Tower",
+      "In front of the cafeteria",
+      "In the garage north of the main building",
+      "On Birch Street"
+    ],
+    "correctIndex": 2,
+    "explanation": "Visitor parking is in the garage north of the main building.",
+    "passage": "A visitor guide for Lakeview Regional Hospital describes the campus. The main entrance faces Cedar Avenue. The Emergency Department has its own entrance on the east side, off Birch Street, with short-term parking for drop-offs. The outpatient clinics are in the West Tower, which connects to the main lobby by a second-floor skywalk. Visitor parking is in the garage north of the main building; the first two hours are free. The cafeteria is on the ground floor of the main building and is open from 6:30 a.m. to 8:00 p.m. A shuttle runs between the garage and the West Tower every ten minutes."
+  },
+  {
+    "id": "rea-integration-of-knowledge-065",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "A visitor wants dinner at 8:30 p.m. What does the guide suggest?",
+    "options": [
+      "The cafeteria is open all night.",
+      "The cafeteria will be serving breakfast.",
+      "The cafeteria opens at 8:30 p.m.",
+      "The cafeteria will already be closed."
+    ],
+    "correctIndex": 3,
+    "explanation": "The cafeteria closes at 8:00 p.m.",
+    "passage": "A visitor guide for Lakeview Regional Hospital describes the campus. The main entrance faces Cedar Avenue. The Emergency Department has its own entrance on the east side, off Birch Street, with short-term parking for drop-offs. The outpatient clinics are in the West Tower, which connects to the main lobby by a second-floor skywalk. Visitor parking is in the garage north of the main building; the first two hours are free. The cafeteria is on the ground floor of the main building and is open from 6:30 a.m. to 8:00 p.m. A shuttle runs between the garage and the West Tower every ten minutes."
+  },
+  {
+    "id": "rea-integration-of-knowledge-066",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "A visitor parks for three hours. Based on the guide, what can be concluded?",
+    "options": [
+      "Only the first two hours will be free.",
+      "The entire stay will be free.",
+      "The visitor must park on Cedar Avenue.",
+      "Parking is not allowed beyond one hour."
+    ],
+    "correctIndex": 0,
+    "explanation": "The guide states that the first two hours are free, so the third hour likely has a charge.",
+    "passage": "A visitor guide for Lakeview Regional Hospital describes the campus. The main entrance faces Cedar Avenue. The Emergency Department has its own entrance on the east side, off Birch Street, with short-term parking for drop-offs. The outpatient clinics are in the West Tower, which connects to the main lobby by a second-floor skywalk. Visitor parking is in the garage north of the main building; the first two hours are free. The cafeteria is on the ground floor of the main building and is open from 6:30 a.m. to 8:00 p.m. A shuttle runs between the garage and the West Tower every ten minutes."
+  },
+  {
+    "id": "rea-integration-of-knowledge-067",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which passage is based mainly on a personal experience?",
+    "options": [
+      "Both passages",
+      "Passage 1",
+      "Passage 2",
+      "Neither passage"
+    ],
+    "correctIndex": 2,
+    "explanation": "Passage 2 describes the writer's own twins.",
+    "passage": "Passage 1: Pediatricians recommend limiting recreational screen time for children ages 2 to 5 to about one hour a day. Too much screen time has been linked to delayed language skills and poorer sleep. Parents can help by keeping screens out of bedrooms and choosing high-quality programs.\nPassage 2: My twins learned their letters from an educational tablet app. They use it for more than an hour on rainy days, and they are both reading early. I think the rules about screen time are too strict; what matters is what children watch, not how long."
+  },
+  {
+    "id": "rea-integration-of-knowledge-068",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which statement best describes the difference between the two passages?",
+    "options": [
+      "Passage 2 cites more research.",
+      "Both are written by pediatricians.",
+      "Passage 1 gives an expert recommendation; Passage 2 gives a parent's opinion.",
+      "Passage 1 argues there should be no limits."
+    ],
+    "correctIndex": 2,
+    "explanation": "Passage 1 relays pediatric guidance, while Passage 2 relies on anecdote.",
+    "passage": "Passage 1: Pediatricians recommend limiting recreational screen time for children ages 2 to 5 to about one hour a day. Too much screen time has been linked to delayed language skills and poorer sleep. Parents can help by keeping screens out of bedrooms and choosing high-quality programs.\nPassage 2: My twins learned their letters from an educational tablet app. They use it for more than an hour on rainy days, and they are both reading early. I think the rules about screen time are too strict; what matters is what children watch, not how long."
+  },
+  {
+    "id": "rea-integration-of-knowledge-069",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Why is Passage 2 weaker evidence than Passage 1?",
+    "options": [
+      "It is based on only two children.",
+      "It mentions reading.",
+      "It was written on a rainy day.",
+      "It is too long."
+    ],
+    "correctIndex": 0,
+    "explanation": "An anecdote about two children cannot represent all children.",
+    "passage": "Passage 1: Pediatricians recommend limiting recreational screen time for children ages 2 to 5 to about one hour a day. Too much screen time has been linked to delayed language skills and poorer sleep. Parents can help by keeping screens out of bedrooms and choosing high-quality programs.\nPassage 2: My twins learned their letters from an educational tablet app. They use it for more than an hour on rainy days, and they are both reading early. I think the rules about screen time are too strict; what matters is what children watch, not how long."
+  },
+  {
+    "id": "rea-integration-of-knowledge-070",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "On which point might the two writers agree?",
+    "options": [
+      "Screens should be kept in bedrooms.",
+      "Educational apps cannot teach letters.",
+      "The quality of what children watch matters.",
+      "Children should have unlimited screen time."
+    ],
+    "correctIndex": 2,
+    "explanation": "Passage 1 advises choosing high-quality programs, and Passage 2 says content matters.",
+    "passage": "Passage 1: Pediatricians recommend limiting recreational screen time for children ages 2 to 5 to about one hour a day. Too much screen time has been linked to delayed language skills and poorer sleep. Parents can help by keeping screens out of bedrooms and choosing high-quality programs.\nPassage 2: My twins learned their letters from an educational tablet app. They use it for more than an hour on rainy days, and they are both reading early. I think the rules about screen time are too strict; what matters is what children watch, not how long."
+  },
+  {
+    "id": "rea-integration-of-knowledge-071",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "According to Passage 1, which problem has been linked to excessive screen time?",
+    "options": [
+      "Stronger vision",
+      "Early reading",
+      "Better language skills",
+      "Poorer sleep"
+    ],
+    "correctIndex": 3,
+    "explanation": "Passage 1 links too much screen time to delayed language and poorer sleep.",
+    "passage": "Passage 1: Pediatricians recommend limiting recreational screen time for children ages 2 to 5 to about one hour a day. Too much screen time has been linked to delayed language skills and poorer sleep. Parents can help by keeping screens out of bedrooms and choosing high-quality programs.\nPassage 2: My twins learned their letters from an educational tablet app. They use it for more than an hour on rainy days, and they are both reading early. I think the rules about screen time are too strict; what matters is what children watch, not how long."
+  },
+  {
+    "id": "rea-integration-of-knowledge-072",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What does the writer of Passage 2 think about screen time rules?",
+    "options": [
+      "They are perfect.",
+      "They are too strict.",
+      "They are too lenient.",
+      "They should apply only to adults."
+    ],
+    "correctIndex": 1,
+    "explanation": "The writer states that the rules are too strict.",
+    "passage": "Passage 1: Pediatricians recommend limiting recreational screen time for children ages 2 to 5 to about one hour a day. Too much screen time has been linked to delayed language skills and poorer sleep. Parents can help by keeping screens out of bedrooms and choosing high-quality programs.\nPassage 2: My twins learned their letters from an educational tablet app. They use it for more than an hour on rainy days, and they are both reading early. I think the rules about screen time are too strict; what matters is what children watch, not how long."
+  },
+  {
+    "id": "rea-integration-of-knowledge-073",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "How many calories are in one serving?",
+    "options": [
+      "880",
+      "30",
+      "55",
+      "220"
+    ],
+    "correctIndex": 3,
+    "explanation": "The label lists 220 calories per 1-cup serving.",
+    "passage": "Nutrition Facts (per 1 cup serving; about 4 servings per container)\nCalories 220 | Total Fat 8 g (10% DV) | Sodium 640 mg (28% DV) | Total Carbohydrate 30 g (11% DV) | Dietary Fiber 4 g (14% DV) | Total Sugars 6 g | Protein 9 g\nThe % Daily Value (DV) tells how much a nutrient in one serving contributes to a daily diet of 2,000 calories. As a general guide, 5% DV or less of a nutrient per serving is considered low, and 20% DV or more is considered high."
+  },
+  {
+    "id": "rea-integration-of-knowledge-074",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "About how many calories are in the whole container?",
+    "options": [
+      "880",
+      "1,100",
+      "220",
+      "440"
+    ],
+    "correctIndex": 0,
+    "explanation": "There are about 4 servings: 220 x 4 = 880 calories.",
+    "passage": "Nutrition Facts (per 1 cup serving; about 4 servings per container)\nCalories 220 | Total Fat 8 g (10% DV) | Sodium 640 mg (28% DV) | Total Carbohydrate 30 g (11% DV) | Dietary Fiber 4 g (14% DV) | Total Sugars 6 g | Protein 9 g\nThe % Daily Value (DV) tells how much a nutrient in one serving contributes to a daily diet of 2,000 calories. As a general guide, 5% DV or less of a nutrient per serving is considered low, and 20% DV or more is considered high."
+  },
+  {
+    "id": "rea-integration-of-knowledge-075",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Based on the guide, how should the sodium content be described?",
+    "options": [
+      "Moderate",
+      "Not listed",
+      "Low",
+      "High"
+    ],
+    "correctIndex": 3,
+    "explanation": "28% DV is above the 20% threshold for high.",
+    "passage": "Nutrition Facts (per 1 cup serving; about 4 servings per container)\nCalories 220 | Total Fat 8 g (10% DV) | Sodium 640 mg (28% DV) | Total Carbohydrate 30 g (11% DV) | Dietary Fiber 4 g (14% DV) | Total Sugars 6 g | Protein 9 g\nThe % Daily Value (DV) tells how much a nutrient in one serving contributes to a daily diet of 2,000 calories. As a general guide, 5% DV or less of a nutrient per serving is considered low, and 20% DV or more is considered high."
+  },
+  {
+    "id": "rea-integration-of-knowledge-076",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Which nutrient is closest to being considered low per serving?",
+    "options": [
+      "Sodium (28% DV)",
+      "Total Fat (10% DV)",
+      "Total Carbohydrate (11% DV)",
+      "Dietary Fiber (14% DV)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Of these listed values, fat at 10% DV is closest to the 5% low threshold.",
+    "passage": "Nutrition Facts (per 1 cup serving; about 4 servings per container)\nCalories 220 | Total Fat 8 g (10% DV) | Sodium 640 mg (28% DV) | Total Carbohydrate 30 g (11% DV) | Dietary Fiber 4 g (14% DV) | Total Sugars 6 g | Protein 9 g\nThe % Daily Value (DV) tells how much a nutrient in one serving contributes to a daily diet of 2,000 calories. As a general guide, 5% DV or less of a nutrient per serving is considered low, and 20% DV or more is considered high."
+  },
+  {
+    "id": "rea-integration-of-knowledge-077",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "A person eats 2 cups. What percent of the daily value for sodium do they consume?",
+    "options": [
+      "56%",
+      "14%",
+      "112%",
+      "28%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two servings double the DV: 28% x 2 = 56%.",
+    "passage": "Nutrition Facts (per 1 cup serving; about 4 servings per container)\nCalories 220 | Total Fat 8 g (10% DV) | Sodium 640 mg (28% DV) | Total Carbohydrate 30 g (11% DV) | Dietary Fiber 4 g (14% DV) | Total Sugars 6 g | Protein 9 g\nThe % Daily Value (DV) tells how much a nutrient in one serving contributes to a daily diet of 2,000 calories. As a general guide, 5% DV or less of a nutrient per serving is considered low, and 20% DV or more is considered high."
+  },
+  {
+    "id": "rea-integration-of-knowledge-078",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "How many grams of protein are in one serving?",
+    "options": [
+      "4 g",
+      "9 g",
+      "30 g",
+      "6 g"
+    ],
+    "correctIndex": 1,
+    "explanation": "The label lists 9 grams of protein.",
+    "passage": "Nutrition Facts (per 1 cup serving; about 4 servings per container)\nCalories 220 | Total Fat 8 g (10% DV) | Sodium 640 mg (28% DV) | Total Carbohydrate 30 g (11% DV) | Dietary Fiber 4 g (14% DV) | Total Sugars 6 g | Protein 9 g\nThe % Daily Value (DV) tells how much a nutrient in one serving contributes to a daily diet of 2,000 calories. As a general guide, 5% DV or less of a nutrient per serving is considered low, and 20% DV or more is considered high."
+  },
+  {
+    "id": "rea-integration-of-knowledge-079",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Which event happened first?",
+    "options": [
+      "Morton's public demonstration",
+      "Queen Victoria's use of chloroform",
+      "Crawford Long used ether during surgery.",
+      "Simpson's use of chloroform"
+    ],
+    "correctIndex": 2,
+    "explanation": "Long's 1842 surgery came before the other events.",
+    "passage": "Key events in the history of anesthesia: In 1842, Crawford Long used ether during the removal of a neck tumor but did not publish his results until 1849. In 1846, dentist William Morton gave a public demonstration of ether anesthesia at Massachusetts General Hospital, and news of the event spread quickly. In 1847, Scottish physician James Simpson began using chloroform, which acted faster than ether. In 1853, Queen Victoria received chloroform during the birth of her eighth child, which helped make anesthesia more widely accepted for childbirth."
+  },
+  {
+    "id": "rea-integration-of-knowledge-080",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "Why did Morton's 1846 demonstration become famous even though Long used ether earlier?",
+    "options": [
+      "Long used chloroform instead.",
+      "Morton's demonstration was public and news spread quickly, while Long did not publish until 1849.",
+      "Morton invented chloroform.",
+      "Long's patient did not survive."
+    ],
+    "correctIndex": 1,
+    "explanation": "The timeline notes the public demonstration and Long's delayed publication.",
+    "passage": "Key events in the history of anesthesia: In 1842, Crawford Long used ether during the removal of a neck tumor but did not publish his results until 1849. In 1846, dentist William Morton gave a public demonstration of ether anesthesia at Massachusetts General Hospital, and news of the event spread quickly. In 1847, Scottish physician James Simpson began using chloroform, which acted faster than ether. In 1853, Queen Victoria received chloroform during the birth of her eighth child, which helped make anesthesia more widely accepted for childbirth."
+  },
+  {
+    "id": "rea-integration-of-knowledge-081",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "According to the timeline, what advantage did chloroform have over ether?",
+    "options": [
+      "It was cheaper.",
+      "It was safer for dentists only.",
+      "It acted faster.",
+      "It had no smell."
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage says chloroform acted faster than ether.",
+    "passage": "Key events in the history of anesthesia: In 1842, Crawford Long used ether during the removal of a neck tumor but did not publish his results until 1849. In 1846, dentist William Morton gave a public demonstration of ether anesthesia at Massachusetts General Hospital, and news of the event spread quickly. In 1847, Scottish physician James Simpson began using chloroform, which acted faster than ether. In 1853, Queen Victoria received chloroform during the birth of her eighth child, which helped make anesthesia more widely accepted for childbirth."
+  },
+  {
+    "id": "rea-integration-of-knowledge-082",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "What effect did Queen Victoria's use of chloroform have?",
+    "options": [
+      "It caused anesthesia to be banned.",
+      "It helped make anesthesia more accepted for childbirth.",
+      "It led Long to publish his results.",
+      "It ended the use of ether entirely."
+    ],
+    "correctIndex": 1,
+    "explanation": "The final sentence states it helped make anesthesia more widely accepted for childbirth.",
+    "passage": "Key events in the history of anesthesia: In 1842, Crawford Long used ether during the removal of a neck tumor but did not publish his results until 1849. In 1846, dentist William Morton gave a public demonstration of ether anesthesia at Massachusetts General Hospital, and news of the event spread quickly. In 1847, Scottish physician James Simpson began using chloroform, which acted faster than ether. In 1853, Queen Victoria received chloroform during the birth of her eighth child, which helped make anesthesia more widely accepted for childbirth."
+  },
+  {
+    "id": "rea-integration-of-knowledge-083",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How many years passed between Long's first use of ether and his publication?",
+    "options": [
+      "11",
+      "4",
+      "3",
+      "7"
+    ],
+    "correctIndex": 3,
+    "explanation": "1849 - 1842 = 7 years.",
+    "passage": "Key events in the history of anesthesia: In 1842, Crawford Long used ether during the removal of a neck tumor but did not publish his results until 1849. In 1846, dentist William Morton gave a public demonstration of ether anesthesia at Massachusetts General Hospital, and news of the event spread quickly. In 1847, Scottish physician James Simpson began using chloroform, which acted faster than ether. In 1853, Queen Victoria received chloroform during the birth of her eighth child, which helped make anesthesia more widely accepted for childbirth."
+  },
+  {
+    "id": "rea-integration-of-knowledge-084",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "Where did Morton give his demonstration?",
+    "options": [
+      "Queen Victoria's palace",
+      "A dental school in London",
+      "A hospital in Scotland",
+      "Massachusetts General Hospital"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage names Massachusetts General Hospital.",
+    "passage": "Key events in the history of anesthesia: In 1842, Crawford Long used ether during the removal of a neck tumor but did not publish his results until 1849. In 1846, dentist William Morton gave a public demonstration of ether anesthesia at Massachusetts General Hospital, and news of the event spread quickly. In 1847, Scottish physician James Simpson began using chloroform, which acted faster than ether. In 1853, Queen Victoria received chloroform during the birth of her eighth child, which helped make anesthesia more widely accepted for childbirth."
+  },
+  {
+    "id": "rea-integration-of-knowledge-085",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What problem prompted the memo?",
+    "options": [
+      "An increase in catheter-associated urinary tract infections",
+      "A shortage of catheters",
+      "A new hospital building",
+      "A decline in patient visits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Infections rose from 6 to 14 in one quarter.",
+    "passage": "To: All Nursing Staff\nFrom: Infection Prevention Committee\nOver the past quarter, the hospital recorded 14 catheter-associated urinary tract infections, up from 6 the quarter before. A review found that catheters were often left in place longer than necessary. Effective Monday, nurses must assess each patient's need for a urinary catheter every 24 hours and document the result. If no medical reason remains, the nurse should contact the provider to request removal. The committee will report infection numbers again at the end of next quarter."
+  },
+  {
+    "id": "rea-integration-of-knowledge-086",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "What did the committee's review identify as a likely cause?",
+    "options": [
+      "Catheters were made of poor material.",
+      "Patients refused catheters.",
+      "Nurses forgot to wash hands.",
+      "Catheters were left in place longer than necessary."
+    ],
+    "correctIndex": 3,
+    "explanation": "The memo states the review found catheters were often left in too long.",
+    "passage": "To: All Nursing Staff\nFrom: Infection Prevention Committee\nOver the past quarter, the hospital recorded 14 catheter-associated urinary tract infections, up from 6 the quarter before. A review found that catheters were often left in place longer than necessary. Effective Monday, nurses must assess each patient's need for a urinary catheter every 24 hours and document the result. If no medical reason remains, the nurse should contact the provider to request removal. The committee will report infection numbers again at the end of next quarter."
+  },
+  {
+    "id": "rea-integration-of-knowledge-087",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "How often must nurses now assess a patient's need for a catheter?",
+    "options": [
+      "Every week",
+      "Only at admission",
+      "Every 4 hours",
+      "Every 24 hours"
+    ],
+    "correctIndex": 3,
+    "explanation": "The new rule requires assessment every 24 hours.",
+    "passage": "To: All Nursing Staff\nFrom: Infection Prevention Committee\nOver the past quarter, the hospital recorded 14 catheter-associated urinary tract infections, up from 6 the quarter before. A review found that catheters were often left in place longer than necessary. Effective Monday, nurses must assess each patient's need for a urinary catheter every 24 hours and document the result. If no medical reason remains, the nurse should contact the provider to request removal. The committee will report infection numbers again at the end of next quarter."
+  },
+  {
+    "id": "rea-integration-of-knowledge-088",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "medium",
+    "question": "By how many cases did infections increase from one quarter to the next?",
+    "options": [
+      "8",
+      "20",
+      "14",
+      "6"
+    ],
+    "correctIndex": 0,
+    "explanation": "14 - 6 = 8 additional infections.",
+    "passage": "To: All Nursing Staff\nFrom: Infection Prevention Committee\nOver the past quarter, the hospital recorded 14 catheter-associated urinary tract infections, up from 6 the quarter before. A review found that catheters were often left in place longer than necessary. Effective Monday, nurses must assess each patient's need for a urinary catheter every 24 hours and document the result. If no medical reason remains, the nurse should contact the provider to request removal. The committee will report infection numbers again at the end of next quarter."
+  },
+  {
+    "id": "rea-integration-of-knowledge-089",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "hard",
+    "question": "How will the committee most likely judge whether the new policy works?",
+    "options": [
+      "By measuring catheter prices",
+      "By comparing next quarter's infection numbers with this quarter's",
+      "By surveying patients about food",
+      "By counting the number of nurses"
+    ],
+    "correctIndex": 1,
+    "explanation": "The memo says the committee will report infection numbers again next quarter.",
+    "passage": "To: All Nursing Staff\nFrom: Infection Prevention Committee\nOver the past quarter, the hospital recorded 14 catheter-associated urinary tract infections, up from 6 the quarter before. A review found that catheters were often left in place longer than necessary. Effective Monday, nurses must assess each patient's need for a urinary catheter every 24 hours and document the result. If no medical reason remains, the nurse should contact the provider to request removal. The committee will report infection numbers again at the end of next quarter."
+  },
+  {
+    "id": "rea-integration-of-knowledge-090",
+    "section": "reading",
+    "subcategory": "integration-of-knowledge",
+    "difficulty": "easy",
+    "question": "What should a nurse do if a catheter is no longer medically needed?",
+    "options": [
+      "Remove it without telling anyone.",
+      "Contact the provider to request removal.",
+      "Leave it in until discharge.",
+      "Replace it with a new catheter."
+    ],
+    "correctIndex": 1,
+    "explanation": "The memo instructs nurses to contact the provider to request removal.",
+    "passage": "To: All Nursing Staff\nFrom: Infection Prevention Committee\nOver the past quarter, the hospital recorded 14 catheter-associated urinary tract infections, up from 6 the quarter before. A review found that catheters were often left in place longer than necessary. Effective Monday, nurses must assess each patient's need for a urinary catheter every 24 hours and document the result. If no medical reason remains, the nurse should contact the provider to request removal. The committee will report infection numbers again at the end of next quarter."
   }
 ]

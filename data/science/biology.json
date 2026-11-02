@@ -238,5 +238,890 @@
     ],
     "correctIndex": 1,
     "explanation": "Cells form tissues, tissues form organs, and organs form organ systems."
+  },
+  {
+    "id": "sci-biology-017",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which organelle contains most of a eukaryotic cell's DNA?",
+    "options": [
+      "Golgi apparatus",
+      "Lysosome",
+      "Vacuole",
+      "Nucleus"
+    ],
+    "correctIndex": 3,
+    "explanation": "The nucleus holds the chromosomes and is enclosed by a double nuclear envelope."
+  },
+  {
+    "id": "sci-biology-018",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which organelle modifies, sorts, and packages proteins for transport out of the cell?",
+    "options": [
+      "Nucleolus",
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Smooth endoplasmic reticulum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proteins from the rough ER move to the Golgi apparatus, which processes them and ships them in vesicles."
+  },
+  {
+    "id": "sci-biology-019",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which organelle contains digestive enzymes that break down worn-out cell parts?",
+    "options": [
+      "Chloroplast",
+      "Lysosome",
+      "Ribosome",
+      "Centriole"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lysosomes hold hydrolytic enzymes that digest old organelles, debris, and engulfed particles."
+  },
+  {
+    "id": "sci-biology-020",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What distinguishes rough endoplasmic reticulum from smooth endoplasmic reticulum?",
+    "options": [
+      "Rough ER contains DNA.",
+      "Rough ER is found only in plants.",
+      "Rough ER is studded with ribosomes.",
+      "Rough ER makes ATP."
+    ],
+    "correctIndex": 2,
+    "explanation": "Ribosomes on the rough ER synthesize proteins; smooth ER lacks ribosomes and makes lipids and detoxifies substances."
+  },
+  {
+    "id": "sci-biology-021",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which structures are found in plant cells but not in animal cells?",
+    "options": [
+      "Cell wall and chloroplasts",
+      "Cell membrane and ribosomes",
+      "Cytoplasm and vesicles",
+      "Mitochondria and nucleus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Plant cells have a cellulose cell wall and chloroplasts for photosynthesis; both cell types have membranes, ribosomes, and mitochondria."
+  },
+  {
+    "id": "sci-biology-022",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What is the main component of the cell membrane that forms its basic structure?",
+    "options": [
+      "A phospholipid bilayer",
+      "A layer of cellulose",
+      "A double strand of DNA",
+      "A sheet of starch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phospholipids arrange with hydrophilic heads facing out and hydrophobic tails facing in, forming a bilayer."
+  },
+  {
+    "id": "sci-biology-023",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which type of transport moves substances against their concentration gradient and requires ATP?",
+    "options": [
+      "Osmosis",
+      "Simple diffusion",
+      "Active transport",
+      "Facilitated diffusion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Active transport, such as the sodium-potassium pump, uses energy to move substances from low to high concentration."
+  },
+  {
+    "id": "sci-biology-024",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Oxygen moves from the alveoli into the blood without using cellular energy. What process is this?",
+    "options": [
+      "Exocytosis",
+      "Endocytosis",
+      "Simple diffusion",
+      "Active transport"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oxygen moves down its concentration gradient across thin membranes by diffusion, which requires no ATP."
+  },
+  {
+    "id": "sci-biology-025",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "A cell is placed in a solution and neither gains nor loses water overall. What type of solution is it?",
+    "options": [
+      "Saturated",
+      "Hypotonic",
+      "Hypertonic",
+      "Isotonic"
+    ],
+    "correctIndex": 3,
+    "explanation": "In an isotonic solution the solute concentration equals that inside the cell, so water moves in and out at equal rates."
+  },
+  {
+    "id": "sci-biology-026",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What happens to an animal cell placed in a strongly hypotonic solution?",
+    "options": [
+      "It stays exactly the same.",
+      "It swells and may burst as water enters.",
+      "It forms a cell wall.",
+      "It shrinks as water leaves."
+    ],
+    "correctIndex": 1,
+    "explanation": "Water moves into the cell, where solute concentration is higher; without a cell wall, the cell can lyse."
+  },
+  {
+    "id": "sci-biology-027",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "During which phase of the cell cycle is DNA replicated?",
+    "options": [
+      "Cytokinesis",
+      "S phase of interphase",
+      "Prophase",
+      "Metaphase"
+    ],
+    "correctIndex": 1,
+    "explanation": "DNA is copied during the synthesis (S) phase of interphase, before mitosis begins."
+  },
+  {
+    "id": "sci-biology-028",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "During which phase of mitosis do chromosomes line up along the middle of the cell?",
+    "options": [
+      "Telophase",
+      "Prophase",
+      "Anaphase",
+      "Metaphase"
+    ],
+    "correctIndex": 3,
+    "explanation": "In metaphase, spindle fibers align the chromosomes at the cell's equator."
+  },
+  {
+    "id": "sci-biology-029",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "How many chromosomes are in a normal human gamete (egg or sperm)?",
+    "options": [
+      "46",
+      "23",
+      "92",
+      "22"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gametes are haploid and carry one set of 23 chromosomes; fertilization restores the diploid number of 46."
+  },
+  {
+    "id": "sci-biology-030",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "Crossing over during prophase I of meiosis increases genetic variation by doing what?",
+    "options": [
+      "Exchanging segments between homologous chromosomes",
+      "Doubling the number of chromosomes",
+      "Copying DNA a second time",
+      "Separating sister chromatids early"
+    ],
+    "correctIndex": 0,
+    "explanation": "Homologous chromosomes swap pieces of DNA, producing new combinations of alleles on each chromosome."
+  },
+  {
+    "id": "sci-biology-031",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What is the result of meiosis in humans?",
+    "options": [
+      "Four identical diploid cells",
+      "One large diploid cell",
+      "Two identical diploid cells",
+      "Four genetically different haploid cells"
+    ],
+    "correctIndex": 3,
+    "explanation": "Meiosis involves two divisions and produces four haploid cells, each with a unique mix of genes."
+  },
+  {
+    "id": "sci-biology-032",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which macromolecule is the main source of quick energy for cells?",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Nucleic acids",
+      "Waxes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Carbohydrates such as glucose are broken down rapidly to make ATP."
+  },
+  {
+    "id": "sci-biology-033",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which macromolecule stores genetic information?",
+    "options": [
+      "Nucleic acids",
+      "Carbohydrates",
+      "Proteins",
+      "Lipids"
+    ],
+    "correctIndex": 0,
+    "explanation": "DNA and RNA are nucleic acids made of nucleotides that carry hereditary information."
+  },
+  {
+    "id": "sci-biology-034",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which type of molecule makes up most of the structure of fats and oils?",
+    "options": [
+      "Proteins built from amino acids",
+      "Nucleotides built from bases",
+      "Polysaccharides built from glucose",
+      "Lipids built from glycerol and fatty acids"
+    ],
+    "correctIndex": 3,
+    "explanation": "Triglycerides, the main fats and oils, consist of a glycerol backbone joined to three fatty acids."
+  },
+  {
+    "id": "sci-biology-035",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "Which level of protein structure is the specific sequence of amino acids?",
+    "options": [
+      "Tertiary structure",
+      "Secondary structure",
+      "Primary structure",
+      "Quaternary structure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primary structure is the amino acid sequence, which determines how the chain folds into higher levels of structure."
+  },
+  {
+    "id": "sci-biology-036",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which type of organism makes its own food using energy from sunlight?",
+    "options": [
+      "Decomposer",
+      "Autotroph (producer)",
+      "Heterotroph",
+      "Parasite"
+    ],
+    "correctIndex": 1,
+    "explanation": "Autotrophs such as plants and algae use photosynthesis to make glucose from carbon dioxide and water."
+  },
+  {
+    "id": "sci-biology-037",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which gas is released as a by-product of photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Methane",
+      "Carbon dioxide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Water molecules are split during the light reactions, releasing oxygen gas."
+  },
+  {
+    "id": "sci-biology-038",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Where in the plant cell does photosynthesis take place?",
+    "options": [
+      "Ribosomes",
+      "Chloroplasts",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chloroplasts contain chlorophyll, which captures light energy for photosynthesis."
+  },
+  {
+    "id": "sci-biology-039",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "Which stage of aerobic cellular respiration produces the most ATP?",
+    "options": [
+      "Glycolysis",
+      "Fermentation",
+      "The Krebs cycle alone",
+      "The electron transport chain"
+    ],
+    "correctIndex": 3,
+    "explanation": "Most ATP is made by oxidative phosphorylation as electrons pass along the transport chain in the inner mitochondrial membrane."
+  },
+  {
+    "id": "sci-biology-040",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What is produced when human muscle cells run short of oxygen and use anaerobic respiration?",
+    "options": [
+      "Glucose",
+      "Lactic acid",
+      "Oxygen",
+      "Ethanol"
+    ],
+    "correctIndex": 1,
+    "explanation": "Without enough oxygen, muscle cells convert pyruvate to lactic acid so glycolysis can continue."
+  },
+  {
+    "id": "sci-biology-041",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Where does glycolysis occur?",
+    "options": [
+      "In the cytoplasm",
+      "In the chloroplast",
+      "In the nucleus",
+      "On the inner mitochondrial membrane"
+    ],
+    "correctIndex": 0,
+    "explanation": "Glycolysis splits glucose into two pyruvate molecules in the cytoplasm and does not require oxygen."
+  },
+  {
+    "id": "sci-biology-042",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "What is the shape of a DNA molecule?",
+    "options": [
+      "A flat ring",
+      "A single straight strand",
+      "A double helix",
+      "A triple helix"
+    ],
+    "correctIndex": 2,
+    "explanation": "DNA consists of two complementary strands twisted around each other into a double helix."
+  },
+  {
+    "id": "sci-biology-043",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which nitrogen base is found in RNA but not in DNA?",
+    "options": [
+      "Thymine",
+      "Uracil",
+      "Cytosine",
+      "Adenine"
+    ],
+    "correctIndex": 1,
+    "explanation": "RNA uses uracil in place of thymine; uracil pairs with adenine."
+  },
+  {
+    "id": "sci-biology-044",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "A DNA strand has the sequence A-T-G-C-C-A. What is the complementary DNA strand?",
+    "options": [
+      "A-T-G-C-C-A",
+      "G-C-A-T-T-G",
+      "T-A-C-G-G-T",
+      "U-A-C-G-G-U"
+    ],
+    "correctIndex": 2,
+    "explanation": "In DNA, A pairs with T and G pairs with C, so each base is replaced by its partner."
+  },
+  {
+    "id": "sci-biology-045",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "A DNA template strand reads T-A-C-G-G-A. What mRNA sequence is transcribed from it?",
+    "options": [
+      "U-T-G-C-C-U",
+      "A-U-G-C-C-U",
+      "A-T-G-C-C-T",
+      "T-A-C-G-G-A"
+    ],
+    "correctIndex": 1,
+    "explanation": "During transcription, mRNA pairs A with U, T with A, C with G, and G with C."
+  },
+  {
+    "id": "sci-biology-046",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Where in the cell does transcription take place in eukaryotes?",
+    "options": [
+      "Golgi apparatus",
+      "Cell membrane",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correctIndex": 2,
+    "explanation": "DNA stays in the nucleus, where it is transcribed into mRNA that then moves to the ribosomes."
+  },
+  {
+    "id": "sci-biology-047",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "A codon is a sequence of how many nucleotides?",
+    "options": [
+      "Three",
+      "Four",
+      "Two",
+      "One"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each codon is three mRNA bases long and specifies one amino acid or a stop signal."
+  },
+  {
+    "id": "sci-biology-048",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "What are different versions of the same gene called?",
+    "options": [
+      "Genomes",
+      "Codons",
+      "Alleles",
+      "Chromatids"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alleles are alternative forms of a gene, such as the alleles for brown or blue eyes."
+  },
+  {
+    "id": "sci-biology-049",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "An organism has two identical alleles for a trait (such as BB). What is it called?",
+    "options": [
+      "Recessive",
+      "Homozygous",
+      "Haploid",
+      "Heterozygous"
+    ],
+    "correctIndex": 1,
+    "explanation": "Homozygous means both alleles are the same; heterozygous means they differ, as in Bb."
+  },
+  {
+    "id": "sci-biology-050",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What term describes an organism's observable traits?",
+    "options": [
+      "Phenotype",
+      "Allele",
+      "Karyotype",
+      "Genotype"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phenotype is the physical expression of traits; genotype is the genetic makeup."
+  },
+  {
+    "id": "sci-biology-051",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "In guinea pigs, black fur (B) is dominant over white fur (b). What percentage of offspring from a BB x bb cross will have black fur?",
+    "options": [
+      "75%",
+      "50%",
+      "25%",
+      "100%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Every offspring receives B from the BB parent and b from the bb parent, so all are Bb and black."
+  },
+  {
+    "id": "sci-biology-052",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "In a dihybrid cross of two parents that are heterozygous for both traits (AaBb x AaBb), what is the expected phenotypic ratio?",
+    "options": [
+      "1:1:1:1",
+      "3:1",
+      "9:3:3:1",
+      "1:2:1"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each trait independently gives a 3:1 ratio, and combining them gives 9:3:3:1."
+  },
+  {
+    "id": "sci-biology-053",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "A man with type AB blood and a woman with type O blood have a child. Which blood type is possible for the child?",
+    "options": [
+      "Type AB only",
+      "Type A or type B",
+      "Type O or type AB",
+      "Type O only"
+    ],
+    "correctIndex": 1,
+    "explanation": "The father gives A or B and the mother gives O (i), so the child is either AO (type A) or BO (type B)."
+  },
+  {
+    "id": "sci-biology-054",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Red-green color blindness is X-linked recessive. Why is it more common in males?",
+    "options": [
+      "Females cannot inherit X-linked alleles.",
+      "Males have two X chromosomes.",
+      "The allele is on the Y chromosome.",
+      "Males have only one X chromosome, so one recessive allele causes the trait."
+    ],
+    "correctIndex": 3,
+    "explanation": "With a single X, males express whatever allele it carries; females need two copies of the recessive allele."
+  },
+  {
+    "id": "sci-biology-055",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "When red and white flowers are crossed and all offspring are pink, what inheritance pattern is shown?",
+    "options": [
+      "Codominance",
+      "Complete dominance",
+      "Sex-linked inheritance",
+      "Incomplete dominance"
+    ],
+    "correctIndex": 3,
+    "explanation": "In incomplete dominance, the heterozygote shows a blend of the two parental phenotypes."
+  },
+  {
+    "id": "sci-biology-056",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "Which of the following is a change in the DNA sequence that can be passed to offspring if it occurs in gametes?",
+    "options": [
+      "A mutation",
+      "A phenotype",
+      "A codon chart",
+      "An enzyme"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mutations are changes in DNA; those in sex cells can be inherited, while those in body cells are not passed on."
+  },
+  {
+    "id": "sci-biology-057",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which type of microorganism cannot reproduce on its own and must use a host cell?",
+    "options": [
+      "Protozoan",
+      "Bacterium",
+      "Virus",
+      "Fungus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Viruses lack their own metabolism and ribosomes and must hijack host cells to replicate."
+  },
+  {
+    "id": "sci-biology-058",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Why are antibiotics ineffective against viral infections such as the common cold?",
+    "options": [
+      "Antibiotics target bacterial structures that viruses do not have.",
+      "Antibiotics only work on fungi.",
+      "Viruses are made of cellulose.",
+      "Viruses are too large for antibiotics."
+    ],
+    "correctIndex": 0,
+    "explanation": "Antibiotics act on bacterial cell walls, ribosomes, or enzymes, which viruses lack."
+  },
+  {
+    "id": "sci-biology-059",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which kingdom includes yeasts, molds, and mushrooms?",
+    "options": [
+      "Plantae",
+      "Protista",
+      "Monera",
+      "Fungi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fungi are heterotrophs with cell walls of chitin that absorb nutrients from their surroundings."
+  },
+  {
+    "id": "sci-biology-060",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What is the correct order of classification levels from broadest to most specific?",
+    "options": [
+      "Domain, phylum, kingdom, order, class, genus, family, species",
+      "Kingdom, domain, class, phylum, order, family, genus, species",
+      "Domain, kingdom, phylum, class, order, family, genus, species",
+      "Species, genus, family, order, class, phylum, kingdom, domain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each level from domain down to species groups fewer, more closely related organisms."
+  },
+  {
+    "id": "sci-biology-061",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "In the scientific name Homo sapiens, what does \"Homo\" represent?",
+    "options": [
+      "The family",
+      "The species",
+      "The kingdom",
+      "The genus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Binomial names give the genus (capitalized) followed by the species epithet."
+  },
+  {
+    "id": "sci-biology-062",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "According to natural selection, which individuals are most likely to pass on their genes?",
+    "options": [
+      "The largest individuals in every case",
+      "Those with traits best suited to their environment",
+      "Those that try hardest to change",
+      "Those that live the longest without reproducing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Individuals with advantageous heritable traits survive and reproduce more, so those traits become more common."
+  },
+  {
+    "id": "sci-biology-063",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "Bacteria that survive an antibiotic reproduce, and the population becomes resistant over time. What does this illustrate?",
+    "options": [
+      "Natural selection",
+      "Artificial selection by farmers",
+      "Inheritance of acquired characteristics",
+      "Spontaneous generation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Resistant bacteria already carried variations that let them survive; the antibiotic selected them, changing the population."
+  },
+  {
+    "id": "sci-biology-064",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Structures in different species that share a common evolutionary origin, such as a human arm and a whale flipper, are called what?",
+    "options": [
+      "Mimicry",
+      "Homologous structures",
+      "Vestigial structures",
+      "Analogous structures"
+    ],
+    "correctIndex": 1,
+    "explanation": "Homologous structures have similar bone arrangements inherited from a common ancestor, even if their functions differ."
+  },
+  {
+    "id": "sci-biology-065",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "In a food chain, which organisms obtain energy by breaking down dead material?",
+    "options": [
+      "Top predators",
+      "Primary consumers",
+      "Decomposers",
+      "Producers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Decomposers such as bacteria and fungi recycle nutrients from dead organisms back into the ecosystem."
+  },
+  {
+    "id": "sci-biology-066",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "About what percent of energy is passed from one trophic level to the next in a typical food chain?",
+    "options": [
+      "About 10%",
+      "About 90%",
+      "100%",
+      "About 50%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Most energy is used for life processes or lost as heat, so only about 10% is stored in the next level."
+  },
+  {
+    "id": "sci-biology-067",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "A tick feeds on a deer's blood, harming the deer. What type of relationship is this?",
+    "options": [
+      "Competition",
+      "Commensalism",
+      "Parasitism",
+      "Mutualism"
+    ],
+    "correctIndex": 2,
+    "explanation": "In parasitism one organism benefits while the host is harmed."
+  },
+  {
+    "id": "sci-biology-068",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Bees get nectar from flowers while pollinating them. What type of relationship is this?",
+    "options": [
+      "Parasitism",
+      "Predation",
+      "Mutualism",
+      "Commensalism"
+    ],
+    "correctIndex": 2,
+    "explanation": "Both species benefit: the bee gets food and the plant gets pollinated."
+  },
+  {
+    "id": "sci-biology-069",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "Which process returns carbon dioxide to the atmosphere in the carbon cycle?",
+    "options": [
+      "Transpiration of oxygen",
+      "Photosynthesis",
+      "Nitrogen fixation",
+      "Cellular respiration"
+    ],
+    "correctIndex": 3,
+    "explanation": "Organisms release CO₂ when they break down glucose for energy; photosynthesis removes CO₂ from the air."
+  },
+  {
+    "id": "sci-biology-070",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "Which group of organisms is made of prokaryotic cells?",
+    "options": [
+      "Animals",
+      "Fungi",
+      "Plants",
+      "Bacteria"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bacteria are prokaryotes: their DNA is not enclosed in a nucleus and they lack membrane-bound organelles."
+  },
+  {
+    "id": "sci-biology-071",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "What is the function of the flagellum on a bacterium or sperm cell?",
+    "options": [
+      "Movement",
+      "Protein synthesis",
+      "Storing DNA",
+      "Photosynthesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "A flagellum is a whip-like tail that propels the cell."
+  },
+  {
+    "id": "sci-biology-072",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which structure regulates what enters and leaves a cell?",
+    "options": [
+      "Cell membrane",
+      "Cell wall",
+      "Cytoskeleton",
+      "Nucleolus"
+    ],
+    "correctIndex": 0,
+    "explanation": "The selectively permeable cell membrane controls the movement of substances in and out of the cell."
+  },
+  {
+    "id": "sci-biology-073",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "hard",
+    "question": "Which statement correctly compares mitosis and meiosis?",
+    "options": [
+      "Mitosis produces identical body cells; meiosis produces genetically varied sex cells.",
+      "Mitosis produces four cells; meiosis produces two.",
+      "Meiosis occurs only in prokaryotes.",
+      "Both produce haploid gametes."
+    ],
+    "correctIndex": 0,
+    "explanation": "Mitosis is for growth and repair with one division; meiosis has two divisions and creates haploid, varied gametes."
+  },
+  {
+    "id": "sci-biology-074",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "medium",
+    "question": "Which molecule carries amino acids to the ribosome during translation?",
+    "options": [
+      "Messenger RNA (mRNA)",
+      "DNA polymerase",
+      "Ribosomal DNA",
+      "Transfer RNA (tRNA)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Each tRNA carries a specific amino acid and has an anticodon that pairs with an mRNA codon."
+  },
+  {
+    "id": "sci-biology-075",
+    "section": "science",
+    "subcategory": "biology",
+    "difficulty": "easy",
+    "question": "What is the basic unit of life?",
+    "options": [
+      "The cell",
+      "The molecule",
+      "The organ",
+      "The atom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cell theory states that all living things are made of cells, the smallest units that carry out life processes."
   }
 ]

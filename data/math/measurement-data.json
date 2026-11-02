@@ -313,5 +313,1415 @@
     ],
     "correctIndex": 2,
     "explanation": "Line graphs show change in a quantity over time."
+  },
+  {
+    "id": "mat-measurement-data-022",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "How many milliliters are in 0.45 liter?",
+    "options": [
+      "4.5 mL",
+      "45 mL",
+      "450 mL",
+      "4,500 mL"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 L = 1,000 mL, so 0.45 x 1,000 = 450 mL."
+  },
+  {
+    "id": "mat-measurement-data-023",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A tablet contains 750 micrograms (mcg). How many milligrams is this?",
+    "options": [
+      "750,000 mg",
+      "0.75 mg",
+      "7.5 mg",
+      "75 mg"
+    ],
+    "correctIndex": 1,
+    "explanation": "1 mg = 1,000 mcg, so divide by 1,000: 750 ÷ 1,000 = 0.75 mg."
+  },
+  {
+    "id": "mat-measurement-data-024",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A patient is 1.85 meters tall. What is this height in centimeters?",
+    "options": [
+      "0.0185 cm",
+      "18.5 cm",
+      "185 cm",
+      "1,850 cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 m = 100 cm, so 1.85 x 100 = 185 cm."
+  },
+  {
+    "id": "mat-measurement-data-025",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A newborn weighs 3,200 grams. What is the weight in kilograms?",
+    "options": [
+      "32 kg",
+      "320 kg",
+      "0.32 kg",
+      "3.2 kg"
+    ],
+    "correctIndex": 3,
+    "explanation": "1 kg = 1,000 g, so 3,200 ÷ 1,000 = 3.2 kg."
+  },
+  {
+    "id": "mat-measurement-data-026",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "Using 1 kg ≈ 2.2 lb, about how many pounds does a 3.2 kg newborn weigh?",
+    "options": [
+      "1.45 lb",
+      "5.4 lb",
+      "70.4 lb",
+      "7.04 lb"
+    ],
+    "correctIndex": 3,
+    "explanation": "Multiply kilograms by 2.2: 3.2 x 2.2 = 7.04 lb."
+  },
+  {
+    "id": "mat-measurement-data-027",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A patient is 5 feet 6 inches tall. Using 1 inch = 2.54 cm, what is the height in centimeters?",
+    "options": [
+      "16.76 cm",
+      "25.98 cm",
+      "142.24 cm",
+      "167.64 cm"
+    ],
+    "correctIndex": 3,
+    "explanation": "5 ft 6 in = 5 x 12 + 6 = 66 inches, and 66 x 2.54 = 167.64 cm."
+  },
+  {
+    "id": "mat-measurement-data-028",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Using 1 fl oz ≈ 30 mL, how many milliliters are in a 6 fl oz cup of tea?",
+    "options": [
+      "180 mL",
+      "1,800 mL",
+      "5 mL",
+      "36 mL"
+    ],
+    "correctIndex": 0,
+    "explanation": "Multiply: 6 x 30 = 180 mL."
+  },
+  {
+    "id": "mat-measurement-data-029",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Using 1 teaspoon = 5 mL, how many milliliters are in 3 teaspoons of cough syrup?",
+    "options": [
+      "15 mL",
+      "45 mL",
+      "1.67 mL",
+      "8 mL"
+    ],
+    "correctIndex": 0,
+    "explanation": "3 x 5 = 15 mL. (Three teaspoons also equal 1 tablespoon.)"
+  },
+  {
+    "id": "mat-measurement-data-030",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A child's temperature is 39°C. Using F = 9/5 C + 32, what is the temperature in Fahrenheit?",
+    "options": [
+      "53.67°F",
+      "102.2°F",
+      "70.2°F",
+      "127.8°F"
+    ],
+    "correctIndex": 1,
+    "explanation": "9/5 x 39 = 70.2, and 70.2 + 32 = 102.2°F."
+  },
+  {
+    "id": "mat-measurement-data-031",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Convert 101.3°F to Celsius, rounded to the nearest tenth. Use C = (F - 32) x 5/9.",
+    "options": [
+      "24.3°C",
+      "38.5°C",
+      "69.3°C",
+      "124.7°C"
+    ],
+    "correctIndex": 1,
+    "explanation": "101.3 - 32 = 69.3, and 69.3 x 5/9 = 38.5, which rounds to 38.5°C."
+  },
+  {
+    "id": "mat-measurement-data-032",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is 7:45 p.m. in 24-hour (military) time?",
+    "options": [
+      "1945",
+      "0745",
+      "1745",
+      "2045"
+    ],
+    "correctIndex": 0,
+    "explanation": "For p.m. times after noon, add 12 to the hour: 7 + 12 = 19, so 7:45 p.m. is 1945."
+  },
+  {
+    "id": "mat-measurement-data-033",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A medication was given at 0230. What is this in standard time?",
+    "options": [
+      "10:30 p.m.",
+      "2:30 p.m.",
+      "2:30 a.m.",
+      "12:30 p.m."
+    ],
+    "correctIndex": 2,
+    "explanation": "Hours from 0000 to 1159 are a.m. times, so 0230 is 2:30 a.m."
+  },
+  {
+    "id": "mat-measurement-data-034",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "An infusion starts at 2250 and runs for 95 minutes. At what time (24-hour clock) does it end?",
+    "options": [
+      "0025",
+      "2425",
+      "2345",
+      "0035"
+    ],
+    "correctIndex": 0,
+    "explanation": "2250 plus 70 minutes is 0000 (midnight), and 25 more minutes gives 0025."
+  },
+  {
+    "id": "mat-measurement-data-035",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "How many minutes are in 2.5 hours?",
+    "options": [
+      "130 minutes",
+      "250 minutes",
+      "125 minutes",
+      "150 minutes"
+    ],
+    "correctIndex": 3,
+    "explanation": "2.5 x 60 = 150 minutes."
+  },
+  {
+    "id": "mat-measurement-data-036",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "How many feet are in 3.5 yards?",
+    "options": [
+      "7 ft",
+      "1.17 ft",
+      "10.5 ft",
+      "42 ft"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 yard = 3 feet, so 3.5 x 3 = 10.5 ft."
+  },
+  {
+    "id": "mat-measurement-data-037",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "How many quarts are in 2.5 gallons?",
+    "options": [
+      "20 quarts",
+      "0.63 quarts",
+      "10 quarts",
+      "5 quarts"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 gallon = 4 quarts, so 2.5 x 4 = 10 quarts."
+  },
+  {
+    "id": "mat-measurement-data-038",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A package weighs 3.75 lb. How many ounces is this?",
+    "options": [
+      "37.5 oz",
+      "0.23 oz",
+      "48 oz",
+      "60 oz"
+    ],
+    "correctIndex": 3,
+    "explanation": "1 lb = 16 oz, so 3.75 x 16 = 60 oz."
+  },
+  {
+    "id": "mat-measurement-data-039",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "Using 1 km ≈ 0.62 mile, about how many miles long is a 5 km charity walk?",
+    "options": [
+      "3.1 miles",
+      "31 miles",
+      "8 miles",
+      "8.06 miles"
+    ],
+    "correctIndex": 0,
+    "explanation": "Multiply: 5 x 0.62 = 3.1 miles."
+  },
+  {
+    "id": "mat-measurement-data-040",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "A car travels at 60 miles per hour. How many feet per second is this? (1 mile = 5,280 feet)",
+    "options": [
+      "60 ft/s",
+      "88 ft/s",
+      "5,280 ft/s",
+      "40.91 ft/s"
+    ],
+    "correctIndex": 1,
+    "explanation": "60 miles per hour = 316,800 feet per 3,600 seconds, and 316,800 ÷ 3,600 = 88 ft/s."
+  },
+  {
+    "id": "mat-measurement-data-041",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "How many cubic centimeters (cc) are in 2.5 liters?",
+    "options": [
+      "25,000 cc",
+      "250 cc",
+      "25 cc",
+      "2,500 cc"
+    ],
+    "correctIndex": 3,
+    "explanation": "1 mL = 1 cc and 1 L = 1,000 mL, so 2.5 L = 2,500 cc."
+  },
+  {
+    "id": "mat-measurement-data-042",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Which amount is equal to 0.08 gram?",
+    "options": [
+      "0.00008 mg",
+      "8 mg",
+      "80,000 mcg",
+      "8,000 mcg"
+    ],
+    "correctIndex": 2,
+    "explanation": "0.08 g x 1,000 = 80 mg, and 80 mg x 1,000 = 80,000 mcg."
+  },
+  {
+    "id": "mat-measurement-data-043",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A patient who weighs 150 lb is ordered 0.5 mg/kg of a drug. Using 1 kg = 2.2 lb, what is the dose to the nearest milligram?",
+    "options": [
+      "165 mg",
+      "34 mg",
+      "75 mg",
+      "68 mg"
+    ],
+    "correctIndex": 1,
+    "explanation": "150 ÷ 2.2 = 68.18 kg, and 68.18 x 0.5 = 34.09, which rounds to 34 mg."
+  },
+  {
+    "id": "mat-measurement-data-044",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "Which measurement is the longest?",
+    "options": [
+      "110 centimeters",
+      "1,150 millimeters",
+      "1.2 meters",
+      "0.001 kilometer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Convert to centimeters: 1.2 m = 120 cm, 110 cm, 1,150 mm = 115 cm, and 0.001 km = 100 cm."
+  },
+  {
+    "id": "mat-measurement-data-045",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Which metric unit is most appropriate for measuring the mass of an apple?",
+    "options": [
+      "Milliliter",
+      "Metric ton",
+      "Kilometer",
+      "Gram"
+    ],
+    "correctIndex": 3,
+    "explanation": "An apple has a mass of roughly 100 to 200 grams; kilometers and milliliters measure length and volume."
+  },
+  {
+    "id": "mat-measurement-data-046",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the perimeter of a square with sides of 7.5 cm?",
+    "options": [
+      "30 cm",
+      "11.5 cm",
+      "15 cm",
+      "56.25 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "A square has 4 equal sides: 4 x 7.5 = 30 cm."
+  },
+  {
+    "id": "mat-measurement-data-047",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A parallelogram has a base of 12 in and a height of 5 in. What is its area?",
+    "options": [
+      "17 sq in",
+      "34 sq in",
+      "30 sq in",
+      "60 sq in"
+    ],
+    "correctIndex": 3,
+    "explanation": "Area of a parallelogram = base x height = 12 x 5 = 60 square inches."
+  },
+  {
+    "id": "mat-measurement-data-048",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A trapezoid has parallel sides of 8 m and 14 m and a height of 6 m. What is its area?",
+    "options": [
+      "66 sq m",
+      "112 sq m",
+      "28 sq m",
+      "132 sq m"
+    ],
+    "correctIndex": 0,
+    "explanation": "A = ½(b₁ + b₂)h = ½(8 + 14)(6) = ½(22)(6) = 66 square meters."
+  },
+  {
+    "id": "mat-measurement-data-049",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A rectangular garden is 20 ft by 15 ft. A 5 ft by 5 ft square in one corner is paved. What is the area of the unpaved part?",
+    "options": [
+      "150 sq ft",
+      "300 sq ft",
+      "275 sq ft",
+      "280 sq ft"
+    ],
+    "correctIndex": 2,
+    "explanation": "Whole area: 20 x 15 = 300 sq ft. Subtract the paved square: 300 - 25 = 275 sq ft."
+  },
+  {
+    "id": "mat-measurement-data-050",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A circular rug has a diameter of 12 ft. What is its area? (Use π ≈ 3.14)",
+    "options": [
+      "18.84 sq ft",
+      "113.04 sq ft",
+      "37.68 sq ft",
+      "452.16 sq ft"
+    ],
+    "correctIndex": 1,
+    "explanation": "The radius is half the diameter, 6 ft. A = πr² = 3.14 x 36 = 113.04 square feet."
+  },
+  {
+    "id": "mat-measurement-data-051",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "The circumference of a wheel is 18.84 in. What is its radius? (Use π ≈ 3.14)",
+    "options": [
+      "2.45 in",
+      "6 in",
+      "9.42 in",
+      "3 in"
+    ],
+    "correctIndex": 3,
+    "explanation": "C = 2πr, so r = C ÷ 2π = 18.84 ÷ 6.28 = 3 inches."
+  },
+  {
+    "id": "mat-measurement-data-052",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "What is the volume of a cylinder with a radius of 3 cm and a height of 10 cm? (Use π ≈ 3.14)",
+    "options": [
+      "282.6 cubic cm",
+      "565.2 cubic cm",
+      "94.2 cubic cm",
+      "188.4 cubic cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "V = πr²h = 3.14 x 9 x 10 = 282.6 cubic centimeters."
+  },
+  {
+    "id": "mat-measurement-data-053",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the volume of a cube with edges 4 inches long?",
+    "options": [
+      "64 cubic in",
+      "12 cubic in",
+      "16 cubic in",
+      "96 cubic in"
+    ],
+    "correctIndex": 0,
+    "explanation": "V = s³ = 4 x 4 x 4 = 64 cubic inches."
+  },
+  {
+    "id": "mat-measurement-data-054",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "What is the surface area of a rectangular box that is 5 cm long, 3 cm wide, and 2 cm high?",
+    "options": [
+      "31 sq cm",
+      "20 sq cm",
+      "62 sq cm",
+      "30 sq cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "SA = 2(lw + lh + wh) = 2(15 + 10 + 6) = 2(31) = 62 square centimeters."
+  },
+  {
+    "id": "mat-measurement-data-055",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "A fish tank is 50 cm long, 30 cm wide, and 40 cm tall. How many liters does it hold when full? (1 L = 1,000 cubic cm)",
+    "options": [
+      "600 L",
+      "60 L",
+      "12 L",
+      "60,000 L"
+    ],
+    "correctIndex": 1,
+    "explanation": "Volume = 50 x 30 x 40 = 60,000 cubic cm. 60,000 ÷ 1,000 = 60 L."
+  },
+  {
+    "id": "mat-measurement-data-056",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Two angles of a triangle measure 47° and 68°. What is the measure of the third angle?",
+    "options": [
+      "115°",
+      "65°",
+      "69°",
+      "245°"
+    ],
+    "correctIndex": 1,
+    "explanation": "The angles of a triangle add to 180°: 180 - 47 - 68 = 65°."
+  },
+  {
+    "id": "mat-measurement-data-057",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the complement of a 34° angle?",
+    "options": [
+      "56°",
+      "326°",
+      "34°",
+      "146°"
+    ],
+    "correctIndex": 0,
+    "explanation": "Complementary angles add to 90°: 90 - 34 = 56°."
+  },
+  {
+    "id": "mat-measurement-data-058",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Two angles form a straight line. One measures 118°. What does the other measure?",
+    "options": [
+      "118°",
+      "28°",
+      "62°",
+      "242°"
+    ],
+    "correctIndex": 2,
+    "explanation": "Angles on a straight line are supplementary and add to 180°: 180 - 118 = 62°."
+  },
+  {
+    "id": "mat-measurement-data-059",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "What is the sum of the interior angles of a hexagon?",
+    "options": [
+      "540°",
+      "1,080°",
+      "720°",
+      "360°"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use (n - 2) x 180° with n = 6: 4 x 180 = 720°."
+  },
+  {
+    "id": "mat-measurement-data-060",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A triangle has two sides of equal length and one side of a different length. What type of triangle is it?",
+    "options": [
+      "Obtuse",
+      "Scalene",
+      "Isosceles",
+      "Equilateral"
+    ],
+    "correctIndex": 2,
+    "explanation": "An isosceles triangle has at least two equal sides; equilateral has three, scalene has none."
+  },
+  {
+    "id": "mat-measurement-data-061",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "How many faces does a rectangular prism have?",
+    "options": [
+      "4",
+      "6",
+      "12",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "A rectangular prism (like a shoebox) has 6 faces, 12 edges, and 8 vertices."
+  },
+  {
+    "id": "mat-measurement-data-062",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A 13-foot ladder leans against a wall with its base 5 feet from the wall. How high up the wall does it reach?",
+    "options": [
+      "8 ft",
+      "18 ft",
+      "13.93 ft",
+      "12 ft"
+    ],
+    "correctIndex": 3,
+    "explanation": "Use a² + b² = c²: 5² + b² = 13², so b² = 169 - 25 = 144 and b = 12 ft."
+  },
+  {
+    "id": "mat-measurement-data-063",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A rectangular screen is 6 inches wide and 8 inches tall. How long is its diagonal?",
+    "options": [
+      "7 in",
+      "14 in",
+      "48 in",
+      "10 in"
+    ],
+    "correctIndex": 3,
+    "explanation": "The diagonal is the hypotenuse: √(6² + 8²) = √100 = 10 inches."
+  },
+  {
+    "id": "mat-measurement-data-064",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Each side of a square is tripled. By what factor does the area increase?",
+    "options": [
+      "3",
+      "27",
+      "9",
+      "6"
+    ],
+    "correctIndex": 2,
+    "explanation": "Area depends on side squared, so the area is multiplied by 3² = 9."
+  },
+  {
+    "id": "mat-measurement-data-065",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Two similar triangles have corresponding sides of 10 cm and 15 cm. If a side of the smaller triangle is 6 cm, how long is the matching side of the larger triangle?",
+    "options": [
+      "9 cm",
+      "11 cm",
+      "12 cm",
+      "4 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "The scale factor is 15/10 = 1.5, so 6 x 1.5 = 9 cm."
+  },
+  {
+    "id": "mat-measurement-data-066",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "How many 6-inch-square tiles are needed to cover a floor that is 12 ft by 10 ft?",
+    "options": [
+      "20 tiles",
+      "480 tiles",
+      "120 tiles",
+      "240 tiles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each tile is 0.5 ft x 0.5 ft = 0.25 sq ft. The floor is 120 sq ft, so 120 ÷ 0.25 = 480 tiles."
+  },
+  {
+    "id": "mat-measurement-data-067",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A right angle measures exactly how many degrees?",
+    "options": [
+      "45°",
+      "100°",
+      "180°",
+      "90°"
+    ],
+    "correctIndex": 3,
+    "explanation": "A right angle is a quarter turn, 90°; angles less than 90° are acute and between 90° and 180° are obtuse."
+  },
+  {
+    "id": "mat-measurement-data-068",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "What is the volume of a sphere with a radius of 4 cm, to the nearest whole number? Use V = 4/3 πr³ and π ≈ 3.14.",
+    "options": [
+      "804 cubic cm",
+      "67 cubic cm",
+      "268 cubic cm",
+      "201 cubic cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "V = 4/3 x 3.14 x 4³ = 4/3 x 3.14 x 64 ≈ 267.95, which rounds to 268 cubic centimeters."
+  },
+  {
+    "id": "mat-measurement-data-069",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A patient's temperatures (°F) over five checks were 98.2, 98.6, 99.4, 98.4, 98.9. What was the mean temperature?",
+    "options": [
+      "1.2°F",
+      "98.7°F",
+      "98.6°F",
+      "123.38°F"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 493.5. Divide by 5: 493.5 ÷ 5 = 98.7°F."
+  },
+  {
+    "id": "mat-measurement-data-070",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the median heart rate in this list: 72, 65, 80, 91, 65, 77, 88?",
+    "options": [
+      "91",
+      "77",
+      "76.86",
+      "65"
+    ],
+    "correctIndex": 1,
+    "explanation": "Order the values: 65, 65, 72, 77, 80, 88, 91. The middle (4th) value is 77."
+  },
+  {
+    "id": "mat-measurement-data-071",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A clinic counted walk-in patients each hour: 3, 7, 7, 2, 9, 7, 3, 5. Which value is the mode?",
+    "options": [
+      "7",
+      "6",
+      "5.38",
+      "3"
+    ],
+    "correctIndex": 0,
+    "explanation": "7 appears three times, more often than any other value, so the mode is 7."
+  },
+  {
+    "id": "mat-measurement-data-072",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Waiting times (minutes) were 14, 22, 19, 25, 17, 90. How does removing the outlier 90 change the mean?",
+    "options": [
+      "The mean drops from 31.17 to 19.4 minutes.",
+      "The mean drops from 31.17 to 19 minutes.",
+      "The mean rises from 19.4 to 31.17 minutes.",
+      "The mean does not change."
+    ],
+    "correctIndex": 0,
+    "explanation": "With 90: 187 ÷ 6 ≈ 31.17. Without it: 97 ÷ 5 = 19.4. Outliers pull the mean toward them."
+  },
+  {
+    "id": "mat-measurement-data-073",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A data set of salaries has a few extremely high values. Which measure of center best describes a typical salary?",
+    "options": [
+      "Range",
+      "Mean",
+      "Maximum",
+      "Median"
+    ],
+    "correctIndex": 3,
+    "explanation": "The median is resistant to extreme values, while the mean is pulled upward by the few high salaries."
+  },
+  {
+    "id": "mat-measurement-data-074",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "A course grade is 25% quizzes, 25% labs, and 50% final exam. A student scores 88 on quizzes, 76 on labs, and 94 on the final. What is the course grade?",
+    "options": [
+      "88",
+      "47",
+      "86",
+      "82"
+    ],
+    "correctIndex": 0,
+    "explanation": "Multiply and add: 0.25(88) + 0.25(76) + 0.5(94) = 22 + 19 + 47 = 88."
+  },
+  {
+    "id": "mat-measurement-data-075",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "One class of 20 students averaged 82 on a test, and another class of 30 students averaged 72. What is the average for all 50 students?",
+    "options": [
+      "76",
+      "77",
+      "78",
+      "154"
+    ],
+    "correctIndex": 0,
+    "explanation": "Total points = 20(82) + 30(72) = 3800. Divide by 50: 76."
+  },
+  {
+    "id": "mat-measurement-data-076",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "Data set A is 48, 50, 52 and data set B is 20, 50, 80. Which statement is true?",
+    "options": [
+      "Set B has a larger mean.",
+      "Both sets have a mean of 50, but set B is more spread out.",
+      "Set A has a larger standard deviation.",
+      "Both sets have the same range."
+    ],
+    "correctIndex": 1,
+    "explanation": "Each set has a mean of 50, but set B's values lie much farther from 50 (range 60 versus 4), so its spread is greater."
+  },
+  {
+    "id": "mat-measurement-data-077",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "What is the interquartile range (Q3 - Q1) of the data 4, 8, 15, 16, 23, 42?",
+    "options": [
+      "15.5",
+      "38",
+      "15",
+      "23"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lower half 4, 8, 15 gives Q1 = 8. Upper half 16, 23, 42 gives Q3 = 23, so IQR = 15."
+  },
+  {
+    "id": "mat-measurement-data-078",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "On a histogram, most values cluster on the left and a long tail stretches to the right. How is the distribution described?",
+    "options": [
+      "Skewed left (negatively skewed)",
+      "Skewed right (positively skewed)",
+      "Uniform",
+      "Symmetric"
+    ],
+    "correctIndex": 1,
+    "explanation": "A distribution is named for the direction of its long tail; a tail to the right means it is skewed right."
+  },
+  {
+    "id": "mat-measurement-data-079",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "In a skewed-right distribution, how do the mean and median usually compare?",
+    "options": [
+      "The median is always zero.",
+      "The mean is less than the median.",
+      "The mean is greater than the median.",
+      "The mean equals the median."
+    ],
+    "correctIndex": 2,
+    "explanation": "The few large values in the right tail pull the mean upward, above the median."
+  },
+  {
+    "id": "mat-measurement-data-080",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A scatterplot shows that as hours of exercise per week increase, resting heart rate decreases. What kind of correlation is this?",
+    "options": [
+      "Positive correlation",
+      "No correlation",
+      "Perfect positive correlation",
+      "Negative correlation"
+    ],
+    "correctIndex": 3,
+    "explanation": "When one variable increases as the other decreases, the correlation is negative."
+  },
+  {
+    "id": "mat-measurement-data-081",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "To estimate how often adults in a city exercise, a researcher surveys only people leaving a gym. What is the main problem with this sample?",
+    "options": [
+      "The results will be exactly accurate for the city.",
+      "It is biased because gym-goers likely exercise more than typical adults.",
+      "The sample is too large to be useful.",
+      "Surveys can never measure behavior."
+    ],
+    "correctIndex": 1,
+    "explanation": "A sample must represent the population; surveying only gym visitors over-represents people who exercise."
+  },
+  {
+    "id": "mat-measurement-data-082",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Which graph is best for showing what percent of a hospital budget goes to each department?",
+    "options": [
+      "Pie chart",
+      "Stem-and-leaf plot",
+      "Line graph",
+      "Scatterplot"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pie chart shows parts of a whole, with each slice representing a share of 100%."
+  },
+  {
+    "id": "mat-measurement-data-083",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "Which display is best for showing whether height and arm span are related for 30 students?",
+    "options": [
+      "Bar graph of total height",
+      "Pictograph",
+      "Scatterplot",
+      "Pie chart"
+    ],
+    "correctIndex": 2,
+    "explanation": "A scatterplot shows paired data for two numerical variables and reveals any relationship between them."
+  },
+  {
+    "id": "mat-measurement-data-084",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A stem-and-leaf plot shows 6 | 2 5 8, 7 | 0 3 3 9, and 8 | 1 4 (stems are tens). What is the median of the data?",
+    "options": [
+      "72.78",
+      "73.5",
+      "73",
+      "70"
+    ],
+    "correctIndex": 2,
+    "explanation": "The nine values in order are 62, 65, 68, 70, 73, 73, 79, 81, 84. The 5th value, 73, is the median."
+  },
+  {
+    "id": "mat-measurement-data-085",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A table shows flu shots given each day: Monday 34, Tuesday 41, Wednesday 29, Thursday 46, Friday 38. How many more shots were given on the busiest day than on the slowest day?",
+    "options": [
+      "17",
+      "9",
+      "12",
+      "75"
+    ],
+    "correctIndex": 0,
+    "explanation": "The busiest day is Thursday (46) and the slowest is Wednesday (29): 46 - 29 = 17."
+  },
+  {
+    "id": "mat-measurement-data-086",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "Using the same table (34, 41, 29, 46, 38 shots for Monday-Friday), about what percent of the week's shots were given on Friday?",
+    "options": [
+      "83%",
+      "20%",
+      "24%",
+      "38%"
+    ],
+    "correctIndex": 1,
+    "explanation": "The week's total is 188. Friday's share is 38 ÷ 188 ≈ 0.202, or about 20%."
+  },
+  {
+    "id": "mat-measurement-data-087",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A bar graph's vertical axis starts at 90 instead of 0, making a small difference between two bars look huge. What is the problem with this graph?",
+    "options": [
+      "Bar graphs cannot show differences.",
+      "The bars are too wide.",
+      "The truncated axis exaggerates the difference.",
+      "The graph should be a pie chart."
+    ],
+    "correctIndex": 2,
+    "explanation": "Starting the scale above zero magnifies small differences and can mislead readers."
+  },
+  {
+    "id": "mat-measurement-data-088",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Which value in the data set 12, 14, 15, 13, 41, 16 is an outlier?",
+    "options": [
+      "15",
+      "41",
+      "12",
+      "16"
+    ],
+    "correctIndex": 1,
+    "explanation": "41 is far from the other values, which all fall between 12 and 16."
+  },
+  {
+    "id": "mat-measurement-data-089",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A trend line for weekly study hours (x) and test score (y) is y = 2.5x + 60. What score does it predict for 12 hours of study?",
+    "options": [
+      "30",
+      "722.5",
+      "85",
+      "90"
+    ],
+    "correctIndex": 3,
+    "explanation": "Substitute x = 12: y = 2.5(12) + 60 = 30 + 60 = 90."
+  },
+  {
+    "id": "mat-measurement-data-090",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "In the trend line y = 2.5x + 60 (x = study hours, y = test score), what does 2.5 represent?",
+    "options": [
+      "The total number of hours studied",
+      "The predicted score increase for each additional hour of study",
+      "The highest possible score",
+      "The score with zero hours of study"
+    ],
+    "correctIndex": 1,
+    "explanation": "2.5 is the slope, the change in y for each 1-unit increase in x; 60 is the y-intercept."
+  },
+  {
+    "id": "mat-measurement-data-091",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "What is the range of the scores 12, 15, 15, 18, 20?",
+    "options": [
+      "16",
+      "15",
+      "20",
+      "8"
+    ],
+    "correctIndex": 3,
+    "explanation": "Range = greatest - least = 20 - 12 = 8."
+  },
+  {
+    "id": "mat-measurement-data-092",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A nursing student wants an average of 90 on five exams. Her first four scores are 92, 85, 88, and 94. What score does she need on the fifth exam?",
+    "options": [
+      "90",
+      "91",
+      "96",
+      "89.75"
+    ],
+    "correctIndex": 1,
+    "explanation": "She needs 90 x 5 = 450 points in all. She has 359, so she needs 450 - 359 = 91."
+  },
+  {
+    "id": "mat-measurement-data-093",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A fair six-sided die is rolled once. What is the probability of rolling a number greater than 4?",
+    "options": [
+      "2/3",
+      "1/2",
+      "1/3",
+      "1/6"
+    ],
+    "correctIndex": 2,
+    "explanation": "Only 5 and 6 are greater than 4, so the probability is 2/6 = 1/3."
+  },
+  {
+    "id": "mat-measurement-data-094",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A card is drawn at random from a standard 52-card deck. What is the probability that it is a heart?",
+    "options": [
+      "1/13",
+      "1/2",
+      "4/13",
+      "1/4"
+    ],
+    "correctIndex": 3,
+    "explanation": "There are 13 hearts among 52 cards, and 13/52 = 1/4."
+  },
+  {
+    "id": "mat-measurement-data-095",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "A box holds 5 red and 7 white gloves. Two gloves are drawn without replacement. What is the probability that both are red?",
+    "options": [
+      "5/33",
+      "5/36",
+      "103/132",
+      "25/144"
+    ],
+    "correctIndex": 0,
+    "explanation": "First draw: 5/12. Second draw (one red removed): 4/11. Multiply: 5/12 x 4/11 = 5/33."
+  },
+  {
+    "id": "mat-measurement-data-096",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "The probability that a lab sample is contaminated is 0.15. What is the probability that a sample is NOT contaminated?",
+    "options": [
+      "0.085",
+      "0.75",
+      "0.15",
+      "0.85"
+    ],
+    "correctIndex": 3,
+    "explanation": "Complementary events add to 1: 1 - 0.15 = 0.85."
+  },
+  {
+    "id": "mat-measurement-data-097",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A meal includes one of 4 main dishes and one of 3 sides. How many different meals are possible?",
+    "options": [
+      "12",
+      "81",
+      "64",
+      "7"
+    ],
+    "correctIndex": 0,
+    "explanation": "Use the counting principle: 4 x 3 = 12 combinations."
+  },
+  {
+    "id": "mat-measurement-data-098",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "In how many different orders can 5 patients be scheduled for 5 back-to-back appointments?",
+    "options": [
+      "15",
+      "25",
+      "5",
+      "120"
+    ],
+    "correctIndex": 3,
+    "explanation": "There are 5 choices for the first slot, 4 for the second, and so on: 5 x 4 x 3 x 2 x 1 = 120."
+  },
+  {
+    "id": "mat-measurement-data-099",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "In a screening, 35 of 250 people tested positive. Based on this, about how many of 1,000 similar people would test positive?",
+    "options": [
+      "70",
+      "140",
+      "350",
+      "860"
+    ],
+    "correctIndex": 1,
+    "explanation": "The rate is 35/250 = 0.14. Multiply by 1,000: 0.14 x 1,000 = 140."
+  },
+  {
+    "id": "mat-measurement-data-100",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A fair coin is flipped 200 times. About how many heads would you expect?",
+    "options": [
+      "50",
+      "100",
+      "200",
+      "150"
+    ],
+    "correctIndex": 1,
+    "explanation": "The probability of heads is 1/2, so the expected number is 1/2 x 200 = 100."
+  },
+  {
+    "id": "mat-measurement-data-101",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "An IV of 1,500 mL is to run over 12 hours. What is the rate in mL per hour?",
+    "options": [
+      "25 mL/hr",
+      "150 mL/hr",
+      "8 mL/hr",
+      "125 mL/hr"
+    ],
+    "correctIndex": 3,
+    "explanation": "Divide volume by time: 1,500 ÷ 12 = 125 mL per hour."
+  },
+  {
+    "id": "mat-measurement-data-102",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Infuse 500 mL over 4 hours using tubing with a drop factor of 15 gtt/mL. What is the drip rate to the nearest drop per minute?",
+    "options": [
+      "2 gtt/min",
+      "1,875 gtt/min",
+      "33 gtt/min",
+      "31 gtt/min"
+    ],
+    "correctIndex": 3,
+    "explanation": "gtt/min = volume x drop factor ÷ minutes = 500 x 15 ÷ 240 = 31.25, about 31 gtt/min."
+  },
+  {
+    "id": "mat-measurement-data-103",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A patient's intake was 240, 180, 360, and 120 mL. Urine output was 300, 250, and 200 mL. What is the fluid balance (intake minus output)?",
+    "options": [
+      "-150 mL",
+      "+150 mL",
+      "+900 mL",
+      "+600 mL"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intake = 900 mL and output = 750 mL, so the balance is 900 - 750 = +150 mL."
+  },
+  {
+    "id": "mat-measurement-data-104",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Body mass index is BMI = weight (kg) ÷ height (m)². What is the BMI of a person who weighs 81 kg and is 1.8 m tall?",
+    "options": [
+      "45",
+      "262.44",
+      "22.5",
+      "25"
+    ],
+    "correctIndex": 3,
+    "explanation": "1.8² = 3.24, and 81 ÷ 3.24 = 25."
+  },
+  {
+    "id": "mat-measurement-data-105",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A car gets 28 miles per gallon. Gas costs $3.45 per gallon. What does fuel cost for a 336-mile trip?",
+    "options": [
+      "$41.40",
+      "$12.00",
+      "$11.59",
+      "$96.60"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gallons needed: 336 ÷ 28 = 12. Cost: 12 x $3.45 = $41.40."
+  },
+  {
+    "id": "mat-measurement-data-106",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "How many feet of fencing are needed to enclose a rectangular yard that is 40 ft by 25 ft?",
+    "options": [
+      "1,000 ft",
+      "105 ft",
+      "130 ft",
+      "65 ft"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perimeter = 2(40 + 25) = 130 feet."
+  },
+  {
+    "id": "mat-measurement-data-107",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Two walls are each 40 ft long and 9 ft high. One gallon of paint covers 350 sq ft. How many whole gallons must be bought to paint both walls once?",
+    "options": [
+      "720 gallons",
+      "2 gallons",
+      "3 gallons",
+      "4 gallons"
+    ],
+    "correctIndex": 2,
+    "explanation": "Area = 2 x 40 x 9 = 720 sq ft. 720 ÷ 350 ≈ 2.06, so round up to 3 gallons."
+  },
+  {
+    "id": "mat-measurement-data-108",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "Which is the best estimate of the volume of a standard drinking glass?",
+    "options": [
+      "About 25 L",
+      "About 2,500 L",
+      "About 250 mL",
+      "About 2.5 mL"
+    ],
+    "correctIndex": 2,
+    "explanation": "A typical glass holds about 8 fl oz, which is roughly 240-250 mL."
+  },
+  {
+    "id": "mat-measurement-data-109",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "A ruler shows a pencil extending from the 2 cm mark to the 15.5 cm mark. How long is the pencil?",
+    "options": [
+      "13.5 cm",
+      "17.5 cm",
+      "12.5 cm",
+      "15.5 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Length is the difference between the end and start marks: 15.5 - 2 = 13.5 cm."
+  },
+  {
+    "id": "mat-measurement-data-110",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A graduated cylinder reads 42 mL. After a stone is dropped in, it reads 57 mL. What is the volume of the stone?",
+    "options": [
+      "42 cubic cm",
+      "57 cubic cm",
+      "15 cubic cm",
+      "99 cubic cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Water displacement: 57 - 42 = 15 mL, and 1 mL = 1 cubic centimeter."
+  },
+  {
+    "id": "mat-measurement-data-111",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A sample has a mass of 54 g and a volume of 20 cubic cm. What is its density?",
+    "options": [
+      "2.7 g/cubic cm",
+      "0.37 g/cubic cm",
+      "34 g/cubic cm",
+      "1,080 g/cubic cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Density = mass ÷ volume = 54 ÷ 20 = 2.7 g per cubic centimeter."
+  },
+  {
+    "id": "mat-measurement-data-112",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "easy",
+    "question": "Which tool is most appropriate for measuring a 0.5 mL dose of liquid medicine?",
+    "options": [
+      "A kitchen tablespoon",
+      "A 1 mL oral syringe",
+      "A 1-liter beaker",
+      "A measuring cup"
+    ],
+    "correctIndex": 1,
+    "explanation": "Small volumes need a precise tool with fine markings, such as a 1 mL syringe."
+  },
+  {
+    "id": "mat-measurement-data-113",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Systolic pressures were 128 at 8 a.m., 142 at 12 p.m., 136 at 4 p.m., and 121 at 8 p.m. Between which consecutive readings was the change largest?",
+    "options": [
+      "8 a.m. to 8 p.m.",
+      "12 p.m. to 4 p.m.",
+      "8 a.m. to 12 p.m.",
+      "4 p.m. to 8 p.m."
+    ],
+    "correctIndex": 3,
+    "explanation": "The changes are +14, -6, and -15 mmHg. The largest change, 15, occurred from 4 p.m. to 8 p.m."
+  },
+  {
+    "id": "mat-measurement-data-114",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "hard",
+    "question": "Town A had 60 flu cases among 1,200 residents; Town B had 48 cases among 800 residents. Which statement is true?",
+    "options": [
+      "Town A had the higher rate (6% vs. 5%).",
+      "The two towns had the same rate.",
+      "Town A had the higher rate because it had more cases.",
+      "Town B had the higher rate (6% vs. 5%)."
+    ],
+    "correctIndex": 3,
+    "explanation": "Compare rates, not totals: 60 ÷ 1,200 = 5% and 48 ÷ 800 = 6%."
+  },
+  {
+    "id": "mat-measurement-data-115",
+    "section": "math",
+    "subcategory": "measurement-data",
+    "difficulty": "medium",
+    "question": "A recipe calls for 2 tablespoons of oil. Using 1 tablespoon = 3 teaspoons, how many teaspoons is this?",
+    "options": [
+      "2/3 teaspoon",
+      "6 teaspoons",
+      "1.5 teaspoons",
+      "5 teaspoons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiply: 2 x 3 = 6 teaspoons."
   }
 ]

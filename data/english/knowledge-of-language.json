@@ -223,5 +223,875 @@
     ],
     "correctIndex": 0,
     "explanation": "'Final outcome' and 'completely finished' are redundant; the shortest version keeps the meaning."
+  },
+  {
+    "id": "eng-knowledge-of-language-016",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "What type of sentence is this? \"Did you sign the consent form?\"",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Exclamatory",
+      "Interrogative"
+    ],
+    "correctIndex": 3,
+    "explanation": "An interrogative sentence asks a question and ends with a question mark."
+  },
+  {
+    "id": "eng-knowledge-of-language-017",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "What type of sentence is this? \"The clinic opens at eight.\"",
+    "options": [
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "correctIndex": 0,
+    "explanation": "A declarative sentence makes a statement and ends with a period."
+  },
+  {
+    "id": "eng-knowledge-of-language-018",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence is a compound-complex sentence?",
+    "options": [
+      "When the storm hit, the power went out.",
+      "The storm knocked out the power.",
+      "The storm hit, and the power went out.",
+      "When the storm hit, the power went out, and the generator started."
+    ],
+    "correctIndex": 3,
+    "explanation": "A compound-complex sentence has at least two independent clauses and at least one dependent clause."
+  },
+  {
+    "id": "eng-knowledge-of-language-019",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence is a simple sentence?",
+    "options": [
+      "After the students toured the lab, they ate lunch.",
+      "The students and their instructor toured the lab.",
+      "The students toured the lab, and the instructor answered questions.",
+      "The students toured the lab because it was new."
+    ],
+    "correctIndex": 1,
+    "explanation": "A simple sentence has one independent clause, even if it has a compound subject."
+  },
+  {
+    "id": "eng-knowledge-of-language-020",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence is written in the passive voice?",
+    "options": [
+      "The technician labeled the samples.",
+      "The technician is labeling the samples.",
+      "The samples were labeled by the technician.",
+      "The technician will label the samples."
+    ],
+    "correctIndex": 2,
+    "explanation": "In passive voice the subject receives the action, often with a by-phrase naming the doer."
+  },
+  {
+    "id": "eng-knowledge-of-language-021",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which revision changes the sentence to active voice? \"The report was submitted by the committee.\"",
+    "options": [
+      "Submitted by the committee was the report.",
+      "The report had been submitted.",
+      "The committee submitted the report.",
+      "The report was submitted."
+    ],
+    "correctIndex": 2,
+    "explanation": "Active voice places the doer (the committee) as the subject performing the action."
+  },
+  {
+    "id": "eng-knowledge-of-language-022",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "In which situation is passive voice most appropriate?",
+    "options": [
+      "When asking a question",
+      "When writing a short command",
+      "When the person who performed the action is unknown or unimportant",
+      "When the writer wants to emphasize who did something"
+    ],
+    "correctIndex": 2,
+    "explanation": "Passive voice is useful when the action matters more than the actor, as in \"The samples were stored at 4°C.\""
+  },
+  {
+    "id": "eng-knowledge-of-language-023",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence has the most formal tone?",
+    "options": [
+      "The committee will, like, review the proposal next week.",
+      "The committee will check out the proposal next week.",
+      "The committee will review the proposal next week.",
+      "The committee's gonna look at the proposal next week."
+    ],
+    "correctIndex": 2,
+    "explanation": "Formal writing avoids slang and casual phrases such as gonna and check out."
+  },
+  {
+    "id": "eng-knowledge-of-language-024",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which word choice is most appropriate in a professional email to an instructor?",
+    "options": [
+      "\"Yo, what do you think of my care plan?\"",
+      "\"Hey, fix my care plan pls.\"",
+      "\"Can u look at my care plan?\"",
+      "\"I would appreciate feedback on my care plan.\""
+    ],
+    "correctIndex": 3,
+    "explanation": "Professional writing uses complete words, polite phrasing, and no texting abbreviations."
+  },
+  {
+    "id": "eng-knowledge-of-language-025",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "A writer wants to persuade readers to get a flu vaccine. Which sentence is most effective for this audience of busy parents?",
+    "options": [
+      "Influenza is caused by an RNA virus of the family Orthomyxoviridae.",
+      "Vaccines have a long history.",
+      "Some people get flu shots and some do not.",
+      "A single quick shot can keep your whole family healthier this winter."
+    ],
+    "correctIndex": 3,
+    "explanation": "Persuasive writing addresses the audience's concerns (time, family health) with a clear benefit."
+  },
+  {
+    "id": "eng-knowledge-of-language-026",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which word best signals a sequence of steps?",
+    "options": [
+      "However",
+      "Similarly",
+      "First",
+      "Although"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sequence words such as first, next, and finally show the order of steps."
+  },
+  {
+    "id": "eng-knowledge-of-language-027",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which transition best shows addition? \"Exercise strengthens the heart; ___, it improves mood.\"",
+    "options": [
+      "otherwise",
+      "furthermore",
+      "nevertheless",
+      "instead"
+    ],
+    "correctIndex": 1,
+    "explanation": "Furthermore adds another supporting point; the other choices show contrast or alternatives."
+  },
+  {
+    "id": "eng-knowledge-of-language-028",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which transition best introduces an example? \"Many foods are high in fiber; ___, beans and oats.\"",
+    "options": [
+      "for example",
+      "in contrast",
+      "therefore",
+      "meanwhile"
+    ],
+    "correctIndex": 0,
+    "explanation": "For example introduces specific cases that illustrate the general statement."
+  },
+  {
+    "id": "eng-knowledge-of-language-029",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which transition best shows comparison? \"Arteries have elastic walls; ___, the aorta stretches with each heartbeat.\"",
+    "options": [
+      "likewise",
+      "otherwise",
+      "however",
+      "in conclusion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Likewise shows that the second idea is similar to the first."
+  },
+  {
+    "id": "eng-knowledge-of-language-030",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which transition best completes the sentence? \"The patient had no fever; ___, the doctor ordered a blood culture as a precaution.\"",
+    "options": [
+      "nonetheless",
+      "similarly",
+      "for instance",
+      "consequently"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nonetheless shows that the action happened despite the previous fact, a contrast."
+  },
+  {
+    "id": "eng-knowledge-of-language-031",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence best combines the ideas? \"The study was small. The results were promising.\"",
+    "options": [
+      "Although the study was small, the results were promising.",
+      "The study was small, the results were promising.",
+      "The study was small and promising results.",
+      "Because the study was small, the results were promising."
+    ],
+    "correctIndex": 0,
+    "explanation": "Although shows the contrast between a small study and promising results without a comma splice."
+  },
+  {
+    "id": "eng-knowledge-of-language-032",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence best combines the ideas? \"Marcus studied pharmacology. He studied it every evening.\"",
+    "options": [
+      "Marcus studied pharmacology every evening.",
+      "Marcus, studying pharmacology, studied it every evening.",
+      "Marcus studied pharmacology, and every evening he studied it.",
+      "Marcus studied pharmacology, he studied it every evening."
+    ],
+    "correctIndex": 0,
+    "explanation": "Moving the time phrase into one sentence removes repetition and is most concise."
+  },
+  {
+    "id": "eng-knowledge-of-language-033",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which sentence is most concise?",
+    "options": [
+      "At this point in time, please reply by Friday.",
+      "Please make sure to reply back to me by the day of Friday.",
+      "Please reply back by Friday, which is the end of the week.",
+      "Please reply by Friday."
+    ],
+    "correctIndex": 3,
+    "explanation": "Concise writing removes unnecessary words such as reply back and at this point in time."
+  },
+  {
+    "id": "eng-knowledge-of-language-034",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which revision removes the redundancy? \"Each and every student must return back the forms.\"",
+    "options": [
+      "Every student must return back each form.",
+      "Every student must return the forms.",
+      "Each and every student must return the forms back.",
+      "Each student must return back the forms."
+    ],
+    "correctIndex": 1,
+    "explanation": "Each and every and return back repeat ideas; every and return are enough."
+  },
+  {
+    "id": "eng-knowledge-of-language-035",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which sentence uses parallel structure?",
+    "options": [
+      "The job requires patience, attention to detail, and good communication.",
+      "The job requires patience, being detailed, and to communicate well.",
+      "The job requires being patient, detail, and to communicate.",
+      "The job requires patience, detailed, and communicating well."
+    ],
+    "correctIndex": 0,
+    "explanation": "Items in a series should share the same grammatical form, here all nouns or noun phrases."
+  },
+  {
+    "id": "eng-knowledge-of-language-036",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence would best serve as a thesis statement for an essay about the benefits of sleep?",
+    "options": [
+      "Many people sleep at night.",
+      "I like to sleep on weekends.",
+      "Some animals sleep during the day.",
+      "Adequate sleep improves memory, mood, and immune function."
+    ],
+    "correctIndex": 3,
+    "explanation": "A thesis states the main claim and previews the points the essay will develop."
+  },
+  {
+    "id": "eng-knowledge-of-language-037",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence would be the best conclusion for a paragraph about the importance of hand hygiene?",
+    "options": [
+      "Hands have 27 bones each.",
+      "Simple handwashing remains one of the most effective ways to stop the spread of infection.",
+      "Some hospitals have blue walls.",
+      "Soap comes in many scents."
+    ],
+    "correctIndex": 1,
+    "explanation": "A conclusion restates the main idea and ties the paragraph together."
+  },
+  {
+    "id": "eng-knowledge-of-language-038",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "A paragraph about diabetes management includes this sentence: \"My cousin enjoys hiking in the mountains.\" What is the best revision?",
+    "options": [
+      "Delete the sentence because it is irrelevant.",
+      "Add another sentence about hiking.",
+      "Change hiking to running.",
+      "Move the sentence to the beginning."
+    ],
+    "correctIndex": 0,
+    "explanation": "Sentences that do not support the paragraph's main idea should be removed for unity."
+  },
+  {
+    "id": "eng-knowledge-of-language-039",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which order of sentences is most logical? (1) Then apply gentle pressure. (2) First, clean the wound. (3) Finally, cover it with a sterile bandage.",
+    "options": [
+      "1, 2, 3",
+      "2, 1, 3",
+      "2, 3, 1",
+      "3, 2, 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "The transitions first, then, and finally indicate the logical order."
+  },
+  {
+    "id": "eng-knowledge-of-language-040",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which source of writing would most likely use technical medical vocabulary?",
+    "options": [
+      "A text message to a friend",
+      "A journal article written for physicians",
+      "A grocery list",
+      "A children's picture book"
+    ],
+    "correctIndex": 1,
+    "explanation": "Writers match vocabulary to the audience; specialists expect technical terms."
+  },
+  {
+    "id": "eng-knowledge-of-language-041",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "A nurse is writing discharge instructions for a patient with limited reading skills. Which sentence is best?",
+    "options": [
+      "Administer one tablet orally q.a.m. with nourishment.",
+      "The medication should be ingested at matutinal intervals.",
+      "Take one pill each morning with food.",
+      "Take as directed per previous orders."
+    ],
+    "correctIndex": 2,
+    "explanation": "Clear, plain language helps patients follow instructions safely."
+  },
+  {
+    "id": "eng-knowledge-of-language-042",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence is written in first person?",
+    "options": [
+      "You should check the vital signs twice.",
+      "She checked the patient's vital signs twice.",
+      "The vital signs were checked twice.",
+      "I checked the patient's vital signs twice."
+    ],
+    "correctIndex": 3,
+    "explanation": "First person uses pronouns such as I, me, we, and us."
+  },
+  {
+    "id": "eng-knowledge-of-language-043",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which sentence maintains a consistent point of view?",
+    "options": [
+      "When you start clinicals, one should bring their own stethoscope.",
+      "When you start clinicals, you should bring your own stethoscope.",
+      "When a student starts clinicals, you should bring your stethoscope.",
+      "When you start clinicals, students should bring his stethoscope."
+    ],
+    "correctIndex": 1,
+    "explanation": "The sentence stays in second person (you) throughout instead of shifting."
+  },
+  {
+    "id": "eng-knowledge-of-language-044",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence contains a cliché that should be revised in formal writing?",
+    "options": [
+      "Staff adopted the new policy quickly.",
+      "At the end of the day, the new policy was a piece of cake.",
+      "The new policy was easy to implement.",
+      "The policy reduced errors by ten percent."
+    ],
+    "correctIndex": 1,
+    "explanation": "Clichés such as \"at the end of the day\" and \"a piece of cake\" are informal and vague."
+  },
+  {
+    "id": "eng-knowledge-of-language-045",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence uses the most precise language?",
+    "options": [
+      "The patient had some heart stuff going on.",
+      "The patient's heart rate changed a lot.",
+      "The patient's heart rate rose from 72 to 110 beats per minute.",
+      "The patient's heart was doing something different."
+    ],
+    "correctIndex": 2,
+    "explanation": "Precise language gives specific details and numbers rather than vague words."
+  },
+  {
+    "id": "eng-knowledge-of-language-046",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of slang?",
+    "options": [
+      "\"That exam had fifty questions.\"",
+      "\"That exam was challenging.\"",
+      "\"That exam was totally sick.\"",
+      "\"That exam covered anatomy.\""
+    ],
+    "correctIndex": 2,
+    "explanation": "Sick used to mean excellent is informal slang inappropriate for academic writing."
+  },
+  {
+    "id": "eng-knowledge-of-language-047",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence uses a colloquial expression?",
+    "options": [
+      "We need to touch base about the schedule.",
+      "The schedule will be discussed Monday.",
+      "The schedule requires review.",
+      "We need to discuss the schedule."
+    ],
+    "correctIndex": 0,
+    "explanation": "Touch base is an informal idiom; in formal writing, discuss is clearer."
+  },
+  {
+    "id": "eng-knowledge-of-language-048",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "In a research paper, which is the best way to introduce information from another author?",
+    "options": [
+      "Patients recover faster with early walking, obviously.",
+      "I think patients recover faster with early walking.",
+      "According to Lee (2023), patients recovered faster with early walking.",
+      "Everybody knows patients recover faster with early walking."
+    ],
+    "correctIndex": 2,
+    "explanation": "Signal phrases with citations credit the source and add credibility."
+  },
+  {
+    "id": "eng-knowledge-of-language-049",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence best expresses a cause-and-effect relationship?",
+    "options": [
+      "Because the road was icy, the ambulance arrived late.",
+      "The ambulance arrived, and the road was icy.",
+      "The road was icy; the ambulance has sirens.",
+      "The road was icy, and the ambulance was white."
+    ],
+    "correctIndex": 0,
+    "explanation": "Because signals that the icy road caused the late arrival."
+  },
+  {
+    "id": "eng-knowledge-of-language-050",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which sentence is exclamatory?",
+    "options": [
+      "Tell me about her recovery.",
+      "She made an amazing recovery.",
+      "What an amazing recovery she made!",
+      "Did she make an amazing recovery?"
+    ],
+    "correctIndex": 2,
+    "explanation": "An exclamatory sentence expresses strong emotion and ends with an exclamation point."
+  },
+  {
+    "id": "eng-knowledge-of-language-051",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence best varies sentence structure by beginning with a dependent clause?",
+    "options": [
+      "Since the clinic expanded, wait times have dropped.",
+      "Wait times have dropped.",
+      "The clinic expanded, and wait times have dropped.",
+      "The clinic expanded."
+    ],
+    "correctIndex": 0,
+    "explanation": "Starting with a dependent clause (Since the clinic expanded) adds variety to sentence openings."
+  },
+  {
+    "id": "eng-knowledge-of-language-052",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "A writer's paragraph uses five short sentences in a row, each beginning with \"The patient.\" What revision would most improve the style?",
+    "options": [
+      "Remove all transitions.",
+      "Make every sentence even shorter.",
+      "Combine some sentences and vary their openings.",
+      "Add another sentence beginning with \"The patient.\""
+    ],
+    "correctIndex": 2,
+    "explanation": "Combining and varying sentence beginnings makes writing smoother and less repetitive."
+  },
+  {
+    "id": "eng-knowledge-of-language-053",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which is the best way to begin a formal business letter?",
+    "options": [
+      "Dear Dr. Ramirez:",
+      "Hey Doc,",
+      "Yo Dr. Ramirez!",
+      "What's up, Ramirez?"
+    ],
+    "correctIndex": 0,
+    "explanation": "A formal letter uses a respectful greeting with the person's title, often followed by a colon."
+  },
+  {
+    "id": "eng-knowledge-of-language-054",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which word best replaces \"got\" to make the sentence more precise? \"She got a scholarship.\"",
+    "options": [
+      "earned",
+      "made",
+      "had",
+      "did"
+    ],
+    "correctIndex": 0,
+    "explanation": "Earned specifies how she obtained the scholarship and is more precise than got."
+  },
+  {
+    "id": "eng-knowledge-of-language-055",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which sentence is in the future tense?",
+    "options": [
+      "The new unit had opened.",
+      "The new unit opened last month.",
+      "The new unit will open next month.",
+      "The new unit opens now."
+    ],
+    "correctIndex": 2,
+    "explanation": "Will open expresses an action that has not happened yet."
+  },
+  {
+    "id": "eng-knowledge-of-language-056",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence contains a regional expression that should be revised for a formal report?",
+    "options": [
+      "The patient was leaving when the nurse arrived.",
+      "The patient was fixing to leave when the nurse arrived.",
+      "The patient was about to leave when the nurse arrived.",
+      "The patient was preparing to leave when the nurse arrived."
+    ],
+    "correctIndex": 1,
+    "explanation": "Fixing to is a regional expression; about to or preparing to is standard."
+  },
+  {
+    "id": "eng-knowledge-of-language-057",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "A speaker says \"soda,\" another says \"pop,\" and another says \"coke\" for the same drink. What does this illustrate?",
+    "options": [
+      "Passive voice",
+      "Regional variation in vocabulary",
+      "Incorrect grammar",
+      "Technical jargon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Different regions use different words for the same thing, a feature of dialect."
+  },
+  {
+    "id": "eng-knowledge-of-language-058",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which revision best corrects the shift in tense? \"She walks into the room and noticed the patient was pale.\"",
+    "options": [
+      "She walks into the room and noticed the patient is pale.",
+      "She walking into the room and noticed the patient was pale.",
+      "She walked into the room and noticed the patient was pale.",
+      "She walks into the room and had noticed the patient was pale."
+    ],
+    "correctIndex": 2,
+    "explanation": "Both verbs should be in the same tense; walked matches noticed."
+  },
+  {
+    "id": "eng-knowledge-of-language-059",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which revision makes the sentence less wordy? \"Due to the fact that it was raining, the picnic was canceled.\"",
+    "options": [
+      "In light of the fact that it was raining, the picnic was canceled.",
+      "Because it was raining, the picnic was canceled.",
+      "Due to the fact of rain, the picnic was canceled.",
+      "Owing to the fact that it was raining, the picnic was canceled."
+    ],
+    "correctIndex": 1,
+    "explanation": "Because replaces the wordy phrase due to the fact that."
+  },
+  {
+    "id": "eng-knowledge-of-language-060",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence avoids biased language?",
+    "options": [
+      "Each firefighter must pass his fitness test.",
+      "Each fireman must pass a fitness test.",
+      "Each firefighter must pass a fitness test.",
+      "Each fireman must pass his fitness test."
+    ],
+    "correctIndex": 2,
+    "explanation": "Gender-neutral terms such as firefighter avoid assuming a person's gender."
+  },
+  {
+    "id": "eng-knowledge-of-language-061",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which word is the most formal choice? \"The lecture was ___.\"",
+    "options": [
+      "cool",
+      "informative",
+      "awesome",
+      "super fun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Informative is precise and formal; the other choices are casual."
+  },
+  {
+    "id": "eng-knowledge-of-language-062",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence best states a claim that can be supported with evidence?",
+    "options": [
+      "Everyone should love walking.",
+      "Walking is the best thing ever.",
+      "Walking is boring.",
+      "Daily walking lowers blood pressure in adults with hypertension."
+    ],
+    "correctIndex": 3,
+    "explanation": "A specific, measurable claim can be supported with research data."
+  },
+  {
+    "id": "eng-knowledge-of-language-063",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "What is the main purpose of a counterargument in a persuasive essay?",
+    "options": [
+      "To list the writer's sources",
+      "To acknowledge an opposing view and then respond to it",
+      "To restate the thesis word for word",
+      "To change the essay's topic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Addressing opposing views shows fairness and strengthens the writer's position."
+  },
+  {
+    "id": "eng-knowledge-of-language-064",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence describing a busy clinic uses a metaphor?",
+    "options": [
+      "The waiting room was busy.",
+      "The waiting room had twenty chairs.",
+      "The waiting room opened at nine.",
+      "The waiting room was a beehive of activity."
+    ],
+    "correctIndex": 3,
+    "explanation": "Comparing the room to a beehive is a metaphor, a type of figurative language."
+  },
+  {
+    "id": "eng-knowledge-of-language-065",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which revision best clarifies the vague pronoun? \"When Ana spoke to Rosa, she was upset.\"",
+    "options": [
+      "When she spoke to Rosa, Ana was upset with her.",
+      "Ana was upset when she spoke to Rosa.",
+      "When Ana spoke to Rosa, they were upset.",
+      "When Ana spoke to Rosa, she was upset about it."
+    ],
+    "correctIndex": 1,
+    "explanation": "The original she could mean either woman; the revision makes clear who was upset."
+  },
+  {
+    "id": "eng-knowledge-of-language-066",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which sentence is written in second person?",
+    "options": [
+      "I arrived fifteen minutes early.",
+      "They arrived fifteen minutes early.",
+      "We arrived fifteen minutes early.",
+      "You should arrive fifteen minutes early."
+    ],
+    "correctIndex": 3,
+    "explanation": "Second person addresses the reader directly with you."
+  },
+  {
+    "id": "eng-knowledge-of-language-067",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which closing is most appropriate for a formal letter?",
+    "options": [
+      "Peace out,",
+      "Later,",
+      "Cheers, buddy,",
+      "Sincerely,"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sincerely is a standard formal closing."
+  },
+  {
+    "id": "eng-knowledge-of-language-068",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "A student writes, \"The study had many flaws, such as small sample size.\" How could the writer make this more effective?",
+    "options": [
+      "Name each flaw specifically and explain how it affects the results.",
+      "Add an exclamation point.",
+      "Remove the example.",
+      "Replace flaws with problems."
+    ],
+    "correctIndex": 0,
+    "explanation": "Specific evidence and explanation make an evaluation more convincing."
+  },
+  {
+    "id": "eng-knowledge-of-language-069",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence best introduces a quotation?",
+    "options": [
+      "\"Recovery depends on early movement.\" Is what the surgeon explained.",
+      "Recovery depends, \"on early movement\" as the surgeon.",
+      "As the surgeon explained, \"Recovery depends on early movement.\"",
+      "The surgeon explained recovery depends \"on early movement\" quote."
+    ],
+    "correctIndex": 2,
+    "explanation": "A signal phrase followed by a comma and the quotation introduces it smoothly."
+  },
+  {
+    "id": "eng-knowledge-of-language-070",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which sentence is most appropriate for a scientific lab report?",
+    "options": [
+      "We kind of warmed the solution.",
+      "I heated up the stuff for a while.",
+      "The solution got super hot.",
+      "The solution was heated to 80°C for ten minutes."
+    ],
+    "correctIndex": 3,
+    "explanation": "Lab reports use precise, objective language with exact measurements."
+  },
+  {
+    "id": "eng-knowledge-of-language-071",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "easy",
+    "question": "Which sentence uses an idiom?",
+    "options": [
+      "The exam was a piece of cake.",
+      "The exam covered chemistry.",
+      "The exam lasted one hour.",
+      "The exam had forty questions."
+    ],
+    "correctIndex": 0,
+    "explanation": "A piece of cake is an idiom meaning very easy; its meaning differs from the literal words."
+  },
+  {
+    "id": "eng-knowledge-of-language-072",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "medium",
+    "question": "Which revision of \"The nurse he checked the IV\" is grammatically correct?",
+    "options": [
+      "The nurse checked the IV.",
+      "The nurse, he, checked the IV.",
+      "He the nurse checked the IV.",
+      "The nurse he checked IV."
+    ],
+    "correctIndex": 0,
+    "explanation": "Using both the noun and the pronoun as subjects is redundant; one subject is enough."
+  },
+  {
+    "id": "eng-knowledge-of-language-073",
+    "section": "english",
+    "subcategory": "knowledge-of-language",
+    "difficulty": "hard",
+    "question": "Which sentence best uses a semicolon to connect closely related ideas for sentence variety?",
+    "options": [
+      "The first trial failed; and the second succeeded.",
+      "The first; trial failed the second trial succeeded.",
+      "The first trial failed; the second trial succeeded.",
+      "The first trial; failed the second trial succeeded."
+    ],
+    "correctIndex": 2,
+    "explanation": "A semicolon links two closely related independent clauses without a conjunction."
   }
 ]

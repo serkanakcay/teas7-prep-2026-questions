@@ -281,5 +281,1157 @@
     ],
     "correctIndex": 1,
     "explanation": "A 'how to' brochure gives instructions—its main purpose is to inform."
+  },
+  {
+    "id": "rea-craft-structure-019",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the author's primary purpose?",
+    "options": [
+      "To entertain readers with a story about recess",
+      "To persuade parents to oppose cutting recess",
+      "To explain how tests are scored",
+      "To describe the history of the school board"
+    ],
+    "correctIndex": 1,
+    "explanation": "The author argues against the plan and urges parents to attend the meeting.",
+    "passage": "Our district plans to cut elementary recess from thirty minutes to fifteen so that students can spend more time on test preparation. This is a mistake. Children are not machines that produce higher scores when run longer. Studies of classroom behavior show that students who get regular breaks pay closer attention afterward, not less. Recess is also where many children practice sharing, taking turns, and resolving arguments without an adult stepping in. Those skills will matter long after any single test is forgotten. I urge every parent to attend the school board meeting on April 12 and ask the board to keep recess at thirty minutes."
+  },
+  {
+    "id": "rea-craft-structure-020",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which sentence from the passage states an opinion?",
+    "options": [
+      "Recess is currently thirty minutes.",
+      "The meeting is on April 12.",
+      "This is a mistake.",
+      "The district plans to cut recess to fifteen minutes."
+    ],
+    "correctIndex": 2,
+    "explanation": "\"This is a mistake\" expresses a judgment that cannot be proven; the others are factual statements.",
+    "passage": "Our district plans to cut elementary recess from thirty minutes to fifteen so that students can spend more time on test preparation. This is a mistake. Children are not machines that produce higher scores when run longer. Studies of classroom behavior show that students who get regular breaks pay closer attention afterward, not less. Recess is also where many children practice sharing, taking turns, and resolving arguments without an adult stepping in. Those skills will matter long after any single test is forgotten. I urge every parent to attend the school board meeting on April 12 and ask the board to keep recess at thirty minutes."
+  },
+  {
+    "id": "rea-craft-structure-021",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What does the author mean by \"Children are not machines that produce higher scores when run longer\"?",
+    "options": [
+      "Children should not use computers in class.",
+      "Machines should replace teachers.",
+      "More hours of study do not automatically lead to better results.",
+      "Students should take tests more often."
+    ],
+    "correctIndex": 2,
+    "explanation": "The comparison argues that extending work time does not guarantee higher output from children.",
+    "passage": "Our district plans to cut elementary recess from thirty minutes to fifteen so that students can spend more time on test preparation. This is a mistake. Children are not machines that produce higher scores when run longer. Studies of classroom behavior show that students who get regular breaks pay closer attention afterward, not less. Recess is also where many children practice sharing, taking turns, and resolving arguments without an adult stepping in. Those skills will matter long after any single test is forgotten. I urge every parent to attend the school board meeting on April 12 and ask the board to keep recess at thirty minutes."
+  },
+  {
+    "id": "rea-craft-structure-022",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which type of evidence does the author use to support the claim about attention?",
+    "options": [
+      "Research on classroom behavior",
+      "Test score tables",
+      "A quote from a famous person",
+      "A personal story about the author's child"
+    ],
+    "correctIndex": 0,
+    "explanation": "The author cites studies showing students pay closer attention after breaks.",
+    "passage": "Our district plans to cut elementary recess from thirty minutes to fifteen so that students can spend more time on test preparation. This is a mistake. Children are not machines that produce higher scores when run longer. Studies of classroom behavior show that students who get regular breaks pay closer attention afterward, not less. Recess is also where many children practice sharing, taking turns, and resolving arguments without an adult stepping in. Those skills will matter long after any single test is forgotten. I urge every parent to attend the school board meeting on April 12 and ask the board to keep recess at thirty minutes."
+  },
+  {
+    "id": "rea-craft-structure-023",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the tone of the passage?",
+    "options": [
+      "Concerned and persuasive",
+      "Confused and uncertain",
+      "Neutral and detached",
+      "Humorous and lighthearted"
+    ],
+    "correctIndex": 0,
+    "explanation": "The author voices worry and makes a direct appeal to readers.",
+    "passage": "Our district plans to cut elementary recess from thirty minutes to fifteen so that students can spend more time on test preparation. This is a mistake. Children are not machines that produce higher scores when run longer. Studies of classroom behavior show that students who get regular breaks pay closer attention afterward, not less. Recess is also where many children practice sharing, taking turns, and resolving arguments without an adult stepping in. Those skills will matter long after any single test is forgotten. I urge every parent to attend the school board meeting on April 12 and ask the board to keep recess at thirty minutes."
+  },
+  {
+    "id": "rea-craft-structure-024",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Which statement best describes how the passage is organized?",
+    "options": [
+      "A claim is stated, supported with reasons, and followed by a call to action.",
+      "A problem is described with no solution offered.",
+      "Two schools are compared point by point.",
+      "Events are told in chronological order."
+    ],
+    "correctIndex": 0,
+    "explanation": "The author states the position, gives reasons, and ends by urging parents to act.",
+    "passage": "Our district plans to cut elementary recess from thirty minutes to fifteen so that students can spend more time on test preparation. This is a mistake. Children are not machines that produce higher scores when run longer. Studies of classroom behavior show that students who get regular breaks pay closer attention afterward, not less. Recess is also where many children practice sharing, taking turns, and resolving arguments without an adult stepping in. Those skills will matter long after any single test is forgotten. I urge every parent to attend the school board meeting on April 12 and ask the board to keep recess at thirty minutes."
+  },
+  {
+    "id": "rea-craft-structure-025",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What type of text is this passage?",
+    "options": [
+      "A scientific report",
+      "A set of instructions",
+      "A persuasive essay",
+      "A narrative"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage tells a story with a character, setting, and events.",
+    "passage": "The wind came up just after lunch, tugging at the laundry on the line and rattling the screen door. Mira grabbed the kite she had built from newspaper and garden stakes and ran to the hill behind the barn. For the first few tries it only dragged and bumped along the grass, its tail tangling in the weeds. Then a strong gust lifted it, and the string hummed in her hands as the kite climbed higher than the old oak tree. Mira laughed out loud. Down below, her grandfather shaded his eyes, and she could tell, even from that distance, that he was smiling too."
+  },
+  {
+    "id": "rea-craft-structure-026",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which word best describes Mira's feeling when the kite rises?",
+    "options": [
+      "Joyful",
+      "Bored",
+      "Worried",
+      "Frustrated"
+    ],
+    "correctIndex": 0,
+    "explanation": "She laughs out loud, showing joy.",
+    "passage": "The wind came up just after lunch, tugging at the laundry on the line and rattling the screen door. Mira grabbed the kite she had built from newspaper and garden stakes and ran to the hill behind the barn. For the first few tries it only dragged and bumped along the grass, its tail tangling in the weeds. Then a strong gust lifted it, and the string hummed in her hands as the kite climbed higher than the old oak tree. Mira laughed out loud. Down below, her grandfather shaded his eyes, and she could tell, even from that distance, that he was smiling too."
+  },
+  {
+    "id": "rea-craft-structure-027",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What does the phrase \"the string hummed in her hands\" suggest?",
+    "options": [
+      "The string was pulled tight and vibrating in the wind.",
+      "Mira was singing.",
+      "The string broke.",
+      "The kite was falling."
+    ],
+    "correctIndex": 0,
+    "explanation": "The image of humming suggests the taut string vibrating from the wind's force.",
+    "passage": "The wind came up just after lunch, tugging at the laundry on the line and rattling the screen door. Mira grabbed the kite she had built from newspaper and garden stakes and ran to the hill behind the barn. For the first few tries it only dragged and bumped along the grass, its tail tangling in the weeds. Then a strong gust lifted it, and the string hummed in her hands as the kite climbed higher than the old oak tree. Mira laughed out loud. Down below, her grandfather shaded his eyes, and she could tell, even from that distance, that he was smiling too."
+  },
+  {
+    "id": "rea-craft-structure-028",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "From which point of view is the story told?",
+    "options": [
+      "Second person",
+      "Grandfather's first person",
+      "First person",
+      "Third person"
+    ],
+    "correctIndex": 3,
+    "explanation": "The narrator refers to Mira as she and is not a character in the story.",
+    "passage": "The wind came up just after lunch, tugging at the laundry on the line and rattling the screen door. Mira grabbed the kite she had built from newspaper and garden stakes and ran to the hill behind the barn. For the first few tries it only dragged and bumped along the grass, its tail tangling in the weeds. Then a strong gust lifted it, and the string hummed in her hands as the kite climbed higher than the old oak tree. Mira laughed out loud. Down below, her grandfather shaded his eyes, and she could tell, even from that distance, that he was smiling too."
+  },
+  {
+    "id": "rea-craft-structure-029",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which detail from the passage shows that Mira made the kite herself?",
+    "options": [
+      "Her grandfather shaded his eyes.",
+      "She built it from newspaper and garden stakes.",
+      "The wind came up after lunch.",
+      "The kite rose above the oak tree."
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage says she had built the kite from newspaper and garden stakes.",
+    "passage": "The wind came up just after lunch, tugging at the laundry on the line and rattling the screen door. Mira grabbed the kite she had built from newspaper and garden stakes and ran to the hill behind the barn. For the first few tries it only dragged and bumped along the grass, its tail tangling in the weeds. Then a strong gust lifted it, and the string hummed in her hands as the kite climbed higher than the old oak tree. Mira laughed out loud. Down below, her grandfather shaded his eyes, and she could tell, even from that distance, that he was smiling too."
+  },
+  {
+    "id": "rea-craft-structure-030",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "What is the purpose of the opening sentence about the laundry and screen door?",
+    "options": [
+      "To introduce a conflict with her grandfather",
+      "To explain why the barn was old",
+      "To show that the wind was strong enough to fly a kite",
+      "To describe Mira's chores"
+    ],
+    "correctIndex": 2,
+    "explanation": "Details of tugging laundry and a rattling door establish the windy setting needed for the kite.",
+    "passage": "The wind came up just after lunch, tugging at the laundry on the line and rattling the screen door. Mira grabbed the kite she had built from newspaper and garden stakes and ran to the hill behind the barn. For the first few tries it only dragged and bumped along the grass, its tail tangling in the weeds. Then a strong gust lifted it, and the string hummed in her hands as the kite climbed higher than the old oak tree. Mira laughed out loud. Down below, her grandfather shaded his eyes, and she could tell, even from that distance, that he was smiling too."
+  },
+  {
+    "id": "rea-craft-structure-031",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "How is the passage mainly organized?",
+    "options": [
+      "By comparing two diseases",
+      "As a list of opinions",
+      "From least to most important idea",
+      "In chronological order"
+    ],
+    "correctIndex": 3,
+    "explanation": "Events move from the 1700s through 1796 to 1980.",
+    "passage": "In the late 1700s, smallpox killed hundreds of thousands of people each year. The English doctor Edward Jenner noticed that milkmaids who had caught cowpox, a mild disease, rarely got smallpox. In 1796, he tested this idea by taking material from a cowpox sore and inserting it into a small cut on a boy's arm. Weeks later, Jenner exposed the boy to smallpox, and the boy did not become ill. Jenner called his method vaccination, from the Latin word vacca, meaning cow. Over the next two centuries, vaccination campaigns spread around the world, and in 1980 the World Health Organization declared smallpox eradicated."
+  },
+  {
+    "id": "rea-craft-structure-032",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the author's main purpose?",
+    "options": [
+      "To inform readers about how vaccination began and what it achieved",
+      "To entertain readers with a fictional tale",
+      "To criticize Edward Jenner",
+      "To persuade readers to become doctors"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage presents historical facts in a neutral, informative way.",
+    "passage": "In the late 1700s, smallpox killed hundreds of thousands of people each year. The English doctor Edward Jenner noticed that milkmaids who had caught cowpox, a mild disease, rarely got smallpox. In 1796, he tested this idea by taking material from a cowpox sore and inserting it into a small cut on a boy's arm. Weeks later, Jenner exposed the boy to smallpox, and the boy did not become ill. Jenner called his method vaccination, from the Latin word vacca, meaning cow. Over the next two centuries, vaccination campaigns spread around the world, and in 1980 the World Health Organization declared smallpox eradicated."
+  },
+  {
+    "id": "rea-craft-structure-033",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what does \"eradicated\" most nearly mean?",
+    "options": [
+      "Slightly reduced",
+      "Newly discovered",
+      "Completely wiped out",
+      "Carefully studied"
+    ],
+    "correctIndex": 2,
+    "explanation": "Declaring smallpox eradicated means it no longer occurs naturally.",
+    "passage": "In the late 1700s, smallpox killed hundreds of thousands of people each year. The English doctor Edward Jenner noticed that milkmaids who had caught cowpox, a mild disease, rarely got smallpox. In 1796, he tested this idea by taking material from a cowpox sore and inserting it into a small cut on a boy's arm. Weeks later, Jenner exposed the boy to smallpox, and the boy did not become ill. Jenner called his method vaccination, from the Latin word vacca, meaning cow. Over the next two centuries, vaccination campaigns spread around the world, and in 1980 the World Health Organization declared smallpox eradicated."
+  },
+  {
+    "id": "rea-craft-structure-034",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Why does the author explain the Latin word vacca?",
+    "options": [
+      "To name the boy in the experiment",
+      "To describe a type of milk",
+      "To show where the word vaccination comes from",
+      "To prove Jenner spoke Latin"
+    ],
+    "correctIndex": 2,
+    "explanation": "The author connects the term to its origin in the word for cow, linked to cowpox.",
+    "passage": "In the late 1700s, smallpox killed hundreds of thousands of people each year. The English doctor Edward Jenner noticed that milkmaids who had caught cowpox, a mild disease, rarely got smallpox. In 1796, he tested this idea by taking material from a cowpox sore and inserting it into a small cut on a boy's arm. Weeks later, Jenner exposed the boy to smallpox, and the boy did not become ill. Jenner called his method vaccination, from the Latin word vacca, meaning cow. Over the next two centuries, vaccination campaigns spread around the world, and in 1980 the World Health Organization declared smallpox eradicated."
+  },
+  {
+    "id": "rea-craft-structure-035",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What observation led Jenner to his experiment?",
+    "options": [
+      "Smallpox was disappearing on its own.",
+      "Boys were immune to smallpox.",
+      "Milkmaids who had cowpox rarely got smallpox.",
+      "Cows never got sick."
+    ],
+    "correctIndex": 2,
+    "explanation": "Jenner noticed the link between cowpox and protection from smallpox.",
+    "passage": "In the late 1700s, smallpox killed hundreds of thousands of people each year. The English doctor Edward Jenner noticed that milkmaids who had caught cowpox, a mild disease, rarely got smallpox. In 1796, he tested this idea by taking material from a cowpox sore and inserting it into a small cut on a boy's arm. Weeks later, Jenner exposed the boy to smallpox, and the boy did not become ill. Jenner called his method vaccination, from the Latin word vacca, meaning cow. Over the next two centuries, vaccination campaigns spread around the world, and in 1980 the World Health Organization declared smallpox eradicated."
+  },
+  {
+    "id": "rea-craft-structure-036",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Which statement from the passage is a fact rather than an opinion?",
+    "options": [
+      "Milkmaids were the luckiest workers.",
+      "Vaccination is the most important invention ever.",
+      "Jenner was the greatest doctor in history.",
+      "In 1980 the World Health Organization declared smallpox eradicated."
+    ],
+    "correctIndex": 3,
+    "explanation": "The 1980 declaration is a verifiable event; the others are opinions not found in the passage.",
+    "passage": "In the late 1700s, smallpox killed hundreds of thousands of people each year. The English doctor Edward Jenner noticed that milkmaids who had caught cowpox, a mild disease, rarely got smallpox. In 1796, he tested this idea by taking material from a cowpox sore and inserting it into a small cut on a boy's arm. Weeks later, Jenner exposed the boy to smallpox, and the boy did not become ill. Jenner called his method vaccination, from the Latin word vacca, meaning cow. Over the next two centuries, vaccination campaigns spread around the world, and in 1980 the World Health Organization declared smallpox eradicated."
+  },
+  {
+    "id": "rea-craft-structure-037",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the main purpose of the passage?",
+    "options": [
+      "To tell a story about a customer",
+      "To explain how phones work",
+      "To persuade readers to switch companies",
+      "To help readers compare two phone plans"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage lays out the features and costs of the Basic and Unlimited plans.",
+    "passage": "Choosing between the two most popular phone plans at Brightline Wireless depends on how you use your phone. The Basic plan costs $25 a month and includes 5 gigabytes of data, which is enough for email, messaging, and occasional browsing. The Unlimited plan costs $55 a month and places no cap on data, making it a better fit for people who stream video or use their phone as a hotspot. Both plans include unlimited calls and texts within the country. Customers who exceed 5 gigabytes on the Basic plan are charged $10 for each additional gigabyte, so heavy users can end up paying more than the Unlimited price."
+  },
+  {
+    "id": "rea-craft-structure-038",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which text structure does the author mainly use?",
+    "options": [
+      "Chronological order",
+      "Problem and solution only",
+      "Compare and contrast",
+      "Cause and effect only"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage describes how the two plans are alike and different.",
+    "passage": "Choosing between the two most popular phone plans at Brightline Wireless depends on how you use your phone. The Basic plan costs $25 a month and includes 5 gigabytes of data, which is enough for email, messaging, and occasional browsing. The Unlimited plan costs $55 a month and places no cap on data, making it a better fit for people who stream video or use their phone as a hotspot. Both plans include unlimited calls and texts within the country. Customers who exceed 5 gigabytes on the Basic plan are charged $10 for each additional gigabyte, so heavy users can end up paying more than the Unlimited price."
+  },
+  {
+    "id": "rea-craft-structure-039",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What feature do both plans share?",
+    "options": [
+      "No data limit",
+      "Unlimited calls and texts within the country",
+      "The same monthly price",
+      "Free hotspot use on Basic"
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage states both include unlimited calls and texts.",
+    "passage": "Choosing between the two most popular phone plans at Brightline Wireless depends on how you use your phone. The Basic plan costs $25 a month and includes 5 gigabytes of data, which is enough for email, messaging, and occasional browsing. The Unlimited plan costs $55 a month and places no cap on data, making it a better fit for people who stream video or use their phone as a hotspot. Both plans include unlimited calls and texts within the country. Customers who exceed 5 gigabytes on the Basic plan are charged $10 for each additional gigabyte, so heavy users can end up paying more than the Unlimited price."
+  },
+  {
+    "id": "rea-craft-structure-040",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what does \"cap\" most nearly mean?",
+    "options": [
+      "Discount",
+      "Hat",
+      "Contract",
+      "Limit"
+    ],
+    "correctIndex": 3,
+    "explanation": "\"No cap on data\" means there is no limit on how much data can be used.",
+    "passage": "Choosing between the two most popular phone plans at Brightline Wireless depends on how you use your phone. The Basic plan costs $25 a month and includes 5 gigabytes of data, which is enough for email, messaging, and occasional browsing. The Unlimited plan costs $55 a month and places no cap on data, making it a better fit for people who stream video or use their phone as a hotspot. Both plans include unlimited calls and texts within the country. Customers who exceed 5 gigabytes on the Basic plan are charged $10 for each additional gigabyte, so heavy users can end up paying more than the Unlimited price."
+  },
+  {
+    "id": "rea-craft-structure-041",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Why does the author mention the $10 charge for each extra gigabyte?",
+    "options": [
+      "To show that heavy users on Basic could pay more than the Unlimited price",
+      "To argue that Brightline is dishonest",
+      "To explain how data is measured",
+      "To prove the Basic plan is always cheaper"
+    ],
+    "correctIndex": 0,
+    "explanation": "The final sentence warns that overage charges can exceed $55 for heavy users.",
+    "passage": "Choosing between the two most popular phone plans at Brightline Wireless depends on how you use your phone. The Basic plan costs $25 a month and includes 5 gigabytes of data, which is enough for email, messaging, and occasional browsing. The Unlimited plan costs $55 a month and places no cap on data, making it a better fit for people who stream video or use their phone as a hotspot. Both plans include unlimited calls and texts within the country. Customers who exceed 5 gigabytes on the Basic plan are charged $10 for each additional gigabyte, so heavy users can end up paying more than the Unlimited price."
+  },
+  {
+    "id": "rea-craft-structure-042",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Is the author's tone mostly biased or mostly neutral?",
+    "options": [
+      "Strongly biased against Unlimited",
+      "Angry and critical",
+      "Strongly biased toward Basic",
+      "Mostly neutral"
+    ],
+    "correctIndex": 3,
+    "explanation": "The author presents facts about both plans without urging readers toward one.",
+    "passage": "Choosing between the two most popular phone plans at Brightline Wireless depends on how you use your phone. The Basic plan costs $25 a month and includes 5 gigabytes of data, which is enough for email, messaging, and occasional browsing. The Unlimited plan costs $55 a month and places no cap on data, making it a better fit for people who stream video or use their phone as a hotspot. Both plans include unlimited calls and texts within the country. Customers who exceed 5 gigabytes on the Basic plan are charged $10 for each additional gigabyte, so heavy users can end up paying more than the Unlimited price."
+  },
+  {
+    "id": "rea-craft-structure-043",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What type of writing is this passage?",
+    "options": [
+      "A personal journal entry",
+      "A textbook chapter",
+      "A product advertisement",
+      "A newspaper editorial"
+    ],
+    "correctIndex": 0,
+    "explanation": "The dated entry, first-person voice, and private reflections mark it as a journal entry.",
+    "passage": "June 14. I finally did it—my first solo night shift as a new graduate nurse. I was so nervous on the drive in that I checked my badge three times to make sure it was still clipped to my scrubs. The first few hours were a blur of call lights and medication passes. Around 3 a.m., an elderly patient couldn't sleep, so I sat with him for ten minutes while he told me about his years as a fishing-boat captain. It was the calmest part of the night, and somehow the most important. When the morning shift arrived, I was exhausted, but I drove home with the windows down, feeling like I had truly become a nurse."
+  },
+  {
+    "id": "rea-craft-structure-044",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "From which point of view is the passage written?",
+    "options": [
+      "First person",
+      "Third person limited",
+      "Third person omniscient",
+      "Second person"
+    ],
+    "correctIndex": 0,
+    "explanation": "The writer uses I and my to describe her own experience.",
+    "passage": "June 14. I finally did it—my first solo night shift as a new graduate nurse. I was so nervous on the drive in that I checked my badge three times to make sure it was still clipped to my scrubs. The first few hours were a blur of call lights and medication passes. Around 3 a.m., an elderly patient couldn't sleep, so I sat with him for ten minutes while he told me about his years as a fishing-boat captain. It was the calmest part of the night, and somehow the most important. When the morning shift arrived, I was exhausted, but I drove home with the windows down, feeling like I had truly become a nurse."
+  },
+  {
+    "id": "rea-craft-structure-045",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Why does the writer mention checking her badge three times?",
+    "options": [
+      "To explain hospital security rules",
+      "To show that she lost her badge",
+      "To describe her uniform",
+      "To show how nervous she felt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Checking repeatedly is a detail that illustrates anxiety.",
+    "passage": "June 14. I finally did it—my first solo night shift as a new graduate nurse. I was so nervous on the drive in that I checked my badge three times to make sure it was still clipped to my scrubs. The first few hours were a blur of call lights and medication passes. Around 3 a.m., an elderly patient couldn't sleep, so I sat with him for ten minutes while he told me about his years as a fishing-boat captain. It was the calmest part of the night, and somehow the most important. When the morning shift arrived, I was exhausted, but I drove home with the windows down, feeling like I had truly become a nurse."
+  },
+  {
+    "id": "rea-craft-structure-046",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what does \"a blur\" suggest about the first few hours?",
+    "options": [
+      "The unit was dark and foggy.",
+      "Nothing happened during them.",
+      "The writer's eyesight was poor.",
+      "They passed quickly and were hard to remember clearly."
+    ],
+    "correctIndex": 3,
+    "explanation": "A blur describes events moving too fast to see distinctly.",
+    "passage": "June 14. I finally did it—my first solo night shift as a new graduate nurse. I was so nervous on the drive in that I checked my badge three times to make sure it was still clipped to my scrubs. The first few hours were a blur of call lights and medication passes. Around 3 a.m., an elderly patient couldn't sleep, so I sat with him for ten minutes while he told me about his years as a fishing-boat captain. It was the calmest part of the night, and somehow the most important. When the morning shift arrived, I was exhausted, but I drove home with the windows down, feeling like I had truly become a nurse."
+  },
+  {
+    "id": "rea-craft-structure-047",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the overall tone of the passage?",
+    "options": [
+      "Sarcastic and mocking",
+      "Reflective and proud",
+      "Angry and bitter",
+      "Fearful and hopeless"
+    ],
+    "correctIndex": 1,
+    "explanation": "The writer looks back on the night and ends feeling she had truly become a nurse.",
+    "passage": "June 14. I finally did it—my first solo night shift as a new graduate nurse. I was so nervous on the drive in that I checked my badge three times to make sure it was still clipped to my scrubs. The first few hours were a blur of call lights and medication passes. Around 3 a.m., an elderly patient couldn't sleep, so I sat with him for ten minutes while he told me about his years as a fishing-boat captain. It was the calmest part of the night, and somehow the most important. When the morning shift arrived, I was exhausted, but I drove home with the windows down, feeling like I had truly become a nurse."
+  },
+  {
+    "id": "rea-craft-structure-048",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Why does the writer call the time with the patient \"somehow the most important\" part of the night?",
+    "options": [
+      "It was when her shift ended.",
+      "It showed her that comforting patients is central to nursing.",
+      "It was when her supervisor evaluated her.",
+      "It was when she gave the most medication."
+    ],
+    "correctIndex": 1,
+    "explanation": "The calm moment of human connection contrasts with tasks and gives her shift meaning.",
+    "passage": "June 14. I finally did it—my first solo night shift as a new graduate nurse. I was so nervous on the drive in that I checked my badge three times to make sure it was still clipped to my scrubs. The first few hours were a blur of call lights and medication passes. Around 3 a.m., an elderly patient couldn't sleep, so I sat with him for ten minutes while he told me about his years as a fishing-boat captain. It was the calmest part of the night, and somehow the most important. When the morning shift arrived, I was exhausted, but I drove home with the windows down, feeling like I had truly become a nurse."
+  },
+  {
+    "id": "rea-craft-structure-049",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the primary purpose of the passage?",
+    "options": [
+      "To explain how sunscreen is made",
+      "To tell a story about a beach trip",
+      "To persuade readers to buy a product",
+      "To inform readers about skin cancer rates"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage praises SunVeil and urges readers to pick it up today.",
+    "passage": "Tired of sunscreen that feels greasy and smells like a chemistry lab? Meet SunVeil, the lightweight lotion that disappears into your skin in seconds. Dermatologists in our test panel loved it, and nine out of ten users said it felt better than their old brand. SunVeil offers broad-spectrum SPF 50 protection and stays put for up to 80 minutes of swimming or sweating. Why settle for sticky when you can have smooth? Pick up SunVeil today at your local pharmacy, and enjoy every sunny day without the mess. Your skin deserves nothing less."
+  },
+  {
+    "id": "rea-craft-structure-050",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which persuasive technique is used in \"Dermatologists in our test panel loved it\"?",
+    "options": [
+      "Appeal to fear",
+      "Bandwagon only",
+      "Appeal to authority",
+      "Personal anecdote"
+    ],
+    "correctIndex": 2,
+    "explanation": "Citing experts tries to make the product seem credible.",
+    "passage": "Tired of sunscreen that feels greasy and smells like a chemistry lab? Meet SunVeil, the lightweight lotion that disappears into your skin in seconds. Dermatologists in our test panel loved it, and nine out of ten users said it felt better than their old brand. SunVeil offers broad-spectrum SPF 50 protection and stays put for up to 80 minutes of swimming or sweating. Why settle for sticky when you can have smooth? Pick up SunVeil today at your local pharmacy, and enjoy every sunny day without the mess. Your skin deserves nothing less."
+  },
+  {
+    "id": "rea-craft-structure-051",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which statement from the ad could be checked as a fact?",
+    "options": [
+      "Your skin deserves nothing less.",
+      "SunVeil offers broad-spectrum SPF 50 protection.",
+      "Why settle for sticky when you can have smooth?",
+      "Enjoy every sunny day without the mess."
+    ],
+    "correctIndex": 1,
+    "explanation": "An SPF rating can be tested and verified; the others are opinions or slogans.",
+    "passage": "Tired of sunscreen that feels greasy and smells like a chemistry lab? Meet SunVeil, the lightweight lotion that disappears into your skin in seconds. Dermatologists in our test panel loved it, and nine out of ten users said it felt better than their old brand. SunVeil offers broad-spectrum SPF 50 protection and stays put for up to 80 minutes of swimming or sweating. Why settle for sticky when you can have smooth? Pick up SunVeil today at your local pharmacy, and enjoy every sunny day without the mess. Your skin deserves nothing less."
+  },
+  {
+    "id": "rea-craft-structure-052",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the purpose of the opening question?",
+    "options": [
+      "To introduce a scientific study",
+      "To quiz readers on chemistry",
+      "To describe the company's history",
+      "To get readers to identify with a common problem"
+    ],
+    "correctIndex": 3,
+    "explanation": "The question highlights complaints about other sunscreens so readers see SunVeil as the solution.",
+    "passage": "Tired of sunscreen that feels greasy and smells like a chemistry lab? Meet SunVeil, the lightweight lotion that disappears into your skin in seconds. Dermatologists in our test panel loved it, and nine out of ten users said it felt better than their old brand. SunVeil offers broad-spectrum SPF 50 protection and stays put for up to 80 minutes of swimming or sweating. Why settle for sticky when you can have smooth? Pick up SunVeil today at your local pharmacy, and enjoy every sunny day without the mess. Your skin deserves nothing less."
+  },
+  {
+    "id": "rea-craft-structure-053",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Why should a careful reader question the claim that \"nine out of ten users\" preferred SunVeil?",
+    "options": [
+      "Sunscreen cannot be compared.",
+      "Users never like new products.",
+      "Ten users is too many to survey.",
+      "The ad does not say how many users were asked or how they were chosen."
+    ],
+    "correctIndex": 3,
+    "explanation": "Without sample size or selection details, the statistic may be misleading.",
+    "passage": "Tired of sunscreen that feels greasy and smells like a chemistry lab? Meet SunVeil, the lightweight lotion that disappears into your skin in seconds. Dermatologists in our test panel loved it, and nine out of ten users said it felt better than their old brand. SunVeil offers broad-spectrum SPF 50 protection and stays put for up to 80 minutes of swimming or sweating. Why settle for sticky when you can have smooth? Pick up SunVeil today at your local pharmacy, and enjoy every sunny day without the mess. Your skin deserves nothing less."
+  },
+  {
+    "id": "rea-craft-structure-054",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What does the word \"settle\" mean in \"Why settle for sticky\"?",
+    "options": [
+      "Move to a new home",
+      "Accept something less than ideal",
+      "Pay a bill",
+      "Sink to the bottom"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ad suggests readers should not accept a sticky product when a better one exists.",
+    "passage": "Tired of sunscreen that feels greasy and smells like a chemistry lab? Meet SunVeil, the lightweight lotion that disappears into your skin in seconds. Dermatologists in our test panel loved it, and nine out of ten users said it felt better than their old brand. SunVeil offers broad-spectrum SPF 50 protection and stays put for up to 80 minutes of swimming or sweating. Why settle for sticky when you can have smooth? Pick up SunVeil today at your local pharmacy, and enjoy every sunny day without the mess. Your skin deserves nothing less."
+  },
+  {
+    "id": "rea-craft-structure-055",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the author's purpose?",
+    "options": [
+      "To tell a story about mountain climbers",
+      "To explain how glaciers form, move, and change",
+      "To persuade readers to visit glaciers",
+      "To argue against climate research"
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage presents scientific information in a neutral way.",
+    "passage": "Glaciers form where more snow falls each winter than melts each summer. Over many years, the snow piles up and is pressed into dense ice by the weight of the layers above. When the ice becomes thick enough, gravity causes it to flow slowly downhill like an extremely thick liquid. As a glacier moves, it scrapes and plucks rock from the ground beneath it, carving U-shaped valleys and leaving piles of rubble called moraines. When temperatures rise and melting outpaces snowfall, a glacier retreats. Because of this sensitivity, scientists use the advance and retreat of glaciers as one indicator of long-term changes in climate."
+  },
+  {
+    "id": "rea-craft-structure-056",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which text structure best describes most of the passage?",
+    "options": [
+      "Opinion and support",
+      "Compare and contrast",
+      "Problem and solution",
+      "Sequence of a process"
+    ],
+    "correctIndex": 3,
+    "explanation": "The passage explains steps from snowfall to dense ice to movement and retreat.",
+    "passage": "Glaciers form where more snow falls each winter than melts each summer. Over many years, the snow piles up and is pressed into dense ice by the weight of the layers above. When the ice becomes thick enough, gravity causes it to flow slowly downhill like an extremely thick liquid. As a glacier moves, it scrapes and plucks rock from the ground beneath it, carving U-shaped valleys and leaving piles of rubble called moraines. When temperatures rise and melting outpaces snowfall, a glacier retreats. Because of this sensitivity, scientists use the advance and retreat of glaciers as one indicator of long-term changes in climate."
+  },
+  {
+    "id": "rea-craft-structure-057",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Why does the author compare glacier ice to \"an extremely thick liquid\"?",
+    "options": [
+      "To prove glaciers melt quickly",
+      "To show that glaciers are made of water",
+      "To describe the taste of ice",
+      "To help readers picture how solid ice can slowly flow"
+    ],
+    "correctIndex": 3,
+    "explanation": "The comparison clarifies that ice under pressure moves like a very slow liquid.",
+    "passage": "Glaciers form where more snow falls each winter than melts each summer. Over many years, the snow piles up and is pressed into dense ice by the weight of the layers above. When the ice becomes thick enough, gravity causes it to flow slowly downhill like an extremely thick liquid. As a glacier moves, it scrapes and plucks rock from the ground beneath it, carving U-shaped valleys and leaving piles of rubble called moraines. When temperatures rise and melting outpaces snowfall, a glacier retreats. Because of this sensitivity, scientists use the advance and retreat of glaciers as one indicator of long-term changes in climate."
+  },
+  {
+    "id": "rea-craft-structure-058",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what are moraines?",
+    "options": [
+      "Piles of rubble left by glaciers",
+      "Layers of fresh snow",
+      "Streams of meltwater",
+      "U-shaped valleys"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage defines moraines as piles of rubble.",
+    "passage": "Glaciers form where more snow falls each winter than melts each summer. Over many years, the snow piles up and is pressed into dense ice by the weight of the layers above. When the ice becomes thick enough, gravity causes it to flow slowly downhill like an extremely thick liquid. As a glacier moves, it scrapes and plucks rock from the ground beneath it, carving U-shaped valleys and leaving piles of rubble called moraines. When temperatures rise and melting outpaces snowfall, a glacier retreats. Because of this sensitivity, scientists use the advance and retreat of glaciers as one indicator of long-term changes in climate."
+  },
+  {
+    "id": "rea-craft-structure-059",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "What is the function of the final sentence?",
+    "options": [
+      "It summarizes how moraines form.",
+      "It introduces a new kind of glacier.",
+      "It contradicts the earlier explanation.",
+      "It connects glacier behavior to its use in studying climate."
+    ],
+    "correctIndex": 3,
+    "explanation": "The conclusion explains why glaciers matter to scientists tracking climate.",
+    "passage": "Glaciers form where more snow falls each winter than melts each summer. Over many years, the snow piles up and is pressed into dense ice by the weight of the layers above. When the ice becomes thick enough, gravity causes it to flow slowly downhill like an extremely thick liquid. As a glacier moves, it scrapes and plucks rock from the ground beneath it, carving U-shaped valleys and leaving piles of rubble called moraines. When temperatures rise and melting outpaces snowfall, a glacier retreats. Because of this sensitivity, scientists use the advance and retreat of glaciers as one indicator of long-term changes in climate."
+  },
+  {
+    "id": "rea-craft-structure-060",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "According to the passage, what causes a glacier to retreat?",
+    "options": [
+      "Too much snow falls.",
+      "Melting outpaces snowfall.",
+      "Rocks block its path.",
+      "The valley becomes U-shaped."
+    ],
+    "correctIndex": 1,
+    "explanation": "A glacier retreats when temperatures rise and melting exceeds snowfall.",
+    "passage": "Glaciers form where more snow falls each winter than melts each summer. Over many years, the snow piles up and is pressed into dense ice by the weight of the layers above. When the ice becomes thick enough, gravity causes it to flow slowly downhill like an extremely thick liquid. As a glacier moves, it scrapes and plucks rock from the ground beneath it, carving U-shaped valleys and leaving piles of rubble called moraines. When temperatures rise and melting outpaces snowfall, a glacier retreats. Because of this sensitivity, scientists use the advance and retreat of glaciers as one indicator of long-term changes in climate."
+  },
+  {
+    "id": "rea-craft-structure-061",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the writer's main purpose?",
+    "options": [
+      "To persuade the city council to keep the pool open",
+      "To explain the council's budget process",
+      "To describe how to swim",
+      "To praise the new parking lot"
+    ],
+    "correctIndex": 0,
+    "explanation": "The letter argues against closing the pool and asks the council to reconsider.",
+    "passage": "Dear Editor,\nThe city council's decision to close the Elm Street pool this summer is short-sighted. For many families in our neighborhood, the pool is the only affordable way to stay cool during heat waves, and the swim lessons offered there have taught hundreds of children a skill that can save their lives. The council says repairs would cost $90,000. That is a significant sum, but the city found twice that amount last year to repave the parking lot at City Hall. I am asking council members to reconsider and to find the funds before the pool's doors close for good.\nSincerely,\nAngela Morris"
+  },
+  {
+    "id": "rea-craft-structure-062",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What does the writer mean by \"short-sighted\"?",
+    "options": [
+      "Lasting a short time",
+      "Not considering long-term consequences",
+      "Carefully planned",
+      "Unable to see far"
+    ],
+    "correctIndex": 1,
+    "explanation": "Short-sighted describes a decision that ignores future effects.",
+    "passage": "Dear Editor,\nThe city council's decision to close the Elm Street pool this summer is short-sighted. For many families in our neighborhood, the pool is the only affordable way to stay cool during heat waves, and the swim lessons offered there have taught hundreds of children a skill that can save their lives. The council says repairs would cost $90,000. That is a significant sum, but the city found twice that amount last year to repave the parking lot at City Hall. I am asking council members to reconsider and to find the funds before the pool's doors close for good.\nSincerely,\nAngela Morris"
+  },
+  {
+    "id": "rea-craft-structure-063",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Why does the writer mention the City Hall parking lot?",
+    "options": [
+      "To praise the council's repaving work",
+      "To suggest the city can find money when it wants to",
+      "To recommend parking at the pool",
+      "To explain where the pool is"
+    ],
+    "correctIndex": 1,
+    "explanation": "Comparing the costs implies the city could afford pool repairs.",
+    "passage": "Dear Editor,\nThe city council's decision to close the Elm Street pool this summer is short-sighted. For many families in our neighborhood, the pool is the only affordable way to stay cool during heat waves, and the swim lessons offered there have taught hundreds of children a skill that can save their lives. The council says repairs would cost $90,000. That is a significant sum, but the city found twice that amount last year to repave the parking lot at City Hall. I am asking council members to reconsider and to find the funds before the pool's doors close for good.\nSincerely,\nAngela Morris"
+  },
+  {
+    "id": "rea-craft-structure-064",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which statement from the letter is an opinion?",
+    "options": [
+      "The council plans to close the pool.",
+      "Repairs would cost $90,000.",
+      "The pool offers swim lessons.",
+      "The decision is short-sighted."
+    ],
+    "correctIndex": 3,
+    "explanation": "Calling the decision short-sighted is a judgment; the others can be verified.",
+    "passage": "Dear Editor,\nThe city council's decision to close the Elm Street pool this summer is short-sighted. For many families in our neighborhood, the pool is the only affordable way to stay cool during heat waves, and the swim lessons offered there have taught hundreds of children a skill that can save their lives. The council says repairs would cost $90,000. That is a significant sum, but the city found twice that amount last year to repave the parking lot at City Hall. I am asking council members to reconsider and to find the funds before the pool's doors close for good.\nSincerely,\nAngela Morris"
+  },
+  {
+    "id": "rea-craft-structure-065",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "How does the writer appeal to readers' emotions?",
+    "options": [
+      "By pointing out that swim lessons teach a life-saving skill to children",
+      "By quoting the city budget line by line",
+      "By listing the pool's dimensions",
+      "By describing the history of the council"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mentioning children and saving lives draws on readers' feelings.",
+    "passage": "Dear Editor,\nThe city council's decision to close the Elm Street pool this summer is short-sighted. For many families in our neighborhood, the pool is the only affordable way to stay cool during heat waves, and the swim lessons offered there have taught hundreds of children a skill that can save their lives. The council says repairs would cost $90,000. That is a significant sum, but the city found twice that amount last year to repave the parking lot at City Hall. I am asking council members to reconsider and to find the funds before the pool's doors close for good.\nSincerely,\nAngela Morris"
+  },
+  {
+    "id": "rea-craft-structure-066",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What type of document is this passage?",
+    "options": [
+      "A news report",
+      "A pool schedule",
+      "A city ordinance",
+      "A letter to the editor"
+    ],
+    "correctIndex": 3,
+    "explanation": "The greeting Dear Editor and the signed opinion identify it as a letter to the editor.",
+    "passage": "Dear Editor,\nThe city council's decision to close the Elm Street pool this summer is short-sighted. For many families in our neighborhood, the pool is the only affordable way to stay cool during heat waves, and the swim lessons offered there have taught hundreds of children a skill that can save their lives. The council says repairs would cost $90,000. That is a significant sum, but the city found twice that amount last year to repave the parking lot at City Hall. I am asking council members to reconsider and to find the funds before the pool's doors close for good.\nSincerely,\nAngela Morris"
+  },
+  {
+    "id": "rea-craft-structure-067",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which text feature tells readers where to find a labeled diagram?",
+    "options": [
+      "The key term box",
+      "The section number",
+      "\"See Figure 4.3\"",
+      "The chapter title"
+    ],
+    "correctIndex": 2,
+    "explanation": "The reference to Figure 4.3 points readers to the diagram.",
+    "passage": "Chapter 4: The Skeletal System\nSection 4.2 Bone Structure\nLong bones, such as the femur, have a shaft called the diaphysis and two rounded ends called epiphyses. The diaphysis is made mostly of compact bone, which is dense and strong. The epiphyses contain spongy bone, whose honeycomb structure is lighter and holds red marrow, where blood cells are made.\nKey Term: Periosteum — the tough membrane covering the outer surface of bone.\nCheck Your Understanding: Which type of bone tissue contains red marrow?\nSee Figure 4.3 for a labeled diagram of a long bone."
+  },
+  {
+    "id": "rea-craft-structure-068",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the purpose of the \"Key Term\" feature?",
+    "options": [
+      "To list sources",
+      "To summarize the chapter",
+      "To define an important vocabulary word",
+      "To give a test answer"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Key Term box defines periosteum.",
+    "passage": "Chapter 4: The Skeletal System\nSection 4.2 Bone Structure\nLong bones, such as the femur, have a shaft called the diaphysis and two rounded ends called epiphyses. The diaphysis is made mostly of compact bone, which is dense and strong. The epiphyses contain spongy bone, whose honeycomb structure is lighter and holds red marrow, where blood cells are made.\nKey Term: Periosteum — the tough membrane covering the outer surface of bone.\nCheck Your Understanding: Which type of bone tissue contains red marrow?\nSee Figure 4.3 for a labeled diagram of a long bone."
+  },
+  {
+    "id": "rea-craft-structure-069",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the purpose of the \"Check Your Understanding\" question?",
+    "options": [
+      "To list additional readings",
+      "To help readers review what they just read",
+      "To introduce a new topic",
+      "To give the author's opinion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Review questions let readers test their comprehension of the section.",
+    "passage": "Chapter 4: The Skeletal System\nSection 4.2 Bone Structure\nLong bones, such as the femur, have a shaft called the diaphysis and two rounded ends called epiphyses. The diaphysis is made mostly of compact bone, which is dense and strong. The epiphyses contain spongy bone, whose honeycomb structure is lighter and holds red marrow, where blood cells are made.\nKey Term: Periosteum — the tough membrane covering the outer surface of bone.\nCheck Your Understanding: Which type of bone tissue contains red marrow?\nSee Figure 4.3 for a labeled diagram of a long bone."
+  },
+  {
+    "id": "rea-craft-structure-070",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Under which heading would a reader expect to find this section?",
+    "options": [
+      "Section 4.1 Heart Valves",
+      "Index of Terms",
+      "Section 4.2 Bone Structure",
+      "Chapter 5: Muscles"
+    ],
+    "correctIndex": 2,
+    "explanation": "The section heading Bone Structure labels this content.",
+    "passage": "Chapter 4: The Skeletal System\nSection 4.2 Bone Structure\nLong bones, such as the femur, have a shaft called the diaphysis and two rounded ends called epiphyses. The diaphysis is made mostly of compact bone, which is dense and strong. The epiphyses contain spongy bone, whose honeycomb structure is lighter and holds red marrow, where blood cells are made.\nKey Term: Periosteum — the tough membrane covering the outer surface of bone.\nCheck Your Understanding: Which type of bone tissue contains red marrow?\nSee Figure 4.3 for a labeled diagram of a long bone."
+  },
+  {
+    "id": "rea-craft-structure-071",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what does \"honeycomb\" describe?",
+    "options": [
+      "A hard, solid surface",
+      "A structure with many small open spaces",
+      "A sweet taste",
+      "A yellow color"
+    ],
+    "correctIndex": 1,
+    "explanation": "The comparison describes spongy bone's network of spaces, which makes it lighter.",
+    "passage": "Chapter 4: The Skeletal System\nSection 4.2 Bone Structure\nLong bones, such as the femur, have a shaft called the diaphysis and two rounded ends called epiphyses. The diaphysis is made mostly of compact bone, which is dense and strong. The epiphyses contain spongy bone, whose honeycomb structure is lighter and holds red marrow, where blood cells are made.\nKey Term: Periosteum — the tough membrane covering the outer surface of bone.\nCheck Your Understanding: Which type of bone tissue contains red marrow?\nSee Figure 4.3 for a labeled diagram of a long bone."
+  },
+  {
+    "id": "rea-craft-structure-072",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Which type of text is this passage most likely taken from?",
+    "options": [
+      "An informational textbook",
+      "A persuasive speech",
+      "A novel",
+      "A personal letter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chapter and section headings, key terms, review questions, and figures are textbook features.",
+    "passage": "Chapter 4: The Skeletal System\nSection 4.2 Bone Structure\nLong bones, such as the femur, have a shaft called the diaphysis and two rounded ends called epiphyses. The diaphysis is made mostly of compact bone, which is dense and strong. The epiphyses contain spongy bone, whose honeycomb structure is lighter and holds red marrow, where blood cells are made.\nKey Term: Periosteum — the tough membrane covering the outer surface of bone.\nCheck Your Understanding: Which type of bone tissue contains red marrow?\nSee Figure 4.3 for a labeled diagram of a long bone."
+  },
+  {
+    "id": "rea-craft-structure-073",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the main conflict in the passage?",
+    "options": [
+      "Walter misses a job interview.",
+      "Walter loses his newspaper.",
+      "Walter argues with a young woman.",
+      "Walter's routine is disrupted when his train is canceled."
+    ],
+    "correctIndex": 3,
+    "explanation": "The canceled train breaks his long-standing routine and forces a change.",
+    "passage": "Every weekday morning for eleven years, Walter Price took the 6:40 train into the city. He sat in the same seat, third row from the front, and read the same newspaper in the same order: weather, sports, then the crossword. Then one Tuesday, the train was canceled because of a signal failure. Walter stood on the platform, unsure what to do, until a young woman with a bicycle offered to show him a bike path along the river. He hesitated, then rented a bike from the kiosk. The ride took longer than the train, but he noticed herons in the shallows and the sun on the water. The next morning, Walter skipped the train on purpose."
+  },
+  {
+    "id": "rea-craft-structure-074",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Why does the author describe Walter's habits in such detail at the beginning?",
+    "options": [
+      "To show how fixed and predictable his routine was",
+      "To explain how trains are scheduled",
+      "To show that Walter disliked sports",
+      "To describe the newspaper's layout"
+    ],
+    "correctIndex": 0,
+    "explanation": "The repeated details (same seat, same order) emphasize his rigid routine.",
+    "passage": "Every weekday morning for eleven years, Walter Price took the 6:40 train into the city. He sat in the same seat, third row from the front, and read the same newspaper in the same order: weather, sports, then the crossword. Then one Tuesday, the train was canceled because of a signal failure. Walter stood on the platform, unsure what to do, until a young woman with a bicycle offered to show him a bike path along the river. He hesitated, then rented a bike from the kiosk. The ride took longer than the train, but he noticed herons in the shallows and the sun on the water. The next morning, Walter skipped the train on purpose."
+  },
+  {
+    "id": "rea-craft-structure-075",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What does the word \"hesitated\" reveal about Walter?",
+    "options": [
+      "He did not hear her suggestion.",
+      "He was angry at the woman.",
+      "He was in a great hurry.",
+      "He was unsure about trying something new."
+    ],
+    "correctIndex": 3,
+    "explanation": "Hesitating shows reluctance before he decided to rent the bike.",
+    "passage": "Every weekday morning for eleven years, Walter Price took the 6:40 train into the city. He sat in the same seat, third row from the front, and read the same newspaper in the same order: weather, sports, then the crossword. Then one Tuesday, the train was canceled because of a signal failure. Walter stood on the platform, unsure what to do, until a young woman with a bicycle offered to show him a bike path along the river. He hesitated, then rented a bike from the kiosk. The ride took longer than the train, but he noticed herons in the shallows and the sun on the water. The next morning, Walter skipped the train on purpose."
+  },
+  {
+    "id": "rea-craft-structure-076",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What theme does the story suggest?",
+    "options": [
+      "Unexpected changes can lead to rewarding experiences.",
+      "Strangers should not be trusted.",
+      "Trains are always reliable.",
+      "Routines must never be broken."
+    ],
+    "correctIndex": 0,
+    "explanation": "Walter's forced change brings him new enjoyment, which he then chooses again.",
+    "passage": "Every weekday morning for eleven years, Walter Price took the 6:40 train into the city. He sat in the same seat, third row from the front, and read the same newspaper in the same order: weather, sports, then the crossword. Then one Tuesday, the train was canceled because of a signal failure. Walter stood on the platform, unsure what to do, until a young woman with a bicycle offered to show him a bike path along the river. He hesitated, then rented a bike from the kiosk. The ride took longer than the train, but he noticed herons in the shallows and the sun on the water. The next morning, Walter skipped the train on purpose."
+  },
+  {
+    "id": "rea-craft-structure-077",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "What does the final sentence suggest about Walter?",
+    "options": [
+      "He overslept and missed the train.",
+      "He has chosen to embrace a new way of starting his day.",
+      "The train was canceled again.",
+      "He was injured on the bike."
+    ],
+    "correctIndex": 1,
+    "explanation": "Skipping the train \"on purpose\" shows a deliberate change in his behavior.",
+    "passage": "Every weekday morning for eleven years, Walter Price took the 6:40 train into the city. He sat in the same seat, third row from the front, and read the same newspaper in the same order: weather, sports, then the crossword. Then one Tuesday, the train was canceled because of a signal failure. Walter stood on the platform, unsure what to do, until a young woman with a bicycle offered to show him a bike path along the river. He hesitated, then rented a bike from the kiosk. The ride took longer than the train, but he noticed herons in the shallows and the sun on the water. The next morning, Walter skipped the train on purpose."
+  },
+  {
+    "id": "rea-craft-structure-078",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "From which point of view is the story told?",
+    "options": [
+      "Second person",
+      "First person",
+      "Third person",
+      "From the young woman's first-person view"
+    ],
+    "correctIndex": 2,
+    "explanation": "The narrator refers to Walter as he and is outside the story.",
+    "passage": "Every weekday morning for eleven years, Walter Price took the 6:40 train into the city. He sat in the same seat, third row from the front, and read the same newspaper in the same order: weather, sports, then the crossword. Then one Tuesday, the train was canceled because of a signal failure. Walter stood on the platform, unsure what to do, until a young woman with a bicycle offered to show him a bike path along the river. He hesitated, then rented a bike from the kiosk. The ride took longer than the train, but he noticed herons in the shallows and the sun on the water. The next morning, Walter skipped the train on purpose."
+  },
+  {
+    "id": "rea-craft-structure-079",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the main purpose of the passage?",
+    "options": [
+      "To tell a story about a family",
+      "To explain how drinks are made",
+      "To present both sides of a debate about a sugary drink tax",
+      "To persuade readers to vote for the tax"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage summarizes arguments from supporters and opponents without taking a side.",
+    "passage": "Supporters of a tax on sugary drinks argue that it would reduce consumption and lower rates of obesity and type 2 diabetes. They point to cities where sales of sweetened beverages dropped after such taxes took effect. Opponents counter that the tax falls hardest on low-income families, who spend a larger share of their budgets on groceries. They also argue that people may simply buy drinks in neighboring towns without the tax. Both sides agree that sugary drinks contribute to health problems; they disagree about whether a tax is a fair and effective solution. Voters will decide the question in November."
+  },
+  {
+    "id": "rea-craft-structure-080",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "How is the passage organized?",
+    "options": [
+      "It describes a process step by step.",
+      "It gives only the author's opinion.",
+      "It lists events in chronological order.",
+      "It presents one side's argument, then the other side's counterargument."
+    ],
+    "correctIndex": 3,
+    "explanation": "Supporters' views come first, followed by opponents' counterarguments.",
+    "passage": "Supporters of a tax on sugary drinks argue that it would reduce consumption and lower rates of obesity and type 2 diabetes. They point to cities where sales of sweetened beverages dropped after such taxes took effect. Opponents counter that the tax falls hardest on low-income families, who spend a larger share of their budgets on groceries. They also argue that people may simply buy drinks in neighboring towns without the tax. Both sides agree that sugary drinks contribute to health problems; they disagree about whether a tax is a fair and effective solution. Voters will decide the question in November."
+  },
+  {
+    "id": "rea-craft-structure-081",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what does \"counter\" mean?",
+    "options": [
+      "Display on a shelf",
+      "Agree completely",
+      "Count again",
+      "Respond with an opposing argument"
+    ],
+    "correctIndex": 3,
+    "explanation": "Opponents counter by giving reasons against the supporters' position.",
+    "passage": "Supporters of a tax on sugary drinks argue that it would reduce consumption and lower rates of obesity and type 2 diabetes. They point to cities where sales of sweetened beverages dropped after such taxes took effect. Opponents counter that the tax falls hardest on low-income families, who spend a larger share of their budgets on groceries. They also argue that people may simply buy drinks in neighboring towns without the tax. Both sides agree that sugary drinks contribute to health problems; they disagree about whether a tax is a fair and effective solution. Voters will decide the question in November."
+  },
+  {
+    "id": "rea-craft-structure-082",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "On what point do both sides agree?",
+    "options": [
+      "The tax will have no effect on sales.",
+      "Sugary drinks contribute to health problems.",
+      "The tax is fair to all families.",
+      "People never buy drinks in other towns."
+    ],
+    "correctIndex": 1,
+    "explanation": "The passage states that both sides agree sugary drinks contribute to health problems.",
+    "passage": "Supporters of a tax on sugary drinks argue that it would reduce consumption and lower rates of obesity and type 2 diabetes. They point to cities where sales of sweetened beverages dropped after such taxes took effect. Opponents counter that the tax falls hardest on low-income families, who spend a larger share of their budgets on groceries. They also argue that people may simply buy drinks in neighboring towns without the tax. Both sides agree that sugary drinks contribute to health problems; they disagree about whether a tax is a fair and effective solution. Voters will decide the question in November."
+  },
+  {
+    "id": "rea-craft-structure-083",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Which word best describes the author's tone?",
+    "options": [
+      "Sarcastic",
+      "Pleading",
+      "Balanced",
+      "Outraged"
+    ],
+    "correctIndex": 2,
+    "explanation": "The author gives equal attention to each side and does not reveal a personal opinion.",
+    "passage": "Supporters of a tax on sugary drinks argue that it would reduce consumption and lower rates of obesity and type 2 diabetes. They point to cities where sales of sweetened beverages dropped after such taxes took effect. Opponents counter that the tax falls hardest on low-income families, who spend a larger share of their budgets on groceries. They also argue that people may simply buy drinks in neighboring towns without the tax. Both sides agree that sugary drinks contribute to health problems; they disagree about whether a tax is a fair and effective solution. Voters will decide the question in November."
+  },
+  {
+    "id": "rea-craft-structure-084",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which argument is made by opponents of the tax?",
+    "options": [
+      "The tax falls hardest on low-income families.",
+      "Sales of sweetened drinks dropped in some cities.",
+      "The tax would reduce diabetes.",
+      "The tax would lower obesity rates."
+    ],
+    "correctIndex": 0,
+    "explanation": "Opponents argue the tax burdens low-income families; the other choices are supporters' points.",
+    "passage": "Supporters of a tax on sugary drinks argue that it would reduce consumption and lower rates of obesity and type 2 diabetes. They point to cities where sales of sweetened beverages dropped after such taxes took effect. Opponents counter that the tax falls hardest on low-income families, who spend a larger share of their budgets on groceries. They also argue that people may simply buy drinks in neighboring towns without the tax. Both sides agree that sugary drinks contribute to health problems; they disagree about whether a tax is a fair and effective solution. Voters will decide the question in November."
+  },
+  {
+    "id": "rea-craft-structure-085",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "Which text structure is mainly used in this passage?",
+    "options": [
+      "Cause and effect",
+      "Personal narrative",
+      "Compare and contrast",
+      "Problem and solution"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage explains how conditions cause hurricanes to form, strengthen, and weaken.",
+    "passage": "Hurricanes begin as clusters of thunderstorms over warm ocean water, usually at least 80°F. As warm, moist air rises, it cools and condenses into clouds, releasing heat that fuels more rising air. Because of Earth's rotation, the system begins to spin. If conditions remain favorable, wind speeds increase; once sustained winds reach 74 miles per hour, the storm is classified as a hurricane. When a hurricane moves over land or cooler water, it loses its source of warm, moist air and gradually weakens. Even a weakening storm, however, can cause severe flooding as it drops heavy rain inland."
+  },
+  {
+    "id": "rea-craft-structure-086",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "What is the author's purpose?",
+    "options": [
+      "To persuade readers to move inland",
+      "To entertain readers with a storm story",
+      "To explain how hurricanes form and weaken",
+      "To compare hurricanes with tornadoes"
+    ],
+    "correctIndex": 2,
+    "explanation": "The passage presents scientific information about the life of a hurricane.",
+    "passage": "Hurricanes begin as clusters of thunderstorms over warm ocean water, usually at least 80°F. As warm, moist air rises, it cools and condenses into clouds, releasing heat that fuels more rising air. Because of Earth's rotation, the system begins to spin. If conditions remain favorable, wind speeds increase; once sustained winds reach 74 miles per hour, the storm is classified as a hurricane. When a hurricane moves over land or cooler water, it loses its source of warm, moist air and gradually weakens. Even a weakening storm, however, can cause severe flooding as it drops heavy rain inland."
+  },
+  {
+    "id": "rea-craft-structure-087",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "As used in the passage, what does \"sustained\" mean?",
+    "options": [
+      "Brief and sudden",
+      "Decreasing quickly",
+      "Continuing over a period of time",
+      "Measured on land"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sustained winds are those that continue at a speed, not short gusts.",
+    "passage": "Hurricanes begin as clusters of thunderstorms over warm ocean water, usually at least 80°F. As warm, moist air rises, it cools and condenses into clouds, releasing heat that fuels more rising air. Because of Earth's rotation, the system begins to spin. If conditions remain favorable, wind speeds increase; once sustained winds reach 74 miles per hour, the storm is classified as a hurricane. When a hurricane moves over land or cooler water, it loses its source of warm, moist air and gradually weakens. Even a weakening storm, however, can cause severe flooding as it drops heavy rain inland."
+  },
+  {
+    "id": "rea-craft-structure-088",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "medium",
+    "question": "Which signal word in the final sentence shows contrast?",
+    "options": [
+      "Even",
+      "However",
+      "Inland",
+      "Heavy"
+    ],
+    "correctIndex": 1,
+    "explanation": "However signals that the idea of severe flooding contrasts with the storm weakening.",
+    "passage": "Hurricanes begin as clusters of thunderstorms over warm ocean water, usually at least 80°F. As warm, moist air rises, it cools and condenses into clouds, releasing heat that fuels more rising air. Because of Earth's rotation, the system begins to spin. If conditions remain favorable, wind speeds increase; once sustained winds reach 74 miles per hour, the storm is classified as a hurricane. When a hurricane moves over land or cooler water, it loses its source of warm, moist air and gradually weakens. Even a weakening storm, however, can cause severe flooding as it drops heavy rain inland."
+  },
+  {
+    "id": "rea-craft-structure-089",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "hard",
+    "question": "Why does the author include the final sentence?",
+    "options": [
+      "To show that hurricanes never weaken",
+      "To warn that weakening storms can still be dangerous",
+      "To explain how clouds form",
+      "To describe ocean temperatures"
+    ],
+    "correctIndex": 1,
+    "explanation": "The sentence adds an important caution after describing how storms weaken.",
+    "passage": "Hurricanes begin as clusters of thunderstorms over warm ocean water, usually at least 80°F. As warm, moist air rises, it cools and condenses into clouds, releasing heat that fuels more rising air. Because of Earth's rotation, the system begins to spin. If conditions remain favorable, wind speeds increase; once sustained winds reach 74 miles per hour, the storm is classified as a hurricane. When a hurricane moves over land or cooler water, it loses its source of warm, moist air and gradually weakens. Even a weakening storm, however, can cause severe flooding as it drops heavy rain inland."
+  },
+  {
+    "id": "rea-craft-structure-090",
+    "section": "reading",
+    "subcategory": "craft-structure",
+    "difficulty": "easy",
+    "question": "What is the minimum sustained wind speed for a storm to be classified as a hurricane?",
+    "options": [
+      "74 miles per hour",
+      "80 miles per hour",
+      "50 miles per hour",
+      "100 miles per hour"
+    ],
+    "correctIndex": 0,
+    "explanation": "The passage states a storm becomes a hurricane at 74 miles per hour.",
+    "passage": "Hurricanes begin as clusters of thunderstorms over warm ocean water, usually at least 80°F. As warm, moist air rises, it cools and condenses into clouds, releasing heat that fuels more rising air. Because of Earth's rotation, the system begins to spin. If conditions remain favorable, wind speeds increase; once sustained winds reach 74 miles per hour, the storm is classified as a hurricane. When a hurricane moves over land or cooler water, it loses its source of warm, moist air and gradually weakens. Even a weakening storm, however, can cause severe flooding as it drops heavy rain inland."
   }
 ]

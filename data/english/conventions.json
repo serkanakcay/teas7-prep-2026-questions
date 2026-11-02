@@ -223,5 +223,875 @@
     ],
     "correctIndex": 0,
     "explanation": "Both verbs are in the past tense, so the sentence is consistent."
+  },
+  {
+    "id": "eng-conventions-016",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which sentence correctly uses a comma before a coordinating conjunction?",
+    "options": [
+      "The pharmacy closed, early so the patient picked up her prescription the next day.",
+      "The pharmacy closed early, so the patient picked up her prescription the next day.",
+      "The pharmacy, closed early so the patient picked up her prescription the next day.",
+      "The pharmacy closed early so, the patient picked up her prescription the next day."
+    ],
+    "correctIndex": 1,
+    "explanation": "A comma goes before a coordinating conjunction (so) that joins two independent clauses."
+  },
+  {
+    "id": "eng-conventions-017",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence correctly sets off a nonessential clause with commas?",
+    "options": [
+      "My brother, who works in radiology will meet us at noon.",
+      "My brother who, works in radiology, will meet us at noon.",
+      "My brother who works in radiology, will meet us at noon.",
+      "My brother, who works in radiology, will meet us at noon."
+    ],
+    "correctIndex": 3,
+    "explanation": "A nonessential clause adds extra information and needs a comma on both sides."
+  },
+  {
+    "id": "eng-conventions-018",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses a colon correctly?",
+    "options": [
+      "Bring three items to clinical: your badge, a watch, and a pen.",
+      "Bring three items: to clinical your badge, a watch, and a pen.",
+      "Bring three items to: clinical, your badge, and a pen.",
+      "Bring: your badge, a watch, and a pen."
+    ],
+    "correctIndex": 0,
+    "explanation": "A colon follows a complete independent clause and introduces a list."
+  },
+  {
+    "id": "eng-conventions-019",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses an apostrophe correctly to show plural possession?",
+    "options": [
+      "The nurses' lounge was recently remodeled.",
+      "The nurse's' lounge was recently remodeled.",
+      "The nurses lounge' was recently remodeled.",
+      "The nurse,s lounge was recently remodeled."
+    ],
+    "correctIndex": 0,
+    "explanation": "For a plural noun ending in s, add only an apostrophe after the s: nurses'."
+  },
+  {
+    "id": "eng-conventions-020",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which word correctly completes the sentence? \"The clinic changed ___ hours for the holiday.\"",
+    "options": [
+      "it's",
+      "its",
+      "its'",
+      "it is"
+    ],
+    "correctIndex": 1,
+    "explanation": "Its is the possessive pronoun; it's is the contraction of it is."
+  },
+  {
+    "id": "eng-conventions-021",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses a dash appropriately for emphasis?",
+    "options": [
+      "She had one goal for the semester—passing anatomy.",
+      "She had one goal—for the—semester passing anatomy.",
+      "She—had one goal for the semester passing anatomy.",
+      "She had—one goal for the semester passing anatomy."
+    ],
+    "correctIndex": 0,
+    "explanation": "A dash can set off a final element for emphasis after a complete clause."
+  },
+  {
+    "id": "eng-conventions-022",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence correctly uses a semicolon with a conjunctive adverb?",
+    "options": [
+      "The test was difficult however; most students passed.",
+      "The test was difficult, however; most students passed.",
+      "The test was difficult; however, most students passed.",
+      "The test was difficult; however most students, passed."
+    ],
+    "correctIndex": 2,
+    "explanation": "Use a semicolon before a conjunctive adverb joining two independent clauses and a comma after it."
+  },
+  {
+    "id": "eng-conventions-023",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence correctly punctuates a direct question within a quotation?",
+    "options": [
+      "The patient asked, \"When can I go home.\"?",
+      "The patient asked, \"When can I go home\"?",
+      "The patient asked \"when can I go home.\"",
+      "The patient asked, \"When can I go home?\""
+    ],
+    "correctIndex": 3,
+    "explanation": "When the quoted words are a question, the question mark goes inside the quotation marks."
+  },
+  {
+    "id": "eng-conventions-024",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which sentence uses commas correctly in a date?",
+    "options": [
+      "On March, 3 2025 the new wing opened.",
+      "On March 3, 2025, the new wing opened.",
+      "On March 3 2025, the new wing opened.",
+      "On, March 3, 2025 the new wing opened."
+    ],
+    "correctIndex": 1,
+    "explanation": "Place commas after the day and after the year when a full date appears mid-sentence."
+  },
+  {
+    "id": "eng-conventions-025",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence correctly uses commas with an introductory phrase?",
+    "options": [
+      "During the long night shift, the staff drank plenty of water.",
+      "During, the long night shift the staff drank plenty of water.",
+      "During the long night shift the staff, drank plenty of water.",
+      "During the long, night shift the staff drank plenty, of water."
+    ],
+    "correctIndex": 0,
+    "explanation": "A long introductory phrase is followed by a comma before the main clause."
+  },
+  {
+    "id": "eng-conventions-026",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence correctly uses commas between coordinate adjectives?",
+    "options": [
+      "It was, a long exhausting shift.",
+      "It was a long exhausting, shift.",
+      "It was a, long exhausting shift.",
+      "It was a long, exhausting shift."
+    ],
+    "correctIndex": 3,
+    "explanation": "Coordinate adjectives each describe the noun equally and can be separated by a comma (long and exhausting)."
+  },
+  {
+    "id": "eng-conventions-027",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence correctly punctuates an appositive?",
+    "options": [
+      "Dr. Patel the head of cardiology, gave the lecture.",
+      "Dr. Patel, the head of cardiology, gave the lecture.",
+      "Dr. Patel the head, of cardiology gave the lecture.",
+      "Dr. Patel, the head of cardiology gave the lecture."
+    ],
+    "correctIndex": 1,
+    "explanation": "An appositive that renames a noun is set off by commas on both sides."
+  },
+  {
+    "id": "eng-conventions-028",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which sentence ends with the correct punctuation?",
+    "options": [
+      "Please wash your hands before entering the room,",
+      "Please wash your hands before entering the room.",
+      "Please wash your hands before entering the room?",
+      "Please wash your hands before entering the room;"
+    ],
+    "correctIndex": 1,
+    "explanation": "A polite command (imperative sentence) ends with a period."
+  },
+  {
+    "id": "eng-conventions-029",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence correctly uses quotation marks for the title of a short work?",
+    "options": [
+      "We read the article 'Sleep and Memory in class.'",
+      "We read the \"article Sleep and Memory\" in class.",
+      "We read the article \"Sleep and Memory\" in class.",
+      "We read the article Sleep and Memory\" in class."
+    ],
+    "correctIndex": 2,
+    "explanation": "Titles of short works such as articles, poems, and chapters go in quotation marks."
+  },
+  {
+    "id": "eng-conventions-030",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence uses parentheses correctly?",
+    "options": [
+      "The heart has four chambers (two atria and two ventricles).",
+      "The heart has four chambers (two atria and two ventricles.)",
+      "The heart (has four chambers two atria) and two ventricles.",
+      "The heart has (four) chambers two atria and two ventricles."
+    ],
+    "correctIndex": 0,
+    "explanation": "Parentheses enclose extra information; the period goes outside when the parenthetical is part of the sentence."
+  },
+  {
+    "id": "eng-conventions-031",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which word correctly completes the sentence? \"___ going to the study session tonight?\"",
+    "options": [
+      "Who's",
+      "Whose",
+      "Who'se",
+      "Whos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Who's is the contraction of who is; whose shows possession."
+  },
+  {
+    "id": "eng-conventions-032",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which verb correctly completes the sentence? \"The box of gloves ___ on the counter.\"",
+    "options": [
+      "be",
+      "is",
+      "were",
+      "are"
+    ],
+    "correctIndex": 1,
+    "explanation": "The subject is box (singular); the phrase of gloves does not change the verb."
+  },
+  {
+    "id": "eng-conventions-033",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which verb correctly completes the sentence? \"Neither the doctor nor the nurses ___ available.\"",
+    "options": [
+      "has been",
+      "is",
+      "are",
+      "was"
+    ],
+    "correctIndex": 2,
+    "explanation": "With neither...nor, the verb agrees with the nearer subject, nurses, which is plural."
+  },
+  {
+    "id": "eng-conventions-034",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which verb correctly completes the sentence? \"The team ___ celebrating its victory.\"",
+    "options": [
+      "were",
+      "is",
+      "are",
+      "have been"
+    ],
+    "correctIndex": 1,
+    "explanation": "A collective noun acting as one unit takes a singular verb, as shown by its."
+  },
+  {
+    "id": "eng-conventions-035",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which pronoun correctly completes the sentence? \"Every student must bring ___ own calculator.\"",
+    "options": [
+      "our",
+      "his or her",
+      "its",
+      "their's"
+    ],
+    "correctIndex": 1,
+    "explanation": "In formal usage, the singular every student takes a singular pronoun such as his or her."
+  },
+  {
+    "id": "eng-conventions-036",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which pronoun correctly completes the sentence? \"Maria and ___ volunteered at the blood drive.\"",
+    "options": [
+      "me",
+      "myself",
+      "mine",
+      "I"
+    ],
+    "correctIndex": 3,
+    "explanation": "The pronoun is part of the subject, so the subject form I is correct. Test it alone: I volunteered."
+  },
+  {
+    "id": "eng-conventions-037",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which pronoun correctly completes the sentence? \"The award was given to ___ who scored highest.\"",
+    "options": [
+      "who's",
+      "whoever",
+      "whomever",
+      "whom"
+    ],
+    "correctIndex": 1,
+    "explanation": "Whoever is the subject of the clause \"whoever scored highest,\" even though the clause follows to."
+  },
+  {
+    "id": "eng-conventions-038",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses the correct form of the adjective?",
+    "options": [
+      "This is the goodest of the two textbooks.",
+      "This is the best of the two textbooks.",
+      "This is the more better of the two textbooks.",
+      "This is the better of the two textbooks."
+    ],
+    "correctIndex": 3,
+    "explanation": "Use the comparative form (better) when comparing two things and the superlative (best) for three or more."
+  },
+  {
+    "id": "eng-conventions-039",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which word correctly completes the sentence? \"She performed ___ on the final exam.\"",
+    "options": [
+      "good",
+      "well",
+      "best",
+      "goodly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Well is an adverb that describes how she performed; good is an adjective."
+  },
+  {
+    "id": "eng-conventions-040",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses the past participle correctly?",
+    "options": [
+      "The patient has already taked her medication.",
+      "The patient has already take her medication.",
+      "The patient has already taken her medication.",
+      "The patient has already took her medication."
+    ],
+    "correctIndex": 2,
+    "explanation": "Has requires the past participle taken, not the simple past took."
+  },
+  {
+    "id": "eng-conventions-041",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence uses lie and lay correctly?",
+    "options": [
+      "After surgery, she needed to laid down.",
+      "After surgery, she needed to lay down.",
+      "After surgery, she needed to lie down.",
+      "After surgery, she needed to lain down."
+    ],
+    "correctIndex": 2,
+    "explanation": "Lie means to recline and takes no object; lay means to place something and needs an object."
+  },
+  {
+    "id": "eng-conventions-042",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which word correctly completes the sentence? \"There were ___ patients in the waiting room than yesterday.\"",
+    "options": [
+      "lesser",
+      "less",
+      "least",
+      "fewer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Use fewer with countable nouns such as patients; use less with uncountable amounts such as water."
+  },
+  {
+    "id": "eng-conventions-043",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence avoids a double negative?",
+    "options": [
+      "I don't have no questions.",
+      "I don't hardly have no questions.",
+      "I haven't got no questions.",
+      "I don't have any questions."
+    ],
+    "correctIndex": 3,
+    "explanation": "Using two negatives (don't and no) cancels the meaning; standard English uses only one."
+  },
+  {
+    "id": "eng-conventions-044",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which word correctly completes the sentence? \"The lab results came back sooner ___ expected.\"",
+    "options": [
+      "then",
+      "thane",
+      "that",
+      "than"
+    ],
+    "correctIndex": 3,
+    "explanation": "Than is used for comparisons; then refers to time."
+  },
+  {
+    "id": "eng-conventions-045",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which word correctly completes the sentence? \"The cold weather had a strong ___ on attendance.\"",
+    "options": [
+      "affect",
+      "effect",
+      "affective",
+      "effects"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effect is usually a noun meaning result; affect is usually a verb meaning to influence."
+  },
+  {
+    "id": "eng-conventions-046",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which word correctly completes the sentence? \"Please ___ the extra gauze in the drawer.\"",
+    "options": [
+      "put",
+      "puts",
+      "puted",
+      "putting"
+    ],
+    "correctIndex": 0,
+    "explanation": "After please, use the base form of the verb for a command."
+  },
+  {
+    "id": "eng-conventions-047",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence correctly uses the subjunctive mood?",
+    "options": [
+      "If I was the charge nurse, I would change the schedule.",
+      "If I be the charge nurse, I would change the schedule.",
+      "If I am the charge nurse, I would change the schedule.",
+      "If I were the charge nurse, I would change the schedule."
+    ],
+    "correctIndex": 3,
+    "explanation": "Hypothetical conditions contrary to fact use were for all subjects."
+  },
+  {
+    "id": "eng-conventions-048",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "The datum from the two studies were combined.",
+      "The data from the two studies were combined.",
+      "The data from the two studies was combine.",
+      "The datas from the two studies was combined."
+    ],
+    "correctIndex": 1,
+    "explanation": "In formal scientific writing, data is the plural of datum and takes a plural verb."
+  },
+  {
+    "id": "eng-conventions-049",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which is the correct plural of \"child\"?",
+    "options": [
+      "children",
+      "childrens",
+      "childs",
+      "childes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Child has an irregular plural: children."
+  },
+  {
+    "id": "eng-conventions-050",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which is the correct plural of \"vertebra\"?",
+    "options": [
+      "vertebras",
+      "vertebrum",
+      "vertebrae",
+      "vertebraes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Many Latin words ending in -a form the plural with -ae."
+  },
+  {
+    "id": "eng-conventions-051",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which is the correct plural of \"criterion\"?",
+    "options": [
+      "criteria",
+      "criterions",
+      "criterias",
+      "criterium"
+    ],
+    "correctIndex": 0,
+    "explanation": "Criterion comes from Greek; its plural is criteria."
+  },
+  {
+    "id": "eng-conventions-052",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which spelling is correct for the word meaning \"to get or be given something\"?",
+    "options": [
+      "receive",
+      "resieve",
+      "recieve",
+      "receeve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Follow the rule \"i before e except after c\": receive."
+  },
+  {
+    "id": "eng-conventions-053",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which spelling is correct for the word meaning \"to keep apart\"?",
+    "options": [
+      "saparate",
+      "seperate",
+      "separete",
+      "separate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Separate has \"a rat\" in the middle: sep-a-rate."
+  },
+  {
+    "id": "eng-conventions-054",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which spelling is correct for the noun meaning \"an event or incident\"?",
+    "options": [
+      "occurrence",
+      "occurence",
+      "occurrance",
+      "ocurrence"
+    ],
+    "correctIndex": 0,
+    "explanation": "Occurrence has a double c, a double r, and ends in -ence."
+  },
+  {
+    "id": "eng-conventions-055",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word to complete the sentence: \"The unit can ___ twelve patients.\"",
+    "options": [
+      "accommodate",
+      "accomodate",
+      "acommodate",
+      "accommadate"
+    ],
+    "correctIndex": 0,
+    "explanation": "Accommodate has two c's and two m's."
+  },
+  {
+    "id": "eng-conventions-056",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word to complete the sentence: \"Caring for patients is a ___.\"",
+    "options": [
+      "privilege",
+      "privilage",
+      "priviledge",
+      "privelege"
+    ],
+    "correctIndex": 0,
+    "explanation": "Privilege has no d and is spelled p-r-i-v-i-l-e-g-e."
+  },
+  {
+    "id": "eng-conventions-057",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which spelling is correct for the adjective meaning \"careful and diligent\"?",
+    "options": [
+      "conscientious",
+      "concientious",
+      "conscientous",
+      "consciencious"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conscientious combines conscience with -tious: c-o-n-s-c-i-e-n-t-i-o-u-s."
+  },
+  {
+    "id": "eng-conventions-058",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which sentence uses capitalization correctly?",
+    "options": [
+      "My Aunt works at riverside medical center in Ohio.",
+      "My aunt works at Riverside medical center in ohio.",
+      "My aunt works at Riverside Medical Center in Ohio.",
+      "my aunt works at Riverside Medical Center in ohio."
+    ],
+    "correctIndex": 2,
+    "explanation": "Capitalize the first word and proper nouns such as the full name of a place and a state; aunt is not capitalized without a name."
+  },
+  {
+    "id": "eng-conventions-059",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses capitalization correctly?",
+    "options": [
+      "We studied Biology in the fall and Chemistry in the spring.",
+      "We studied biology in the Fall and chemistry in the Spring.",
+      "We studied Biology in the Fall and Chemistry in the Spring.",
+      "We studied biology in the fall and chemistry in the spring."
+    ],
+    "correctIndex": 3,
+    "explanation": "Seasons and general school subjects (except languages) are not capitalized."
+  },
+  {
+    "id": "eng-conventions-060",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence correctly capitalizes a title?",
+    "options": [
+      "Yesterday, doctor Chen spoke with the hospital's President.",
+      "Yesterday, Doctor chen spoke with the Hospital's President.",
+      "Yesterday, Doctor Chen spoke with the hospital's president.",
+      "Yesterday, doctor chen spoke with the hospital's president."
+    ],
+    "correctIndex": 2,
+    "explanation": "Capitalize a title used before a name (Doctor Chen) but not a general title used alone (president)."
+  },
+  {
+    "id": "eng-conventions-061",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which revision corrects the comma splice? \"The patient felt better, she asked to go home.\"",
+    "options": [
+      "The patient felt better, so she asked to go home.",
+      "The patient felt better, she asked, to go home.",
+      "The patient, felt better she asked to go home.",
+      "The patient felt better she asked to go home."
+    ],
+    "correctIndex": 0,
+    "explanation": "A comma alone cannot join two independent clauses; add a coordinating conjunction such as so."
+  },
+  {
+    "id": "eng-conventions-062",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which group of words is a complete sentence?",
+    "options": [
+      "Because the surgeon washed her hands.",
+      "The surgeon who washed her hands.",
+      "The surgeon washed her hands.",
+      "Washing her hands before surgery."
+    ],
+    "correctIndex": 2,
+    "explanation": "A complete sentence has a subject and verb and expresses a complete thought."
+  },
+  {
+    "id": "eng-conventions-063",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which revision corrects the fragment? \"Hoping to improve her score on the next test.\"",
+    "options": [
+      "Hoping to improve her score on the next test and studying.",
+      "Hoping, to improve her score on the next test.",
+      "Hoping to improve her score, she studied every night.",
+      "She hoping to improve her score on the next test."
+    ],
+    "correctIndex": 2,
+    "explanation": "Adding a subject and main verb (she studied) turns the phrase into a complete sentence."
+  },
+  {
+    "id": "eng-conventions-064",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence correctly places the modifier?",
+    "options": [
+      "With a bright red bow, the nurse gave the toy to the child.",
+      "The nurse with a bright red bow gave the toy to the child.",
+      "The nurse gave the toy with a bright red bow to the child.",
+      "The nurse gave the toy to the child with a bright red bow."
+    ],
+    "correctIndex": 2,
+    "explanation": "Place modifiers next to the word they describe; the bow belongs to the toy."
+  },
+  {
+    "id": "eng-conventions-065",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence corrects the dangling modifier?",
+    "options": [
+      "While reading the chart, it was noticed that there was an error.",
+      "While reading the chart, the nurse noticed an error.",
+      "While reading the chart, an error was noticed.",
+      "While reading the chart, the error was clear."
+    ],
+    "correctIndex": 1,
+    "explanation": "The introductory phrase must describe the subject that follows; the nurse, not the error, was reading."
+  },
+  {
+    "id": "eng-conventions-066",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which word correctly completes the sentence? \"The students placed ___ bags under the desks.\"",
+    "options": [
+      "theirs'",
+      "there",
+      "their",
+      "they're"
+    ],
+    "correctIndex": 2,
+    "explanation": "Their is the possessive form showing that the bags belong to the students."
+  },
+  {
+    "id": "eng-conventions-067",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "The orders which were written yesterday need to be updated the patient's condition has changed.",
+      "The orders which were written yesterday, need to be updated, the patient's condition has changed.",
+      "The orders, which were written yesterday need to be updated; the patients condition has changed.",
+      "The orders, which were written yesterday, need to be updated; the patient's condition has changed."
+    ],
+    "correctIndex": 3,
+    "explanation": "Commas set off the nonessential clause, and a semicolon joins the two related independent clauses."
+  },
+  {
+    "id": "eng-conventions-068",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which word correctly completes the sentence? \"The instructor will ___ late assignments only with a doctor's note.\"",
+    "options": [
+      "excerpt",
+      "expect",
+      "except",
+      "accept"
+    ],
+    "correctIndex": 3,
+    "explanation": "Accept means to receive or agree to; except means excluding."
+  },
+  {
+    "id": "eng-conventions-069",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which word correctly completes the sentence? \"Wear gloves to ___ infection.\"",
+    "options": [
+      "prevents",
+      "prevent",
+      "preventing of",
+      "prevention"
+    ],
+    "correctIndex": 1,
+    "explanation": "After to, use the base form of a verb to form an infinitive: to prevent."
+  },
+  {
+    "id": "eng-conventions-070",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "easy",
+    "question": "Which sentence uses the correct verb tense?",
+    "options": [
+      "Tomorrow, the class visited the hospital.",
+      "Tomorrow, the class will visit the hospital.",
+      "Tomorrow, the class visiting the hospital.",
+      "Tomorrow, the class has visited the hospital."
+    ],
+    "correctIndex": 1,
+    "explanation": "Tomorrow signals future time, so the future tense will visit is correct."
+  },
+  {
+    "id": "eng-conventions-071",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which word correctly completes the sentence? \"Lie still while I ___ the bandage.\"",
+    "options": [
+      "adjusted",
+      "had adjusted",
+      "adjusts",
+      "adjust"
+    ],
+    "correctIndex": 3,
+    "explanation": "The verb must agree with I in the present tense to match the command: I adjust."
+  },
+  {
+    "id": "eng-conventions-072",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "hard",
+    "question": "Which sentence correctly uses who or whom?",
+    "options": [
+      "Whom is giving the report?",
+      "To who should I give the report?",
+      "To whom should I give the report?",
+      "Who should I give the report to whom?"
+    ],
+    "correctIndex": 2,
+    "explanation": "Whom is the object form and is used after a preposition such as to."
+  },
+  {
+    "id": "eng-conventions-073",
+    "section": "english",
+    "subcategory": "conventions",
+    "difficulty": "medium",
+    "question": "Which sentence uses its and it's correctly?",
+    "options": [
+      "It's important that the unit keep its supply room organized.",
+      "It's important that the unit keep it's supply room organized.",
+      "Its important that the unit keep its supply room organized.",
+      "Its important that the unit keep it's supply room organized."
+    ],
+    "correctIndex": 0,
+    "explanation": "It's means it is; its shows possession by the unit."
   }
 ]

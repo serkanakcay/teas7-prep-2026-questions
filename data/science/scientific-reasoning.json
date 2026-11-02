@@ -223,5 +223,905 @@
     ],
     "correctIndex": 0,
     "explanation": "Theories are broad explanations repeatedly supported by evidence; hypotheses are testable predictions."
+  },
+  {
+    "id": "sci-scientific-reasoning-016",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A student tests whether the color of light affects how fast algae grow. What is the independent variable?",
+    "options": [
+      "The color of light",
+      "The amount of water",
+      "The growth rate of the algae",
+      "The size of the containers"
+    ],
+    "correctIndex": 0,
+    "explanation": "The independent variable is the factor the experimenter deliberately changes."
+  },
+  {
+    "id": "sci-scientific-reasoning-017",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A nurse researcher compares wound healing time between patients using a new dressing and those using a standard one. What is the dependent variable?",
+    "options": [
+      "Patients' ages",
+      "Type of dressing",
+      "Hospital unit",
+      "Wound healing time"
+    ],
+    "correctIndex": 3,
+    "explanation": "Healing time is measured to see whether it depends on the dressing used."
+  },
+  {
+    "id": "sci-scientific-reasoning-018",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "In a drug trial, one group receives the medication and another receives a sugar pill. What is the sugar pill called?",
+    "options": [
+      "A catalyst",
+      "An independent variable",
+      "A hypothesis",
+      "A placebo"
+    ],
+    "correctIndex": 3,
+    "explanation": "A placebo looks like the real treatment but has no active ingredient, helping separate real effects from expectations."
+  },
+  {
+    "id": "sci-scientific-reasoning-019",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "Why are some clinical trials \"double-blind\"?",
+    "options": [
+      "Neither participants nor researchers know who receives the treatment, which reduces bias.",
+      "Participants are tested with their eyes closed.",
+      "The data are reviewed twice.",
+      "Both groups receive the same drug."
+    ],
+    "correctIndex": 0,
+    "explanation": "Blinding both sides prevents expectations from influencing how participants respond or how researchers record results."
+  },
+  {
+    "id": "sci-scientific-reasoning-020",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Why should participants in an experiment be randomly assigned to groups?",
+    "options": [
+      "To remove the need for a control group",
+      "To make the sample smaller",
+      "To guarantee the hypothesis is supported",
+      "To make the groups similar so differences can be attributed to the treatment"
+    ],
+    "correctIndex": 3,
+    "explanation": "Random assignment spreads other characteristics evenly across groups, reducing confounding."
+  },
+  {
+    "id": "sci-scientific-reasoning-021",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "Which is the best example of a hypothesis?",
+    "options": [
+      "Sunlight is yellow.",
+      "If plants receive more sunlight, then they will grow taller.",
+      "Plants are beautiful.",
+      "Do plants like music?"
+    ],
+    "correctIndex": 1,
+    "explanation": "A hypothesis is a testable prediction, often written in if-then form."
+  },
+  {
+    "id": "sci-scientific-reasoning-022",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A student finds that seedlings watered with salt water grow less than those watered with tap water. Which change would most improve confidence in this result?",
+    "options": [
+      "Using only one seedling per group",
+      "Removing the tap-water group",
+      "Changing the type of seed halfway through",
+      "Repeating the experiment with many more seedlings"
+    ],
+    "correctIndex": 3,
+    "explanation": "Larger samples and repeated trials reduce the effect of chance variation."
+  },
+  {
+    "id": "sci-scientific-reasoning-023",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A study finds that people who carry lighters are more likely to develop lung disease. What is the most likely confounding variable?",
+    "options": [
+      "The brand of lighter fluid",
+      "The number of pockets in clothing",
+      "Smoking",
+      "The color of the lighter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Smokers both carry lighters and have more lung disease; smoking, not the lighter, explains the link."
+  },
+  {
+    "id": "sci-scientific-reasoning-024",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which part of a scientific report states whether the data supported the hypothesis?",
+    "options": [
+      "The title",
+      "The conclusion",
+      "The procedure",
+      "The materials list"
+    ],
+    "correctIndex": 1,
+    "explanation": "The conclusion interprets results and states whether they support or refute the hypothesis."
+  },
+  {
+    "id": "sci-scientific-reasoning-025",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "Which step comes directly after forming a hypothesis in the scientific method?",
+    "options": [
+      "Testing it with an experiment",
+      "Publishing the conclusion",
+      "Declaring it a law",
+      "Asking the original question"
+    ],
+    "correctIndex": 0,
+    "explanation": "After a hypothesis is formed, it is tested by experiment or further observation."
+  },
+  {
+    "id": "sci-scientific-reasoning-026",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "What is the difference between a scientific law and a scientific theory?",
+    "options": [
+      "A theory is just a guess.",
+      "A law is a theory that has been proven wrong.",
+      "A law describes what happens; a theory explains why it happens.",
+      "They mean exactly the same thing."
+    ],
+    "correctIndex": 2,
+    "explanation": "Laws, such as the law of gravity, describe patterns; theories, such as cell theory, are well-tested explanations."
+  },
+  {
+    "id": "sci-scientific-reasoning-027",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "Researchers survey only patients who return for follow-up visits about satisfaction. Why might results overestimate satisfaction?",
+    "options": [
+      "Unhappy patients may not return, creating selection bias.",
+      "The survey has too many questions.",
+      "Satisfaction cannot be measured.",
+      "Follow-up visits are always shorter."
+    ],
+    "correctIndex": 0,
+    "explanation": "If the sample excludes dissatisfied people, it no longer represents all patients."
+  },
+  {
+    "id": "sci-scientific-reasoning-028",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which observation is quantitative?",
+    "options": [
+      "The patient looks flushed.",
+      "The patient seems anxious.",
+      "The patient's temperature is 101.2°F.",
+      "The wound smells unpleasant."
+    ],
+    "correctIndex": 2,
+    "explanation": "Quantitative observations involve numbers and measurements."
+  },
+  {
+    "id": "sci-scientific-reasoning-029",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which statement is an inference rather than an observation?",
+    "options": [
+      "The plant's leaves are drooping.",
+      "The plant is 20 cm tall.",
+      "The soil is dry to the touch.",
+      "The plant wilted because it was not watered."
+    ],
+    "correctIndex": 3,
+    "explanation": "An inference is an explanation based on observations; drooping leaves and dry soil are directly observed."
+  },
+  {
+    "id": "sci-scientific-reasoning-030",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "Which instrument is used to measure the mass of an object in a lab?",
+    "options": [
+      "Graduated cylinder",
+      "Thermometer",
+      "Meter stick",
+      "Balance"
+    ],
+    "correctIndex": 3,
+    "explanation": "A balance measures mass, usually in grams."
+  },
+  {
+    "id": "sci-scientific-reasoning-031",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which instrument would a scientist use to view the shape of bacteria?",
+    "options": [
+      "Microscope",
+      "Spectrometer only",
+      "Telescope",
+      "Barometer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bacteria are too small to see with the unaided eye and require a microscope."
+  },
+  {
+    "id": "sci-scientific-reasoning-032",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A student measures a 10.0 g standard five times and records 9.1, 9.2, 9.1, 9.0, and 9.2 g. How would you describe these measurements?",
+    "options": [
+      "Neither accurate nor precise",
+      "Accurate but not precise",
+      "Both accurate and precise",
+      "Precise but not accurate"
+    ],
+    "correctIndex": 3,
+    "explanation": "The readings are close to each other (precise) but about 0.9 g below the true value (not accurate)."
+  },
+  {
+    "id": "sci-scientific-reasoning-033",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which is a safety practice in a laboratory?",
+    "options": [
+      "Tasting chemicals to identify them",
+      "Pouring water into concentrated acid quickly",
+      "Eating lunch at the lab bench",
+      "Wearing goggles when working with chemicals"
+    ],
+    "correctIndex": 3,
+    "explanation": "Eye protection prevents injury from splashes; never taste chemicals or eat in the lab."
+  },
+  {
+    "id": "sci-scientific-reasoning-034",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "What is the purpose of peer review in science?",
+    "options": [
+      "Other experts check a study's methods and conclusions before publication.",
+      "The author reviews their own work twice.",
+      "Results are kept secret.",
+      "Experiments are skipped to save time."
+    ],
+    "correctIndex": 0,
+    "explanation": "Peer review helps catch errors and ensures research meets scientific standards."
+  },
+  {
+    "id": "sci-scientific-reasoning-035",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Why do scientists use the metric system?",
+    "options": [
+      "It is a standard, base-10 system used worldwide, making data easy to share and convert.",
+      "It is the only system with units for length.",
+      "It avoids the need for measurement.",
+      "It uses fractions instead of decimals."
+    ],
+    "correctIndex": 0,
+    "explanation": "A common base-10 system makes conversion simple and lets scientists compare results across countries."
+  },
+  {
+    "id": "sci-scientific-reasoning-036",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "In an experiment, enzyme activity is 10 units at pH 2, 45 units at pH 7, and 12 units at pH 11. What conclusion is best supported?",
+    "options": [
+      "The enzyme works best in strong acid.",
+      "The enzyme works best near neutral pH.",
+      "The enzyme works best in strong base.",
+      "pH has no effect on the enzyme."
+    ],
+    "correctIndex": 1,
+    "explanation": "Activity peaks at pH 7 and drops at both extremes."
+  },
+  {
+    "id": "sci-scientific-reasoning-037",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Bacterial colonies were counted after 0, 2, 4, and 6 hours: 10, 20, 40, and 80. What pattern does the data show?",
+    "options": [
+      "The population decreases over time.",
+      "The population stays constant.",
+      "The population doubles every 2 hours.",
+      "The population increases by 10 every hour."
+    ],
+    "correctIndex": 2,
+    "explanation": "Each count is twice the one before it, which is exponential growth."
+  },
+  {
+    "id": "sci-scientific-reasoning-038",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "Using the same pattern (10, 20, 40, 80 colonies at 0, 2, 4, 6 hours), how many colonies are predicted at 10 hours?",
+    "options": [
+      "100",
+      "320",
+      "160",
+      "240"
+    ],
+    "correctIndex": 1,
+    "explanation": "Continue doubling every 2 hours: 160 at 8 hours and 320 at 10 hours."
+  },
+  {
+    "id": "sci-scientific-reasoning-039",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A graph shows reaction time increasing steadily as hours awake increase. Which statement describes the relationship?",
+    "options": [
+      "Negative correlation",
+      "Inverse proportion",
+      "Positive correlation",
+      "No correlation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Both variables increase together, so the correlation is positive."
+  },
+  {
+    "id": "sci-scientific-reasoning-040",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "On a graph, which variable is usually plotted on the x-axis?",
+    "options": [
+      "The hypothesis",
+      "The independent variable",
+      "The dependent variable",
+      "The control group"
+    ],
+    "correctIndex": 1,
+    "explanation": "The independent variable goes on the horizontal x-axis and the dependent variable on the vertical y-axis."
+  },
+  {
+    "id": "sci-scientific-reasoning-041",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "Plants were given 0, 5, 10, and 15 mL of fertilizer and grew 4, 9, 12, and 6 cm. What is the best conclusion?",
+    "options": [
+      "More fertilizer always produces more growth.",
+      "Plants grow best with no fertilizer.",
+      "Growth increased up to 10 mL, but too much fertilizer reduced growth.",
+      "Fertilizer has no effect on growth."
+    ],
+    "correctIndex": 2,
+    "explanation": "Height rises from 0 to 10 mL and then falls at 15 mL, suggesting an optimum amount."
+  },
+  {
+    "id": "sci-scientific-reasoning-042",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "A result is reported as 25 cm ± 0.5 cm. What does ± 0.5 cm represent?",
+    "options": [
+      "The independent variable",
+      "The uncertainty in the measurement",
+      "The mass of the object",
+      "A calculation mistake"
+    ],
+    "correctIndex": 1,
+    "explanation": "The value means the true length is likely between 24.5 and 25.5 cm."
+  },
+  {
+    "id": "sci-scientific-reasoning-043",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Two trials of an experiment give very different results. What should the scientist do next?",
+    "options": [
+      "Average the two and stop",
+      "Publish only the result that supports the hypothesis",
+      "Discard the hypothesis immediately",
+      "Repeat the experiment and look for sources of error"
+    ],
+    "correctIndex": 3,
+    "explanation": "Repeating trials and checking procedures helps determine which result, if either, is reliable."
+  },
+  {
+    "id": "sci-scientific-reasoning-044",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which data display is most useful for comparing the average blood pressure of four age groups?",
+    "options": [
+      "Bar graph",
+      "Pie chart of one group",
+      "Line graph of one patient",
+      "Single data table entry"
+    ],
+    "correctIndex": 0,
+    "explanation": "A bar graph compares values across separate categories."
+  },
+  {
+    "id": "sci-scientific-reasoning-045",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A study reports that a new drug lowered blood pressure in 52% of patients, compared with 50% on placebo, in a trial of 20 people. What is the best evaluation?",
+    "options": [
+      "The difference is small and the sample is too small to show the drug works.",
+      "The placebo is more effective.",
+      "The study proves the drug is dangerous.",
+      "The drug clearly works for everyone."
+    ],
+    "correctIndex": 0,
+    "explanation": "A two-point difference in only 20 people could easily be due to chance."
+  },
+  {
+    "id": "sci-scientific-reasoning-046",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A scientist notices mold killing bacteria on a dish and wonders why. Which step of the scientific method is this?",
+    "options": [
+      "Observation and questioning",
+      "Analyzing data",
+      "Drawing a conclusion",
+      "Publishing results"
+    ],
+    "correctIndex": 0,
+    "explanation": "The scientific method often starts with noticing something unexpected and asking a question about it."
+  },
+  {
+    "id": "sci-scientific-reasoning-047",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "What is a model in science?",
+    "options": [
+      "A proven law",
+      "A simplified representation used to explain or predict something",
+      "An exact copy of nature",
+      "A list of materials"
+    ],
+    "correctIndex": 1,
+    "explanation": "Models, such as the Bohr atom or a heart diagram, simplify complex systems to aid understanding."
+  },
+  {
+    "id": "sci-scientific-reasoning-048",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "A student wants to know whether music affects heart rate. Which is the best way to collect data?",
+    "options": [
+      "Read about music history",
+      "Measure heart rate once while running",
+      "Measure heart rates with and without music under the same conditions",
+      "Ask friends whether they like music"
+    ],
+    "correctIndex": 2,
+    "explanation": "Comparing measurements while changing only the music isolates its effect."
+  },
+  {
+    "id": "sci-scientific-reasoning-049",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which conclusion is supported if a hypothesis is not supported by the data?",
+    "options": [
+      "The hypothesis becomes a law.",
+      "The experiment was a total waste.",
+      "The data should be changed to fit.",
+      "The hypothesis should be revised or rejected."
+    ],
+    "correctIndex": 3,
+    "explanation": "Unsupported hypotheses are still valuable; they are revised and tested again."
+  },
+  {
+    "id": "sci-scientific-reasoning-050",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "Five trials of the time for an object to fall gave 1.42, 1.40, 1.45, 1.41, and 2.10 seconds. What is the most reasonable action?",
+    "options": [
+      "Use only the 2.10 s value",
+      "Check the 2.10 s trial for error before including it",
+      "Report the average of all five without comment",
+      "Assume gravity changed"
+    ],
+    "correctIndex": 1,
+    "explanation": "One value differs greatly from the others; it may be an outlier caused by a timing mistake."
+  },
+  {
+    "id": "sci-scientific-reasoning-051",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which variable must be controlled in a test of whether sugar affects yeast activity?",
+    "options": [
+      "The amount of sugar",
+      "The outcome",
+      "The temperature of the solution",
+      "The amount of gas produced"
+    ],
+    "correctIndex": 2,
+    "explanation": "Temperature also affects yeast, so it must be kept the same while only sugar is changed."
+  },
+  {
+    "id": "sci-scientific-reasoning-052",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Why is it important that an experiment can be replicated by other scientists?",
+    "options": [
+      "So conclusions never change",
+      "So results can be confirmed independently",
+      "So the original scientist gets credit",
+      "Because replication makes data unnecessary"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reproducible results increase confidence that the finding is real and not a mistake."
+  },
+  {
+    "id": "sci-scientific-reasoning-053",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "What does a scientist use to summarize numerical results in rows and columns?",
+    "options": [
+      "A hypothesis",
+      "A data table",
+      "A conclusion",
+      "A variable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Data tables organize measurements so patterns are easier to see."
+  },
+  {
+    "id": "sci-scientific-reasoning-054",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A researcher measures vitamin D levels and finds that people with low levels have more fractures. Which claim is justified?",
+    "options": [
+      "Vitamin D has no relationship to bones.",
+      "Low vitamin D definitely causes every fracture.",
+      "Fractures cause low vitamin D.",
+      "Low vitamin D is associated with more fractures."
+    ],
+    "correctIndex": 3,
+    "explanation": "An observational study shows association; establishing cause would require a controlled experiment."
+  },
+  {
+    "id": "sci-scientific-reasoning-055",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which source would provide the most reliable information about a new vaccine's effectiveness?",
+    "options": [
+      "An advertisement for the vaccine",
+      "A peer-reviewed journal article reporting a clinical trial",
+      "A celebrity's social media post",
+      "An anonymous online forum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Peer-reviewed research uses controlled methods and expert review."
+  },
+  {
+    "id": "sci-scientific-reasoning-056",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A ball is dropped from a building. Ignoring air resistance, what happens to its speed as it falls?",
+    "options": [
+      "It drops to zero halfway down.",
+      "It decreases.",
+      "It increases.",
+      "It stays the same."
+    ],
+    "correctIndex": 2,
+    "explanation": "Gravity accelerates the ball at about 9.8 m/s² as it falls."
+  },
+  {
+    "id": "sci-scientific-reasoning-057",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "According to Newton's third law, when you push on a wall, what does the wall do?",
+    "options": [
+      "It absorbs the force completely.",
+      "It pulls you toward it.",
+      "It pushes back on you with an equal and opposite force.",
+      "It pushes back with twice the force."
+    ],
+    "correctIndex": 2,
+    "explanation": "For every action force there is an equal and opposite reaction force."
+  },
+  {
+    "id": "sci-scientific-reasoning-058",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A car travels 150 km in 2.5 hours. What is its average speed?",
+    "options": [
+      "0.017 km/h",
+      "60 km/h",
+      "75 km/h",
+      "375 km/h"
+    ],
+    "correctIndex": 1,
+    "explanation": "Speed = distance ÷ time = 150 ÷ 2.5 = 60 km/h."
+  },
+  {
+    "id": "sci-scientific-reasoning-059",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "What force is needed to accelerate a 12 kg cart at 3 m/s²?",
+    "options": [
+      "4 N",
+      "36 N",
+      "15 N",
+      "9 N"
+    ],
+    "correctIndex": 1,
+    "explanation": "Newton's second law: F = ma = 12 x 3 = 36 newtons."
+  },
+  {
+    "id": "sci-scientific-reasoning-060",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "Which form of energy is stored in food and released during digestion and cellular respiration?",
+    "options": [
+      "Nuclear energy",
+      "Sound energy",
+      "Chemical energy",
+      "Magnetic energy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Energy stored in the bonds of food molecules is chemical energy."
+  },
+  {
+    "id": "sci-scientific-reasoning-061",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A ball at the top of a ramp has the most of which type of energy?",
+    "options": [
+      "Electrical energy",
+      "Kinetic energy",
+      "Sound energy",
+      "Potential energy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stored energy due to height is gravitational potential energy; it converts to kinetic energy as the ball rolls down."
+  },
+  {
+    "id": "sci-scientific-reasoning-062",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "How is heat transferred when a metal spoon warms up in hot soup?",
+    "options": [
+      "Evaporation",
+      "Convection",
+      "Radiation",
+      "Conduction"
+    ],
+    "correctIndex": 3,
+    "explanation": "Conduction transfers heat through direct contact between particles."
+  },
+  {
+    "id": "sci-scientific-reasoning-063",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which type of heat transfer brings warmth from the sun to Earth through space?",
+    "options": [
+      "Insulation",
+      "Radiation",
+      "Convection",
+      "Conduction"
+    ],
+    "correctIndex": 1,
+    "explanation": "Radiation transfers energy as electromagnetic waves and needs no medium."
+  },
+  {
+    "id": "sci-scientific-reasoning-064",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A student hypothesizes that warmer water dissolves sugar faster. Which result would NOT support the hypothesis?",
+    "options": [
+      "Sugar dissolves faster at 60°C than at 20°C.",
+      "Sugar dissolves slowest at 5°C.",
+      "Dissolving time drops as temperature rises.",
+      "Sugar dissolves equally fast at 20°C and 60°C."
+    ],
+    "correctIndex": 3,
+    "explanation": "If temperature makes no difference, the hypothesis that warmth speeds dissolving is not supported."
+  },
+  {
+    "id": "sci-scientific-reasoning-065",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which statement correctly describes the relationship between the systems during exercise?",
+    "options": [
+      "The digestive system speeds up to provide oxygen.",
+      "The skeletal system makes oxygen.",
+      "The urinary system pumps blood faster.",
+      "The respiratory and cardiovascular systems work together to deliver more oxygen to muscles."
+    ],
+    "correctIndex": 3,
+    "explanation": "Breathing rate and heart rate both increase so that more oxygen reaches working muscles."
+  },
+  {
+    "id": "sci-scientific-reasoning-066",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "Which unit is used to measure electric current?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Watt",
+      "Ampere"
+    ],
+    "correctIndex": 3,
+    "explanation": "Current is measured in amperes; voltage in volts, resistance in ohms, and power in watts."
+  },
+  {
+    "id": "sci-scientific-reasoning-067",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "In a circuit, if voltage stays the same and resistance increases, what happens to the current?",
+    "options": [
+      "It doubles.",
+      "It decreases.",
+      "It stays the same.",
+      "It increases."
+    ],
+    "correctIndex": 1,
+    "explanation": "Ohm's law, V = IR, means current falls when resistance rises at constant voltage."
+  },
+  {
+    "id": "sci-scientific-reasoning-068",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "What type of wave is sound?",
+    "options": [
+      "A light wave",
+      "A wave that travels through a vacuum",
+      "A mechanical wave that needs a medium",
+      "An electromagnetic wave"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sound is a vibration that travels through matter such as air or water and cannot cross empty space."
+  },
+  {
+    "id": "sci-scientific-reasoning-069",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A researcher measures pulse rates at rest (70 bpm), after walking (90 bpm), and after running (130 bpm). What is the percent increase from rest to running, to the nearest whole percent?",
+    "options": [
+      "186%",
+      "46%",
+      "86%",
+      "60%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Percent increase = (130 - 70) ÷ 70 x 100 ≈ 85.7%, which rounds to 86%."
+  },
+  {
+    "id": "sci-scientific-reasoning-070",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which prefix means one-thousandth of a unit in the metric system?",
+    "options": [
+      "Micro-",
+      "Kilo-",
+      "Milli-",
+      "Centi-"
+    ],
+    "correctIndex": 2,
+    "explanation": "Milli- means 1/1,000; centi- is 1/100, micro- is 1/1,000,000, and kilo- is 1,000."
+  },
+  {
+    "id": "sci-scientific-reasoning-071",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "A sample's volume is measured as 15.0 mL using a graduated cylinder. Which reading technique gives the correct volume?",
+    "options": [
+      "Tilt the cylinder and estimate",
+      "Read the bottom of the meniscus at eye level",
+      "Read the top edge of the liquid from above",
+      "Read the highest marking on the cylinder"
+    ],
+    "correctIndex": 1,
+    "explanation": "For water-based liquids, read the bottom of the curved meniscus with your eye level to the liquid."
+  },
+  {
+    "id": "sci-scientific-reasoning-072",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "easy",
+    "question": "Which is an example of a renewable energy source?",
+    "options": [
+      "Coal",
+      "Solar power",
+      "Natural gas",
+      "Petroleum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Solar energy is constantly replenished, unlike fossil fuels, which form over millions of years."
+  },
+  {
+    "id": "sci-scientific-reasoning-073",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "Which layer of Earth's atmosphere contains the ozone layer that absorbs ultraviolet radiation?",
+    "options": [
+      "Mesosphere",
+      "Stratosphere",
+      "Troposphere",
+      "Thermosphere"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ozone layer lies in the stratosphere, above the troposphere where weather occurs."
+  },
+  {
+    "id": "sci-scientific-reasoning-074",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "medium",
+    "question": "If a scientist wants to compare two treatments fairly, how many variables should differ between the groups?",
+    "options": [
+      "Only one, the treatment",
+      "Two or three",
+      "As many as possible",
+      "None"
+    ],
+    "correctIndex": 0,
+    "explanation": "Changing only one variable lets any difference in results be linked to that variable."
+  },
+  {
+    "id": "sci-scientific-reasoning-075",
+    "section": "science",
+    "subcategory": "scientific-reasoning",
+    "difficulty": "hard",
+    "question": "A patient's blood glucose was 180 mg/dL before and 120 mg/dL after a new diet, but the patient also started an exercise program. Why can't the diet alone be credited?",
+    "options": [
+      "Exercise is a confounding variable that also affects glucose.",
+      "Diets never affect glucose.",
+      "The values are too close together.",
+      "Glucose cannot be measured accurately."
+    ],
+    "correctIndex": 0,
+    "explanation": "Two changes occurred at once, so the effect of each cannot be separated."
   }
 ]

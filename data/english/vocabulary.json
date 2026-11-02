@@ -223,5 +223,890 @@
     ],
     "correctIndex": 2,
     "explanation": "'Contra-' means against; a contraindicated treatment should not be used in that situation."
+  },
+  {
+    "id": "eng-vocabulary-016",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the prefix \"hypo-\" mean in \"hypoglycemia\"?",
+    "options": [
+      "Above or excessive",
+      "Within",
+      "Below or deficient",
+      "Around"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hypo- means under or below normal; hypoglycemia is low blood sugar."
+  },
+  {
+    "id": "eng-vocabulary-017",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the prefix \"tachy-\" mean in \"tachycardia\"?",
+    "options": [
+      "Slow",
+      "Irregular",
+      "Weak",
+      "Fast"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tachy- means rapid; tachycardia is a fast heart rate."
+  },
+  {
+    "id": "eng-vocabulary-018",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the prefix \"brady-\" mean in \"bradycardia\"?",
+    "options": [
+      "Strong",
+      "Fast",
+      "Large",
+      "Slow"
+    ],
+    "correctIndex": 3,
+    "explanation": "Brady- means slow; bradycardia is a slow heart rate."
+  },
+  {
+    "id": "eng-vocabulary-019",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the suffix \"-ology\" mean in \"dermatology\"?",
+    "options": [
+      "Pain in",
+      "Study of",
+      "Inflammation of",
+      "Removal of"
+    ],
+    "correctIndex": 1,
+    "explanation": "-ology means the study of; dermatology is the study of the skin."
+  },
+  {
+    "id": "eng-vocabulary-020",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the suffix \"-algia\" mean in \"neuralgia\"?",
+    "options": [
+      "Swelling",
+      "Opening",
+      "Pain",
+      "Study"
+    ],
+    "correctIndex": 2,
+    "explanation": "-algia means pain; neuralgia is nerve pain."
+  },
+  {
+    "id": "eng-vocabulary-021",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the root \"hepat\" refer to in \"hepatitis\"?",
+    "options": [
+      "Kidney",
+      "Heart",
+      "Stomach",
+      "Liver"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hepat- refers to the liver; hepatitis is inflammation of the liver."
+  },
+  {
+    "id": "eng-vocabulary-022",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the root \"nephr\" refer to in \"nephrology\"?",
+    "options": [
+      "Kidney",
+      "Bone",
+      "Nerve",
+      "Lung"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nephr- refers to the kidney, as do the related renal terms."
+  },
+  {
+    "id": "eng-vocabulary-023",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the root \"oste\" refer to in \"osteoporosis\"?",
+    "options": [
+      "Skin",
+      "Muscle",
+      "Bone",
+      "Joint"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oste- means bone; osteoporosis is a condition of porous, weak bones."
+  },
+  {
+    "id": "eng-vocabulary-024",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the prefix \"pre-\" mean in \"prenatal\"?",
+    "options": [
+      "During",
+      "Before",
+      "Against",
+      "After"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pre- means before; prenatal means before birth."
+  },
+  {
+    "id": "eng-vocabulary-025",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the prefix \"anti-\" mean in \"antibiotic\"?",
+    "options": [
+      "With",
+      "Before",
+      "Against",
+      "Without"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anti- means against; an antibiotic acts against bacteria."
+  },
+  {
+    "id": "eng-vocabulary-026",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the prefix \"intra-\" mean in \"intravenous\"?",
+    "options": [
+      "Above",
+      "Within",
+      "Between",
+      "Outside"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intra- means within; intravenous means within a vein."
+  },
+  {
+    "id": "eng-vocabulary-027",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "What is the difference between the prefixes \"inter-\" and \"intra-\"?",
+    "options": [
+      "Inter- means between; intra- means within.",
+      "Both mean outside.",
+      "Inter- means within; intra- means between.",
+      "Inter- means after; intra- means before."
+    ],
+    "correctIndex": 0,
+    "explanation": "Intercostal muscles lie between the ribs; intracellular fluid is within cells."
+  },
+  {
+    "id": "eng-vocabulary-028",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the suffix \"-otomy\" mean in \"tracheotomy\"?",
+    "options": [
+      "Cutting into",
+      "Study of",
+      "Inflammation",
+      "Surgical removal"
+    ],
+    "correctIndex": 0,
+    "explanation": "-otomy means an incision into; -ectomy means removal."
+  },
+  {
+    "id": "eng-vocabulary-029",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the root \"gastr\" refer to in \"gastritis\"?",
+    "options": [
+      "Intestine",
+      "Gallbladder",
+      "Stomach",
+      "Throat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gastr- refers to the stomach."
+  },
+  {
+    "id": "eng-vocabulary-030",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "What does \"erythrocyte\" mean based on its word parts?",
+    "options": [
+      "Nerve cell",
+      "Red cell",
+      "Clotting cell",
+      "White cell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Erythr- means red and -cyte means cell; erythrocytes are red blood cells."
+  },
+  {
+    "id": "eng-vocabulary-031",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the prefix \"dys-\" mean in \"dysphagia\"?",
+    "options": [
+      "Normal",
+      "Difficult or abnormal",
+      "Without",
+      "Rapid"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dys- means difficult or bad; dysphagia is difficulty swallowing."
+  },
+  {
+    "id": "eng-vocabulary-032",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the prefix \"a-\" or \"an-\" mean in \"anemia\"?",
+    "options": [
+      "Excessive",
+      "Around",
+      "Double",
+      "Without or lacking"
+    ],
+    "correctIndex": 3,
+    "explanation": "A- or an- means without; anemia literally means a lack of blood (red cells or hemoglobin)."
+  },
+  {
+    "id": "eng-vocabulary-033",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "What does the root \"derm\" mean in \"epidermis\"?",
+    "options": [
+      "Bone",
+      "Skin",
+      "Hair",
+      "Blood"
+    ],
+    "correctIndex": 1,
+    "explanation": "Derm- means skin; the epidermis is the outer layer of skin."
+  },
+  {
+    "id": "eng-vocabulary-034",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does the suffix \"-emia\" mean in \"leukemia\"?",
+    "options": [
+      "A condition of the blood",
+      "Pain in a muscle",
+      "Removal of an organ",
+      "A tumor of bone"
+    ],
+    "correctIndex": 0,
+    "explanation": "-emia refers to the blood; leukemia is a cancer of white blood cells."
+  },
+  {
+    "id": "eng-vocabulary-035",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Based on its parts, what does \"pericardium\" mean?",
+    "options": [
+      "A fast heart rate",
+      "Removal of the heart",
+      "Inflammation of the heart",
+      "The membrane around the heart"
+    ],
+    "correctIndex": 3,
+    "explanation": "Peri- means around and cardi- means heart; the pericardium surrounds the heart."
+  },
+  {
+    "id": "eng-vocabulary-036",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"adhere\" mean? \"Patients who adhere to their medication schedule recover faster.\"",
+    "options": [
+      "To follow closely",
+      "To ignore",
+      "To shorten",
+      "To question"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recovering faster suggests the patients stick to, or follow, the schedule."
+  },
+  {
+    "id": "eng-vocabulary-037",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"acute\" mean? \"The pain was acute, starting suddenly and severely after the fall.\"",
+    "options": [
+      "Sudden and severe",
+      "Imaginary",
+      "Gradual",
+      "Mild and lasting"
+    ],
+    "correctIndex": 0,
+    "explanation": "The context says starting suddenly and severely, which defines acute."
+  },
+  {
+    "id": "eng-vocabulary-038",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"chronic\" mean? \"Her chronic back pain has lasted for over five years.\"",
+    "options": [
+      "Cured",
+      "Sharp",
+      "Brief",
+      "Long-lasting"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lasting over five years shows the pain is persistent, or chronic."
+  },
+  {
+    "id": "eng-vocabulary-039",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "Based on context, what does \"fatigue\" mean? \"After working a double shift, the nurse felt deep fatigue.\"",
+    "options": [
+      "Tiredness",
+      "Excitement",
+      "Hunger",
+      "Confusion"
+    ],
+    "correctIndex": 0,
+    "explanation": "A double shift would cause tiredness."
+  },
+  {
+    "id": "eng-vocabulary-040",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"transient\" mean? \"The dizziness was transient and disappeared within minutes.\"",
+    "options": [
+      "Temporary",
+      "Permanent",
+      "Contagious",
+      "Severe"
+    ],
+    "correctIndex": 0,
+    "explanation": "Disappeared within minutes shows the dizziness was short-lived."
+  },
+  {
+    "id": "eng-vocabulary-041",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Based on context, what does \"mitigate\" mean? \"Ice packs can mitigate swelling after an injury.\"",
+    "options": [
+      "To measure",
+      "To cause",
+      "To spread",
+      "To lessen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ice packs are used to reduce swelling, so mitigate means to lessen."
+  },
+  {
+    "id": "eng-vocabulary-042",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"lucid\" mean? \"Although she had a high fever, the patient remained lucid and answered every question clearly.\"",
+    "options": [
+      "Silent",
+      "Confused",
+      "Clear-thinking",
+      "Unconscious"
+    ],
+    "correctIndex": 2,
+    "explanation": "Answering questions clearly shows she could think clearly."
+  },
+  {
+    "id": "eng-vocabulary-043",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"copious\" mean? \"The wound produced copious drainage, soaking three dressings.\"",
+    "options": [
+      "Scant",
+      "Plentiful",
+      "Painful",
+      "Clear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soaking three dressings indicates a large amount."
+  },
+  {
+    "id": "eng-vocabulary-044",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Based on context, what does \"impeded\" mean? \"Swelling in the throat impeded the patient's breathing.\"",
+    "options": [
+      "Improved",
+      "Blocked or hindered",
+      "Measured",
+      "Increased"
+    ],
+    "correctIndex": 1,
+    "explanation": "Swelling in the airway makes breathing harder, so impeded means hindered."
+  },
+  {
+    "id": "eng-vocabulary-045",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"novice\" mean? \"As a novice, the new student watched carefully before trying the procedure herself.\"",
+    "options": [
+      "Patient",
+      "Expert",
+      "Beginner",
+      "Supervisor"
+    ],
+    "correctIndex": 2,
+    "explanation": "A new student watching before trying is a beginner."
+  },
+  {
+    "id": "eng-vocabulary-046",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"discrepancy\" mean? \"The nurse noticed a discrepancy between the order and the label, so she paused.\"",
+    "options": [
+      "A shortcut",
+      "A difference or mismatch",
+      "An agreement",
+      "A signature"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pausing suggests the order and label did not match."
+  },
+  {
+    "id": "eng-vocabulary-047",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "Based on context, what does \"vital\" mean? \"Water is vital to survival; without it, people die within days.\"",
+    "options": [
+      "Optional",
+      "Harmful",
+      "Essential",
+      "Rare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Without it people die, so water is essential."
+  },
+  {
+    "id": "eng-vocabulary-048",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"prudent\" mean? \"It is prudent to double-check a dose before giving it.\"",
+    "options": [
+      "Wise and careful",
+      "Expensive",
+      "Unusual",
+      "Careless"
+    ],
+    "correctIndex": 0,
+    "explanation": "Double-checking is a careful, sensible action."
+  },
+  {
+    "id": "eng-vocabulary-049",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Based on context, what does \"ubiquitous\" mean? \"Hand sanitizer dispensers are ubiquitous in the hospital, found in every hallway and room.\"",
+    "options": [
+      "Rarely seen",
+      "Found everywhere",
+      "Out of order",
+      "Recently removed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Found in every hallway and room defines ubiquitous."
+  },
+  {
+    "id": "eng-vocabulary-050",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"deteriorate\" mean? \"Without treatment, the patient's condition began to deteriorate.\"",
+    "options": [
+      "To improve",
+      "To be diagnosed",
+      "To become worse",
+      "To stay the same"
+    ],
+    "correctIndex": 2,
+    "explanation": "Without treatment implies the condition worsened."
+  },
+  {
+    "id": "eng-vocabulary-051",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"compliant\" mean? \"The compliant patient took every dose exactly as prescribed.\"",
+    "options": [
+      "Following instructions",
+      "Forgetting easily",
+      "Refusing treatment",
+      "Complaining loudly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taking every dose as prescribed shows the patient follows instructions."
+  },
+  {
+    "id": "eng-vocabulary-052",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "Based on context, what does \"inflamed\" mean? \"The inflamed joint was red, warm, and swollen.\"",
+    "options": [
+      "Red and swollen from irritation",
+      "Cold and pale",
+      "Broken",
+      "Healthy"
+    ],
+    "correctIndex": 0,
+    "explanation": "The description red, warm, and swollen defines inflammation."
+  },
+  {
+    "id": "eng-vocabulary-053",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Based on context, what does \"precipitate\" mean? \"Stress can precipitate an asthma attack in some patients.\"",
+    "options": [
+      "To cure",
+      "To bring on suddenly",
+      "To prevent",
+      "To diagnose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stress triggers the attack, so precipitate means to cause or bring on."
+  },
+  {
+    "id": "eng-vocabulary-054",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"sedentary\" mean? \"A sedentary lifestyle, with long hours of sitting, raises the risk of heart disease.\"",
+    "options": [
+      "Healthy",
+      "Inactive",
+      "Athletic",
+      "Stressful"
+    ],
+    "correctIndex": 1,
+    "explanation": "Long hours of sitting describe an inactive lifestyle."
+  },
+  {
+    "id": "eng-vocabulary-055",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Based on context, what does \"palpate\" mean? \"The nurse gently palpated the abdomen to feel for tenderness.\"",
+    "options": [
+      "To tap with a hammer",
+      "To look at closely",
+      "To listen with a stethoscope",
+      "To examine by touch"
+    ],
+    "correctIndex": 3,
+    "explanation": "To feel for tenderness shows the nurse examined by touch."
+  },
+  {
+    "id": "eng-vocabulary-056",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "Which word is a synonym for \"rapid\"?",
+    "options": [
+      "Steady",
+      "Late",
+      "Quick",
+      "Slow"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rapid and quick both mean fast."
+  },
+  {
+    "id": "eng-vocabulary-057",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "Which word is an antonym of \"expand\"?",
+    "options": [
+      "Grow",
+      "Contract",
+      "Spread",
+      "Enlarge"
+    ],
+    "correctIndex": 1,
+    "explanation": "Expand means to grow larger; contract means to shrink."
+  },
+  {
+    "id": "eng-vocabulary-058",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is a synonym for \"adequate\"?",
+    "options": [
+      "Lacking",
+      "Perfect",
+      "Excessive",
+      "Sufficient"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adequate means enough, which is what sufficient means."
+  },
+  {
+    "id": "eng-vocabulary-059",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is an antonym of \"external\"?",
+    "options": [
+      "Outer",
+      "Internal",
+      "Surface",
+      "Distant"
+    ],
+    "correctIndex": 1,
+    "explanation": "External means outside; internal means inside."
+  },
+  {
+    "id": "eng-vocabulary-060",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is a synonym for \"diminish\"?",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Repeat",
+      "Maintain"
+    ],
+    "correctIndex": 0,
+    "explanation": "To diminish is to become smaller or less."
+  },
+  {
+    "id": "eng-vocabulary-061",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is an antonym of \"voluntary\"?",
+    "options": [
+      "Involuntary",
+      "Deliberate",
+      "Willing",
+      "Chosen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voluntary actions are chosen; involuntary ones happen automatically."
+  },
+  {
+    "id": "eng-vocabulary-062",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Which word is a synonym for \"meticulous\"?",
+    "options": [
+      "Careless",
+      "Messy",
+      "Hasty",
+      "Thorough"
+    ],
+    "correctIndex": 3,
+    "explanation": "Meticulous means showing great attention to detail."
+  },
+  {
+    "id": "eng-vocabulary-063",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is an antonym of \"dilate\"?",
+    "options": [
+      "Constrict",
+      "Expand",
+      "Widen",
+      "Open"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dilate means to widen; constrict means to narrow."
+  },
+  {
+    "id": "eng-vocabulary-064",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word means \"able to be passed from one person to another\"?",
+    "options": [
+      "Contagious",
+      "Dormant",
+      "Chronic",
+      "Benign"
+    ],
+    "correctIndex": 0,
+    "explanation": "A contagious disease spreads from person to person."
+  },
+  {
+    "id": "eng-vocabulary-065",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does \"asymptomatic\" mean?",
+    "options": [
+      "Showing no symptoms",
+      "Having a fever",
+      "Recovering slowly",
+      "Having many symptoms"
+    ],
+    "correctIndex": 0,
+    "explanation": "A- means without, so asymptomatic means without symptoms."
+  },
+  {
+    "id": "eng-vocabulary-066",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "What does \"idiopathic\" mean when describing a disease?",
+    "options": [
+      "Present from birth",
+      "Caused by a doctor",
+      "Spread by insects",
+      "Having no known cause"
+    ],
+    "correctIndex": 3,
+    "explanation": "An idiopathic condition arises spontaneously or from an unknown cause."
+  },
+  {
+    "id": "eng-vocabulary-067",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does \"bilateral\" mean in \"bilateral knee pain\"?",
+    "options": [
+      "Affecting one side",
+      "Recently started",
+      "Very severe",
+      "Affecting both sides"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bi- means two and lateral refers to sides, so both knees hurt."
+  },
+  {
+    "id": "eng-vocabulary-068",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "Which word means \"to give a medication\"?",
+    "options": [
+      "Assess",
+      "Advise",
+      "Administer",
+      "Admit"
+    ],
+    "correctIndex": 2,
+    "explanation": "To administer a medication is to give it to a patient."
+  },
+  {
+    "id": "eng-vocabulary-069",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does \"nutrient\" mean?",
+    "options": [
+      "A medical instrument",
+      "A substance that provides nourishment",
+      "A type of bacteria",
+      "A waste product"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nutrients such as proteins and vitamins nourish the body."
+  },
+  {
+    "id": "eng-vocabulary-070",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is a synonym for \"verify\"?",
+    "options": [
+      "Doubt",
+      "Confirm",
+      "Delay",
+      "Guess"
+    ],
+    "correctIndex": 1,
+    "explanation": "To verify is to check that something is true, or confirm it."
+  },
+  {
+    "id": "eng-vocabulary-071",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "hard",
+    "question": "Which word is an antonym of \"benevolent\"?",
+    "options": [
+      "Kind",
+      "Generous",
+      "Malicious",
+      "Charitable"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benevolent means kind and well-meaning; malicious means intending harm."
+  },
+  {
+    "id": "eng-vocabulary-072",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "What does \"hydrate\" mean?",
+    "options": [
+      "To freeze",
+      "To supply with water",
+      "To remove water",
+      "To heat"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hydr- refers to water; to hydrate is to add water."
+  },
+  {
+    "id": "eng-vocabulary-073",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "easy",
+    "question": "Which word is a synonym for \"assist\"?",
+    "options": [
+      "Hinder",
+      "Help",
+      "Leave",
+      "Watch"
+    ],
+    "correctIndex": 1,
+    "explanation": "To assist is to help."
+  },
+  {
+    "id": "eng-vocabulary-074",
+    "section": "english",
+    "subcategory": "vocabulary",
+    "difficulty": "medium",
+    "question": "Which word is a homophone of \"principal\"?",
+    "options": [
+      "Prince",
+      "Principled",
+      "Practical",
+      "Principle"
+    ],
+    "correctIndex": 3,
+    "explanation": "Principal (main or a school leader) and principle (a basic rule) sound alike but have different meanings."
   }
 ]

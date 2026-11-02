@@ -238,5 +238,890 @@
     ],
     "correctIndex": 3,
     "explanation": "The solvent dissolves the solute; water is the solvent and salt is the solute."
+  },
+  {
+    "id": "sci-chemistry-017",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which subatomic particle has no electric charge?",
+    "options": [
+      "Neutron",
+      "Proton",
+      "Positron",
+      "Electron"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neutrons are neutral; protons are positive and electrons are negative."
+  },
+  {
+    "id": "sci-chemistry-018",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Where are protons and neutrons located in an atom?",
+    "options": [
+      "In orbitals outside the nucleus",
+      "Spread evenly through the atom",
+      "In the electron cloud",
+      "In the nucleus"
+    ],
+    "correctIndex": 3,
+    "explanation": "The dense nucleus holds protons and neutrons, while electrons occupy the space around it."
+  },
+  {
+    "id": "sci-chemistry-019",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Carbon has an atomic number of 6. How many neutrons are in an atom of carbon-14?",
+    "options": [
+      "8",
+      "6",
+      "14",
+      "20"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neutrons = mass number - atomic number = 14 - 6 = 8."
+  },
+  {
+    "id": "sci-chemistry-020",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "An ion has 17 protons and 18 electrons. What is its charge?",
+    "options": [
+      "0",
+      "+1",
+      "-18",
+      "-1"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charge = protons - electrons = 17 - 18 = -1. This is the chloride ion, Cl⁻."
+  },
+  {
+    "id": "sci-chemistry-021",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What are valence electrons?",
+    "options": [
+      "Electrons in the innermost shell only",
+      "Electrons in the outermost energy level of an atom",
+      "Electrons that have been removed from an atom",
+      "Electrons inside the nucleus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Valence electrons are in the outer shell and determine how an atom bonds."
+  },
+  {
+    "id": "sci-chemistry-022",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Elements in the same group (column) of the periodic table share which property?",
+    "options": [
+      "The same number of valence electrons",
+      "The same atomic mass",
+      "The same number of neutrons",
+      "The same number of energy levels"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elements in a group have similar outer electron arrangements, so they react in similar ways."
+  },
+  {
+    "id": "sci-chemistry-023",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which group of elements is the most reactive group of metals?",
+    "options": [
+      "Noble gases (Group 18)",
+      "Transition metals",
+      "Halogens (Group 17)",
+      "Alkali metals (Group 1)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Alkali metals have one valence electron that they lose easily, making them very reactive."
+  },
+  {
+    "id": "sci-chemistry-024",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which element is a halogen?",
+    "options": [
+      "Calcium",
+      "Chlorine",
+      "Sodium",
+      "Neon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Halogens are in Group 17 and include fluorine, chlorine, bromine, and iodine."
+  },
+  {
+    "id": "sci-chemistry-025",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Moving from left to right across a period, what generally happens to atomic radius?",
+    "options": [
+      "It stays the same.",
+      "It decreases.",
+      "It doubles.",
+      "It increases."
+    ],
+    "correctIndex": 1,
+    "explanation": "More protons pull the electrons in the same energy level closer to the nucleus, so atoms get smaller."
+  },
+  {
+    "id": "sci-chemistry-026",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Oxygen",
+      "Cesium"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fluorine attracts shared electrons more strongly than any other element."
+  },
+  {
+    "id": "sci-chemistry-027",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What type of bond forms when one atom transfers electrons to another, as in sodium chloride?",
+    "options": [
+      "Hydrogen bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Ionic bond"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sodium gives an electron to chlorine, and the resulting oppositely charged ions attract."
+  },
+  {
+    "id": "sci-chemistry-028",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "In a water molecule, the oxygen end is partially negative and the hydrogen ends are partially positive. What kind of molecule is water?",
+    "options": [
+      "Nonpolar",
+      "Metallic",
+      "Polar",
+      "Ionic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oxygen pulls shared electrons more strongly than hydrogen, and the bent shape gives water a net dipole."
+  },
+  {
+    "id": "sci-chemistry-029",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What attraction between water molecules explains water's high surface tension and boiling point?",
+    "options": [
+      "Ionic bonding",
+      "Nuclear force",
+      "Hydrogen bonding",
+      "Metallic bonding"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hydrogen bonds form between the partially positive H of one molecule and the partially negative O of another."
+  },
+  {
+    "id": "sci-chemistry-030",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which of the following is a compound rather than an element?",
+    "options": [
+      "Iron (Fe)",
+      "Oxygen gas (O₂)",
+      "Helium (He)",
+      "Carbon dioxide (CO₂)"
+    ],
+    "correctIndex": 3,
+    "explanation": "A compound contains two or more different elements chemically combined; CO₂ contains carbon and oxygen."
+  },
+  {
+    "id": "sci-chemistry-031",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "How many atoms are in one molecule of glucose, C₆H₁₂O₆?",
+    "options": [
+      "3",
+      "24",
+      "36",
+      "18"
+    ],
+    "correctIndex": 1,
+    "explanation": "Add the subscripts: 6 carbon + 12 hydrogen + 6 oxygen = 24 atoms."
+  },
+  {
+    "id": "sci-chemistry-032",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "NaCl",
+      "NaCl₂",
+      "Na₂Cl",
+      "KCl"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sodium (Na⁺) and chloride (Cl⁻) combine in a 1:1 ratio."
+  },
+  {
+    "id": "sci-chemistry-033",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "Calcium forms Ca²⁺ ions and chlorine forms Cl⁻ ions. What is the formula of calcium chloride?",
+    "options": [
+      "Ca₂Cl₃",
+      "CaCl₂",
+      "Ca₂Cl",
+      "CaCl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Two Cl⁻ ions are needed to balance the +2 charge of one Ca²⁺ ion."
+  },
+  {
+    "id": "sci-chemistry-034",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which is an example of a physical change?",
+    "options": [
+      "Milk souring",
+      "Iron rusting",
+      "Wood burning",
+      "Ice melting into water"
+    ],
+    "correctIndex": 3,
+    "explanation": "Melting changes only the state of matter; the substance is still water."
+  },
+  {
+    "id": "sci-chemistry-035",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which observation suggests that a chemical change has occurred?",
+    "options": [
+      "A gas forms and bubbles appear when two liquids are mixed.",
+      "A glass breaks.",
+      "Sugar dissolves in water.",
+      "Water boils."
+    ],
+    "correctIndex": 0,
+    "explanation": "Formation of a gas, color change, light, or a precipitate signals new substances are being made."
+  },
+  {
+    "id": "sci-chemistry-036",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "What is the change of state from gas to liquid called?",
+    "options": [
+      "Evaporation",
+      "Sublimation",
+      "Condensation",
+      "Melting"
+    ],
+    "correctIndex": 2,
+    "explanation": "Condensation occurs when a gas loses energy and becomes a liquid, as when water droplets form on a cold glass."
+  },
+  {
+    "id": "sci-chemistry-037",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "What is the molar mass of CO₂? (C = 12 g/mol, O = 16 g/mol)",
+    "options": [
+      "28 g/mol",
+      "384 g/mol",
+      "44 g/mol",
+      "40 g/mol"
+    ],
+    "correctIndex": 2,
+    "explanation": "12 + 2(16) = 44 g/mol."
+  },
+  {
+    "id": "sci-chemistry-038",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "How many moles are in 117 g of NaCl? (Na = 23 g/mol, Cl = 35.5 g/mol)",
+    "options": [
+      "3.3",
+      "2",
+      "6,844.5",
+      "5.1"
+    ],
+    "correctIndex": 1,
+    "explanation": "The molar mass of NaCl is 58.5 g/mol, so 117 ÷ 58.5 = 2 moles."
+  },
+  {
+    "id": "sci-chemistry-039",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "What is the mass of 0.5 mol of glucose, C₆H₁₂O₆? (C = 12, H = 1, O = 16 g/mol)",
+    "options": [
+      "14.5 g",
+      "180 g",
+      "720 g",
+      "90 g"
+    ],
+    "correctIndex": 3,
+    "explanation": "Molar mass = 6(12) + 12(1) + 6(16) = 180 g/mol, and 0.5 x 180 = 90 g."
+  },
+  {
+    "id": "sci-chemistry-040",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Ammonia forms from nitrogen and hydrogen (N₂ + H₂ → NH₃). Which coefficients, in order, balance this equation?",
+    "options": [
+      "2, 3, 1",
+      "1, 1, 2",
+      "1, 3, 2",
+      "1, 3, 1"
+    ],
+    "correctIndex": 2,
+    "explanation": "1 N₂ gives 2 N, needing 2 NH₃; 2 NH₃ has 6 H, needing 3 H₂."
+  },
+  {
+    "id": "sci-chemistry-041",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "Balance the combustion equation: __CH₄ + __O₂ → __CO₂ + __H₂O. What are the coefficients?",
+    "options": [
+      "2, 3, 2, 2",
+      "1, 1, 1, 2",
+      "1, 3, 1, 2",
+      "1, 2, 1, 2"
+    ],
+    "correctIndex": 3,
+    "explanation": "One CH₄ makes 1 CO₂ and 2 H₂O. The products then have 4 O atoms, so 2 O₂ are needed."
+  },
+  {
+    "id": "sci-chemistry-042",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What does the law of conservation of mass state about a chemical reaction?",
+    "options": [
+      "Mass is created when bonds form.",
+      "Products always weigh more than reactants.",
+      "The total mass of reactants equals the total mass of products.",
+      "Gases have no mass."
+    ],
+    "correctIndex": 2,
+    "explanation": "Atoms are rearranged, not created or destroyed, so mass is conserved."
+  },
+  {
+    "id": "sci-chemistry-043",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What type of reaction is 2H₂O₂ → 2H₂O + O₂?",
+    "options": [
+      "Synthesis",
+      "Decomposition",
+      "Combustion",
+      "Single replacement"
+    ],
+    "correctIndex": 1,
+    "explanation": "One compound breaks down into two or more simpler substances."
+  },
+  {
+    "id": "sci-chemistry-044",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What type of reaction is Zn + 2HCl → ZnCl₂ + H₂?",
+    "options": [
+      "Single replacement",
+      "Decomposition",
+      "Synthesis",
+      "Double replacement"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zinc replaces hydrogen in the compound, releasing hydrogen gas."
+  },
+  {
+    "id": "sci-chemistry-045",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "What type of reaction is 2Na + Cl₂ → 2NaCl?",
+    "options": [
+      "Double replacement",
+      "Decomposition",
+      "Synthesis (combination)",
+      "Combustion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Two reactants combine to form a single product."
+  },
+  {
+    "id": "sci-chemistry-046",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "A reaction releases heat and the container feels warm. What type of reaction is it?",
+    "options": [
+      "Exothermic",
+      "Nuclear",
+      "Isothermic",
+      "Endothermic"
+    ],
+    "correctIndex": 0,
+    "explanation": "Exothermic reactions release energy to the surroundings; endothermic reactions absorb it."
+  },
+  {
+    "id": "sci-chemistry-047",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What is the role of a catalyst in a chemical reaction?",
+    "options": [
+      "It speeds up the reaction without being used up.",
+      "It raises the activation energy.",
+      "It is consumed and becomes a product.",
+      "It changes which products form."
+    ],
+    "correctIndex": 0,
+    "explanation": "Catalysts provide a pathway with lower activation energy and are recovered unchanged."
+  },
+  {
+    "id": "sci-chemistry-048",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "In the reaction 2H₂ + O₂ → 2H₂O, how many moles of water form from 3 moles of O₂ with enough hydrogen?",
+    "options": [
+      "6 moles",
+      "1.5 moles",
+      "3 moles",
+      "2 moles"
+    ],
+    "correctIndex": 0,
+    "explanation": "The mole ratio of O₂ to H₂O is 1:2, so 3 mol O₂ x 2 = 6 mol H₂O."
+  },
+  {
+    "id": "sci-chemistry-049",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What is oxidation?",
+    "options": [
+      "The loss of neutrons",
+      "The loss of electrons",
+      "The gain of electrons",
+      "The gain of protons"
+    ],
+    "correctIndex": 1,
+    "explanation": "A memory aid is \"OIL RIG\": oxidation is loss, reduction is gain of electrons."
+  },
+  {
+    "id": "sci-chemistry-050",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which change would increase the rate at which a sugar cube dissolves in water?",
+    "options": [
+      "Using colder water",
+      "Leaving the water unstirred",
+      "Using a larger cube",
+      "Crushing the cube into powder"
+    ],
+    "correctIndex": 3,
+    "explanation": "Crushing increases surface area, so more solute contacts the solvent at once."
+  },
+  {
+    "id": "sci-chemistry-051",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which substance turns blue litmus paper red?",
+    "options": [
+      "An acid",
+      "A salt solution with pH 7",
+      "A base",
+      "Pure water"
+    ],
+    "correctIndex": 0,
+    "explanation": "Acids turn blue litmus red; bases turn red litmus blue."
+  },
+  {
+    "id": "sci-chemistry-052",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What is the pH of pure water at 25°C?",
+    "options": [
+      "1",
+      "7",
+      "14",
+      "0"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pure water is neutral, with equal concentrations of H⁺ and OH⁻ ions, giving pH 7."
+  },
+  {
+    "id": "sci-chemistry-053",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which pH value indicates the strongest base?",
+    "options": [
+      "8",
+      "2",
+      "13",
+      "7"
+    ],
+    "correctIndex": 2,
+    "explanation": "pH values above 7 are basic, and the higher the value, the stronger the base."
+  },
+  {
+    "id": "sci-chemistry-054",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "A buffer in the blood helps keep pH near 7.4. What does a buffer do?",
+    "options": [
+      "It makes the blood strongly acidic.",
+      "It removes all ions from solution.",
+      "It raises pH to 14.",
+      "It resists changes in pH when acids or bases are added."
+    ],
+    "correctIndex": 3,
+    "explanation": "Buffers such as the bicarbonate system neutralize added H⁺ or OH⁻ ions, keeping pH stable."
+  },
+  {
+    "id": "sci-chemistry-055",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "A solution contains 20 g of glucose dissolved in enough water to make 400 mL. What is its concentration in g/mL?",
+    "options": [
+      "0.05",
+      "0.01",
+      "0.5",
+      "20"
+    ],
+    "correctIndex": 0,
+    "explanation": "Concentration = solute ÷ volume = 20 ÷ 400 = 0.05 g/mL."
+  },
+  {
+    "id": "sci-chemistry-056",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "How many mL of a 6 M stock solution are needed to make 150 mL of a 2 M solution?",
+    "options": [
+      "75 mL",
+      "150 mL",
+      "50 mL",
+      "1,800 mL"
+    ],
+    "correctIndex": 2,
+    "explanation": "Use C₁V₁ = C₂V₂: V₁ = (2 x 150) ÷ 6 = 50 mL."
+  },
+  {
+    "id": "sci-chemistry-057",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What is the molarity of a solution with 2 moles of solute in 4 liters of solution?",
+    "options": [
+      "4 M",
+      "0.5 M",
+      "2 M",
+      "8 M"
+    ],
+    "correctIndex": 1,
+    "explanation": "Molarity = moles of solute ÷ liters of solution = 2 ÷ 4 = 0.5 M."
+  },
+  {
+    "id": "sci-chemistry-058",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "What is the term for a mixture in which the substances are evenly distributed, such as salt water?",
+    "options": [
+      "Heterogeneous mixture",
+      "Suspension",
+      "Homogeneous mixture",
+      "Pure element"
+    ],
+    "correctIndex": 2,
+    "explanation": "A homogeneous mixture, or solution, has a uniform composition throughout."
+  },
+  {
+    "id": "sci-chemistry-059",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "A solution holds the maximum amount of solute that can dissolve at a given temperature. What is it called?",
+    "options": [
+      "Neutral",
+      "Saturated",
+      "Dilute",
+      "Unsaturated"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a saturated solution, adding more solute leaves undissolved solid."
+  },
+  {
+    "id": "sci-chemistry-060",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "How does increasing temperature usually affect the solubility of a solid in water?",
+    "options": [
+      "Solubility stays the same.",
+      "Solubility decreases.",
+      "The solid cannot dissolve.",
+      "Solubility increases."
+    ],
+    "correctIndex": 3,
+    "explanation": "Most solids dissolve better in warmer water, although gases dissolve better in cold water."
+  },
+  {
+    "id": "sci-chemistry-061",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "How does increasing temperature affect the solubility of a gas, such as CO₂, in a liquid?",
+    "options": [
+      "Solubility decreases.",
+      "Solubility increases.",
+      "Solubility does not change.",
+      "The gas turns into a solid."
+    ],
+    "correctIndex": 0,
+    "explanation": "Gas molecules gain kinetic energy and escape the liquid more easily, which is why warm soda goes flat faster."
+  },
+  {
+    "id": "sci-chemistry-062",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "In which state of matter do particles have the most kinetic energy?",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Crystal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gas particles move fastest and are farthest apart."
+  },
+  {
+    "id": "sci-chemistry-063",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "At constant temperature, what happens to the volume of a gas if its pressure is doubled?",
+    "options": [
+      "The volume quadruples.",
+      "The volume is halved.",
+      "The volume stays the same.",
+      "The volume doubles."
+    ],
+    "correctIndex": 1,
+    "explanation": "Boyle's law states that pressure and volume are inversely proportional at constant temperature."
+  },
+  {
+    "id": "sci-chemistry-064",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "A gas occupies 3.0 L at 300 K. If pressure stays constant, what is its volume at 400 K?",
+    "options": [
+      "3.33 L",
+      "3 L",
+      "2.25 L",
+      "4 L"
+    ],
+    "correctIndex": 3,
+    "explanation": "Charles's law: V₁/T₁ = V₂/T₂, so V₂ = 3.0 x 400 ÷ 300 = 4 L."
+  },
+  {
+    "id": "sci-chemistry-065",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Water boils at a lower temperature at high altitude. Why?",
+    "options": [
+      "Gravity is stronger.",
+      "The water is saltier.",
+      "There is more oxygen in the air.",
+      "The atmospheric pressure is lower."
+    ],
+    "correctIndex": 3,
+    "explanation": "A liquid boils when its vapor pressure equals the surrounding pressure; lower air pressure is reached at a lower temperature."
+  },
+  {
+    "id": "sci-chemistry-066",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water at sea level in degrees Celsius?",
+    "options": [
+      "32°C",
+      "100°C",
+      "0°C",
+      "212°C"
+    ],
+    "correctIndex": 1,
+    "explanation": "At standard atmospheric pressure, water boils at 100°C, which is 212°F."
+  },
+  {
+    "id": "sci-chemistry-067",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which unit is the SI unit of temperature used in gas law calculations?",
+    "options": [
+      "Joule",
+      "Fahrenheit",
+      "Kelvin",
+      "Celsius"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gas laws require absolute temperature in kelvins, where 0 K is absolute zero."
+  },
+  {
+    "id": "sci-chemistry-068",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Convert 25°C to kelvins.",
+    "options": [
+      "298 K",
+      "248 K",
+      "77 K",
+      "25 K"
+    ],
+    "correctIndex": 0,
+    "explanation": "K = °C + 273, so 25 + 273 = 298 K."
+  },
+  {
+    "id": "sci-chemistry-069",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which type of mixture has visibly different parts, such as sand in water?",
+    "options": [
+      "Heterogeneous mixture",
+      "Solution",
+      "Compound",
+      "Homogeneous mixture"
+    ],
+    "correctIndex": 0,
+    "explanation": "A heterogeneous mixture is not uniform; its components can be seen and separated physically."
+  },
+  {
+    "id": "sci-chemistry-070",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which method would best separate salt from salt water?",
+    "options": [
+      "Decanting",
+      "Using a magnet",
+      "Filtration",
+      "Evaporation"
+    ],
+    "correctIndex": 3,
+    "explanation": "Evaporating the water leaves the dissolved salt behind; filtration cannot remove dissolved substances."
+  },
+  {
+    "id": "sci-chemistry-071",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "hard",
+    "question": "Which nuclear process combines light nuclei to form a heavier nucleus and powers the sun?",
+    "options": [
+      "Alpha decay",
+      "Fission",
+      "Fusion",
+      "Ionization"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the sun, hydrogen nuclei fuse into helium, releasing enormous energy."
+  },
+  {
+    "id": "sci-chemistry-072",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "Which type of radiation is a helium nucleus with two protons and two neutrons?",
+    "options": [
+      "Gamma ray",
+      "X-ray",
+      "Alpha particle",
+      "Beta particle"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alpha particles are heavy and positively charged and can be stopped by a sheet of paper."
+  },
+  {
+    "id": "sci-chemistry-073",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "A radioactive isotope has a half-life of 6 hours. What fraction of a sample remains after 18 hours?",
+    "options": [
+      "1/6",
+      "1/2",
+      "1/8",
+      "1/3"
+    ],
+    "correctIndex": 2,
+    "explanation": "18 hours is three half-lives: 1/2 x 1/2 x 1/2 = 1/8."
+  },
+  {
+    "id": "sci-chemistry-074",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "easy",
+    "question": "Which element is essential to all organic compounds?",
+    "options": [
+      "Sodium",
+      "Helium",
+      "Carbon",
+      "Iron"
+    ],
+    "correctIndex": 2,
+    "explanation": "Organic molecules are built on chains or rings of carbon atoms."
+  },
+  {
+    "id": "sci-chemistry-075",
+    "section": "science",
+    "subcategory": "chemistry",
+    "difficulty": "medium",
+    "question": "What is an isotope's mass number?",
+    "options": [
+      "The number of electrons only",
+      "The number of protons only",
+      "The number of energy levels",
+      "The total number of protons and neutrons in the nucleus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mass number = protons + neutrons; isotopes of an element differ in neutron number."
   }
 ]
