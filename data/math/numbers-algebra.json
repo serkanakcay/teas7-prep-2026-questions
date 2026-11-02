@@ -383,7 +383,7 @@
     "options": [
       "84 feet below sea level",
       "30 feet below sea level",
-      "At sea level",
+      "At sea level, since the moves cancel out",
       "54 feet below sea level"
     ],
     "correctIndex": 3,
@@ -742,7 +742,7 @@
     "question": "A 12-ounce jar of peanut butter costs $4.29 and an 18-ounce jar costs $6.12. Which is the better buy per ounce?",
     "options": [
       "The 18-ounce jar, at about $0.34 per ounce",
-      "The 12-ounce jar, at about $0.36 per ounce",
+      "The 12-ounce jar, at about $0.36 per ounce, is the better buy",
       "They cost the same per ounce",
       "The 18-ounce jar, at about $0.51 per ounce"
     ],

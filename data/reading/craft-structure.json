@@ -9,7 +9,7 @@
       "To explain how a machine works",
       "To describe the history of a town",
       "To persuade readers to adopt a behavior",
-      "To entertain readers with a story"
+      "To entertain readers with an amusing story about daily life"
     ],
     "correctIndex": 2,
     "explanation": "The passage urges readers to 'make the switch today,' a persuasive call to action.",
@@ -260,7 +260,7 @@
     "question": "The author describes the clinic as \"a lifeline\" for the rural community. What does this phrase suggest?",
     "options": [
       "The clinic provides essential support people depend on.",
-      "The clinic offers mostly emergency rope rescues.",
+      "The clinic offers mostly emergency rope rescues for hikers.",
       "The clinic is located near a river.",
       "The clinic is about to close permanently."
     ],
@@ -321,9 +321,9 @@
     "difficulty": "medium",
     "question": "What does the author mean by \"Children are not machines that produce higher scores when run longer\"?",
     "options": [
-      "Children should not use computers in class.",
+      "Children should not use computers in class during test preparation.",
       "Machines should replace teachers.",
-      "More hours of study do not automatically lead to better results.",
+      "More hours of study do not guarantee better results.",
       "Students should take tests more often."
     ],
     "correctIndex": 2,
@@ -369,8 +369,8 @@
     "difficulty": "hard",
     "question": "Which statement best describes how the passage is organized?",
     "options": [
-      "A claim is stated, supported with reasons, and followed by a call to action.",
-      "A problem is described with no solution offered.",
+      "A claim is made, backed by reasons, and followed by a call to action.",
+      "A problem is described in detail but no solution or action is offered.",
       "Two schools are compared point by point.",
       "Events are told in chronological order."
     ],
@@ -417,8 +417,8 @@
     "difficulty": "medium",
     "question": "What does the phrase \"the string hummed in her hands\" suggest?",
     "options": [
-      "The string was pulled tight and vibrating in the wind.",
-      "Mira was singing.",
+      "The string was taut and vibrating in the wind.",
+      "Mira was humming a tune while holding the string.",
       "The string broke.",
       "The kite was falling."
     ],
@@ -497,8 +497,8 @@
     "difficulty": "medium",
     "question": "What is the author's main purpose?",
     "options": [
-      "To inform readers about how vaccination began and what it achieved",
-      "To entertain readers with a fictional tale",
+      "To inform readers how vaccination began and what it achieved",
+      "To entertain readers with a fictional tale about a doctor and a boy",
       "To criticize Edward Jenner",
       "To persuade readers to become doctors"
     ],
@@ -579,7 +579,7 @@
     "options": [
       "To tell a story about a customer",
       "To explain how phones work",
-      "To persuade readers to switch companies",
+      "To persuade readers to switch to a different phone company",
       "To help readers compare two phone plans"
     ],
     "correctIndex": 3,
@@ -612,7 +612,7 @@
       "No data limit",
       "Unlimited calls and texts within the country",
       "The same monthly price",
-      "Free hotspot use on Basic"
+      "Free hotspot use for streaming on the Basic plan"
     ],
     "correctIndex": 1,
     "explanation": "The passage states both include unlimited calls and texts.",
@@ -641,8 +641,8 @@
     "difficulty": "hard",
     "question": "Why does the author mention the $10 charge for each extra gigabyte?",
     "options": [
-      "To show that heavy users on Basic could pay more than the Unlimited price",
-      "To argue that Brightline is dishonest",
+      "To show heavy users on Basic could end up paying more than Unlimited",
+      "To argue that Brightline is dishonest and hides fees from its customers",
       "To explain how data is measured",
       "To prove the Basic plan is always cheaper"
     ],
@@ -723,8 +723,8 @@
     "options": [
       "The unit was dark and foggy.",
       "Nothing happened during them.",
-      "The writer's eyesight was poor.",
-      "They passed quickly and were hard to remember clearly."
+      "The writer's eyesight was poor because of the long night",
+      "They passed quickly and were hard to remember."
     ],
     "correctIndex": 3,
     "explanation": "A blur describes events moving too fast to see distinctly.",
@@ -756,7 +756,7 @@
       "It was when her shift ended.",
       "It showed her that comforting patients is central to nursing.",
       "It was when her supervisor evaluated her.",
-      "It was when she gave the most medication."
+      "It was when she gave the most medication to the most patients."
     ],
     "correctIndex": 1,
     "explanation": "The calm moment of human connection contrasts with tasks and gives her shift meaning.",
@@ -835,8 +835,8 @@
     "options": [
       "Sunscreen cannot be compared.",
       "Users never like new products.",
-      "Ten users is too many to survey.",
-      "The ad does not say how many users were asked or how they were chosen."
+      "Ten users is far too many to survey for a single product.",
+      "The ad does not say how many users were asked or chosen."
     ],
     "correctIndex": 3,
     "explanation": "Without sample size or selection details, the statistic may be misleading.",
@@ -849,10 +849,10 @@
     "difficulty": "easy",
     "question": "What does the word \"settle\" mean in \"Why settle for sticky\"?",
     "options": [
-      "Move to a new home",
+      "Move to a new home or city",
       "Accept something less than ideal",
-      "Pay a bill",
-      "Sink to the bottom"
+      "Pay off a bill or debt",
+      "Sink to the bottom of a container"
     ],
     "correctIndex": 1,
     "explanation": "The ad suggests readers should not accept a sticky product when a better one exists.",
@@ -865,7 +865,7 @@
     "difficulty": "easy",
     "question": "What is the author's purpose?",
     "options": [
-      "To tell a story about mountain climbers",
+      "To tell a story about mountain climbers on a glacier",
       "To explain how glaciers form, move, and change",
       "To persuade readers to visit glaciers",
       "To argue against climate research"
@@ -898,7 +898,7 @@
     "question": "Why does the author compare glacier ice to \"an extremely thick liquid\"?",
     "options": [
       "To prove glaciers melt quickly",
-      "To show that glaciers are made of water",
+      "To show that glaciers are made entirely of liquid water",
       "To describe the taste of ice",
       "To help readers picture how solid ice can slowly flow"
     ],
@@ -914,9 +914,9 @@
     "question": "As used in the passage, what are moraines?",
     "options": [
       "Piles of rubble left by glaciers",
-      "Layers of fresh snow",
-      "Streams of meltwater",
-      "U-shaped valleys"
+      "Layers of fresh snow on the surface",
+      "Streams of meltwater below a glacier",
+      "U-shaped valleys cut by ice"
     ],
     "correctIndex": 0,
     "explanation": "The passage defines moraines as piles of rubble.",
@@ -931,8 +931,8 @@
     "options": [
       "It summarizes how moraines form.",
       "It introduces a new kind of glacier.",
-      "It contradicts the earlier explanation.",
-      "It connects glacier behavior to its use in studying climate."
+      "It contradicts the explanation given earlier in the passage.",
+      "It links glacier behavior to the study of climate."
     ],
     "correctIndex": 3,
     "explanation": "The conclusion explains why glaciers matter to scientists tracking climate.",
@@ -962,7 +962,7 @@
     "question": "What is the writer's main purpose?",
     "options": [
       "To persuade the city council to keep the pool open",
-      "To explain the council's budget process",
+      "To explain the council's budget process to new residents",
       "To describe how to swim",
       "To praise the new parking lot"
     ],
@@ -977,10 +977,10 @@
     "difficulty": "medium",
     "question": "What does the writer mean by \"short-sighted\"?",
     "options": [
-      "Lasting a short time",
+      "Lasting only a short amount of time",
       "Not considering long-term consequences",
-      "Carefully planned",
-      "Unable to see far"
+      "Carefully planned and well funded",
+      "Unable to see things far away"
     ],
     "correctIndex": 1,
     "explanation": "Short-sighted describes a decision that ignores future effects.",
@@ -993,7 +993,7 @@
     "difficulty": "medium",
     "question": "Why does the writer mention the City Hall parking lot?",
     "options": [
-      "To praise the council's repaving work",
+      "To praise the council's work in repaving the lot last year",
       "To suggest the city can find money when it wants to",
       "To recommend parking at the pool",
       "To explain where the pool is"
@@ -1025,10 +1025,10 @@
     "difficulty": "hard",
     "question": "How does the writer appeal to readers' emotions?",
     "options": [
-      "By pointing out that swim lessons teach a life-saving skill to children",
+      "By noting that swim lessons teach children a life-saving skill",
       "By quoting the city budget line by line",
       "By listing the pool's dimensions",
-      "By describing the history of the council"
+      "By describing the long history of the city council and its members"
     ],
     "correctIndex": 0,
     "explanation": "Mentioning children and saving lives draws on readers' feelings.",
@@ -1073,10 +1073,10 @@
     "difficulty": "easy",
     "question": "What is the purpose of the \"Key Term\" feature?",
     "options": [
-      "To list sources",
-      "To summarize the chapter",
+      "To list sources used in the chapter",
+      "To summarize the main ideas of the chapter",
       "To define an important vocabulary word",
-      "To give a test answer"
+      "To give the answer to a test question"
     ],
     "correctIndex": 2,
     "explanation": "The Key Term box defines periosteum.",
@@ -1105,7 +1105,7 @@
     "difficulty": "medium",
     "question": "Under which heading would a reader expect to find this section?",
     "options": [
-      "Section 4.1 Heart Valves",
+      "Section 4.1 Heart Valves and Vessels",
       "Index of Terms",
       "Section 4.2 Bone Structure",
       "Chapter 5: Muscles"
@@ -1121,7 +1121,7 @@
     "difficulty": "medium",
     "question": "As used in the passage, what does \"honeycomb\" describe?",
     "options": [
-      "A hard, solid surface",
+      "A hard, solid surface with no open spaces",
       "A structure with many small open spaces",
       "A sweet taste",
       "A yellow color"
@@ -1138,7 +1138,7 @@
     "question": "Which type of text is this passage most likely taken from?",
     "options": [
       "An informational textbook",
-      "A persuasive speech",
+      "A persuasive political speech",
       "A novel",
       "A personal letter"
     ],
@@ -1155,8 +1155,8 @@
     "options": [
       "Walter misses a job interview.",
       "Walter loses his newspaper.",
-      "Walter argues with a young woman.",
-      "Walter's routine is disrupted when his train is canceled."
+      "Walter argues with a young woman about renting her bicycle.",
+      "Walter's routine breaks when his train is canceled."
     ],
     "correctIndex": 3,
     "explanation": "The canceled train breaks his long-standing routine and forces a change.",
@@ -1170,7 +1170,7 @@
     "question": "Why does the author describe Walter's habits in such detail at the beginning?",
     "options": [
       "To show how fixed and predictable his routine was",
-      "To explain how trains are scheduled",
+      "To explain how commuter trains are scheduled each day",
       "To show that Walter disliked sports",
       "To describe the newspaper's layout"
     ],
@@ -1185,7 +1185,7 @@
     "difficulty": "medium",
     "question": "What does the word \"hesitated\" reveal about Walter?",
     "options": [
-      "He did not hear her suggestion.",
+      "He did not hear her suggestion over the noise.",
       "He was angry at the woman.",
       "He was in a great hurry.",
       "He was unsure about trying something new."
@@ -1202,7 +1202,7 @@
     "question": "What theme does the story suggest?",
     "options": [
       "Unexpected changes can lead to rewarding experiences.",
-      "Strangers should not be trusted.",
+      "Strangers should not be trusted when they offer to help.",
       "Trains are always reliable.",
       "Routines must never be broken."
     ],
@@ -1217,8 +1217,8 @@
     "difficulty": "hard",
     "question": "What does the final sentence suggest about Walter?",
     "options": [
-      "He overslept and missed the train.",
-      "He has chosen to embrace a new way of starting his day.",
+      "He overslept and missed the train again that morning.",
+      "He has chosen to embrace a new way to start his day.",
       "The train was canceled again.",
       "He was injured on the bike."
     ],
@@ -1251,8 +1251,8 @@
     "options": [
       "To tell a story about a family",
       "To explain how drinks are made",
-      "To present both sides of a debate about a sugary drink tax",
-      "To persuade readers to vote for the tax"
+      "To present both sides of a sugary drink tax debate",
+      "To persuade readers to vote for the sugary drink tax in November"
     ],
     "correctIndex": 2,
     "explanation": "The passage summarizes arguments from supporters and opponents without taking a side.",
@@ -1267,8 +1267,8 @@
     "options": [
       "It describes a process step by step.",
       "It gives only the author's opinion.",
-      "It lists events in chronological order.",
-      "It presents one side's argument, then the other side's counterargument."
+      "It lists the events leading to the vote in strict chronological order.",
+      "It presents one side's argument, then the other's counterargument."
     ],
     "correctIndex": 3,
     "explanation": "Supporters' views come first, followed by opponents' counterarguments.",
@@ -1281,9 +1281,9 @@
     "difficulty": "medium",
     "question": "As used in the passage, what does \"counter\" mean?",
     "options": [
-      "Display on a shelf",
-      "Agree completely",
-      "Count again",
+      "Display on a shelf in a store",
+      "Agree completely with the other side",
+      "Count again, as in a recount",
       "Respond with an opposing argument"
     ],
     "correctIndex": 3,
@@ -1297,7 +1297,7 @@
     "difficulty": "medium",
     "question": "On what point do both sides agree?",
     "options": [
-      "The tax will have no effect on sales.",
+      "The tax will have no effect on sales of sweetened drinks.",
       "Sugary drinks contribute to health problems.",
       "The tax is fair to all families.",
       "People never buy drinks in other towns."
@@ -1362,7 +1362,7 @@
     "question": "What is the author's purpose?",
     "options": [
       "To persuade readers to move inland",
-      "To entertain readers with a storm story",
+      "To entertain readers with a dramatic storm story",
       "To explain how hurricanes form and weaken",
       "To compare hurricanes with tornadoes"
     ],
@@ -1377,10 +1377,10 @@
     "difficulty": "medium",
     "question": "As used in the passage, what does \"sustained\" mean?",
     "options": [
-      "Brief and sudden",
-      "Decreasing quickly",
+      "Brief and sudden, like a gust",
+      "Decreasing quickly over time",
       "Continuing over a period of time",
-      "Measured on land"
+      "Measured only on land or at sea"
     ],
     "correctIndex": 2,
     "explanation": "Sustained winds are those that continue at a speed, not short gusts.",
@@ -1409,7 +1409,7 @@
     "difficulty": "hard",
     "question": "Why does the author include the final sentence?",
     "options": [
-      "To show that hurricanes never weaken",
+      "To show that hurricanes never weaken once they reach land",
       "To warn that weakening storms can still be dangerous",
       "To explain how clouds form",
       "To describe ocean temperatures"

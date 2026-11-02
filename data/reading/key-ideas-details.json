@@ -8,7 +8,7 @@
     "options": [
       "The sun is the most important factor in a bee's life.",
       "Researchers were surprised by how bees build combs.",
-      "Honeybees use a dance to tell other bees where to find food.",
+      "Honeybees dance to show other bees where food is.",
       "Honeybees have brains smaller than a grain of rice."
     ],
     "correctIndex": 2,
@@ -38,9 +38,9 @@
     "difficulty": "hard",
     "question": "Which inference is best supported by the final sentence of the passage?",
     "options": [
-      "Scientists did not expect such complex communication from an insect.",
+      "Scientists did not expect an insect to communicate this way.",
       "Bees with larger brains dance more accurately.",
-      "Researchers have not yet fully decoded the dance.",
+      "Researchers still have not been able to fully decode every part of the dance.",
       "Bees are more intelligent than most mammals."
     ],
     "correctIndex": 0,
@@ -72,8 +72,8 @@
     "options": [
       "Skipping step 1 and rinsing only",
       "Rubbing hands with soap for 10 seconds",
-      "Drying hands without turning off the faucet",
-      "Using an alcohol-based rub instead of steps 2 through 5"
+      "Drying the hands with a paper towel without rinsing them first",
+      "Using an alcohol-based rub instead of steps 2-5"
     ],
     "correctIndex": 3,
     "explanation": "The final sentence says an alcohol-based rub may replace steps 2-5 when hands are not visibly soiled.",
@@ -134,9 +134,9 @@
     "difficulty": "hard",
     "question": "A staff member works 8:00 a.m. to 4:30 p.m. on weekdays and is free only during work breaks. Which option fits the memo's information?",
     "options": [
-      "Attending Conference Room B on a Saturday",
-      "Visiting the Employee Health Office at 3:30 p.m.",
-      "Visiting the Employee Health Office during a weekday break before 3:00 p.m.",
+      "Attending a vaccine session in Conference Room B on a Saturday",
+      "Visiting the Employee Health Office on a weekday afternoon at 3:30 p.m., after walk-in hours end",
+      "Going to the Employee Health Office on a weekday break before 3:00 p.m.",
       "Submitting a declination form after October 31"
     ],
     "correctIndex": 2,
@@ -150,10 +150,10 @@
     "difficulty": "easy",
     "question": "What is the passage mainly about?",
     "options": [
-      "The design of nineteenth-century lighthouses",
+      "The design and construction of nineteenth-century lighthouses along the coast",
       "The history of weather logbooks",
       "How fishing schooners navigated without maps",
-      "A lighthouse keeper's quiet dedication, including one stormy night"
+      "A lighthouse keeper's dedication, including one stormy night"
     ],
     "correctIndex": 3,
     "explanation": "The passage focuses on Ada Brennan's routine and her actions during the 1891 storm.",
@@ -199,9 +199,9 @@
     "question": "What is the author's central claim?",
     "options": [
       "Students should study only in the morning.",
-      "Deep sleep is the only stage of sleep that matters.",
+      "Deep sleep is the only stage of sleep that matters for student learning.",
       "Word lists are the best way to test memory.",
-      "Giving up sleep to study can reduce how much a student remembers."
+      "Trading sleep for study time can lower what a student remembers."
     ],
     "correctIndex": 3,
     "explanation": "The passage concludes that trading sleep for review 'may therefore remember less, not more.'",
@@ -214,9 +214,9 @@
     "difficulty": "medium",
     "question": "According to the passage, what is memory consolidation?",
     "options": [
-      "Grouping new words into categories",
+      "Grouping new words into categories to help recall",
       "The brain strengthening connections formed during the day while sleeping",
-      "Staying awake to rehearse information",
+      "Staying awake all night to rehearse information",
       "Reviewing notes several times before a test"
     ],
     "correctIndex": 1,
@@ -232,8 +232,8 @@
     "options": [
       "Many students sacrifice sleep to study.",
       "Sleep deprivation also reduces attention.",
-      "A student who trades two hours of sleep may remember less.",
-      "People who slept after learning a list of words recalled more of them the next day."
+      "A student who trades two hours of sleep for two hours of review may remember less.",
+      "People who slept after learning a word list recalled more words the next day."
     ],
     "correctIndex": 3,
     "explanation": "Only the word-list result describes experiments; the others are general statements or the conclusion.",
@@ -294,8 +294,8 @@
     "difficulty": "easy",
     "question": "What is the main idea of the passage?",
     "options": [
-      "A neighborhood volunteer effort turned an empty lot into a thriving community garden.",
-      "The city government built a garden on Maple Street.",
+      "A neighborhood volunteer effort turned an empty lot into a community garden.",
+      "The city government planned, built, and now pays workers to run a garden on Maple Street.",
       "Lorna Diaz taught school for many years.",
       "Raised beds are the best way to grow tomatoes."
     ],
@@ -342,9 +342,9 @@
     "difficulty": "medium",
     "question": "What can be inferred from the fact that the garden now has a waiting list?",
     "options": [
-      "The garden is closing soon.",
+      "The garden is likely to close soon because it has too many members.",
       "Most members have quit.",
-      "Demand for garden beds is greater than the space available.",
+      "More people want beds than there are beds available.",
       "The city now runs the garden."
     ],
     "correctIndex": 2,
@@ -358,10 +358,10 @@
     "difficulty": "medium",
     "question": "What did volunteers do with extra produce?",
     "options": [
-      "They composted it.",
+      "They composted it in the bins behind the beds",
       "They sold it at a farmers' market.",
       "They left it on a table by the gate for anyone to take.",
-      "They gave it to the city."
+      "They gave it to the city to distribute to schools"
     ],
     "correctIndex": 2,
     "explanation": "The passage says extra produce was placed on a table by the gate for anyone who wanted it.",
@@ -374,8 +374,8 @@
     "difficulty": "hard",
     "question": "Which sentence best summarizes how the lot changed?",
     "options": [
-      "A busy park was replaced with vegetable beds.",
-      "A neglected lot that drew complaints became a popular, productive shared space.",
+      "A busy public park with playgrounds was replaced with vegetable beds.",
+      "A neglected lot that drew complaints became a popular shared space.",
       "A farm moved its operations into the city.",
       "The city cleaned the lot and then sold it."
     ],
@@ -422,8 +422,8 @@
     "difficulty": "medium",
     "question": "Why does the author say thirst is \"not always reliable\"?",
     "options": [
-      "Some people, especially older adults, may not feel thirsty until they are already dehydrated.",
-      "Thirst always appears too early.",
+      "Some people, such as older adults, may not feel thirst until dehydrated.",
+      "Thirst tends to appear too early, long before the body actually needs any water.",
       "Thirst is caused only by exercise.",
       "Drinking water makes thirst worse."
     ],
@@ -470,9 +470,9 @@
     "difficulty": "hard",
     "question": "What conclusion is best supported by the passage?",
     "options": [
-      "Paying attention to warning signs can help prevent serious dehydration.",
+      "Noticing warning signs can help prevent serious dehydration.",
       "Most people drink too much water.",
-      "Thirst is the only sign of dehydration.",
+      "Thirst is the only dependable sign of dehydration in healthy adults.",
       "Dehydration affects only athletes."
     ],
     "correctIndex": 0,
@@ -583,8 +583,8 @@
     "question": "What is the main idea of the passage?",
     "options": [
       "Mice make loud noises at night.",
-      "Barn owls rely on their specialized hearing to locate prey in darkness.",
-      "Owls are difficult to study in laboratories.",
+      "Barn owls rely on specialized hearing to find prey in the dark.",
+      "Owls are very difficult to study in laboratories and rarely hunt there.",
       "Barn owls have excellent night vision."
     ],
     "correctIndex": 1,
@@ -615,9 +615,9 @@
     "question": "Why are the owl's ears set at different heights?",
     "options": [
       "So one ear can rest while the other listens",
-      "So the owl can turn its head farther",
+      "So the owl can turn its head farther in every direction",
       "So sounds reach each ear at slightly different times and volumes",
-      "So the owl can hear underwater"
+      "So the owl can hear prey that is swimming underwater"
     ],
     "correctIndex": 2,
     "explanation": "The uneven placement creates timing and loudness differences the brain uses to locate sounds.",
@@ -630,8 +630,8 @@
     "difficulty": "medium",
     "question": "Which detail best supports the claim that owls hunt accurately in darkness?",
     "options": [
-      "Barn owls hunt mostly at night.",
-      "In dark rooms, owls struck within a degree or two of the sound's source.",
+      "Barn owls hunt mostly at night, when most of their prey is active.",
+      "In dark rooms, owls struck within a degree or two of the sound.",
       "Mice rustle as they move.",
       "The owl's feathers are stiff."
     ],
@@ -662,7 +662,7 @@
     "difficulty": "hard",
     "question": "Based on the passage, what information can an owl determine from sound alone?",
     "options": [
-      "Only the size of its prey",
+      "Only the size and speed of its prey, not its location",
       "Only the color of its prey",
       "The age of its prey",
       "Both the direction and the height of its prey"
@@ -679,9 +679,9 @@
     "question": "According to the directions, what should you do immediately after washing and drying your hands?",
     "options": [
       "Prick the side of a fingertip.",
-      "Record the reading.",
+      "Record the reading in a log book",
       "Insert a new test strip into the meter.",
-      "Squeeze the finger."
+      "Squeeze the finger until blood forms"
     ],
     "correctIndex": 2,
     "explanation": "Step 2, inserting the test strip, follows handwashing in step 1.",
@@ -694,10 +694,10 @@
     "difficulty": "medium",
     "question": "Why do the directions recommend pricking the side of the fingertip?",
     "options": [
-      "The meter can read only side samples.",
+      "The meter can read blood only from the sides of the fingertip.",
       "The side bleeds more slowly.",
       "The pad is harder to clean.",
-      "The pad has more nerve endings, so the side is less painful."
+      "The pad has more nerve endings, so the side hurts less."
     ],
     "correctIndex": 3,
     "explanation": "Step 3 explains that the pad has more nerve endings.",
@@ -710,8 +710,8 @@
     "difficulty": "easy",
     "question": "Where should the used lancet be disposed of?",
     "options": [
-      "In a paper bag",
-      "In the meter case",
+      "In a paper bag in the kitchen trash",
+      "In the case with the meter",
       "In a hard plastic container",
       "In a recycling bin"
     ],
@@ -726,9 +726,9 @@
     "difficulty": "medium",
     "question": "A person's reading is 62 mg/dL. What should the person do next?",
     "options": [
-      "Eat or drink 15 grams of fast-acting sugar and recheck in 15 minutes.",
+      "Take 15 grams of fast-acting sugar and recheck in 15 minutes.",
       "Discard the meter.",
-      "Do nothing because the reading is normal.",
+      "Do nothing more, because a reading of 62 mg/dL is considered normal.",
       "Wash hands and test again right away."
     ],
     "correctIndex": 0,
@@ -744,8 +744,8 @@
     "options": [
       "The color of the blood drop",
       "The time and whether they had eaten recently",
-      "The room temperature",
-      "The strip's serial number"
+      "The room temperature and humidity level",
+      "The strip's serial number and batch code"
     ],
     "correctIndex": 1,
     "explanation": "Step 6 lists the reading, the time, and recent eating.",
@@ -760,8 +760,8 @@
     "options": [
       "The hands would not be clean.",
       "The finger would not bleed.",
-      "The lancing device would not work.",
-      "The meter would not turn on to read the blood sample."
+      "The lancing device would not be able to prick the fingertip.",
+      "The meter would not turn on to read the sample."
     ],
     "correctIndex": 3,
     "explanation": "Step 2 says inserting the strip turns the meter on, so without it the result cannot be displayed.",
@@ -775,8 +775,8 @@
     "question": "Where did the Harlow library begin?",
     "options": [
       "In a brick building on Main Street",
-      "In a school classroom",
-      "In a farmer's barn",
+      "In a classroom at the town school",
+      "In a barn on a farmer's property",
       "On a shelf in the back of a general store"
     ],
     "correctIndex": 3,
@@ -790,9 +790,9 @@
     "difficulty": "medium",
     "question": "What is the main idea of the passage?",
     "options": [
-      "The Harlow library grew from a small collection into an important community institution.",
+      "The Harlow library grew from a small collection into a community institution.",
       "Museums are more useful than libraries.",
-      "Farmers in Harlow rarely read books.",
+      "Farmers in Harlow rarely read books and preferred to trade supplies in the general store.",
       "The 1930s were hard for Harlow."
     ],
     "correctIndex": 0,
@@ -806,9 +806,9 @@
     "difficulty": "medium",
     "question": "Which detail shows that the library served purposes beyond lending books?",
     "options": [
-      "It was made of brick.",
+      "It was made of brick and built in 1912",
       "Farmers borrowed books on visits.",
-      "It opened on Main Street.",
+      "It opened on Main Street in the center of town",
       "It hosted citizenship classes for new immigrants."
     ],
     "correctIndex": 3,
@@ -838,8 +838,8 @@
     "difficulty": "medium",
     "question": "What happened to the old brick building after 1998?",
     "options": [
-      "It was torn down.",
-      "It became a school.",
+      "It was torn down for a parking lot",
+      "It became a small school building",
       "It became a general store.",
       "It became the town's history museum."
     ],
@@ -854,9 +854,9 @@
     "difficulty": "hard",
     "question": "Why did farmers return borrowed books on their next visit to town?",
     "options": [
-      "The library was open only once a year.",
+      "The library was open only a few days each year, so farmers had to return books then.",
       "The store charged daily late fees.",
-      "They came to town periodically for supplies and borrowed when they visited.",
+      "They came to town only periodically for supplies, so they borrowed then.",
       "They were required to by law."
     ],
     "correctIndex": 2,
@@ -886,8 +886,8 @@
     "difficulty": "medium",
     "question": "According to the passage, how do most microplastics form?",
     "options": [
-      "Larger plastic items break down from sunlight, heat, and friction.",
-      "They are manufactured for face scrubs.",
+      "Larger plastic items break down in sun, heat, and friction.",
+      "They are manufactured at that size for use in face scrubs and soaps.",
       "They grow naturally in the ocean.",
       "They form in drinking-water pipes."
     ],
@@ -920,8 +920,8 @@
     "options": [
       "Drinking water",
       "Inside volcanic rock",
-      "The air",
-      "Sea ice"
+      "The air around us",
+      "Sea ice and deep-ocean sediments"
     ],
     "correctIndex": 1,
     "explanation": "Sea ice, ocean sediments, drinking water, and air are listed; volcanic rock is not.",
@@ -935,8 +935,8 @@
     "question": "What does the passage suggest about why some countries banned microbeads?",
     "options": [
       "Microbeads were too expensive to make.",
-      "They acted as a precaution before health effects were fully known.",
-      "Microbeads were proven to cause cancer.",
+      "They acted as a precaution before health effects were known.",
+      "Microbeads were proven to cause cancer in people who used scrubs.",
       "Consumers stopped buying face scrubs."
     ],
     "correctIndex": 1,
@@ -950,8 +950,8 @@
     "difficulty": "medium",
     "question": "Which sentence best summarizes the passage?",
     "options": [
-      "Face scrubs are the main cause of ocean pollution.",
-      "Tiny plastic fragments, mostly from breaking-down products, now appear throughout the environment.",
+      "Face scrubs and cosmetic beads are now the main cause of ocean pollution worldwide.",
+      "Tiny plastic fragments, mostly from broken-down products, now appear everywhere.",
       "Microplastics have been removed from oceans.",
       "Plastic bags are the only source of pollution."
     ],
@@ -1001,7 +1001,7 @@
       "He mentioned its new pediatric wing.",
       "He tutored his cousin.",
       "He arrived ten minutes early.",
-      "He received an email two days later."
+      "He received an email two days later welcoming him."
     ],
     "correctIndex": 0,
     "explanation": "Knowing about the pediatric wing reflects research on the specific hospital.",
@@ -1015,7 +1015,7 @@
     "question": "What was the result of Kenji's interview?",
     "options": [
       "He was welcomed into the volunteer program.",
-      "He was asked to interview again.",
+      "He was asked to return for a second interview next week.",
       "He decided not to volunteer.",
       "He was placed on a waiting list."
     ],
@@ -1030,8 +1030,8 @@
     "difficulty": "hard",
     "question": "What can be inferred about the sister's advice?",
     "options": [
-      "It made Kenji late.",
-      "It was ignored by Kenji.",
+      "It made Kenji late for the interview",
+      "It was ignored by Kenji during the interview",
       "It likely helped Kenji succeed in the interview.",
       "It was unrelated to the interview questions."
     ],
@@ -1046,7 +1046,7 @@
     "difficulty": "easy",
     "question": "Which story did Kenji tell the coordinator?",
     "options": [
-      "Volunteering at a food bank",
+      "Volunteering at a local food bank every weekend for two years",
       "Tutoring his younger cousin through a long illness",
       "Coaching a soccer team",
       "Caring for a neighbor's pet"
@@ -1062,10 +1062,10 @@
     "difficulty": "easy",
     "question": "What is the main idea of the passage?",
     "options": [
-      "Refrigeration was invented to replace salt.",
+      "Refrigeration was invented mainly so that people could stop using salt in cooking.",
       "Bacteria need salt to grow.",
       "Salt is mined only in the Sahara.",
-      "Salt was once extremely valuable, though today it is cheap and often overused."
+      "Salt was once extremely valuable, though today it is cheap and overused."
     ],
     "correctIndex": 3,
     "explanation": "The passage contrasts salt's historical value with its low cost and health concerns today.",
@@ -1080,8 +1080,8 @@
     "options": [
       "It freezes the food.",
       "It adds vitamins to the food.",
-      "It kills all bacteria instantly by heat.",
-      "It draws water out of the food so bacteria cannot grow."
+      "It kills all bacteria on the food instantly by producing heat.",
+      "It pulls water from the food so bacteria cannot grow."
     ],
     "correctIndex": 3,
     "explanation": "Salt removes water, and without water most bacteria cannot grow.",
@@ -1110,7 +1110,7 @@
     "difficulty": "easy",
     "question": "What was salt sometimes traded for in the Sahara?",
     "options": [
-      "Fresh water",
+      "Fresh water from desert oases",
       "Gold of equal weight",
       "Camels",
       "Silk cloth"
@@ -1128,7 +1128,7 @@
     "options": [
       "Salt causes tooth decay.",
       "High sodium intake is linked to high blood pressure.",
-      "Salt prevents vitamin absorption.",
+      "Salt prevents the body from absorbing vitamins from food.",
       "Salt causes food allergies."
     ],
     "correctIndex": 1,
@@ -1142,10 +1142,10 @@
     "difficulty": "hard",
     "question": "What can be inferred about why salt became cheap?",
     "options": [
-      "Salt deposits disappeared.",
-      "Modern methods such as refrigeration reduced its importance and it became plentiful.",
-      "Governments banned salt.",
-      "People stopped cooking with salt."
+      "Salt deposits disappeared from most of the world",
+      "Methods like refrigeration cut its importance, and it became plentiful.",
+      "Governments banned salt because of health worries",
+      "People stopped cooking with salt once governments began taxing it heavily."
     ],
     "correctIndex": 1,
     "explanation": "Refrigeration replaced salting for preservation, and the passage describes salt as plentiful today.",
@@ -1160,7 +1160,7 @@
     "options": [
       "Those nearest who cannot walk on their own",
       "Those farthest from the exit",
-      "Only patients in the waiting room",
+      "Only the patients who are waiting in the front lobby",
       "Patients who are walking"
     ],
     "correctIndex": 0,
@@ -1207,7 +1207,7 @@
     "question": "What should a staff member do after reaching the north parking lot?",
     "options": [
       "Return for personal items.",
-      "Call each patient's family.",
+      "Call each patient's family to report the evacuation.",
       "Check in with a supervisor.",
       "Go home immediately."
     ],
@@ -1223,8 +1223,8 @@
     "question": "The alarm stops ringing while staff are outside. What should they do?",
     "options": [
       "Ask a patient whether it is safe.",
-      "Reenter through the stairwells only.",
-      "Wait for the fire department's all-clear before reentering.",
+      "Reenter through the stairwells only, closing every door behind.",
+      "Wait for the fire department's all-clear.",
       "Reenter right away."
     ],
     "correctIndex": 2,
@@ -1238,10 +1238,10 @@
     "difficulty": "hard",
     "question": "Why are doors closed but not locked?",
     "options": [
-      "So no one can return to the building",
+      "So that no one is tempted to return to the building during the fire",
       "So patients stay in their rooms",
       "So the alarm will reset",
-      "So smoke is slowed while people and firefighters can still pass through"
+      "So smoke is slowed but people and firefighters can still enter"
     ],
     "correctIndex": 3,
     "explanation": "Closing slows smoke, but locking could trap people or block responders.",
@@ -1255,9 +1255,9 @@
     "question": "Why are beavers called ecosystem engineers?",
     "options": [
       "They design human bridges.",
-      "They live only in engineered canals.",
+      "They live only in canals engineered and dug by people.",
       "They remove all trees from forests.",
-      "They change their surroundings dramatically by building dams."
+      "They reshape their surroundings by building dams."
     ],
     "correctIndex": 3,
     "explanation": "The first sentences explain that their dams reshape their environment.",
@@ -1270,10 +1270,10 @@
     "difficulty": "medium",
     "question": "According to the passage, what is one benefit of beaver ponds for the beavers themselves?",
     "options": [
-      "Warmer water for swimming",
-      "Easier access to roads",
+      "Warmer water for swimming in winter",
+      "Easier access to nearby roads and farms",
       "Deep water for lodges safe from predators",
-      "More sunlight for sleeping"
+      "More sunlight for sleeping on the bank"
     ],
     "correctIndex": 2,
     "explanation": "Ponds give beavers deep water for safe lodges.",
@@ -1289,7 +1289,7 @@
       "Slower water lets sediment settle.",
       "Fish eat the sediment.",
       "The dams add chemicals.",
-      "Beavers filter the water."
+      "Beavers filter the water through their dense fur."
     ],
     "correctIndex": 0,
     "explanation": "The passage states slower water allows sediment to settle.",
@@ -1302,7 +1302,7 @@
     "difficulty": "medium",
     "question": "Which animals are named as using wetlands around beaver ponds?",
     "options": [
-      "Sharks, crabs, and whales",
+      "Sharks, crabs, and large whales",
       "Hawks, owls, and bats",
       "Frogs, ducks, and insects",
       "Bears, wolves, and deer"
@@ -1320,8 +1320,8 @@
     "options": [
       "They relocate every beaver.",
       "They pave over the wetlands.",
-      "They install pipes that lower pond levels while the beavers stay.",
-      "They destroy all dams each year."
+      "They install pipes that keep pond levels low.",
+      "They destroy every dam each year and move the beavers away."
     ],
     "correctIndex": 2,
     "explanation": "The last sentence describes pipes that keep pond levels low without removing beavers.",
@@ -1334,7 +1334,7 @@
     "difficulty": "easy",
     "question": "What do beaver ponds do during droughts?",
     "options": [
-      "Dry up faster than streams",
+      "Dry up faster than nearby streams and leave the land bare",
       "Hold water that would otherwise drain away",
       "Become saltwater",
       "Cause floods"
@@ -1398,9 +1398,9 @@
     "difficulty": "medium",
     "question": "What happens to a student who misses orientation?",
     "options": [
-      "The student is removed from the program.",
+      "The student is removed from the program and must reapply the following year.",
       "The student switches groups.",
-      "The student cannot begin clinical hours until orientation is completed.",
+      "The student cannot start clinical hours until orientation is done.",
       "Nothing; orientation is optional."
     ],
     "correctIndex": 2,
@@ -1415,8 +1415,8 @@
     "question": "How will students learn which group they are in?",
     "options": [
       "Students choose their own group.",
-      "Group lists will be posted on the program website by Friday.",
-      "Supervisors will call each student.",
+      "Lists will be posted on the program website by Friday.",
+      "Supervisors will call each student at home by Friday evening.",
       "Lists will be mailed to homes."
     ],
     "correctIndex": 1,

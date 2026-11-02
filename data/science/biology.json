@@ -82,7 +82,7 @@
     "question": "What is the end result of mitosis?",
     "options": [
       "One large cell with two nuclei",
-      "Four genetically different haploid cells",
+      "Four genetically different haploid cells formed from two divisions",
       "Two haploid gametes",
       "Two genetically identical diploid daughter cells"
     ],
@@ -174,7 +174,7 @@
       "They denature and lose function.",
       "They turn into carbohydrates.",
       "They replicate themselves.",
-      "They work faster indefinitely."
+      "They work faster and faster indefinitely as the heat rises."
     ],
     "correctIndex": 0,
     "explanation": "High heat disrupts the enzyme's three-dimensional shape (denaturation), destroying its active site."
@@ -219,7 +219,7 @@
       "Shrink (crenate) as water leaves the cell",
       "Swell and burst",
       "Divide by mitosis",
-      "Stay exactly the same"
+      "Stay exactly the same size and shape as before"
     ],
     "correctIndex": 0,
     "explanation": "In a hypertonic solution the outside has more solute, so water leaves the cell and it shrinks."
@@ -292,7 +292,7 @@
     "question": "What distinguishes rough endoplasmic reticulum from smooth endoplasmic reticulum?",
     "options": [
       "Rough ER contains DNA.",
-      "Rough ER is found only in plants.",
+      "Rough ER is found only in plant cells and fungi.",
       "Rough ER is studded with ribosomes.",
       "Rough ER makes ATP."
     ],
@@ -384,7 +384,7 @@
       "It stays exactly the same.",
       "It swells and may burst as water enters.",
       "It forms a cell wall.",
-      "It shrinks as water leaves."
+      "It shrinks and wrinkles as water leaves the cell."
     ],
     "correctIndex": 1,
     "explanation": "Water moves into the cell, where solute concentration is higher; without a cell wall, the cell can lyse."
@@ -442,7 +442,7 @@
     "question": "Crossing over during prophase I of meiosis increases genetic variation by doing what?",
     "options": [
       "Exchanging segments between homologous chromosomes",
-      "Doubling the number of chromosomes",
+      "Doubling the number of chromosomes in each daughter cell",
       "Copying DNA a second time",
       "Separating sister chromatids early"
     ],
@@ -456,7 +456,7 @@
     "difficulty": "medium",
     "question": "What is the result of meiosis in humans?",
     "options": [
-      "Four identical diploid cells",
+      "Four genetically identical diploid cells in the body",
       "One large diploid cell",
       "Two identical diploid cells",
       "Four genetically different haploid cells"
@@ -503,7 +503,7 @@
     "options": [
       "Proteins built from amino acids",
       "Nucleotides built from bases",
-      "Polysaccharides built from glucose",
+      "Polysaccharides built from many glucose molecules",
       "Lipids built from glycerol and fatty acids"
     ],
     "correctIndex": 3,
@@ -578,7 +578,7 @@
     "options": [
       "Glycolysis",
       "Fermentation",
-      "The Krebs cycle alone",
+      "The Krebs cycle, which occurs in the matrix",
       "The electron transport chain"
     ],
     "correctIndex": 3,
@@ -803,8 +803,8 @@
     "options": [
       "Females cannot inherit X-linked alleles.",
       "Males have two X chromosomes.",
-      "The allele is on the Y chromosome.",
-      "Males have only one X chromosome, so one recessive allele causes the trait."
+      "The allele is carried on the Y chromosome, so every male inherits it.",
+      "Males have only one X chromosome, so one recessive allele shows."
     ],
     "correctIndex": 3,
     "explanation": "With a single X, males express whatever allele it carries; females need two copies of the recessive allele."
@@ -861,10 +861,10 @@
     "difficulty": "medium",
     "question": "Why are antibiotics ineffective against viral infections such as the common cold?",
     "options": [
-      "Antibiotics target bacterial structures that viruses do not have.",
+      "Antibiotics target bacterial structures that viruses lack.",
       "Antibiotics only work on fungi.",
       "Viruses are made of cellulose.",
-      "Viruses are too large for antibiotics."
+      "Viruses are too large for antibiotics to be able to enter them."
     ],
     "correctIndex": 0,
     "explanation": "Antibiotics act on bacterial cell walls, ribosomes, or enzymes, which viruses lack."
@@ -921,7 +921,7 @@
     "difficulty": "medium",
     "question": "According to natural selection, which individuals are most likely to pass on their genes?",
     "options": [
-      "The largest individuals in every case",
+      "The largest individuals in every case, regardless of environment",
       "Those with traits best suited to their environment",
       "Those that try hardest to change",
       "Those that live the longest without reproducing"
@@ -1086,8 +1086,8 @@
     "difficulty": "hard",
     "question": "Which statement correctly compares mitosis and meiosis?",
     "options": [
-      "Mitosis produces identical body cells; meiosis produces genetically varied sex cells.",
-      "Mitosis produces four cells; meiosis produces two.",
+      "Mitosis produces identical body cells; meiosis produces varied sex cells.",
+      "Mitosis produces four haploid cells; meiosis produces two diploid body cells.",
       "Meiosis occurs only in prokaryotes.",
       "Both produce haploid gametes."
     ],

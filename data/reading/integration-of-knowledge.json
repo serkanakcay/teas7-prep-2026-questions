@@ -7,8 +7,8 @@
     "question": "How do the two passages differ in their views of homework?",
     "options": [
       "Passage 1 opposes homework; Passage 2 supports it.",
-      "Passage 1 says homework builds skills; Passage 2 says too much harms well-being.",
-      "Both passages argue that homework should be banned.",
+      "Passage 1 says homework builds skills; Passage 2 warns of too much.",
+      "Both passages argue that homework should be banned from elementary schools.",
       "Both passages agree that homework improves sleep."
     ],
     "correctIndex": 1,
@@ -100,10 +100,10 @@
     "difficulty": "medium",
     "question": "A student is writing a report on current treatment guidelines for asthma. Which source is most reliable?",
     "options": [
-      "An advertisement for an inhaler brand",
+      "An advertisement for an inhaler brand, printed in a magazine last year",
       "A social media comment from an anonymous user",
       "A personal blog post from 2009",
-      "A guideline published this year by a national medical association"
+      "This year's guideline from a national medical association"
     ],
     "correctIndex": 3,
     "explanation": "Recent, expert, peer-reviewed or professionally published sources are the most credible for current guidelines."
@@ -115,9 +115,9 @@
     "difficulty": "hard",
     "question": "Which piece of evidence would best support the claim that a new walking program improved residents' health?",
     "options": [
-      "A photo of residents walking in the park",
+      "A photo of residents walking happily in the park after work",
       "The program director's statement that it was popular",
-      "Before-and-after blood pressure readings for program participants",
+      "Before-and-after blood pressure readings for participants",
       "The number of flyers printed to advertise the program"
     ],
     "correctIndex": 2,
@@ -161,7 +161,7 @@
     "question": "Which statement identifies a weakness in the author's argument?",
     "options": [
       "The author uses too many statistics.",
-      "The author cites a peer-reviewed study.",
+      "The author cites a peer-reviewed study that supports the claim.",
       "The author generalizes from a single person's experience.",
       "The author defines key terms clearly."
     ],
@@ -222,10 +222,10 @@
     "difficulty": "medium",
     "question": "Which information would a reader most likely find in an index?",
     "options": [
-      "The author's acknowledgments",
-      "A summary of each chapter",
+      "The author's acknowledgments and thanks",
+      "A one-paragraph summary of each chapter",
       "The page numbers where a specific topic is discussed",
-      "Definitions of key terms"
+      "Definitions of key terms used in the book"
     ],
     "correctIndex": 2,
     "explanation": "An index is an alphabetical list of topics with page numbers, usually at the back of a book."
@@ -237,7 +237,7 @@
     "difficulty": "hard",
     "question": "Both passages discuss coffee. Which statement best describes how Passage 2 relates to Passage 1?",
     "options": [
-      "Passage 2 completely contradicts Passage 1.",
+      "Passage 2 completely contradicts everything stated in Passage 1.",
       "Passage 2 adds a limit that qualifies Passage 1's claim.",
       "Passage 2 repeats Passage 1 word for word.",
       "Passage 2 is unrelated to Passage 1."
@@ -270,7 +270,7 @@
     "options": [
       "Count how many times each article was shared online.",
       "Rely on the column because it explains the author's feelings.",
-      "Trust whichever article was published first.",
+      "Trust whichever article was published first, since it is likely most accurate.",
       "Read the original study and check its methods and sample size."
     ],
     "correctIndex": 3,
@@ -299,9 +299,9 @@
     "difficulty": "medium",
     "question": "How does Passage 2 relate to Passage 1?",
     "options": [
-      "It adds a qualification, suggesting walking should be combined with strength training.",
+      "It adds that walking should be combined with strength training.",
       "It repeats Passage 1 word for word.",
-      "It completely rejects walking as exercise.",
+      "It completely rejects walking as a useful form of exercise for adults.",
       "It tells a story about a walker."
     ],
     "correctIndex": 0,
@@ -315,9 +315,9 @@
     "difficulty": "medium",
     "question": "Which evidence does Passage 1 use to support its claim?",
     "options": [
-      "The cost of weights",
-      "Recommendations about bone density",
-      "Advice from a personal trainer",
+      "The cost of weights and exercise bands at gyms",
+      "Recommendations about bone density and resistance training",
+      "Advice from a personal trainer about daily walking",
       "Large studies showing regular walkers have less heart disease"
     ],
     "correctIndex": 3,
@@ -347,10 +347,10 @@
     "difficulty": "hard",
     "question": "Which conclusion is best supported by both passages together?",
     "options": [
-      "A fitness plan that includes walking and strength training offers the broadest benefits.",
+      "Walking plus strength training offers the broadest benefits.",
       "Only weightlifting improves health.",
       "Walking should be avoided.",
-      "Exercise has no effect on heart disease."
+      "Exercise has no effect on heart disease or bone density in adults."
     ],
     "correctIndex": 0,
     "explanation": "Passage 1 shows walking's benefits and Passage 2 adds the value of strength work.",
@@ -411,7 +411,7 @@
     "difficulty": "medium",
     "question": "What trend does the table show?",
     "options": [
-      "Most students sleep more than 8 hours.",
+      "Most students in the survey reported sleeping more than 8 hours.",
       "Sleep has no relationship to GPA.",
       "Average GPA falls as sleep increases.",
       "Average GPA tends to rise as reported sleep increases."
@@ -444,8 +444,8 @@
     "question": "Why should readers be cautious about concluding that more sleep causes higher grades?",
     "options": [
       "GPA cannot be measured.",
-      "The data are self-reported and other factors were not controlled.",
-      "The survey included too many students.",
+      "The data are self-reported and other factors were ignored.",
+      "The survey included far too many students to give accurate results.",
       "The table shows that sleep lowers grades."
     ],
     "correctIndex": 1,
@@ -491,7 +491,7 @@
     "difficulty": "medium",
     "question": "Which source should the student avoid using?",
     "options": [
-      "The 2019 history book",
+      "The 2019 history book written by a university professor",
       "The 1919 public health report",
       "The army nurse's letter",
       "The website claiming radio waves caused the pandemic"
@@ -523,9 +523,9 @@
     "difficulty": "medium",
     "question": "Which source would best provide numerical data on deaths?",
     "options": [
-      "The website",
-      "The army nurse's letter",
-      "A novel set in 1918",
+      "The website with no author",
+      "The nurse's letter of 1918",
+      "A novel set in a 1918 hospital",
       "The 1919 public health report"
     ],
     "correctIndex": 3,
@@ -541,7 +541,7 @@
     "options": [
       "Only the website",
       "The army nurse's letter and the professor's history book",
-      "The website and the nurse's letter",
+      "The website and the nurse's letter, since both give a firsthand view",
       "The website and the history book"
     ],
     "correctIndex": 1,
@@ -555,9 +555,9 @@
     "difficulty": "easy",
     "question": "Why is the 1919 public health report also considered a primary source?",
     "options": [
-      "It is an opinion piece.",
-      "It summarizes other books.",
-      "It was written by a modern professor.",
+      "It is an opinion piece written by a reporter",
+      "It summarizes several other books on the topic",
+      "It was written by a modern professor looking back",
       "It was created at the time by officials recording the events."
     ],
     "correctIndex": 3,
@@ -571,8 +571,8 @@
     "difficulty": "easy",
     "question": "What is the main claim of the blog post?",
     "options": [
-      "Drinking four cups of coffee a day will add years to your life.",
-      "Coffee beans should be stored cold.",
+      "Drinking four cups of coffee a day adds years to your life.",
+      "Coffee beans should be stored in a cold, dry place to keep them fresh.",
       "Coffee causes heart disease.",
       "Exercise is unnecessary."
     ],
@@ -588,7 +588,7 @@
     "question": "Why might the author be biased?",
     "options": [
       "The author lives in a cold climate.",
-      "The author is a medical doctor.",
+      "The author is a medical doctor who has studied coffee for years.",
       "The author sells coffee beans and profits from the claim.",
       "The author does not drink coffee."
     ],
@@ -604,9 +604,9 @@
     "question": "What important information does the post leave out?",
     "options": [
       "The coffee drinkers in the study also exercised more.",
-      "The blog has a title.",
+      "The blog has a title and a discount code",
       "The study included coffee drinkers.",
-      "Coffee contains caffeine."
+      "Coffee contains caffeine and antioxidants"
     ],
     "correctIndex": 0,
     "explanation": "Omitting the exercise difference hides another possible cause of longer life.",
@@ -619,9 +619,9 @@
     "difficulty": "hard",
     "question": "Why does the observational design weaken the blog's conclusion?",
     "options": [
-      "Observational studies are always faked.",
+      "Observational studies are always faked, so none of their results can be trusted.",
       "It means the study had no participants.",
-      "Without assigning people to drink coffee, researchers cannot show that coffee caused longer life.",
+      "Researchers did not assign coffee, so they cannot show it caused longer life.",
       "It proves coffee shortens life."
     ],
     "correctIndex": 2,
@@ -651,7 +651,7 @@
     "difficulty": "medium",
     "question": "Which change would make the post's argument more credible?",
     "options": [
-      "Using a more exciting title",
+      "Using a more exciting title and adding a larger photo of the coffee beans",
       "Citing several controlled studies from independent researchers",
       "Adding a larger discount code",
       "Removing the study entirely"
@@ -668,8 +668,8 @@
     "question": "What is the main point of Passage 2?",
     "options": [
       "Homework improves sleep.",
-      "Homework should be eliminated entirely.",
-      "Schools should limit homework so it does not cause excess stress.",
+      "Homework should be eliminated entirely from every grade level.",
+      "Schools should limit homework to avoid excess stress.",
       "Students should study more than three hours a night."
     ],
     "correctIndex": 2,
@@ -683,9 +683,9 @@
     "difficulty": "medium",
     "question": "How do the passages differ?",
     "options": [
-      "Passage 1 cites a survey and Passage 2 does not.",
+      "Passage 1 cites a survey of students, while Passage 2 offers no evidence.",
       "Both argue homework should be banned.",
-      "Passage 1 focuses on homework's benefits, while Passage 2 focuses on the harms of too much.",
+      "Passage 1 stresses benefits of homework; Passage 2 the harms of too much.",
       "Passage 2 praises long homework hours."
     ],
     "correctIndex": 2,
@@ -715,9 +715,9 @@
     "difficulty": "hard",
     "question": "Which statement would the authors of both passages most likely accept?",
     "options": [
-      "More homework is always better.",
-      "Homework should never be graded.",
-      "Homework has no effect on students.",
+      "More homework is always better for every student",
+      "Homework should never be graded or collected",
+      "Homework has no effect on students' learning",
       "A reasonable amount of homework can support learning."
     ],
     "correctIndex": 3,
@@ -734,7 +734,7 @@
       "Surveys cannot ask about homework.",
       "Only teachers took the survey.",
       "The survey shows a connection, but other factors could cause both.",
-      "The survey proves homework reduces stress."
+      "The survey proves that doing homework reduces stress in most high school students."
     ],
     "correctIndex": 2,
     "explanation": "A link between homework and stress in a survey does not establish cause.",
@@ -797,7 +797,7 @@
     "options": [
       "Schools stopped requiring vaccines.",
       "The clinics closed in 2022.",
-      "Fewer children enrolled in kindergarten.",
+      "Fewer children enrolled in kindergarten during those two years.",
       "Routine medical visits were postponed in 2020 and 2021."
     ],
     "correctIndex": 3,
@@ -830,7 +830,7 @@
       "The rate returned to 94% in 2023-24.",
       "The school clinics may have helped the vaccination rate recover.",
       "The clinics caused the 2021 decline.",
-      "Vaccination rates are unrelated to clinics."
+      "Vaccination rates are completely unrelated to the free school clinics."
     ],
     "correctIndex": 1,
     "explanation": "The rise began after clinics started in 2022, though the data alone cannot prove cause.",
@@ -875,10 +875,10 @@
     "difficulty": "medium",
     "question": "What is the main flaw in the student's experiment?",
     "options": [
-      "She waited three weeks.",
+      "She waited three weeks to measure the plants",
       "The plants differed in light and temperature as well as music.",
-      "She used bean plants.",
-      "She measured height in centimeters."
+      "She used bean plants instead of another type",
+      "She measured the height of the plants in centimeters each week."
     ],
     "correctIndex": 1,
     "explanation": "Multiple variables changed, so the cause of the difference is unclear.",
@@ -892,7 +892,7 @@
     "question": "Why is the student's conclusion not well supported?",
     "options": [
       "Sunlight or warmth, not music, may explain the extra growth.",
-      "Classical music cannot be played on the radio.",
+      "Classical music cannot be played on a radio in a bedroom at night.",
       "The plant in the garage grew taller.",
       "She did not measure the plants."
     ],
@@ -907,9 +907,9 @@
     "difficulty": "hard",
     "question": "Which revised design would best test the student's question?",
     "options": [
-      "Two plants in the garage with different soil",
+      "Two plants in the garage, each with a different kind of soil",
       "One plant in a sunnier room with music",
-      "Several plants in the same room, half with music and half without",
+      "Several plants in one room, half with music and half without",
       "One plant with music for a longer time"
     ],
     "correctIndex": 2,
@@ -939,10 +939,10 @@
     "difficulty": "easy",
     "question": "What did the teacher suggest?",
     "options": [
-      "Move both plants to the garage without changes.",
-      "Repeat the experiment with several plants, changing only the music.",
-      "Use only one plant.",
-      "Stop the experiment."
+      "Move both plants to the garage without changing anything else.",
+      "Repeat it with several plants, changing only the music.",
+      "Use only one plant in a brighter room",
+      "Stop the experiment and start over next year"
     ],
     "correctIndex": 1,
     "explanation": "The teacher recommended a controlled repeat with multiple plants.",
@@ -971,7 +971,7 @@
     "difficulty": "medium",
     "question": "A visitor parks in the garage and has an appointment in an outpatient clinic. What is the most direct way to get there?",
     "options": [
-      "Walk to the Emergency entrance.",
+      "Walk to the Emergency entrance and ask the staff for directions.",
       "Take the shuttle from the garage to the West Tower.",
       "Go to the cafeteria first.",
       "Drive to Birch Street."
@@ -1003,10 +1003,10 @@
     "difficulty": "easy",
     "question": "Where is visitor parking located?",
     "options": [
-      "Behind the West Tower",
+      "Behind the West Tower of the hospital",
       "In front of the cafeteria",
       "In the garage north of the main building",
-      "On Birch Street"
+      "On Birch Street near the entrance"
     ],
     "correctIndex": 2,
     "explanation": "Visitor parking is in the garage north of the main building.",
@@ -1068,8 +1068,8 @@
     "question": "Which statement best describes the difference between the two passages?",
     "options": [
       "Passage 2 cites more research.",
-      "Both are written by pediatricians.",
-      "Passage 1 gives an expert recommendation; Passage 2 gives a parent's opinion.",
+      "Both are written by pediatricians who have studied screen time for years.",
+      "Passage 1 gives an expert recommendation; Passage 2 a parent's opinion.",
       "Passage 1 argues there should be no limits."
     ],
     "correctIndex": 2,
@@ -1085,7 +1085,7 @@
     "options": [
       "It is based on only two children.",
       "It mentions reading.",
-      "It was written on a rainy day.",
+      "It was written on a rainy day by a tired parent.",
       "It is too long."
     ],
     "correctIndex": 0,
@@ -1259,10 +1259,10 @@
     "difficulty": "medium",
     "question": "Why did Morton's 1846 demonstration become famous even though Long used ether earlier?",
     "options": [
-      "Long used chloroform instead.",
-      "Morton's demonstration was public and news spread quickly, while Long did not publish until 1849.",
-      "Morton invented chloroform.",
-      "Long's patient did not survive."
+      "Long used chloroform instead of ether",
+      "Morton's demonstration was public, while Long did not publish until 1849.",
+      "Morton invented chloroform before Long's surgery",
+      "Long's patient did not survive the surgery, so the results were never shared."
     ],
     "correctIndex": 1,
     "explanation": "The timeline notes the public demonstration and Long's delayed publication.",
@@ -1294,7 +1294,7 @@
       "It caused anesthesia to be banned.",
       "It helped make anesthesia more accepted for childbirth.",
       "It led Long to publish his results.",
-      "It ended the use of ether entirely."
+      "It ended the use of ether in hospitals entirely and forever."
     ],
     "correctIndex": 1,
     "explanation": "The final sentence states it helped make anesthesia more widely accepted for childbirth.",
@@ -1340,9 +1340,9 @@
     "question": "What problem prompted the memo?",
     "options": [
       "An increase in catheter-associated urinary tract infections",
-      "A shortage of catheters",
-      "A new hospital building",
-      "A decline in patient visits"
+      "A shortage of catheters on the nursing units",
+      "A new hospital building under construction",
+      "A decline in patient visits to the hospital over the quarter"
     ],
     "correctIndex": 0,
     "explanation": "Infections rose from 6 to 14 in one quarter.",
@@ -1355,7 +1355,7 @@
     "difficulty": "medium",
     "question": "What did the committee's review identify as a likely cause?",
     "options": [
-      "Catheters were made of poor material.",
+      "Catheters were made of poor material by an unreliable supplier.",
       "Patients refused catheters.",
       "Nurses forgot to wash hands.",
       "Catheters were left in place longer than necessary."
@@ -1404,9 +1404,9 @@
     "question": "How will the committee most likely judge whether the new policy works?",
     "options": [
       "By measuring catheter prices",
-      "By comparing next quarter's infection numbers with this quarter's",
+      "By comparing next quarter's infection counts to this quarter's",
       "By surveying patients about food",
-      "By counting the number of nurses"
+      "By counting the nurses who completed the new orientation sessions"
     ],
     "correctIndex": 1,
     "explanation": "The memo says the committee will report infection numbers again next quarter.",
@@ -1419,7 +1419,7 @@
     "difficulty": "easy",
     "question": "What should a nurse do if a catheter is no longer medically needed?",
     "options": [
-      "Remove it without telling anyone.",
+      "Remove it without telling the provider or the patient.",
       "Contact the provider to request removal.",
       "Leave it in until discharge.",
       "Replace it with a new catheter."

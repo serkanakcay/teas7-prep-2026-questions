@@ -1074,7 +1074,7 @@
       "The mean drops from 31.17 to 19.4 minutes.",
       "The mean drops from 31.17 to 19 minutes.",
       "The mean rises from 19.4 to 31.17 minutes.",
-      "The mean does not change."
+      "The mean does not change because 90 is only one value."
     ],
     "correctIndex": 0,
     "explanation": "With 90: 187 ÷ 6 ≈ 31.17. Without it: 97 ÷ 5 = 19.4. Outliers pull the mean toward them."
@@ -1132,8 +1132,8 @@
     "question": "Data set A is 48, 50, 52 and data set B is 20, 50, 80. Which statement is true?",
     "options": [
       "Set B has a larger mean.",
-      "Both sets have a mean of 50, but set B is more spread out.",
-      "Set A has a larger standard deviation.",
+      "Both sets have a mean of 50, but B is more spread out.",
+      "Set A has a larger standard deviation because its values are closer together.",
       "Both sets have the same range."
     ],
     "correctIndex": 1,
@@ -1164,7 +1164,7 @@
       "Skewed left (negatively skewed)",
       "Skewed right (positively skewed)",
       "Uniform",
-      "Symmetric"
+      "Symmetric (bell-shaped) distribution"
     ],
     "correctIndex": 1,
     "explanation": "A distribution is named for the direction of its long tail; a tail to the right means it is skewed right."
@@ -1177,7 +1177,7 @@
     "question": "In a skewed-right distribution, how do the mean and median usually compare?",
     "options": [
       "The median is always zero.",
-      "The mean is less than the median.",
+      "The mean is usually less than the median.",
       "The mean is greater than the median.",
       "The mean equals the median."
     ],
@@ -1208,7 +1208,7 @@
     "options": [
       "The results will be exactly accurate for the city.",
       "It is biased because gym-goers likely exercise more than typical adults.",
-      "The sample is too large to be useful.",
+      "The sample is far too large to be useful for a survey of a single city.",
       "Surveys can never measure behavior."
     ],
     "correctIndex": 1,
@@ -1299,7 +1299,7 @@
       "Bar graphs cannot show differences.",
       "The bars are too wide.",
       "The truncated axis exaggerates the difference.",
-      "The graph should be a pie chart."
+      "The graph should have been drawn as a pie chart instead."
     ],
     "correctIndex": 2,
     "explanation": "Starting the scale above zero magnifies small differences and can mislead readers."
@@ -1342,9 +1342,9 @@
     "question": "In the trend line y = 2.5x + 60 (x = study hours, y = test score), what does 2.5 represent?",
     "options": [
       "The total number of hours studied",
-      "The predicted score increase for each additional hour of study",
+      "The predicted score gain for each added study hour",
       "The highest possible score",
-      "The score with zero hours of study"
+      "The predicted score for a student with zero hours of study"
     ],
     "correctIndex": 1,
     "explanation": "2.5 is the slope, the change in y for each 1-unit increase in x; 60 is the y-intercept."

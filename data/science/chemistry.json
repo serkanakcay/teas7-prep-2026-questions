@@ -307,7 +307,7 @@
     "question": "What are valence electrons?",
     "options": [
       "Electrons in the innermost shell only",
-      "Electrons in the outermost energy level of an atom",
+      "Electrons in the outermost energy level",
       "Electrons that have been removed from an atom",
       "Electrons inside the nucleus"
     ],
@@ -324,7 +324,7 @@
       "The same number of valence electrons",
       "The same atomic mass",
       "The same number of neutrons",
-      "The same number of energy levels"
+      "The same number of energy levels (electron shells)"
     ],
     "correctIndex": 0,
     "explanation": "Elements in a group have similar outer electron arrangements, so they react in similar ways."
@@ -503,7 +503,7 @@
     "options": [
       "Milk souring",
       "Iron rusting",
-      "Wood burning",
+      "Wood burning in a campfire",
       "Ice melting into water"
     ],
     "correctIndex": 3,
@@ -516,9 +516,9 @@
     "difficulty": "medium",
     "question": "Which observation suggests that a chemical change has occurred?",
     "options": [
-      "A gas forms and bubbles appear when two liquids are mixed.",
+      "A gas forms and bubbles appear when two liquids mix.",
       "A glass breaks.",
-      "Sugar dissolves in water.",
+      "Sugar dissolves in water and the mixture looks clear again",
       "Water boils."
     ],
     "correctIndex": 0,
@@ -622,8 +622,8 @@
     "question": "What does the law of conservation of mass state about a chemical reaction?",
     "options": [
       "Mass is created when bonds form.",
-      "Products always weigh more than reactants.",
-      "The total mass of reactants equals the total mass of products.",
+      "Products always weigh more than the reactants that formed them.",
+      "Total mass of reactants equals total mass of products.",
       "Gases have no mass."
     ],
     "correctIndex": 2,
@@ -698,7 +698,7 @@
     "options": [
       "It speeds up the reaction without being used up.",
       "It raises the activation energy.",
-      "It is consumed and becomes a product.",
+      "It is consumed in the reaction and becomes a product.",
       "It changes which products form."
     ],
     "correctIndex": 0,
@@ -742,7 +742,7 @@
     "question": "Which change would increase the rate at which a sugar cube dissolves in water?",
     "options": [
       "Using colder water",
-      "Leaving the water unstirred",
+      "Leaving the water unstirred and cold",
       "Using a larger cube",
       "Crushing the cube into powder"
     ],
@@ -801,7 +801,7 @@
     "difficulty": "hard",
     "question": "A buffer in the blood helps keep pH near 7.4. What does a buffer do?",
     "options": [
-      "It makes the blood strongly acidic.",
+      "It makes the blood strongly acidic to kill off all bacteria.",
       "It removes all ions from solution.",
       "It raises pH to 14.",
       "It resists changes in pH when acids or bases are added."
@@ -968,7 +968,7 @@
     "options": [
       "Gravity is stronger.",
       "The water is saltier.",
-      "There is more oxygen in the air.",
+      "There is more oxygen in the air at high altitude.",
       "The atmospheric pressure is lower."
     ],
     "correctIndex": 3,
@@ -1116,7 +1116,7 @@
     "difficulty": "medium",
     "question": "What is an isotope's mass number?",
     "options": [
-      "The number of electrons only",
+      "The number of electrons in the outer energy level only",
       "The number of protons only",
       "The number of energy levels",
       "The total number of protons and neutrons in the nucleus"

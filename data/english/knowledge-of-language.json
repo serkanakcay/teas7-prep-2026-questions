@@ -21,7 +21,7 @@
     "difficulty": "medium",
     "question": "Which sentence is most appropriate for a formal research paper?",
     "options": [
-      "Infections totally went down a ton.",
+      "Infections totally went down a ton after the new rules were put in place.",
       "The results indicate a significant decline in infection rates.",
       "The results were, like, super good for infections.",
       "You won't believe how much infections dropped!"
@@ -156,7 +156,7 @@
     "difficulty": "medium",
     "question": "Which sentence best introduces a paragraph about the benefits of exercise for the heart?",
     "options": [
-      "Some people like soccer more than tennis.",
+      "Some people like soccer more than tennis, and others prefer swimming.",
       "Regular exercise strengthens the heart in several important ways.",
       "Hearts are shaped like a fist.",
       "My uncle bought new running shoes."
@@ -187,7 +187,7 @@
     "question": "In which situation is the word choice most appropriate? A nurse explaining a procedure to a 7-year-old patient.",
     "options": [
       "\"We will perform venipuncture on the antecubital fossa.\"",
-      "\"We're going to take a tiny bit of blood from your arm.\"",
+      "\"We'll take a tiny bit of blood from your arm.\"",
       "\"Prepare for phlebotomy.\"",
       "\"Your hematological profile requires sampling.\""
     ],
@@ -323,8 +323,8 @@
     "options": [
       "When asking a question",
       "When writing a short command",
-      "When the person who performed the action is unknown or unimportant",
-      "When the writer wants to emphasize who did something"
+      "When the doer of the action is unknown or unimportant",
+      "When the writer wants to emphasize exactly who did something"
     ],
     "correctIndex": 2,
     "explanation": "Passive voice is useful when the action matters more than the actor, as in \"The samples were stored at 4°C.\""
@@ -351,7 +351,7 @@
     "difficulty": "medium",
     "question": "Which word choice is most appropriate in a professional email to an instructor?",
     "options": [
-      "\"Yo, what do you think of my care plan?\"",
+      "\"Yo Prof, what do you think of my care plan so far?\"",
       "\"Hey, fix my care plan pls.\"",
       "\"Can u look at my care plan?\"",
       "\"I would appreciate feedback on my care plan.\""
@@ -369,7 +369,7 @@
       "Influenza is caused by an RNA virus of the family Orthomyxoviridae.",
       "Vaccines have a long history.",
       "Some people get flu shots and some do not.",
-      "A single quick shot can keep your whole family healthier this winter."
+      "One quick shot can keep your whole family healthier this winter."
     ],
     "correctIndex": 3,
     "explanation": "Persuasive writing addresses the audience's concerns (time, family health) with a clear benefit."
@@ -533,7 +533,7 @@
     "options": [
       "Many people sleep at night.",
       "I like to sleep on weekends.",
-      "Some animals sleep during the day.",
+      "Some animals sleep during the day and hunt at night, like owls.",
       "Adequate sleep improves memory, mood, and immune function."
     ],
     "correctIndex": 3,
@@ -547,8 +547,8 @@
     "question": "Which sentence would be the best conclusion for a paragraph about the importance of hand hygiene?",
     "options": [
       "Hands have 27 bones each.",
-      "Simple handwashing remains one of the most effective ways to stop the spread of infection.",
-      "Some hospitals have blue walls.",
+      "Simple handwashing remains one of the most effective ways to prevent infection.",
+      "Some hospitals have blue walls, and many have quiet waiting rooms and gardens for visitors.",
       "Soap comes in many scents."
     ],
     "correctIndex": 1,
@@ -591,7 +591,7 @@
     "difficulty": "easy",
     "question": "Which source of writing would most likely use technical medical vocabulary?",
     "options": [
-      "A text message to a friend",
+      "A text message to a friend about weekend plans",
       "A journal article written for physicians",
       "A grocery list",
       "A children's picture book"
@@ -653,7 +653,7 @@
     "options": [
       "Staff adopted the new policy quickly.",
       "At the end of the day, the new policy was a piece of cake.",
-      "The new policy was easy to implement.",
+      "The new policy was easy to implement and well received by staff.",
       "The policy reduced errors by ten percent."
     ],
     "correctIndex": 1,
@@ -697,7 +697,7 @@
     "question": "Which sentence uses a colloquial expression?",
     "options": [
       "We need to touch base about the schedule.",
-      "The schedule will be discussed Monday.",
+      "The schedule will be discussed in a meeting on Monday.",
       "The schedule requires review.",
       "We need to discuss the schedule."
     ],
@@ -729,7 +729,7 @@
       "Because the road was icy, the ambulance arrived late.",
       "The ambulance arrived, and the road was icy.",
       "The road was icy; the ambulance has sirens.",
-      "The road was icy, and the ambulance was white."
+      "The road was icy, and the ambulance was white with red stripes."
     ],
     "correctIndex": 0,
     "explanation": "Because signals that the icy road caused the late arrival."
@@ -758,7 +758,7 @@
     "options": [
       "Since the clinic expanded, wait times have dropped.",
       "Wait times have dropped.",
-      "The clinic expanded, and wait times have dropped.",
+      "The clinic expanded, and wait times have dropped sharply.",
       "The clinic expanded."
     ],
     "correctIndex": 0,
@@ -848,7 +848,7 @@
     "options": [
       "Passive voice",
       "Regional variation in vocabulary",
-      "Incorrect grammar",
+      "Incorrect grammar in spoken English",
       "Technical jargon"
     ],
     "correctIndex": 1,
@@ -922,7 +922,7 @@
     "question": "Which sentence best states a claim that can be supported with evidence?",
     "options": [
       "Everyone should love walking.",
-      "Walking is the best thing ever.",
+      "Walking is the best thing anyone can possibly do for their health.",
       "Walking is boring.",
       "Daily walking lowers blood pressure in adults with hypertension."
     ],
@@ -982,7 +982,7 @@
     "question": "Which sentence is written in second person?",
     "options": [
       "I arrived fifteen minutes early.",
-      "They arrived fifteen minutes early.",
+      "They arrived at the clinic fifteen minutes early.",
       "We arrived fifteen minutes early.",
       "You should arrive fifteen minutes early."
     ],
@@ -1042,7 +1042,7 @@
     "question": "Which sentence is most appropriate for a scientific lab report?",
     "options": [
       "We kind of warmed the solution.",
-      "I heated up the stuff for a while.",
+      "I heated up the stuff for a while until it looked right.",
       "The solution got super hot.",
       "The solution was heated to 80°C for ten minutes."
     ],
@@ -1088,7 +1088,7 @@
     "options": [
       "The first trial failed; and the second succeeded.",
       "The first; trial failed the second trial succeeded.",
-      "The first trial failed; the second trial succeeded.",
+      "The first trial failed; the second succeeded.",
       "The first trial; failed the second trial succeeded."
     ],
     "correctIndex": 2,

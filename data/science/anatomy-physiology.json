@@ -156,7 +156,7 @@
     "difficulty": "hard",
     "question": "Which cells are primarily responsible for producing antibodies?",
     "options": [
-      "Helper T cells",
+      "Helper T cells (CD4 lymphocytes) that coordinate the immune response",
       "Plasma cells (derived from B lymphocytes)",
       "Erythrocytes",
       "Neutrophils"
@@ -336,10 +336,10 @@
     "difficulty": "hard",
     "question": "Why do veins in the legs contain valves?",
     "options": [
-      "To prevent blood from flowing backward under low pressure",
+      "To keep blood from flowing backward under low pressure",
       "To add oxygen to returning blood",
       "To filter waste from the blood",
-      "To raise blood pressure in the capillaries"
+      "To raise the blood pressure in the capillaries of the foot"
     ],
     "correctIndex": 0,
     "explanation": "Venous blood is under low pressure, so one-way valves, aided by skeletal muscle contraction, keep it moving toward the heart."
@@ -352,7 +352,7 @@
     "question": "What does the systolic number in a blood pressure reading represent?",
     "options": [
       "Pressure inside the veins",
-      "Pressure in the arteries when the heart relaxes",
+      "Pressure in the arteries when the heart relaxes between beats",
       "The number of heartbeats per minute",
       "Pressure in the arteries when the ventricles contract"
     ],
@@ -383,8 +383,8 @@
     "options": [
       "It moves mucus out of the lungs.",
       "It exchanges gases with the blood.",
-      "It produces sound when air passes over it.",
-      "It covers the opening of the larynx during swallowing."
+      "It produces sound when air passes over it during speech.",
+      "It covers the opening of the larynx when swallowing."
     ],
     "correctIndex": 3,
     "explanation": "The epiglottis folds over the larynx when food is swallowed so that food enters the esophagus instead of the airway."
@@ -458,7 +458,7 @@
     "options": [
       "It neutralizes bases in the stomach.",
       "It emulsifies fats into smaller droplets.",
-      "It breaks proteins into amino acids.",
+      "It breaks proteins down into individual amino acids.",
       "It absorbs water from waste."
     ],
     "correctIndex": 1,
@@ -548,7 +548,7 @@
     "options": [
       "Filter more glucose",
       "Release more sodium",
-      "Excrete more water, producing dilute urine",
+      "Excrete more water, producing large amounts of dilute urine",
       "Reabsorb more water, producing concentrated urine"
     ],
     "correctIndex": 3,
@@ -591,9 +591,9 @@
     "difficulty": "medium",
     "question": "Which statement describes the function of the lymphatic system?",
     "options": [
-      "It returns excess tissue fluid to the blood and helps fight infection.",
+      "It returns tissue fluid to the blood and helps fight infection.",
       "It carries nerve impulses to muscles.",
-      "It pumps blood through the arteries.",
+      "It pumps blood through the arteries and veins to every organ of the body.",
       "It produces bile for fat digestion."
     ],
     "correctIndex": 0,
@@ -654,7 +654,7 @@
       "It produces new neurons.",
       "It stores neurotransmitters.",
       "It insulates the axon and speeds up nerve impulses.",
-      "It receives signals from other neurons."
+      "It receives signals from other neurons and sends them to the axon."
     ],
     "correctIndex": 2,
     "explanation": "Myelin insulates axons so impulses jump between gaps (nodes of Ranvier), greatly increasing conduction speed."
@@ -667,8 +667,8 @@
     "question": "What happens at a synapse when a nerve impulse reaches the end of an axon?",
     "options": [
       "Myelin is released into the gap.",
-      "The impulse jumps directly through the gap as electricity.",
-      "Neurotransmitters are released and bind to receptors on the next cell.",
+      "The impulse jumps directly through the gap as a pure electrical current.",
+      "Neurotransmitters are released and bind receptors on the next cell.",
       "The axon fuses with the next neuron."
     ],
     "correctIndex": 2,
@@ -803,7 +803,7 @@
     "options": [
       "Hands and feet",
       "Skull, vertebral column, ribs, and sternum",
-      "Shoulder girdle and arms only",
+      "Shoulder girdle, arms, and hands only, without the skull",
       "Arms, legs, and pelvis"
     ],
     "correctIndex": 1,
@@ -924,7 +924,7 @@
       "Evaporation of sweat removes heat from the skin.",
       "Sweat stops the skin from losing heat.",
       "Sweat traps heat inside the body.",
-      "Sweat increases blood flow to the core."
+      "Sweat increases blood flow to the core of the body to keep it warm."
     ],
     "correctIndex": 0,
     "explanation": "When sweat evaporates it absorbs heat energy, cooling the skin surface."
@@ -954,7 +954,7 @@
       "Providing ready-made antibiotics",
       "Replacing white blood cells",
       "Stimulating the immune system to form memory cells",
-      "Killing all bacteria in the body"
+      "Killing all bacteria in the body as soon as they enter"
     ],
     "correctIndex": 2,
     "explanation": "Vaccines expose the immune system to a harmless antigen so memory B and T cells can respond quickly to a later infection."
@@ -1086,8 +1086,8 @@
     "difficulty": "hard",
     "question": "Which statement best describes homeostasis?",
     "options": [
-      "Rapid growth of tissues after injury",
-      "Maintenance of a stable internal environment despite external changes",
+      "Rapid growth and repair of new tissues after a serious injury to the body",
+      "Maintenance of a stable internal environment despite outside changes",
       "The breakdown of food for energy",
       "Constant change in body temperature"
     ],

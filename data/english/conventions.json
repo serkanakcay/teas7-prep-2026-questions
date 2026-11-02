@@ -52,7 +52,7 @@
     "question": "Which sentence uses a semicolon correctly?",
     "options": [
       "The lab was closed; and the samples were stored.",
-      "Because the lab was closed; the samples were stored.",
+      "Because the lab was closed; the samples were stored overnight.",
       "The lab was closed; the samples were stored overnight.",
       "The lab; was closed overnight."
     ],
@@ -233,7 +233,7 @@
     "options": [
       "The pharmacy closed, early so the patient picked up her prescription the next day.",
       "The pharmacy closed early, so the patient picked up her prescription the next day.",
-      "The pharmacy, closed early so the patient picked up her prescription the next day.",
+      "The pharmacy, closed early so the patient picked up her prescription the next day after work.",
       "The pharmacy closed early so, the patient picked up her prescription the next day."
     ],
     "correctIndex": 1,
@@ -264,7 +264,7 @@
       "Bring three items to clinical: your badge, a watch, and a pen.",
       "Bring three items: to clinical your badge, a watch, and a pen.",
       "Bring three items to: clinical, your badge, and a pen.",
-      "Bring: your badge, a watch, and a pen."
+      "Bring: your badge, a watch, a pen, and your stethoscope to clinical."
     ],
     "correctIndex": 0,
     "explanation": "A colon follows a complete independent clause and introduces a list."
@@ -354,7 +354,7 @@
       "On March, 3 2025 the new wing opened.",
       "On March 3, 2025, the new wing opened.",
       "On March 3 2025, the new wing opened.",
-      "On, March 3, 2025 the new wing opened."
+      "On, March 3, 2025 the new wing opened to patients."
     ],
     "correctIndex": 1,
     "explanation": "Place commas after the day and after the year when a full date appears mid-sentence."
@@ -591,7 +591,7 @@
     "difficulty": "medium",
     "question": "Which sentence uses the past participle correctly?",
     "options": [
-      "The patient has already taked her medication.",
+      "The patient has already taked all of her medication.",
       "The patient has already take her medication.",
       "The patient has already taken her medication.",
       "The patient has already took her medication."
@@ -696,7 +696,7 @@
     "difficulty": "hard",
     "question": "Which sentence correctly uses the subjunctive mood?",
     "options": [
-      "If I was the charge nurse, I would change the schedule.",
+      "If I was the charge nurse, I would change the work schedule.",
       "If I be the charge nurse, I would change the schedule.",
       "If I am the charge nurse, I would change the schedule.",
       "If I were the charge nurse, I would change the schedule."
@@ -907,7 +907,7 @@
     "question": "Which revision corrects the comma splice? \"The patient felt better, she asked to go home.\"",
     "options": [
       "The patient felt better, so she asked to go home.",
-      "The patient felt better, she asked, to go home.",
+      "The patient felt better, she asked, to go home right away.",
       "The patient, felt better she asked to go home.",
       "The patient felt better she asked to go home."
     ],

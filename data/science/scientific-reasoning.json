@@ -7,7 +7,7 @@
     "question": "In an experiment testing whether fertilizer amount affects plant height, what is the independent variable?",
     "options": [
       "The amount of fertilizer",
-      "The amount of sunlight",
+      "The amount of sunlight each plant receives daily",
       "The type of pot",
       "Plant height"
     ],
@@ -51,10 +51,10 @@
     "difficulty": "medium",
     "question": "Which statement is a testable hypothesis?",
     "options": [
-      "If students sleep 8 hours, then their test scores will increase.",
+      "If students sleep 8 hours, test scores will increase.",
       "Everyone dreams about school.",
       "Students should sleep more.",
-      "Sleep is the most wonderful part of the day."
+      "Sleep is the most wonderful and relaxing part of the whole day."
     ],
     "correctIndex": 0,
     "explanation": "A testable hypothesis predicts a measurable relationship between variables, often in if-then form."
@@ -67,9 +67,9 @@
     "question": "A researcher finds that ice cream sales and sunburn cases both rise in summer. Which conclusion is most appropriate?",
     "options": [
       "Sunburn causes people to buy ice cream.",
-      "Eating ice cream causes sunburn.",
+      "Eating ice cream makes the skin much more likely to burn in sunlight.",
       "There is no relationship at all.",
-      "The two are correlated, possibly due to a third factor such as sunny weather."
+      "They are correlated, possibly because sunny weather affects both."
     ],
     "correctIndex": 3,
     "explanation": "Correlation does not prove causation; a confounding variable (hot, sunny weather) likely drives both."
@@ -126,10 +126,10 @@
     "difficulty": "easy",
     "question": "What is the first step of the scientific method?",
     "options": [
-      "Publishing results",
-      "Drawing a conclusion",
+      "Publishing the results in a journal",
+      "Drawing a conclusion from the results",
       "Making an observation or asking a question",
-      "Analyzing data"
+      "Analyzing the data in a table"
     ],
     "correctIndex": 2,
     "explanation": "Scientific inquiry begins with an observation that leads to a question."
@@ -156,8 +156,8 @@
     "difficulty": "hard",
     "question": "A study tests a new drug on 12 people with no control group. What is the biggest limitation?",
     "options": [
-      "The small sample and lack of a control make the results unreliable.",
-      "The study had too many participants.",
+      "The small sample and lack of a control make results unreliable.",
+      "The study had too many participants to be analyzed accurately by hand.",
       "The drug was tested on humans.",
       "The study used a hypothesis."
     ],
@@ -201,10 +201,10 @@
     "difficulty": "medium",
     "question": "Which variable should be kept constant in an experiment?",
     "options": [
-      "The dependent variable",
-      "The independent variable",
-      "The results",
-      "Controlled variables, such as amount of water given to each plant"
+      "The dependent variable, because it is the one measured",
+      "The independent variable, because it is the one being changed",
+      "The results of the experiment",
+      "Controlled variables, such as the amount of water per plant"
     ],
     "correctIndex": 3,
     "explanation": "Controlled (constant) variables are held the same so only the independent variable changes."
@@ -217,9 +217,9 @@
     "question": "A scientific theory differs from a hypothesis because a theory is what?",
     "options": [
       "A well-tested explanation supported by much evidence",
-      "A personal opinion",
-      "An untested guess",
-      "A single observation"
+      "A personal opinion held by one scientist",
+      "An untested guess about what might happen",
+      "A single observation made by one scientist"
     ],
     "correctIndex": 0,
     "explanation": "Theories are broad explanations repeatedly supported by evidence; hypotheses are testable predictions."
@@ -276,10 +276,10 @@
     "difficulty": "hard",
     "question": "Why are some clinical trials \"double-blind\"?",
     "options": [
-      "Neither participants nor researchers know who receives the treatment, which reduces bias.",
+      "Neither participants nor researchers know who gets the treatment.",
       "Participants are tested with their eyes closed.",
       "The data are reviewed twice.",
-      "Both groups receive the same drug."
+      "Both groups receive the same drug, but at two different times of day."
     ],
     "correctIndex": 0,
     "explanation": "Blinding both sides prevents expectations from influencing how participants respond or how researchers record results."
@@ -293,8 +293,8 @@
     "options": [
       "To remove the need for a control group",
       "To make the sample smaller",
-      "To guarantee the hypothesis is supported",
-      "To make the groups similar so differences can be attributed to the treatment"
+      "To guarantee that the hypothesis will be supported by the results",
+      "To make groups similar so differences reflect the treatment"
     ],
     "correctIndex": 3,
     "explanation": "Random assignment spreads other characteristics evenly across groups, reducing confounding."
@@ -307,8 +307,8 @@
     "question": "Which is the best example of a hypothesis?",
     "options": [
       "Sunlight is yellow.",
-      "If plants receive more sunlight, then they will grow taller.",
-      "Plants are beautiful.",
+      "If plants get more sunlight, then they will grow taller.",
+      "Plants are more beautiful than most other kinds of living things.",
       "Do plants like music?"
     ],
     "correctIndex": 1,
@@ -323,7 +323,7 @@
     "options": [
       "Using only one seedling per group",
       "Removing the tap-water group",
-      "Changing the type of seed halfway through",
+      "Changing the type of seed halfway through the experiment",
       "Repeating the experiment with many more seedlings"
     ],
     "correctIndex": 3,
@@ -382,8 +382,8 @@
     "question": "What is the difference between a scientific law and a scientific theory?",
     "options": [
       "A theory is just a guess.",
-      "A law is a theory that has been proven wrong.",
-      "A law describes what happens; a theory explains why it happens.",
+      "A law is simply a theory that has been proven wrong over time.",
+      "A law describes what happens; a theory explains why.",
       "They mean exactly the same thing."
     ],
     "correctIndex": 2,
@@ -399,7 +399,7 @@
       "Unhappy patients may not return, creating selection bias.",
       "The survey has too many questions.",
       "Satisfaction cannot be measured.",
-      "Follow-up visits are always shorter."
+      "Follow-up visits are always shorter than first visits, so answers vary."
     ],
     "correctIndex": 0,
     "explanation": "If the sample excludes dissatisfied people, it no longer represents all patients."
@@ -426,7 +426,7 @@
     "difficulty": "medium",
     "question": "Which statement is an inference rather than an observation?",
     "options": [
-      "The plant's leaves are drooping.",
+      "The plant's leaves are drooping and slightly yellow.",
       "The plant is 20 cm tall.",
       "The soil is dry to the touch.",
       "The plant wilted because it was not watered."
@@ -501,8 +501,8 @@
     "difficulty": "easy",
     "question": "What is the purpose of peer review in science?",
     "options": [
-      "Other experts check a study's methods and conclusions before publication.",
-      "The author reviews their own work twice.",
+      "Other experts check a study's methods and conclusions.",
+      "The author reviews their own work twice before submitting it.",
       "Results are kept secret.",
       "Experiments are skipped to save time."
     ],
@@ -516,8 +516,8 @@
     "difficulty": "medium",
     "question": "Why do scientists use the metric system?",
     "options": [
-      "It is a standard, base-10 system used worldwide, making data easy to share and convert.",
-      "It is the only system with units for length.",
+      "It is a base-10 system used worldwide, which makes data easy to share.",
+      "It is the only measurement system that has separate units for length and mass.",
       "It avoids the need for measurement.",
       "It uses fractions instead of decimals."
     ],
@@ -531,7 +531,7 @@
     "difficulty": "medium",
     "question": "In an experiment, enzyme activity is 10 units at pH 2, 45 units at pH 7, and 12 units at pH 11. What conclusion is best supported?",
     "options": [
-      "The enzyme works best in strong acid.",
+      "The enzyme works best in very strong acid at low pH.",
       "The enzyme works best near neutral pH.",
       "The enzyme works best in strong base.",
       "pH has no effect on the enzyme."
@@ -606,9 +606,9 @@
     "difficulty": "hard",
     "question": "Plants were given 0, 5, 10, and 15 mL of fertilizer and grew 4, 9, 12, and 6 cm. What is the best conclusion?",
     "options": [
-      "More fertilizer always produces more growth.",
+      "More fertilizer always produces more growth at every amount tested.",
       "Plants grow best with no fertilizer.",
-      "Growth increased up to 10 mL, but too much fertilizer reduced growth.",
+      "Growth rose up to 10 mL, but too much fertilizer reduced growth.",
       "Fertilizer has no effect on growth."
     ],
     "correctIndex": 2,
@@ -666,10 +666,10 @@
     "difficulty": "hard",
     "question": "A study reports that a new drug lowered blood pressure in 52% of patients, compared with 50% on placebo, in a trial of 20 people. What is the best evaluation?",
     "options": [
-      "The difference is small and the sample is too small to show the drug works.",
+      "The difference is small and the sample is too small to show it works.",
       "The placebo is more effective.",
       "The study proves the drug is dangerous.",
-      "The drug clearly works for everyone."
+      "The drug clearly works, because more patients improved than on the placebo."
     ],
     "correctIndex": 0,
     "explanation": "A two-point difference in only 20 people could easily be due to chance."
@@ -696,10 +696,10 @@
     "difficulty": "medium",
     "question": "What is a model in science?",
     "options": [
-      "A proven law",
-      "A simplified representation used to explain or predict something",
-      "An exact copy of nature",
-      "A list of materials"
+      "A proven law that cannot change",
+      "A simplified representation that explains or predicts",
+      "An exact, full-sized copy of a natural system or organism",
+      "A list of materials used in the lab"
     ],
     "correctIndex": 1,
     "explanation": "Models, such as the Bohr atom or a heart diagram, simplify complex systems to aid understanding."
@@ -713,8 +713,8 @@
     "options": [
       "Read about music history",
       "Measure heart rate once while running",
-      "Measure heart rates with and without music under the same conditions",
-      "Ask friends whether they like music"
+      "Measure heart rates with and without music in the same conditions",
+      "Ask many friends whether they enjoy music and how it makes them feel"
     ],
     "correctIndex": 2,
     "explanation": "Comparing measurements while changing only the music isolates its effect."
@@ -743,7 +743,7 @@
     "options": [
       "Use only the 2.10 s value",
       "Check the 2.10 s trial for error before including it",
-      "Report the average of all five without comment",
+      "Report the average of all five trials without any comment",
       "Assume gravity changed"
     ],
     "correctIndex": 1,
@@ -756,10 +756,10 @@
     "difficulty": "medium",
     "question": "Which variable must be controlled in a test of whether sugar affects yeast activity?",
     "options": [
-      "The amount of sugar",
-      "The outcome",
+      "The amount of sugar added to the water",
+      "The final outcome",
       "The temperature of the solution",
-      "The amount of gas produced"
+      "The amount of gas produced by the yeast"
     ],
     "correctIndex": 2,
     "explanation": "Temperature also affects yeast, so it must be kept the same while only sugar is changed."
@@ -802,7 +802,7 @@
     "question": "A researcher measures vitamin D levels and finds that people with low levels have more fractures. Which claim is justified?",
     "options": [
       "Vitamin D has no relationship to bones.",
-      "Low vitamin D definitely causes every fracture.",
+      "Low vitamin D definitely causes every fracture in older adults.",
       "Fractures cause low vitamin D.",
       "Low vitamin D is associated with more fractures."
     ],
@@ -816,7 +816,7 @@
     "difficulty": "medium",
     "question": "Which source would provide the most reliable information about a new vaccine's effectiveness?",
     "options": [
-      "An advertisement for the vaccine",
+      "An advertisement for the vaccine placed by its manufacturer",
       "A peer-reviewed journal article reporting a clinical trial",
       "A celebrity's social media post",
       "An anonymous online forum"
@@ -846,7 +846,7 @@
     "difficulty": "medium",
     "question": "According to Newton's third law, when you push on a wall, what does the wall do?",
     "options": [
-      "It absorbs the force completely.",
+      "It absorbs the force completely and pushes back with none.",
       "It pulls you toward it.",
       "It pushes back on you with an equal and opposite force.",
       "It pushes back with twice the force."
@@ -952,7 +952,7 @@
     "question": "A student hypothesizes that warmer water dissolves sugar faster. Which result would NOT support the hypothesis?",
     "options": [
       "Sugar dissolves faster at 60°C than at 20°C.",
-      "Sugar dissolves slowest at 5°C.",
+      "Sugar dissolves slowest at 5°C and fastest at 60°C.",
       "Dissolving time drops as temperature rises.",
       "Sugar dissolves equally fast at 20°C and 60°C."
     ],
@@ -966,10 +966,10 @@
     "difficulty": "medium",
     "question": "Which statement correctly describes the relationship between the systems during exercise?",
     "options": [
-      "The digestive system speeds up to provide oxygen.",
+      "The digestive system speeds up to provide oxygen to the working muscles.",
       "The skeletal system makes oxygen.",
       "The urinary system pumps blood faster.",
-      "The respiratory and cardiovascular systems work together to deliver more oxygen to muscles."
+      "Respiratory and cardiovascular systems work together to supply oxygen."
     ],
     "correctIndex": 3,
     "explanation": "Breathing rate and heart rate both increase so that more oxygen reaches working muscles."
@@ -1012,7 +1012,7 @@
     "question": "What type of wave is sound?",
     "options": [
       "A light wave",
-      "A wave that travels through a vacuum",
+      "A wave that can travel through a perfect vacuum",
       "A mechanical wave that needs a medium",
       "An electromagnetic wave"
     ],
@@ -1102,7 +1102,7 @@
     "question": "If a scientist wants to compare two treatments fairly, how many variables should differ between the groups?",
     "options": [
       "Only one, the treatment",
-      "Two or three",
+      "Two or three at a time",
       "As many as possible",
       "None"
     ],
@@ -1119,7 +1119,7 @@
       "Exercise is a confounding variable that also affects glucose.",
       "Diets never affect glucose.",
       "The values are too close together.",
-      "Glucose cannot be measured accurately."
+      "Glucose cannot be measured accurately from a single blood sample taken at home."
     ],
     "correctIndex": 0,
     "explanation": "Two changes occurred at once, so the effect of each cannot be separated."

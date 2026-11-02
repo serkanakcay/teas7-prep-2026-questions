@@ -8,7 +8,7 @@
     "options": [
       "Around",
       "Against",
-      "Below or deficient",
+      "Below or lacking in amount",
       "Above or excessive"
     ],
     "correctIndex": 3,
@@ -24,7 +24,7 @@
       "Inflammation",
       "Study of",
       "Pain",
-      "Removal"
+      "Removal of tissue"
     ],
     "correctIndex": 0,
     "explanation": "'-itis' means inflammation. '-ectomy' means removal and '-ology' means study of."
@@ -36,7 +36,7 @@
     "difficulty": "medium",
     "question": "Based on the context, what does \"lethargic\" mean? \"After the long fever, the child was lethargic and slept most of the day.\"",
     "options": [
-      "Excited and energetic",
+      "Excited, alert, and energetic",
       "Angry",
       "Hungry",
       "Lacking energy; sluggish"
@@ -67,7 +67,7 @@
     "question": "Which word is an antonym of \"scarce\"?",
     "options": [
       "Rare",
-      "Limited",
+      "Insufficient",
       "Abundant",
       "Sparse"
     ],
@@ -171,9 +171,9 @@
     "difficulty": "hard",
     "question": "Based on context, what does \"ambiguous\" mean? \"The doctor's handwritten order was ambiguous, so the nurse called to clarify.\"",
     "options": [
-      "Extremely urgent",
+      "Extremely urgent and requiring immediate action",
       "Incorrect",
-      "Unclear; open to more than one meaning",
+      "Unclear; open to two readings",
       "Very neat"
     ],
     "correctIndex": 2,
@@ -218,8 +218,8 @@
     "options": [
       "Required by law",
       "Strongly recommended",
-      "Not advisable because it may cause harm",
-      "Only available by prescription"
+      "Not advisable because it may harm",
+      "Only available with a doctor's prescription"
     ],
     "correctIndex": 2,
     "explanation": "'Contra-' means against; a contraindicated treatment should not be used in that situation."
@@ -231,7 +231,7 @@
     "difficulty": "easy",
     "question": "What does the prefix \"hypo-\" mean in \"hypoglycemia\"?",
     "options": [
-      "Above or excessive",
+      "Above normal or excessive",
       "Within",
       "Below or deficient",
       "Around"
@@ -323,7 +323,7 @@
     "options": [
       "Kidney",
       "Bone",
-      "Nerve",
+      "Nerve tissue",
       "Lung"
     ],
     "correctIndex": 0,
@@ -397,7 +397,7 @@
     "question": "What is the difference between the prefixes \"inter-\" and \"intra-\"?",
     "options": [
       "Inter- means between; intra- means within.",
-      "Both mean outside.",
+      "Both prefixes mean outside the body or structure.",
       "Inter- means within; intra- means between.",
       "Inter- means after; intra- means before."
     ],
@@ -456,7 +456,7 @@
     "difficulty": "medium",
     "question": "What does the prefix \"dys-\" mean in \"dysphagia\"?",
     "options": [
-      "Normal",
+      "Normal, healthy, and effortless",
       "Difficult or abnormal",
       "Without",
       "Rapid"
@@ -503,7 +503,7 @@
     "options": [
       "A condition of the blood",
       "Pain in a muscle",
-      "Removal of an organ",
+      "Surgical removal of an organ",
       "A tumor of bone"
     ],
     "correctIndex": 0,
@@ -518,7 +518,7 @@
     "options": [
       "A fast heart rate",
       "Removal of the heart",
-      "Inflammation of the heart",
+      "Inflammation of the heart muscle",
       "The membrane around the heart"
     ],
     "correctIndex": 3,
@@ -532,7 +532,7 @@
     "question": "Based on context, what does \"adhere\" mean? \"Patients who adhere to their medication schedule recover faster.\"",
     "options": [
       "To follow closely",
-      "To ignore",
+      "To ignore completely",
       "To shorten",
       "To question"
     ],
@@ -624,7 +624,7 @@
       "Silent",
       "Confused",
       "Clear-thinking",
-      "Unconscious"
+      "Unconscious or asleep"
     ],
     "correctIndex": 2,
     "explanation": "Answering questions clearly shows she could think clearly."
@@ -681,7 +681,7 @@
     "difficulty": "medium",
     "question": "Based on context, what does \"discrepancy\" mean? \"The nurse noticed a discrepancy between the order and the label, so she paused.\"",
     "options": [
-      "A shortcut",
+      "A shortcut taken in a procedure",
       "A difference or mismatch",
       "An agreement",
       "A signature"
@@ -729,7 +729,7 @@
       "Rarely seen",
       "Found everywhere",
       "Out of order",
-      "Recently removed"
+      "Recently removed from service"
     ],
     "correctIndex": 1,
     "explanation": "Found in every hallway and room defines ubiquitous."
@@ -758,7 +758,7 @@
     "options": [
       "Following instructions",
       "Forgetting easily",
-      "Refusing treatment",
+      "Refusing treatment outright",
       "Complaining loudly"
     ],
     "correctIndex": 0,
@@ -772,7 +772,7 @@
     "question": "Based on context, what does \"inflamed\" mean? \"The inflamed joint was red, warm, and swollen.\"",
     "options": [
       "Red and swollen from irritation",
-      "Cold and pale",
+      "Cold, pale, and numb to the touch",
       "Broken",
       "Healthy"
     ],
@@ -846,7 +846,7 @@
     "difficulty": "easy",
     "question": "Which word is an antonym of \"expand\"?",
     "options": [
-      "Grow",
+      "Stretch out",
       "Contract",
       "Spread",
       "Enlarge"
@@ -982,7 +982,7 @@
     "question": "What does \"idiopathic\" mean when describing a disease?",
     "options": [
       "Present from birth",
-      "Caused by a doctor",
+      "Caused by a doctor's treatment",
       "Spread by insects",
       "Having no known cause"
     ],
@@ -997,7 +997,7 @@
     "question": "What does \"bilateral\" mean in \"bilateral knee pain\"?",
     "options": [
       "Affecting one side",
-      "Recently started",
+      "Recently started this month",
       "Very severe",
       "Affecting both sides"
     ],
@@ -1029,7 +1029,7 @@
       "A medical instrument",
       "A substance that provides nourishment",
       "A type of bacteria",
-      "A waste product"
+      "A waste product removed by the kidneys"
     ],
     "correctIndex": 1,
     "explanation": "Nutrients such as proteins and vitamins nourish the body."
@@ -1073,7 +1073,7 @@
     "options": [
       "To freeze",
       "To supply with water",
-      "To remove water",
+      "To remove water from tissue",
       "To heat"
     ],
     "correctIndex": 1,
